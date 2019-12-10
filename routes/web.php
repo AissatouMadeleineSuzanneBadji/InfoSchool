@@ -13,5 +13,13 @@
 
 Route::get('/', "HomeController@index");
 
-Route::get("products/{id}","HomeController@show"); 
- 
+Route::resource('/articles', 'ArticlesController');
+
+Route::get("/articles/create/{id}", "ArticlesController@create")->name('create_articles');
+
+Route::get("/articles/edit/{id}", "ArticlesController@edit")->name('editer_articles');
+
+Route::patch("/articles/edit/{id}", "ArticlesController@update")->name('update_articles');
+
+
+

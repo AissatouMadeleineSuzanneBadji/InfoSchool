@@ -37,7 +37,7 @@
                   </a>
                 </div>
                 <div>
-                  <a href="blog-single.html" class="a-block d-flex align-items-center height-lg" style="background-image: url('infoschool.jpg'); ">
+                  <a href="blog-single.html" class="a-block d-flex align-items-center height-lg" style="background-image: url('images/infoschool.jpg'); ">
                     <div class="text half-to-full">
                       <span class="category mb-5">Sports</span>
                       <div class="post-meta">
@@ -75,7 +75,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <a href="blog-single.html" class="blog-entry element-animate" data-animate-effect="fadeIn">
-                    <img src="{{asset('images/infoschool.jpg.jpg')}}" alt="Image placeholder">
+                    <img src="{{asset('images/infoschool.jpg')}}" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="{{asset('images/person_1.jpg')}}" alt="Colorlib"> Colorlib</span>&bullet;
