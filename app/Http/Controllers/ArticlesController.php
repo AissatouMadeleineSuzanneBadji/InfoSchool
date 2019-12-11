@@ -3,6 +3,10 @@
 namespace App\Http\Controllers;
 use App\Article;
 
+use Illuminate\Http\UploadedFile;
+use Illuminate\Support\Str;
+
+
 use Illuminate\Http\Request;
 
 class ArticlesController extends Controller
@@ -36,11 +40,19 @@ class ArticlesController extends Controller
      */
     public function store(Request $request)
     {
+        $data = $request->validate([
+            'title'=>'required|max:300|min:5',
+            'contents' => 'max:1000000'
+        ]);
+
         $article = new \App\Article();
-        $article->name = $request->input('name');
+        $article->title = $request->input('title');
         $article->contents = $request->input('contents');
+        $article->user_id = 1;
+        $article->categories_id = 1;
         $article->save();
-        return redirect('/article');
+        $article->categories_id = $request->input('categories_id');
+        return redirect('/articles');
     }
 
     /**
@@ -62,8 +74,8 @@ class ArticlesController extends Controller
      */
     public function edit($id)
     {
-        $article = \App\Article::find($id);//on recupere l/article
-        return view('articles.edit', compact('article'));
+        $articles = \App\Article::find($id);//on recupere l/article
+        return view('articles.edit', compact('articles'));
     }
 
     /**
@@ -80,6 +92,8 @@ class ArticlesController extends Controller
             $article ->update([
                 'title' => $request->input('title'),
                 'contents' => $request->input('contents'),
+                'categories_id' => $request->input('categories_id'),
+                'user_id' => 1
             ]);
         }
         return redirect()->back();
@@ -96,4 +110,12 @@ class ArticlesController extends Controller
     {
         //
     }
+
+    public function uploadImage(UploadedFile $uploadedFile, $folder = null, $disk = 'public', $filename = null){
+        $name = !is_null($filename) ? $filename : str_random('25');
+        $file = $uploadedFile->storeAs($folder, $name.'.'.$uploadedFile->getClientOriginalExtension(), $disk);
+
+        return $file;
+    }
+
 }

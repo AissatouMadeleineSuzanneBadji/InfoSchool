@@ -1,6 +1,6 @@
 @extends('layout')
 @section("contenu_page")
-      
+
 <section class="site-section pt-5 pb-5">
         <div class="container">
           <div class="row">
@@ -12,11 +12,11 @@
                     <div class="text half-to-full">
                       <span class="category mb-5">Food</span>
                       <div class="post-meta">
-                        
+
                         <span class="author mr-2"><img src="{{asset('images/infoschool.jpg')}}" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
-                        
+
                       </div>
                       <h3>How to Find the Video Games of Your Youth</h3>
                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem nobis, ut dicta eaque ipsa laudantium!</p>
@@ -28,8 +28,8 @@
                     <div class="text half-to-full">
                       <span class="category mb-5">Travel</span>
                       <div class="post-meta">
-        
-                        
+
+
                       </div>
                       <h3>How to Find the Video Games of Your Youth</h3>
                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem nobis, ut dicta eaque ipsa laudantium!</p>
@@ -41,11 +41,11 @@
                     <div class="text half-to-full">
                       <span class="category mb-5">Sports</span>
                       <div class="post-meta">
-                        
+
                         <span class="author mr-2"><img src="infoschool.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
-                        
+
                       </div>
                       <h3>How to Find the Video Games of Your Youth</h3>
                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem nobis, ut dicta eaque ipsa laudantium!</p>
@@ -53,10 +53,10 @@
                   </a>
                 </div>
               </div>
-              
+
             </div>
           </div>
-          
+
         </div>
 
 
@@ -67,7 +67,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6">
-              <h2 class="mb-4">Latest Posts</h2>
+              <h2 class="mb-4">Les Nouvelles</h2>
             </div>
           </div>
           <div class="row blog-entries">
@@ -185,15 +185,15 @@
               <div class="row mt-5">
                 <div class="col-md-12 text-center">
                   <nav aria-label="Page navigation" class="text-center">
-                   
+
                   </nav>
                 </div>
               </div>
 
 
-              
 
-              
+
+
 
             </div>
 
@@ -225,9 +225,9 @@
                   </div>
                 </div>
               </div>
-              <!-- END sidebar-box -->  
+              <!-- END sidebar-box -->
               <div class="sidebar-box">
-                <h3 class="heading">Popular Posts</h3>
+                <h3 class="heading">Articles Récents</h3>
                 <div class="post-entry-sidebar">
                   <ul>
                     <li>
@@ -269,35 +269,16 @@
               <!-- END sidebar-box -->
 
               <div class="sidebar-box">
-                <h3 class="heading">Categories</h3>
-                <ul class="categories">
-                  <li><a href="#">Food <span>(12)</span></a></li>
-                  <li><a href="#">Travel <span>(22)</span></a></li>
-                  <li><a href="#">Lifestyle <span>(37)</span></a></li>
-                  <li><a href="#">Business <span>(42)</span></a></li>
-                  <li><a href="#">Adventure <span>(14)</span></a></li>
+                <h3 class="heading">Actualité</h3>
+                <ul class="Actualité">
+                  <li><a href="#">Etude <span>(1)</span></a></li>
+                  <li><a href="#">Sport <span>(2)</span></a></li>
+                  <li><a href="#">Activité socio-culturel <span>(3)</span></a></li>
+                  <li><a href="#">Bourses <span>(4)</span></a></li>
                 </ul>
               </div>
-              <!-- END sidebar-box -->
 
-              <div class="sidebar-box">
-                <h3 class="heading">Tags</h3>
-                <ul class="tags">
-                  <li><a href="#">Travel</a></li>
-                  <li><a href="#">Adventure</a></li>
-                  <li><a href="#">Food</a></li>
-                  <li><a href="#">Lifestyle</a></li>
-                  <li><a href="#">Business</a></li>
-                  <li><a href="#">Freelancing</a></li>
-                  <li><a href="#">Travel</a></li>
-                  <li><a href="#">Adventure</a></li>
-                  <li><a href="#">Food</a></li>
-                  <li><a href="#">Lifestyle</a></li>
-                  <li><a href="#">Business</a></li>
-                  <li><a href="#">Freelancing</a></li>
-                </ul>
-              </div>
-            </div>
+
             <!-- END sidebar -->
 
           </div>

@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Category;
 use Illuminate\Http\Request;
 
-class Categoriescontroller extends Controller
+class CategoriesController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -24,7 +24,8 @@ class Categoriescontroller extends Controller
      */
     public function create()
     {
-        return view('categories.create');
+        $categories = \App\Category::pluck('name','id');
+        return view('articles.create', compact('categories'));
     }
 
     /**
@@ -37,9 +38,10 @@ class Categoriescontroller extends Controller
     {
         $category = new category();
         $category->name = $request->input('name');
-        $category->description = $request->input('description');
         $category->save();
+
         return redirect('/');
+
     }
 
     /**
@@ -61,8 +63,10 @@ class Categoriescontroller extends Controller
      */
     public function edit($id)
     {
-        $category = \App\category::find($id);//on recupere la category
-        return view('categories.edit', compact('category'));
+        $article = \App\Article::find($id);
+        $categories = \App\Category::pluck('name','id');
+        return view('articles.edit', compact('article','categories'));
+
     }
 
     /**
@@ -74,13 +78,7 @@ class Categoriescontroller extends Controller
      */
     public function update(Request $request, $id)
     {
-        $category = \App\category::find($id);
-        if($category){
-            $category->update(
-                ['name' => $request->input('name'), 'description' => $request->input('description'), 'description' => $request->input('description'),
-                           ]);
-        }
-        return redirect()->back();
+      //
     }
 
     /**
