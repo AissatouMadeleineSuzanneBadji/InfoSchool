@@ -76,5 +76,14 @@
             @yield('content')
         </main>
     </div>
+    <script src="{{ asset('node_modules/tinymce/tinymce.js') }}"></script>
+    <script>
+        tinymce.init({
+            selector:'textarea.description',
+            width: 900,
+            height: 300
+        });
+    </script>
+
 </body>
 </html>

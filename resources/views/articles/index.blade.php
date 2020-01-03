@@ -1,37 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
 
-<table class="table table-striped">
-           <tr>
-                   <th>#</th>          <th>titre Article</th>           <th>Contenu Article</th>           <th></th>
-               </tr>
+@extends('layout')
+@section("contenu_page")
 
+    <h1>Affiche Articles</h1>
+    <table class="table table-striped table-bordered">
+        <thead>
+        <th>#</th>
+        <th>Title</th>
+        <th>Contents</th>
+        <th>Action</th>
+        </thead>
+        <tbody>
     @foreach($articles as $article)
         <tr>
             <th>#</th>
             <th>{{$article->title}}</th>
-             <th>{{$article->contents}} {{ $article->categories->title ?? '' }}</th>
+            <th><p><img src="{{$article->images ? asset($article->images) : asset('uploads/images/default.png')}}" alt="{{$article->name}}" width="50"></p>{{$article->contents}} {{ $article->categories->title ?? '' }}</th>
+
             <th>
+              <p><a class="btn btn-primary" href="{{route('editer_articles',['id'=>$article->id])}}">Editer</a></p>
 
-                <p><a href="{{route('editer_articles',['id'=>$article->id])}}">Editer</a>
+              <form action="article/{{$article->id}}" method="post">
+              @csrf
+              @method('delete')
+              <input type="submit" class="btn btn-danger" name="delete" value="Supprimer">
+              </form>
+          </th>
 
-                </p>
-
-                <p><a href="{{route('editer_articles',['id'=>$article->id])}}">Editer</a>
-
-                </p>
-            </th>
-        </tr>
-    @endforeach
-</table>
+          </tr>
+     @endforeach
+        </tbody>
+    </table>
+@endsection
 
 
-</body>
-</html>
+
+

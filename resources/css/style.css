@@ -32,7 +32,7 @@ header {
   width: 100%;
   z-index: 5;
   font-weight: 400;
-  background: #fff(69, 10, 206) !important; }
+  background: #fff !important; }
   header .navbar-brand {
     text-transform: uppercase;
     letter-spacing: .2em;
@@ -46,7 +46,7 @@ header {
     background: transparent !important; }
     @media (max-width: 767.98px) {
       header .navbar {
-        background: #eb0e0e !important; } }
+        background: #e6e6e6 !important; } }
     header .navbar .navbar-nav.absolute-right {
       position: absolute;
       right: 0; }
@@ -92,7 +92,7 @@ header {
         background: #6610f2;
         color: #fff; }
       header .navbar .dropdown-menu .dropdown-item.active {
-        background: #dd0e0e;
+        background: #6610f2;
         color: #fff; }
       header .navbar .dropdown-menu a {
         padding-top: 7px;

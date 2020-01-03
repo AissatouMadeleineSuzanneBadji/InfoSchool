@@ -1,14 +1,21 @@
  
 
 
-  <div>
-    <select name="category_id" id="category_id" class="form-control">
-        <option value=""></option>
-        @foreach($categories as $key => $value)
-            <option value="{{$key}}" {{ $key == $product->category_id ? 'selected="selected"':''}}>{{$value}}</option>
-        @endforeach
-    </select>
+<div class="container">
+           <div><h1><a href="{{route('categories.index')}}">{{__('Enregistrement d\'un categorie')}}</a></h1></div>
+           <div class="container">
+                   <form action="{{route('categories.store')}}" method="post" enctype="multipart/form-data">
+            <div><input type="file" name="article_image" class="form-control"></div>
+             @csrf
+                           <div>
+                                   <input type="text" name="name" class="form-control" placeholder="le nom du categorie">
+                               </div>
+                  
+                           <div>
+                                   <button class="btn btn-primary">Enregistrer</button>
+                               </div>
+                       </form>
+
+
+    </div>
 </div>
-
-
-

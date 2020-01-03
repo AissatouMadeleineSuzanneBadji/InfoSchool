@@ -6,6 +6,12 @@
 
 require('./bootstrap');
 
+require('@fortawesome/fontawesome-free/scss/brands.scss');
+require('@fortawesome/fontawesome-free/scss/fontawesome.scss');
+require('@fortawesome/fontawesome-free/scss/regular.scss');
+require('@fortawesome/fontawesome-free/scss/solid.scss');
+
+
 window.Vue = require('vue');
 
 /**

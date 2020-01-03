@@ -36,4 +36,25 @@ class LoginController extends Controller
     {
         $this->middleware('guest')->except('logout');
     }
+
+    public function redirectTo(){
+        if(auth()->user()->isAdmin()){
+            return '/admin';
+        } else if(auth()->user()->isSeller()){
+            return '/seller';
+        } else {
+            return '/';
+        }
+    }
+
+    /**
+     * Show the application's login form.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function showLoginForm()
+    {
+        return view('myAuth.login');
+    }
 }
+

@@ -69,4 +69,14 @@ class RegisterController extends Controller
             'password' => Hash::make($data['password']),
         ]);
     }
+
+      /**
+     *
+     * Ici j'utilise un autre formulaire different du formulaire par defaut de laravel
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function showRegistrationForm()
+    {
+        return view('myAuth.register');
+    }
 }

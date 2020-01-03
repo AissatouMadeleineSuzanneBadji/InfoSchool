@@ -36,4 +36,24 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    /**Cette méthode va determiner si le user connecté a un role admin*/
+    public function isAdmin(){
+        return strtolower(@$this->roles) === 'admin'? true : false;
+    }
+
+
+    /**Cett méthode va determiner si le user connecté a un role moderator*/
+    public function isRedactor(){
+        return strtolower(@$this->roles) === 'redactor'? true : false;
+    }
+
+
+    /**Cett méthode va determiner si le user connecté a un role moderator*/
+    public function isUser(){
+        return strtolower(@$this->roles) === 'user'? true : false;
+    }
+
+
+
 }

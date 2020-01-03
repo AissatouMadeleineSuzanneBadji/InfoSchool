@@ -24,6 +24,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        $articles = \App\Article::orderBy('created_at', 'DESC')->get();
+        return view('home', compact('articles'));
     }
 }

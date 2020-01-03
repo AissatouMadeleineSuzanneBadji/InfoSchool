@@ -14,7 +14,7 @@ class CategoriesController extends Controller
      */
     public function index()
     {
-        $products = \App\Product::orderBy('created_at', 'DESC')->get();
+        $categories = \App\Category::orderBy('created_at', 'DESC')->get();
         return view('categories.index', compact('categories'));
     }
     /**
@@ -25,7 +25,7 @@ class CategoriesController extends Controller
     public function create()
     {
         $categories = \App\Category::pluck('name','id');
-        return view('articles.create', compact('categories'));
+        return view('categories.create', compact('categories'));
     }
 
     /**
@@ -40,7 +40,7 @@ class CategoriesController extends Controller
         $category->name = $request->input('name');
         $category->save();
 
-        return redirect('/');
+        return redirect('/categories');
 
     }
 
@@ -63,9 +63,8 @@ class CategoriesController extends Controller
      */
     public function edit($id)
     {
-        $article = \App\Article::find($id);
-        $categories = \App\Category::pluck('name','id');
-        return view('articles.edit', compact('article','categories'));
+        $category = \App\Category::find($id);
+        return view('categories.edit', compact('category'));
 
     }
 
@@ -78,9 +77,15 @@ class CategoriesController extends Controller
      */
     public function update(Request $request, $id)
     {
-      //
-    }
+        $category = \App\Category::find($id);
+        if($category){
+            $category->update([
+                'name' => $request->input('name'),
+            ]);
+        }
+        return redirect()->back();
 
+    }
     /**
      * Remove the specified resource from storage.
      *
@@ -89,6 +94,9 @@ class CategoriesController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $category = \App\Category::find($id);
+        if($category)
+            $category->delete();
+        return redirect()->route('categories.index');
     }
 }

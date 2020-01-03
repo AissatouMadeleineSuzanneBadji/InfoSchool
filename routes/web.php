@@ -21,5 +21,21 @@ Route::get("/articles/edit/{id}", "ArticlesController@edit")->name('editer_artic
 
 Route::patch("/articles/edit/{id}", "ArticlesController@update")->name('update_articles');
 
+Route::delete('articles/{id}', 'ArticlesController@destroy');
+
+Route::get('/articles/create', 'ArticlesController@create')->name('create_articles')->middleware('auth');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index') ->name('home');
+
+Route::resource('/categories', 'CategoriesController');
 
 
+Route::get("/categories/create/{id}", "CategoriesController@create")->name('create_categories');
+
+Route::get("/Categories/edit/{id}", "CategoriesController@edit")->name('editer_categories');
+
+Route::patch("/categories/edit/{id}", "CategoriesController@update")->name('update_categories');
+
+Route::delete('categories/{id}', 'CategoriesController@destroy');

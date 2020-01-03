@@ -86,6 +86,291 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./node_modules/@fortawesome/fontawesome-free/scss/brands.scss":
+/*!*********************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/scss/brands.scss ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../css-loader!../../../postcss-loader/src??ref--7-2!../../../sass-loader/dist/cjs.js??ref--7-3!./brands.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/@fortawesome/fontawesome-free/scss/brands.scss");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss ***!
+  \**************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../css-loader!../../../postcss-loader/src??ref--7-2!../../../sass-loader/dist/cjs.js??ref--7-3!./fontawesome.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/scss/regular.scss":
+/*!**********************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/scss/regular.scss ***!
+  \**********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../css-loader!../../../postcss-loader/src??ref--7-2!../../../sass-loader/dist/cjs.js??ref--7-3!./regular.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/@fortawesome/fontawesome-free/scss/regular.scss");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/scss/solid.scss":
+/*!********************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/scss/solid.scss ***!
+  \********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../css-loader!../../../postcss-loader/src??ref--7-2!../../../sass-loader/dist/cjs.js??ref--7-3!./solid.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/@fortawesome/fontawesome-free/scss/solid.scss");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot":
+/*!*******************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot ***!
+  \*******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot?03783c5172ee1ad128c576bf88fac168";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.svg":
+/*!*******************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.svg ***!
+  \*******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.svg?073c2f3ce60eaf69cc2767ef3d989078";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf":
+/*!*******************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf ***!
+  \*******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf?ed2b8bf117160466ba6220a8f1da54a4";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff":
+/*!********************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff ***!
+  \********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff?fe9d62e0d16a333a20e63c3e7595f82e";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2":
+/*!*********************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2 ***!
+  \*********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2?7559b3774a0625e8ca6c0160f8f6cfd8";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot":
+/*!********************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot ***!
+  \********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot?fc9c63c8224fb341fc933641cbdd12ef";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.svg":
+/*!********************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.svg ***!
+  \********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg?8fdea4e89ac405d9f8db327adb331d8d";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf":
+/*!********************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf ***!
+  \********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf?59215032a4397507b80e5625dc323de3";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff":
+/*!*********************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff ***!
+  \*********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff?e5770f9863963fb576942e25214a226d";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2":
+/*!**********************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ***!
+  \**********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2?e07d9e40b26048d9abe2ef966cd6e263";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot":
+/*!******************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot ***!
+  \******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot?ef3df98419d143d9617fe163bf4edc0b";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.svg":
+/*!******************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.svg ***!
+  \******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg?b557f56e367e59344ca95f9d1fb44352";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf":
+/*!******************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf ***!
+  \******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf?acf50f59802f20d8b45220eaae532a1c";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff":
+/*!*******************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff ***!
+  \*******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff?4bced7c4c0d61d4f988629bb8ae80b8b";
+
+/***/ }),
+
+/***/ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2":
+/*!********************************************************************************!*\
+  !*** ./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ***!
+  \********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2?b5cf8ae26748570d8fb95a47f46b69e1";
+
+/***/ }),
+
 /***/ "./node_modules/axios/index.js":
 /*!*************************************!*\
   !*** ./node_modules/axios/index.js ***!
@@ -1826,6 +2111,39 @@ module.exports = {
   trim: trim
 };
 
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ExampleComponent.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/ExampleComponent.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  mounted: function mounted() {
+    console.log('Component mounted.');
+  }
+});
 
 /***/ }),
 
@@ -6270,6 +6588,199 @@ module.exports = {
 
 }));
 //# sourceMappingURL=bootstrap.js.map
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/@fortawesome/fontawesome-free/scss/brands.scss":
+/*!********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/dist/cjs.js??ref--7-3!./node_modules/@fortawesome/fontawesome-free/scss/brands.scss ***!
+  \********************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var escape = __webpack_require__(/*! ../../../css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
+exports = module.exports = __webpack_require__(/*! ../../../css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "/*!\n * Font Awesome Free 5.9.0 by @fontawesome - https://fontawesome.com\n * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)\n */\n@font-face {\n  font-family: \"Font Awesome 5 Brands\";\n  font-style: normal;\n  font-weight: normal;\n  font-display: auto;\n  src: url(" + escape(__webpack_require__(/*! ../webfonts/fa-brands-400.eot */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot")) + ");\n  src: url(" + escape(__webpack_require__(/*! ../webfonts/fa-brands-400.eot */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.eot")) + "?#iefix) format(\"embedded-opentype\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-brands-400.woff2 */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2")) + ") format(\"woff2\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-brands-400.woff */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff")) + ") format(\"woff\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-brands-400.ttf */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf")) + ") format(\"truetype\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-brands-400.svg */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.svg")) + "#fontawesome) format(\"svg\");\n}\n.fab {\n  font-family: \"Font Awesome 5 Brands\";\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss":
+/*!*************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/dist/cjs.js??ref--7-3!./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss ***!
+  \*************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "@charset \"UTF-8\";\n/*!\n * Font Awesome Free 5.9.0 by @fontawesome - https://fontawesome.com\n * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)\n */\n.fa,\n.fas,\n.far,\n.fal,\n.fab {\n  -moz-osx-font-smoothing: grayscale;\n  -webkit-font-smoothing: antialiased;\n  display: inline-block;\n  font-style: normal;\n  font-variant: normal;\n  text-rendering: auto;\n  line-height: 1;\n}\n\n.fa-lg {\n  font-size: 1.3333333333em;\n  line-height: 0.75em;\n  vertical-align: -0.0667em;\n}\n\n.fa-xs {\n  font-size: 0.75em;\n}\n\n.fa-sm {\n  font-size: 0.875em;\n}\n\n.fa-1x {\n  font-size: 1em;\n}\n\n.fa-2x {\n  font-size: 2em;\n}\n\n.fa-3x {\n  font-size: 3em;\n}\n\n.fa-4x {\n  font-size: 4em;\n}\n\n.fa-5x {\n  font-size: 5em;\n}\n\n.fa-6x {\n  font-size: 6em;\n}\n\n.fa-7x {\n  font-size: 7em;\n}\n\n.fa-8x {\n  font-size: 8em;\n}\n\n.fa-9x {\n  font-size: 9em;\n}\n\n.fa-10x {\n  font-size: 10em;\n}\n\n.fa-fw {\n  text-align: center;\n  width: 1.25em;\n}\n\n.fa-ul {\n  list-style-type: none;\n  margin-left: 2.5em;\n  padding-left: 0;\n}\n.fa-ul > li {\n  position: relative;\n}\n\n.fa-li {\n  left: -2em;\n  position: absolute;\n  text-align: center;\n  width: 2em;\n  line-height: inherit;\n}\n\n.fa-border {\n  border: solid 0.08em #eee;\n  border-radius: 0.1em;\n  padding: 0.2em 0.25em 0.15em;\n}\n\n.fa-pull-left {\n  float: left;\n}\n\n.fa-pull-right {\n  float: right;\n}\n\n.fa.fa-pull-left,\n.fas.fa-pull-left,\n.far.fa-pull-left,\n.fal.fa-pull-left,\n.fab.fa-pull-left {\n  margin-right: 0.3em;\n}\n.fa.fa-pull-right,\n.fas.fa-pull-right,\n.far.fa-pull-right,\n.fal.fa-pull-right,\n.fab.fa-pull-right {\n  margin-left: 0.3em;\n}\n\n.fa-spin {\n  -webkit-animation: fa-spin 2s infinite linear;\n          animation: fa-spin 2s infinite linear;\n}\n\n.fa-pulse {\n  -webkit-animation: fa-spin 1s infinite steps(8);\n          animation: fa-spin 1s infinite steps(8);\n}\n\n@-webkit-keyframes fa-spin {\n  0% {\n    -webkit-transform: rotate(0deg);\n            transform: rotate(0deg);\n  }\n  100% {\n    -webkit-transform: rotate(360deg);\n            transform: rotate(360deg);\n  }\n}\n\n@keyframes fa-spin {\n  0% {\n    -webkit-transform: rotate(0deg);\n            transform: rotate(0deg);\n  }\n  100% {\n    -webkit-transform: rotate(360deg);\n            transform: rotate(360deg);\n  }\n}\n.fa-rotate-90 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)\";\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n}\n\n.fa-rotate-180 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)\";\n  -webkit-transform: rotate(180deg);\n          transform: rotate(180deg);\n}\n\n.fa-rotate-270 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=3)\";\n  -webkit-transform: rotate(270deg);\n          transform: rotate(270deg);\n}\n\n.fa-flip-horizontal {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)\";\n  -webkit-transform: scale(-1, 1);\n          transform: scale(-1, 1);\n}\n\n.fa-flip-vertical {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)\";\n  -webkit-transform: scale(1, -1);\n          transform: scale(1, -1);\n}\n\n.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)\";\n  -webkit-transform: scale(-1, -1);\n          transform: scale(-1, -1);\n}\n\n:root .fa-rotate-90,\n:root .fa-rotate-180,\n:root .fa-rotate-270,\n:root .fa-flip-horizontal,\n:root .fa-flip-vertical,\n:root .fa-flip-both {\n  -webkit-filter: none;\n          filter: none;\n}\n\n.fa-stack {\n  display: inline-block;\n  height: 2em;\n  line-height: 2em;\n  position: relative;\n  vertical-align: middle;\n  width: 2.5em;\n}\n\n.fa-stack-1x,\n.fa-stack-2x {\n  left: 0;\n  position: absolute;\n  text-align: center;\n  width: 100%;\n}\n\n.fa-stack-1x {\n  line-height: inherit;\n}\n\n.fa-stack-2x {\n  font-size: 2em;\n}\n\n.fa-inverse {\n  color: #fff;\n}\n\n/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen\nreaders do not read off random characters that represent icons */\n.fa-500px:before {\n  content: \"\\F26E\";\n}\n\n.fa-accessible-icon:before {\n  content: \"\\F368\";\n}\n\n.fa-accusoft:before {\n  content: \"\\F369\";\n}\n\n.fa-acquisitions-incorporated:before {\n  content: \"\\F6AF\";\n}\n\n.fa-ad:before {\n  content: \"\\F641\";\n}\n\n.fa-address-book:before {\n  content: \"\\F2B9\";\n}\n\n.fa-address-card:before {\n  content: \"\\F2BB\";\n}\n\n.fa-adjust:before {\n  content: \"\\F042\";\n}\n\n.fa-adn:before {\n  content: \"\\F170\";\n}\n\n.fa-adobe:before {\n  content: \"\\F778\";\n}\n\n.fa-adversal:before {\n  content: \"\\F36A\";\n}\n\n.fa-affiliatetheme:before {\n  content: \"\\F36B\";\n}\n\n.fa-air-freshener:before {\n  content: \"\\F5D0\";\n}\n\n.fa-airbnb:before {\n  content: \"\\F834\";\n}\n\n.fa-algolia:before {\n  content: \"\\F36C\";\n}\n\n.fa-align-center:before {\n  content: \"\\F037\";\n}\n\n.fa-align-justify:before {\n  content: \"\\F039\";\n}\n\n.fa-align-left:before {\n  content: \"\\F036\";\n}\n\n.fa-align-right:before {\n  content: \"\\F038\";\n}\n\n.fa-alipay:before {\n  content: \"\\F642\";\n}\n\n.fa-allergies:before {\n  content: \"\\F461\";\n}\n\n.fa-amazon:before {\n  content: \"\\F270\";\n}\n\n.fa-amazon-pay:before {\n  content: \"\\F42C\";\n}\n\n.fa-ambulance:before {\n  content: \"\\F0F9\";\n}\n\n.fa-american-sign-language-interpreting:before {\n  content: \"\\F2A3\";\n}\n\n.fa-amilia:before {\n  content: \"\\F36D\";\n}\n\n.fa-anchor:before {\n  content: \"\\F13D\";\n}\n\n.fa-android:before {\n  content: \"\\F17B\";\n}\n\n.fa-angellist:before {\n  content: \"\\F209\";\n}\n\n.fa-angle-double-down:before {\n  content: \"\\F103\";\n}\n\n.fa-angle-double-left:before {\n  content: \"\\F100\";\n}\n\n.fa-angle-double-right:before {\n  content: \"\\F101\";\n}\n\n.fa-angle-double-up:before {\n  content: \"\\F102\";\n}\n\n.fa-angle-down:before {\n  content: \"\\F107\";\n}\n\n.fa-angle-left:before {\n  content: \"\\F104\";\n}\n\n.fa-angle-right:before {\n  content: \"\\F105\";\n}\n\n.fa-angle-up:before {\n  content: \"\\F106\";\n}\n\n.fa-angry:before {\n  content: \"\\F556\";\n}\n\n.fa-angrycreative:before {\n  content: \"\\F36E\";\n}\n\n.fa-angular:before {\n  content: \"\\F420\";\n}\n\n.fa-ankh:before {\n  content: \"\\F644\";\n}\n\n.fa-app-store:before {\n  content: \"\\F36F\";\n}\n\n.fa-app-store-ios:before {\n  content: \"\\F370\";\n}\n\n.fa-apper:before {\n  content: \"\\F371\";\n}\n\n.fa-apple:before {\n  content: \"\\F179\";\n}\n\n.fa-apple-alt:before {\n  content: \"\\F5D1\";\n}\n\n.fa-apple-pay:before {\n  content: \"\\F415\";\n}\n\n.fa-archive:before {\n  content: \"\\F187\";\n}\n\n.fa-archway:before {\n  content: \"\\F557\";\n}\n\n.fa-arrow-alt-circle-down:before {\n  content: \"\\F358\";\n}\n\n.fa-arrow-alt-circle-left:before {\n  content: \"\\F359\";\n}\n\n.fa-arrow-alt-circle-right:before {\n  content: \"\\F35A\";\n}\n\n.fa-arrow-alt-circle-up:before {\n  content: \"\\F35B\";\n}\n\n.fa-arrow-circle-down:before {\n  content: \"\\F0AB\";\n}\n\n.fa-arrow-circle-left:before {\n  content: \"\\F0A8\";\n}\n\n.fa-arrow-circle-right:before {\n  content: \"\\F0A9\";\n}\n\n.fa-arrow-circle-up:before {\n  content: \"\\F0AA\";\n}\n\n.fa-arrow-down:before {\n  content: \"\\F063\";\n}\n\n.fa-arrow-left:before {\n  content: \"\\F060\";\n}\n\n.fa-arrow-right:before {\n  content: \"\\F061\";\n}\n\n.fa-arrow-up:before {\n  content: \"\\F062\";\n}\n\n.fa-arrows-alt:before {\n  content: \"\\F0B2\";\n}\n\n.fa-arrows-alt-h:before {\n  content: \"\\F337\";\n}\n\n.fa-arrows-alt-v:before {\n  content: \"\\F338\";\n}\n\n.fa-artstation:before {\n  content: \"\\F77A\";\n}\n\n.fa-assistive-listening-systems:before {\n  content: \"\\F2A2\";\n}\n\n.fa-asterisk:before {\n  content: \"\\F069\";\n}\n\n.fa-asymmetrik:before {\n  content: \"\\F372\";\n}\n\n.fa-at:before {\n  content: \"\\F1FA\";\n}\n\n.fa-atlas:before {\n  content: \"\\F558\";\n}\n\n.fa-atlassian:before {\n  content: \"\\F77B\";\n}\n\n.fa-atom:before {\n  content: \"\\F5D2\";\n}\n\n.fa-audible:before {\n  content: \"\\F373\";\n}\n\n.fa-audio-description:before {\n  content: \"\\F29E\";\n}\n\n.fa-autoprefixer:before {\n  content: \"\\F41C\";\n}\n\n.fa-avianex:before {\n  content: \"\\F374\";\n}\n\n.fa-aviato:before {\n  content: \"\\F421\";\n}\n\n.fa-award:before {\n  content: \"\\F559\";\n}\n\n.fa-aws:before {\n  content: \"\\F375\";\n}\n\n.fa-baby:before {\n  content: \"\\F77C\";\n}\n\n.fa-baby-carriage:before {\n  content: \"\\F77D\";\n}\n\n.fa-backspace:before {\n  content: \"\\F55A\";\n}\n\n.fa-backward:before {\n  content: \"\\F04A\";\n}\n\n.fa-bacon:before {\n  content: \"\\F7E5\";\n}\n\n.fa-balance-scale:before {\n  content: \"\\F24E\";\n}\n\n.fa-balance-scale-left:before {\n  content: \"\\F515\";\n}\n\n.fa-balance-scale-right:before {\n  content: \"\\F516\";\n}\n\n.fa-ban:before {\n  content: \"\\F05E\";\n}\n\n.fa-band-aid:before {\n  content: \"\\F462\";\n}\n\n.fa-bandcamp:before {\n  content: \"\\F2D5\";\n}\n\n.fa-barcode:before {\n  content: \"\\F02A\";\n}\n\n.fa-bars:before {\n  content: \"\\F0C9\";\n}\n\n.fa-baseball-ball:before {\n  content: \"\\F433\";\n}\n\n.fa-basketball-ball:before {\n  content: \"\\F434\";\n}\n\n.fa-bath:before {\n  content: \"\\F2CD\";\n}\n\n.fa-battery-empty:before {\n  content: \"\\F244\";\n}\n\n.fa-battery-full:before {\n  content: \"\\F240\";\n}\n\n.fa-battery-half:before {\n  content: \"\\F242\";\n}\n\n.fa-battery-quarter:before {\n  content: \"\\F243\";\n}\n\n.fa-battery-three-quarters:before {\n  content: \"\\F241\";\n}\n\n.fa-battle-net:before {\n  content: \"\\F835\";\n}\n\n.fa-bed:before {\n  content: \"\\F236\";\n}\n\n.fa-beer:before {\n  content: \"\\F0FC\";\n}\n\n.fa-behance:before {\n  content: \"\\F1B4\";\n}\n\n.fa-behance-square:before {\n  content: \"\\F1B5\";\n}\n\n.fa-bell:before {\n  content: \"\\F0F3\";\n}\n\n.fa-bell-slash:before {\n  content: \"\\F1F6\";\n}\n\n.fa-bezier-curve:before {\n  content: \"\\F55B\";\n}\n\n.fa-bible:before {\n  content: \"\\F647\";\n}\n\n.fa-bicycle:before {\n  content: \"\\F206\";\n}\n\n.fa-biking:before {\n  content: \"\\F84A\";\n}\n\n.fa-bimobject:before {\n  content: \"\\F378\";\n}\n\n.fa-binoculars:before {\n  content: \"\\F1E5\";\n}\n\n.fa-biohazard:before {\n  content: \"\\F780\";\n}\n\n.fa-birthday-cake:before {\n  content: \"\\F1FD\";\n}\n\n.fa-bitbucket:before {\n  content: \"\\F171\";\n}\n\n.fa-bitcoin:before {\n  content: \"\\F379\";\n}\n\n.fa-bity:before {\n  content: \"\\F37A\";\n}\n\n.fa-black-tie:before {\n  content: \"\\F27E\";\n}\n\n.fa-blackberry:before {\n  content: \"\\F37B\";\n}\n\n.fa-blender:before {\n  content: \"\\F517\";\n}\n\n.fa-blender-phone:before {\n  content: \"\\F6B6\";\n}\n\n.fa-blind:before {\n  content: \"\\F29D\";\n}\n\n.fa-blog:before {\n  content: \"\\F781\";\n}\n\n.fa-blogger:before {\n  content: \"\\F37C\";\n}\n\n.fa-blogger-b:before {\n  content: \"\\F37D\";\n}\n\n.fa-bluetooth:before {\n  content: \"\\F293\";\n}\n\n.fa-bluetooth-b:before {\n  content: \"\\F294\";\n}\n\n.fa-bold:before {\n  content: \"\\F032\";\n}\n\n.fa-bolt:before {\n  content: \"\\F0E7\";\n}\n\n.fa-bomb:before {\n  content: \"\\F1E2\";\n}\n\n.fa-bone:before {\n  content: \"\\F5D7\";\n}\n\n.fa-bong:before {\n  content: \"\\F55C\";\n}\n\n.fa-book:before {\n  content: \"\\F02D\";\n}\n\n.fa-book-dead:before {\n  content: \"\\F6B7\";\n}\n\n.fa-book-medical:before {\n  content: \"\\F7E6\";\n}\n\n.fa-book-open:before {\n  content: \"\\F518\";\n}\n\n.fa-book-reader:before {\n  content: \"\\F5DA\";\n}\n\n.fa-bookmark:before {\n  content: \"\\F02E\";\n}\n\n.fa-bootstrap:before {\n  content: \"\\F836\";\n}\n\n.fa-border-all:before {\n  content: \"\\F84C\";\n}\n\n.fa-border-none:before {\n  content: \"\\F850\";\n}\n\n.fa-border-style:before {\n  content: \"\\F853\";\n}\n\n.fa-bowling-ball:before {\n  content: \"\\F436\";\n}\n\n.fa-box:before {\n  content: \"\\F466\";\n}\n\n.fa-box-open:before {\n  content: \"\\F49E\";\n}\n\n.fa-boxes:before {\n  content: \"\\F468\";\n}\n\n.fa-braille:before {\n  content: \"\\F2A1\";\n}\n\n.fa-brain:before {\n  content: \"\\F5DC\";\n}\n\n.fa-bread-slice:before {\n  content: \"\\F7EC\";\n}\n\n.fa-briefcase:before {\n  content: \"\\F0B1\";\n}\n\n.fa-briefcase-medical:before {\n  content: \"\\F469\";\n}\n\n.fa-broadcast-tower:before {\n  content: \"\\F519\";\n}\n\n.fa-broom:before {\n  content: \"\\F51A\";\n}\n\n.fa-brush:before {\n  content: \"\\F55D\";\n}\n\n.fa-btc:before {\n  content: \"\\F15A\";\n}\n\n.fa-buffer:before {\n  content: \"\\F837\";\n}\n\n.fa-bug:before {\n  content: \"\\F188\";\n}\n\n.fa-building:before {\n  content: \"\\F1AD\";\n}\n\n.fa-bullhorn:before {\n  content: \"\\F0A1\";\n}\n\n.fa-bullseye:before {\n  content: \"\\F140\";\n}\n\n.fa-burn:before {\n  content: \"\\F46A\";\n}\n\n.fa-buromobelexperte:before {\n  content: \"\\F37F\";\n}\n\n.fa-bus:before {\n  content: \"\\F207\";\n}\n\n.fa-bus-alt:before {\n  content: \"\\F55E\";\n}\n\n.fa-business-time:before {\n  content: \"\\F64A\";\n}\n\n.fa-buysellads:before {\n  content: \"\\F20D\";\n}\n\n.fa-calculator:before {\n  content: \"\\F1EC\";\n}\n\n.fa-calendar:before {\n  content: \"\\F133\";\n}\n\n.fa-calendar-alt:before {\n  content: \"\\F073\";\n}\n\n.fa-calendar-check:before {\n  content: \"\\F274\";\n}\n\n.fa-calendar-day:before {\n  content: \"\\F783\";\n}\n\n.fa-calendar-minus:before {\n  content: \"\\F272\";\n}\n\n.fa-calendar-plus:before {\n  content: \"\\F271\";\n}\n\n.fa-calendar-times:before {\n  content: \"\\F273\";\n}\n\n.fa-calendar-week:before {\n  content: \"\\F784\";\n}\n\n.fa-camera:before {\n  content: \"\\F030\";\n}\n\n.fa-camera-retro:before {\n  content: \"\\F083\";\n}\n\n.fa-campground:before {\n  content: \"\\F6BB\";\n}\n\n.fa-canadian-maple-leaf:before {\n  content: \"\\F785\";\n}\n\n.fa-candy-cane:before {\n  content: \"\\F786\";\n}\n\n.fa-cannabis:before {\n  content: \"\\F55F\";\n}\n\n.fa-capsules:before {\n  content: \"\\F46B\";\n}\n\n.fa-car:before {\n  content: \"\\F1B9\";\n}\n\n.fa-car-alt:before {\n  content: \"\\F5DE\";\n}\n\n.fa-car-battery:before {\n  content: \"\\F5DF\";\n}\n\n.fa-car-crash:before {\n  content: \"\\F5E1\";\n}\n\n.fa-car-side:before {\n  content: \"\\F5E4\";\n}\n\n.fa-caret-down:before {\n  content: \"\\F0D7\";\n}\n\n.fa-caret-left:before {\n  content: \"\\F0D9\";\n}\n\n.fa-caret-right:before {\n  content: \"\\F0DA\";\n}\n\n.fa-caret-square-down:before {\n  content: \"\\F150\";\n}\n\n.fa-caret-square-left:before {\n  content: \"\\F191\";\n}\n\n.fa-caret-square-right:before {\n  content: \"\\F152\";\n}\n\n.fa-caret-square-up:before {\n  content: \"\\F151\";\n}\n\n.fa-caret-up:before {\n  content: \"\\F0D8\";\n}\n\n.fa-carrot:before {\n  content: \"\\F787\";\n}\n\n.fa-cart-arrow-down:before {\n  content: \"\\F218\";\n}\n\n.fa-cart-plus:before {\n  content: \"\\F217\";\n}\n\n.fa-cash-register:before {\n  content: \"\\F788\";\n}\n\n.fa-cat:before {\n  content: \"\\F6BE\";\n}\n\n.fa-cc-amazon-pay:before {\n  content: \"\\F42D\";\n}\n\n.fa-cc-amex:before {\n  content: \"\\F1F3\";\n}\n\n.fa-cc-apple-pay:before {\n  content: \"\\F416\";\n}\n\n.fa-cc-diners-club:before {\n  content: \"\\F24C\";\n}\n\n.fa-cc-discover:before {\n  content: \"\\F1F2\";\n}\n\n.fa-cc-jcb:before {\n  content: \"\\F24B\";\n}\n\n.fa-cc-mastercard:before {\n  content: \"\\F1F1\";\n}\n\n.fa-cc-paypal:before {\n  content: \"\\F1F4\";\n}\n\n.fa-cc-stripe:before {\n  content: \"\\F1F5\";\n}\n\n.fa-cc-visa:before {\n  content: \"\\F1F0\";\n}\n\n.fa-centercode:before {\n  content: \"\\F380\";\n}\n\n.fa-centos:before {\n  content: \"\\F789\";\n}\n\n.fa-certificate:before {\n  content: \"\\F0A3\";\n}\n\n.fa-chair:before {\n  content: \"\\F6C0\";\n}\n\n.fa-chalkboard:before {\n  content: \"\\F51B\";\n}\n\n.fa-chalkboard-teacher:before {\n  content: \"\\F51C\";\n}\n\n.fa-charging-station:before {\n  content: \"\\F5E7\";\n}\n\n.fa-chart-area:before {\n  content: \"\\F1FE\";\n}\n\n.fa-chart-bar:before {\n  content: \"\\F080\";\n}\n\n.fa-chart-line:before {\n  content: \"\\F201\";\n}\n\n.fa-chart-pie:before {\n  content: \"\\F200\";\n}\n\n.fa-check:before {\n  content: \"\\F00C\";\n}\n\n.fa-check-circle:before {\n  content: \"\\F058\";\n}\n\n.fa-check-double:before {\n  content: \"\\F560\";\n}\n\n.fa-check-square:before {\n  content: \"\\F14A\";\n}\n\n.fa-cheese:before {\n  content: \"\\F7EF\";\n}\n\n.fa-chess:before {\n  content: \"\\F439\";\n}\n\n.fa-chess-bishop:before {\n  content: \"\\F43A\";\n}\n\n.fa-chess-board:before {\n  content: \"\\F43C\";\n}\n\n.fa-chess-king:before {\n  content: \"\\F43F\";\n}\n\n.fa-chess-knight:before {\n  content: \"\\F441\";\n}\n\n.fa-chess-pawn:before {\n  content: \"\\F443\";\n}\n\n.fa-chess-queen:before {\n  content: \"\\F445\";\n}\n\n.fa-chess-rook:before {\n  content: \"\\F447\";\n}\n\n.fa-chevron-circle-down:before {\n  content: \"\\F13A\";\n}\n\n.fa-chevron-circle-left:before {\n  content: \"\\F137\";\n}\n\n.fa-chevron-circle-right:before {\n  content: \"\\F138\";\n}\n\n.fa-chevron-circle-up:before {\n  content: \"\\F139\";\n}\n\n.fa-chevron-down:before {\n  content: \"\\F078\";\n}\n\n.fa-chevron-left:before {\n  content: \"\\F053\";\n}\n\n.fa-chevron-right:before {\n  content: \"\\F054\";\n}\n\n.fa-chevron-up:before {\n  content: \"\\F077\";\n}\n\n.fa-child:before {\n  content: \"\\F1AE\";\n}\n\n.fa-chrome:before {\n  content: \"\\F268\";\n}\n\n.fa-chromecast:before {\n  content: \"\\F838\";\n}\n\n.fa-church:before {\n  content: \"\\F51D\";\n}\n\n.fa-circle:before {\n  content: \"\\F111\";\n}\n\n.fa-circle-notch:before {\n  content: \"\\F1CE\";\n}\n\n.fa-city:before {\n  content: \"\\F64F\";\n}\n\n.fa-clinic-medical:before {\n  content: \"\\F7F2\";\n}\n\n.fa-clipboard:before {\n  content: \"\\F328\";\n}\n\n.fa-clipboard-check:before {\n  content: \"\\F46C\";\n}\n\n.fa-clipboard-list:before {\n  content: \"\\F46D\";\n}\n\n.fa-clock:before {\n  content: \"\\F017\";\n}\n\n.fa-clone:before {\n  content: \"\\F24D\";\n}\n\n.fa-closed-captioning:before {\n  content: \"\\F20A\";\n}\n\n.fa-cloud:before {\n  content: \"\\F0C2\";\n}\n\n.fa-cloud-download-alt:before {\n  content: \"\\F381\";\n}\n\n.fa-cloud-meatball:before {\n  content: \"\\F73B\";\n}\n\n.fa-cloud-moon:before {\n  content: \"\\F6C3\";\n}\n\n.fa-cloud-moon-rain:before {\n  content: \"\\F73C\";\n}\n\n.fa-cloud-rain:before {\n  content: \"\\F73D\";\n}\n\n.fa-cloud-showers-heavy:before {\n  content: \"\\F740\";\n}\n\n.fa-cloud-sun:before {\n  content: \"\\F6C4\";\n}\n\n.fa-cloud-sun-rain:before {\n  content: \"\\F743\";\n}\n\n.fa-cloud-upload-alt:before {\n  content: \"\\F382\";\n}\n\n.fa-cloudscale:before {\n  content: \"\\F383\";\n}\n\n.fa-cloudsmith:before {\n  content: \"\\F384\";\n}\n\n.fa-cloudversify:before {\n  content: \"\\F385\";\n}\n\n.fa-cocktail:before {\n  content: \"\\F561\";\n}\n\n.fa-code:before {\n  content: \"\\F121\";\n}\n\n.fa-code-branch:before {\n  content: \"\\F126\";\n}\n\n.fa-codepen:before {\n  content: \"\\F1CB\";\n}\n\n.fa-codiepie:before {\n  content: \"\\F284\";\n}\n\n.fa-coffee:before {\n  content: \"\\F0F4\";\n}\n\n.fa-cog:before {\n  content: \"\\F013\";\n}\n\n.fa-cogs:before {\n  content: \"\\F085\";\n}\n\n.fa-coins:before {\n  content: \"\\F51E\";\n}\n\n.fa-columns:before {\n  content: \"\\F0DB\";\n}\n\n.fa-comment:before {\n  content: \"\\F075\";\n}\n\n.fa-comment-alt:before {\n  content: \"\\F27A\";\n}\n\n.fa-comment-dollar:before {\n  content: \"\\F651\";\n}\n\n.fa-comment-dots:before {\n  content: \"\\F4AD\";\n}\n\n.fa-comment-medical:before {\n  content: \"\\F7F5\";\n}\n\n.fa-comment-slash:before {\n  content: \"\\F4B3\";\n}\n\n.fa-comments:before {\n  content: \"\\F086\";\n}\n\n.fa-comments-dollar:before {\n  content: \"\\F653\";\n}\n\n.fa-compact-disc:before {\n  content: \"\\F51F\";\n}\n\n.fa-compass:before {\n  content: \"\\F14E\";\n}\n\n.fa-compress:before {\n  content: \"\\F066\";\n}\n\n.fa-compress-arrows-alt:before {\n  content: \"\\F78C\";\n}\n\n.fa-concierge-bell:before {\n  content: \"\\F562\";\n}\n\n.fa-confluence:before {\n  content: \"\\F78D\";\n}\n\n.fa-connectdevelop:before {\n  content: \"\\F20E\";\n}\n\n.fa-contao:before {\n  content: \"\\F26D\";\n}\n\n.fa-cookie:before {\n  content: \"\\F563\";\n}\n\n.fa-cookie-bite:before {\n  content: \"\\F564\";\n}\n\n.fa-copy:before {\n  content: \"\\F0C5\";\n}\n\n.fa-copyright:before {\n  content: \"\\F1F9\";\n}\n\n.fa-couch:before {\n  content: \"\\F4B8\";\n}\n\n.fa-cpanel:before {\n  content: \"\\F388\";\n}\n\n.fa-creative-commons:before {\n  content: \"\\F25E\";\n}\n\n.fa-creative-commons-by:before {\n  content: \"\\F4E7\";\n}\n\n.fa-creative-commons-nc:before {\n  content: \"\\F4E8\";\n}\n\n.fa-creative-commons-nc-eu:before {\n  content: \"\\F4E9\";\n}\n\n.fa-creative-commons-nc-jp:before {\n  content: \"\\F4EA\";\n}\n\n.fa-creative-commons-nd:before {\n  content: \"\\F4EB\";\n}\n\n.fa-creative-commons-pd:before {\n  content: \"\\F4EC\";\n}\n\n.fa-creative-commons-pd-alt:before {\n  content: \"\\F4ED\";\n}\n\n.fa-creative-commons-remix:before {\n  content: \"\\F4EE\";\n}\n\n.fa-creative-commons-sa:before {\n  content: \"\\F4EF\";\n}\n\n.fa-creative-commons-sampling:before {\n  content: \"\\F4F0\";\n}\n\n.fa-creative-commons-sampling-plus:before {\n  content: \"\\F4F1\";\n}\n\n.fa-creative-commons-share:before {\n  content: \"\\F4F2\";\n}\n\n.fa-creative-commons-zero:before {\n  content: \"\\F4F3\";\n}\n\n.fa-credit-card:before {\n  content: \"\\F09D\";\n}\n\n.fa-critical-role:before {\n  content: \"\\F6C9\";\n}\n\n.fa-crop:before {\n  content: \"\\F125\";\n}\n\n.fa-crop-alt:before {\n  content: \"\\F565\";\n}\n\n.fa-cross:before {\n  content: \"\\F654\";\n}\n\n.fa-crosshairs:before {\n  content: \"\\F05B\";\n}\n\n.fa-crow:before {\n  content: \"\\F520\";\n}\n\n.fa-crown:before {\n  content: \"\\F521\";\n}\n\n.fa-crutch:before {\n  content: \"\\F7F7\";\n}\n\n.fa-css3:before {\n  content: \"\\F13C\";\n}\n\n.fa-css3-alt:before {\n  content: \"\\F38B\";\n}\n\n.fa-cube:before {\n  content: \"\\F1B2\";\n}\n\n.fa-cubes:before {\n  content: \"\\F1B3\";\n}\n\n.fa-cut:before {\n  content: \"\\F0C4\";\n}\n\n.fa-cuttlefish:before {\n  content: \"\\F38C\";\n}\n\n.fa-d-and-d:before {\n  content: \"\\F38D\";\n}\n\n.fa-d-and-d-beyond:before {\n  content: \"\\F6CA\";\n}\n\n.fa-dashcube:before {\n  content: \"\\F210\";\n}\n\n.fa-database:before {\n  content: \"\\F1C0\";\n}\n\n.fa-deaf:before {\n  content: \"\\F2A4\";\n}\n\n.fa-delicious:before {\n  content: \"\\F1A5\";\n}\n\n.fa-democrat:before {\n  content: \"\\F747\";\n}\n\n.fa-deploydog:before {\n  content: \"\\F38E\";\n}\n\n.fa-deskpro:before {\n  content: \"\\F38F\";\n}\n\n.fa-desktop:before {\n  content: \"\\F108\";\n}\n\n.fa-dev:before {\n  content: \"\\F6CC\";\n}\n\n.fa-deviantart:before {\n  content: \"\\F1BD\";\n}\n\n.fa-dharmachakra:before {\n  content: \"\\F655\";\n}\n\n.fa-dhl:before {\n  content: \"\\F790\";\n}\n\n.fa-diagnoses:before {\n  content: \"\\F470\";\n}\n\n.fa-diaspora:before {\n  content: \"\\F791\";\n}\n\n.fa-dice:before {\n  content: \"\\F522\";\n}\n\n.fa-dice-d20:before {\n  content: \"\\F6CF\";\n}\n\n.fa-dice-d6:before {\n  content: \"\\F6D1\";\n}\n\n.fa-dice-five:before {\n  content: \"\\F523\";\n}\n\n.fa-dice-four:before {\n  content: \"\\F524\";\n}\n\n.fa-dice-one:before {\n  content: \"\\F525\";\n}\n\n.fa-dice-six:before {\n  content: \"\\F526\";\n}\n\n.fa-dice-three:before {\n  content: \"\\F527\";\n}\n\n.fa-dice-two:before {\n  content: \"\\F528\";\n}\n\n.fa-digg:before {\n  content: \"\\F1A6\";\n}\n\n.fa-digital-ocean:before {\n  content: \"\\F391\";\n}\n\n.fa-digital-tachograph:before {\n  content: \"\\F566\";\n}\n\n.fa-directions:before {\n  content: \"\\F5EB\";\n}\n\n.fa-discord:before {\n  content: \"\\F392\";\n}\n\n.fa-discourse:before {\n  content: \"\\F393\";\n}\n\n.fa-divide:before {\n  content: \"\\F529\";\n}\n\n.fa-dizzy:before {\n  content: \"\\F567\";\n}\n\n.fa-dna:before {\n  content: \"\\F471\";\n}\n\n.fa-dochub:before {\n  content: \"\\F394\";\n}\n\n.fa-docker:before {\n  content: \"\\F395\";\n}\n\n.fa-dog:before {\n  content: \"\\F6D3\";\n}\n\n.fa-dollar-sign:before {\n  content: \"\\F155\";\n}\n\n.fa-dolly:before {\n  content: \"\\F472\";\n}\n\n.fa-dolly-flatbed:before {\n  content: \"\\F474\";\n}\n\n.fa-donate:before {\n  content: \"\\F4B9\";\n}\n\n.fa-door-closed:before {\n  content: \"\\F52A\";\n}\n\n.fa-door-open:before {\n  content: \"\\F52B\";\n}\n\n.fa-dot-circle:before {\n  content: \"\\F192\";\n}\n\n.fa-dove:before {\n  content: \"\\F4BA\";\n}\n\n.fa-download:before {\n  content: \"\\F019\";\n}\n\n.fa-draft2digital:before {\n  content: \"\\F396\";\n}\n\n.fa-drafting-compass:before {\n  content: \"\\F568\";\n}\n\n.fa-dragon:before {\n  content: \"\\F6D5\";\n}\n\n.fa-draw-polygon:before {\n  content: \"\\F5EE\";\n}\n\n.fa-dribbble:before {\n  content: \"\\F17D\";\n}\n\n.fa-dribbble-square:before {\n  content: \"\\F397\";\n}\n\n.fa-dropbox:before {\n  content: \"\\F16B\";\n}\n\n.fa-drum:before {\n  content: \"\\F569\";\n}\n\n.fa-drum-steelpan:before {\n  content: \"\\F56A\";\n}\n\n.fa-drumstick-bite:before {\n  content: \"\\F6D7\";\n}\n\n.fa-drupal:before {\n  content: \"\\F1A9\";\n}\n\n.fa-dumbbell:before {\n  content: \"\\F44B\";\n}\n\n.fa-dumpster:before {\n  content: \"\\F793\";\n}\n\n.fa-dumpster-fire:before {\n  content: \"\\F794\";\n}\n\n.fa-dungeon:before {\n  content: \"\\F6D9\";\n}\n\n.fa-dyalog:before {\n  content: \"\\F399\";\n}\n\n.fa-earlybirds:before {\n  content: \"\\F39A\";\n}\n\n.fa-ebay:before {\n  content: \"\\F4F4\";\n}\n\n.fa-edge:before {\n  content: \"\\F282\";\n}\n\n.fa-edit:before {\n  content: \"\\F044\";\n}\n\n.fa-egg:before {\n  content: \"\\F7FB\";\n}\n\n.fa-eject:before {\n  content: \"\\F052\";\n}\n\n.fa-elementor:before {\n  content: \"\\F430\";\n}\n\n.fa-ellipsis-h:before {\n  content: \"\\F141\";\n}\n\n.fa-ellipsis-v:before {\n  content: \"\\F142\";\n}\n\n.fa-ello:before {\n  content: \"\\F5F1\";\n}\n\n.fa-ember:before {\n  content: \"\\F423\";\n}\n\n.fa-empire:before {\n  content: \"\\F1D1\";\n}\n\n.fa-envelope:before {\n  content: \"\\F0E0\";\n}\n\n.fa-envelope-open:before {\n  content: \"\\F2B6\";\n}\n\n.fa-envelope-open-text:before {\n  content: \"\\F658\";\n}\n\n.fa-envelope-square:before {\n  content: \"\\F199\";\n}\n\n.fa-envira:before {\n  content: \"\\F299\";\n}\n\n.fa-equals:before {\n  content: \"\\F52C\";\n}\n\n.fa-eraser:before {\n  content: \"\\F12D\";\n}\n\n.fa-erlang:before {\n  content: \"\\F39D\";\n}\n\n.fa-ethereum:before {\n  content: \"\\F42E\";\n}\n\n.fa-ethernet:before {\n  content: \"\\F796\";\n}\n\n.fa-etsy:before {\n  content: \"\\F2D7\";\n}\n\n.fa-euro-sign:before {\n  content: \"\\F153\";\n}\n\n.fa-evernote:before {\n  content: \"\\F839\";\n}\n\n.fa-exchange-alt:before {\n  content: \"\\F362\";\n}\n\n.fa-exclamation:before {\n  content: \"\\F12A\";\n}\n\n.fa-exclamation-circle:before {\n  content: \"\\F06A\";\n}\n\n.fa-exclamation-triangle:before {\n  content: \"\\F071\";\n}\n\n.fa-expand:before {\n  content: \"\\F065\";\n}\n\n.fa-expand-arrows-alt:before {\n  content: \"\\F31E\";\n}\n\n.fa-expeditedssl:before {\n  content: \"\\F23E\";\n}\n\n.fa-external-link-alt:before {\n  content: \"\\F35D\";\n}\n\n.fa-external-link-square-alt:before {\n  content: \"\\F360\";\n}\n\n.fa-eye:before {\n  content: \"\\F06E\";\n}\n\n.fa-eye-dropper:before {\n  content: \"\\F1FB\";\n}\n\n.fa-eye-slash:before {\n  content: \"\\F070\";\n}\n\n.fa-facebook:before {\n  content: \"\\F09A\";\n}\n\n.fa-facebook-f:before {\n  content: \"\\F39E\";\n}\n\n.fa-facebook-messenger:before {\n  content: \"\\F39F\";\n}\n\n.fa-facebook-square:before {\n  content: \"\\F082\";\n}\n\n.fa-fan:before {\n  content: \"\\F863\";\n}\n\n.fa-fantasy-flight-games:before {\n  content: \"\\F6DC\";\n}\n\n.fa-fast-backward:before {\n  content: \"\\F049\";\n}\n\n.fa-fast-forward:before {\n  content: \"\\F050\";\n}\n\n.fa-fax:before {\n  content: \"\\F1AC\";\n}\n\n.fa-feather:before {\n  content: \"\\F52D\";\n}\n\n.fa-feather-alt:before {\n  content: \"\\F56B\";\n}\n\n.fa-fedex:before {\n  content: \"\\F797\";\n}\n\n.fa-fedora:before {\n  content: \"\\F798\";\n}\n\n.fa-female:before {\n  content: \"\\F182\";\n}\n\n.fa-fighter-jet:before {\n  content: \"\\F0FB\";\n}\n\n.fa-figma:before {\n  content: \"\\F799\";\n}\n\n.fa-file:before {\n  content: \"\\F15B\";\n}\n\n.fa-file-alt:before {\n  content: \"\\F15C\";\n}\n\n.fa-file-archive:before {\n  content: \"\\F1C6\";\n}\n\n.fa-file-audio:before {\n  content: \"\\F1C7\";\n}\n\n.fa-file-code:before {\n  content: \"\\F1C9\";\n}\n\n.fa-file-contract:before {\n  content: \"\\F56C\";\n}\n\n.fa-file-csv:before {\n  content: \"\\F6DD\";\n}\n\n.fa-file-download:before {\n  content: \"\\F56D\";\n}\n\n.fa-file-excel:before {\n  content: \"\\F1C3\";\n}\n\n.fa-file-export:before {\n  content: \"\\F56E\";\n}\n\n.fa-file-image:before {\n  content: \"\\F1C5\";\n}\n\n.fa-file-import:before {\n  content: \"\\F56F\";\n}\n\n.fa-file-invoice:before {\n  content: \"\\F570\";\n}\n\n.fa-file-invoice-dollar:before {\n  content: \"\\F571\";\n}\n\n.fa-file-medical:before {\n  content: \"\\F477\";\n}\n\n.fa-file-medical-alt:before {\n  content: \"\\F478\";\n}\n\n.fa-file-pdf:before {\n  content: \"\\F1C1\";\n}\n\n.fa-file-powerpoint:before {\n  content: \"\\F1C4\";\n}\n\n.fa-file-prescription:before {\n  content: \"\\F572\";\n}\n\n.fa-file-signature:before {\n  content: \"\\F573\";\n}\n\n.fa-file-upload:before {\n  content: \"\\F574\";\n}\n\n.fa-file-video:before {\n  content: \"\\F1C8\";\n}\n\n.fa-file-word:before {\n  content: \"\\F1C2\";\n}\n\n.fa-fill:before {\n  content: \"\\F575\";\n}\n\n.fa-fill-drip:before {\n  content: \"\\F576\";\n}\n\n.fa-film:before {\n  content: \"\\F008\";\n}\n\n.fa-filter:before {\n  content: \"\\F0B0\";\n}\n\n.fa-fingerprint:before {\n  content: \"\\F577\";\n}\n\n.fa-fire:before {\n  content: \"\\F06D\";\n}\n\n.fa-fire-alt:before {\n  content: \"\\F7E4\";\n}\n\n.fa-fire-extinguisher:before {\n  content: \"\\F134\";\n}\n\n.fa-firefox:before {\n  content: \"\\F269\";\n}\n\n.fa-first-aid:before {\n  content: \"\\F479\";\n}\n\n.fa-first-order:before {\n  content: \"\\F2B0\";\n}\n\n.fa-first-order-alt:before {\n  content: \"\\F50A\";\n}\n\n.fa-firstdraft:before {\n  content: \"\\F3A1\";\n}\n\n.fa-fish:before {\n  content: \"\\F578\";\n}\n\n.fa-fist-raised:before {\n  content: \"\\F6DE\";\n}\n\n.fa-flag:before {\n  content: \"\\F024\";\n}\n\n.fa-flag-checkered:before {\n  content: \"\\F11E\";\n}\n\n.fa-flag-usa:before {\n  content: \"\\F74D\";\n}\n\n.fa-flask:before {\n  content: \"\\F0C3\";\n}\n\n.fa-flickr:before {\n  content: \"\\F16E\";\n}\n\n.fa-flipboard:before {\n  content: \"\\F44D\";\n}\n\n.fa-flushed:before {\n  content: \"\\F579\";\n}\n\n.fa-fly:before {\n  content: \"\\F417\";\n}\n\n.fa-folder:before {\n  content: \"\\F07B\";\n}\n\n.fa-folder-minus:before {\n  content: \"\\F65D\";\n}\n\n.fa-folder-open:before {\n  content: \"\\F07C\";\n}\n\n.fa-folder-plus:before {\n  content: \"\\F65E\";\n}\n\n.fa-font:before {\n  content: \"\\F031\";\n}\n\n.fa-font-awesome:before {\n  content: \"\\F2B4\";\n}\n\n.fa-font-awesome-alt:before {\n  content: \"\\F35C\";\n}\n\n.fa-font-awesome-flag:before {\n  content: \"\\F425\";\n}\n\n.fa-font-awesome-logo-full:before {\n  content: \"\\F4E6\";\n}\n\n.fa-fonticons:before {\n  content: \"\\F280\";\n}\n\n.fa-fonticons-fi:before {\n  content: \"\\F3A2\";\n}\n\n.fa-football-ball:before {\n  content: \"\\F44E\";\n}\n\n.fa-fort-awesome:before {\n  content: \"\\F286\";\n}\n\n.fa-fort-awesome-alt:before {\n  content: \"\\F3A3\";\n}\n\n.fa-forumbee:before {\n  content: \"\\F211\";\n}\n\n.fa-forward:before {\n  content: \"\\F04E\";\n}\n\n.fa-foursquare:before {\n  content: \"\\F180\";\n}\n\n.fa-free-code-camp:before {\n  content: \"\\F2C5\";\n}\n\n.fa-freebsd:before {\n  content: \"\\F3A4\";\n}\n\n.fa-frog:before {\n  content: \"\\F52E\";\n}\n\n.fa-frown:before {\n  content: \"\\F119\";\n}\n\n.fa-frown-open:before {\n  content: \"\\F57A\";\n}\n\n.fa-fulcrum:before {\n  content: \"\\F50B\";\n}\n\n.fa-funnel-dollar:before {\n  content: \"\\F662\";\n}\n\n.fa-futbol:before {\n  content: \"\\F1E3\";\n}\n\n.fa-galactic-republic:before {\n  content: \"\\F50C\";\n}\n\n.fa-galactic-senate:before {\n  content: \"\\F50D\";\n}\n\n.fa-gamepad:before {\n  content: \"\\F11B\";\n}\n\n.fa-gas-pump:before {\n  content: \"\\F52F\";\n}\n\n.fa-gavel:before {\n  content: \"\\F0E3\";\n}\n\n.fa-gem:before {\n  content: \"\\F3A5\";\n}\n\n.fa-genderless:before {\n  content: \"\\F22D\";\n}\n\n.fa-get-pocket:before {\n  content: \"\\F265\";\n}\n\n.fa-gg:before {\n  content: \"\\F260\";\n}\n\n.fa-gg-circle:before {\n  content: \"\\F261\";\n}\n\n.fa-ghost:before {\n  content: \"\\F6E2\";\n}\n\n.fa-gift:before {\n  content: \"\\F06B\";\n}\n\n.fa-gifts:before {\n  content: \"\\F79C\";\n}\n\n.fa-git:before {\n  content: \"\\F1D3\";\n}\n\n.fa-git-alt:before {\n  content: \"\\F841\";\n}\n\n.fa-git-square:before {\n  content: \"\\F1D2\";\n}\n\n.fa-github:before {\n  content: \"\\F09B\";\n}\n\n.fa-github-alt:before {\n  content: \"\\F113\";\n}\n\n.fa-github-square:before {\n  content: \"\\F092\";\n}\n\n.fa-gitkraken:before {\n  content: \"\\F3A6\";\n}\n\n.fa-gitlab:before {\n  content: \"\\F296\";\n}\n\n.fa-gitter:before {\n  content: \"\\F426\";\n}\n\n.fa-glass-cheers:before {\n  content: \"\\F79F\";\n}\n\n.fa-glass-martini:before {\n  content: \"\\F000\";\n}\n\n.fa-glass-martini-alt:before {\n  content: \"\\F57B\";\n}\n\n.fa-glass-whiskey:before {\n  content: \"\\F7A0\";\n}\n\n.fa-glasses:before {\n  content: \"\\F530\";\n}\n\n.fa-glide:before {\n  content: \"\\F2A5\";\n}\n\n.fa-glide-g:before {\n  content: \"\\F2A6\";\n}\n\n.fa-globe:before {\n  content: \"\\F0AC\";\n}\n\n.fa-globe-africa:before {\n  content: \"\\F57C\";\n}\n\n.fa-globe-americas:before {\n  content: \"\\F57D\";\n}\n\n.fa-globe-asia:before {\n  content: \"\\F57E\";\n}\n\n.fa-globe-europe:before {\n  content: \"\\F7A2\";\n}\n\n.fa-gofore:before {\n  content: \"\\F3A7\";\n}\n\n.fa-golf-ball:before {\n  content: \"\\F450\";\n}\n\n.fa-goodreads:before {\n  content: \"\\F3A8\";\n}\n\n.fa-goodreads-g:before {\n  content: \"\\F3A9\";\n}\n\n.fa-google:before {\n  content: \"\\F1A0\";\n}\n\n.fa-google-drive:before {\n  content: \"\\F3AA\";\n}\n\n.fa-google-play:before {\n  content: \"\\F3AB\";\n}\n\n.fa-google-plus:before {\n  content: \"\\F2B3\";\n}\n\n.fa-google-plus-g:before {\n  content: \"\\F0D5\";\n}\n\n.fa-google-plus-square:before {\n  content: \"\\F0D4\";\n}\n\n.fa-google-wallet:before {\n  content: \"\\F1EE\";\n}\n\n.fa-gopuram:before {\n  content: \"\\F664\";\n}\n\n.fa-graduation-cap:before {\n  content: \"\\F19D\";\n}\n\n.fa-gratipay:before {\n  content: \"\\F184\";\n}\n\n.fa-grav:before {\n  content: \"\\F2D6\";\n}\n\n.fa-greater-than:before {\n  content: \"\\F531\";\n}\n\n.fa-greater-than-equal:before {\n  content: \"\\F532\";\n}\n\n.fa-grimace:before {\n  content: \"\\F57F\";\n}\n\n.fa-grin:before {\n  content: \"\\F580\";\n}\n\n.fa-grin-alt:before {\n  content: \"\\F581\";\n}\n\n.fa-grin-beam:before {\n  content: \"\\F582\";\n}\n\n.fa-grin-beam-sweat:before {\n  content: \"\\F583\";\n}\n\n.fa-grin-hearts:before {\n  content: \"\\F584\";\n}\n\n.fa-grin-squint:before {\n  content: \"\\F585\";\n}\n\n.fa-grin-squint-tears:before {\n  content: \"\\F586\";\n}\n\n.fa-grin-stars:before {\n  content: \"\\F587\";\n}\n\n.fa-grin-tears:before {\n  content: \"\\F588\";\n}\n\n.fa-grin-tongue:before {\n  content: \"\\F589\";\n}\n\n.fa-grin-tongue-squint:before {\n  content: \"\\F58A\";\n}\n\n.fa-grin-tongue-wink:before {\n  content: \"\\F58B\";\n}\n\n.fa-grin-wink:before {\n  content: \"\\F58C\";\n}\n\n.fa-grip-horizontal:before {\n  content: \"\\F58D\";\n}\n\n.fa-grip-lines:before {\n  content: \"\\F7A4\";\n}\n\n.fa-grip-lines-vertical:before {\n  content: \"\\F7A5\";\n}\n\n.fa-grip-vertical:before {\n  content: \"\\F58E\";\n}\n\n.fa-gripfire:before {\n  content: \"\\F3AC\";\n}\n\n.fa-grunt:before {\n  content: \"\\F3AD\";\n}\n\n.fa-guitar:before {\n  content: \"\\F7A6\";\n}\n\n.fa-gulp:before {\n  content: \"\\F3AE\";\n}\n\n.fa-h-square:before {\n  content: \"\\F0FD\";\n}\n\n.fa-hacker-news:before {\n  content: \"\\F1D4\";\n}\n\n.fa-hacker-news-square:before {\n  content: \"\\F3AF\";\n}\n\n.fa-hackerrank:before {\n  content: \"\\F5F7\";\n}\n\n.fa-hamburger:before {\n  content: \"\\F805\";\n}\n\n.fa-hammer:before {\n  content: \"\\F6E3\";\n}\n\n.fa-hamsa:before {\n  content: \"\\F665\";\n}\n\n.fa-hand-holding:before {\n  content: \"\\F4BD\";\n}\n\n.fa-hand-holding-heart:before {\n  content: \"\\F4BE\";\n}\n\n.fa-hand-holding-usd:before {\n  content: \"\\F4C0\";\n}\n\n.fa-hand-lizard:before {\n  content: \"\\F258\";\n}\n\n.fa-hand-middle-finger:before {\n  content: \"\\F806\";\n}\n\n.fa-hand-paper:before {\n  content: \"\\F256\";\n}\n\n.fa-hand-peace:before {\n  content: \"\\F25B\";\n}\n\n.fa-hand-point-down:before {\n  content: \"\\F0A7\";\n}\n\n.fa-hand-point-left:before {\n  content: \"\\F0A5\";\n}\n\n.fa-hand-point-right:before {\n  content: \"\\F0A4\";\n}\n\n.fa-hand-point-up:before {\n  content: \"\\F0A6\";\n}\n\n.fa-hand-pointer:before {\n  content: \"\\F25A\";\n}\n\n.fa-hand-rock:before {\n  content: \"\\F255\";\n}\n\n.fa-hand-scissors:before {\n  content: \"\\F257\";\n}\n\n.fa-hand-spock:before {\n  content: \"\\F259\";\n}\n\n.fa-hands:before {\n  content: \"\\F4C2\";\n}\n\n.fa-hands-helping:before {\n  content: \"\\F4C4\";\n}\n\n.fa-handshake:before {\n  content: \"\\F2B5\";\n}\n\n.fa-hanukiah:before {\n  content: \"\\F6E6\";\n}\n\n.fa-hard-hat:before {\n  content: \"\\F807\";\n}\n\n.fa-hashtag:before {\n  content: \"\\F292\";\n}\n\n.fa-hat-wizard:before {\n  content: \"\\F6E8\";\n}\n\n.fa-haykal:before {\n  content: \"\\F666\";\n}\n\n.fa-hdd:before {\n  content: \"\\F0A0\";\n}\n\n.fa-heading:before {\n  content: \"\\F1DC\";\n}\n\n.fa-headphones:before {\n  content: \"\\F025\";\n}\n\n.fa-headphones-alt:before {\n  content: \"\\F58F\";\n}\n\n.fa-headset:before {\n  content: \"\\F590\";\n}\n\n.fa-heart:before {\n  content: \"\\F004\";\n}\n\n.fa-heart-broken:before {\n  content: \"\\F7A9\";\n}\n\n.fa-heartbeat:before {\n  content: \"\\F21E\";\n}\n\n.fa-helicopter:before {\n  content: \"\\F533\";\n}\n\n.fa-highlighter:before {\n  content: \"\\F591\";\n}\n\n.fa-hiking:before {\n  content: \"\\F6EC\";\n}\n\n.fa-hippo:before {\n  content: \"\\F6ED\";\n}\n\n.fa-hips:before {\n  content: \"\\F452\";\n}\n\n.fa-hire-a-helper:before {\n  content: \"\\F3B0\";\n}\n\n.fa-history:before {\n  content: \"\\F1DA\";\n}\n\n.fa-hockey-puck:before {\n  content: \"\\F453\";\n}\n\n.fa-holly-berry:before {\n  content: \"\\F7AA\";\n}\n\n.fa-home:before {\n  content: \"\\F015\";\n}\n\n.fa-hooli:before {\n  content: \"\\F427\";\n}\n\n.fa-hornbill:before {\n  content: \"\\F592\";\n}\n\n.fa-horse:before {\n  content: \"\\F6F0\";\n}\n\n.fa-horse-head:before {\n  content: \"\\F7AB\";\n}\n\n.fa-hospital:before {\n  content: \"\\F0F8\";\n}\n\n.fa-hospital-alt:before {\n  content: \"\\F47D\";\n}\n\n.fa-hospital-symbol:before {\n  content: \"\\F47E\";\n}\n\n.fa-hot-tub:before {\n  content: \"\\F593\";\n}\n\n.fa-hotdog:before {\n  content: \"\\F80F\";\n}\n\n.fa-hotel:before {\n  content: \"\\F594\";\n}\n\n.fa-hotjar:before {\n  content: \"\\F3B1\";\n}\n\n.fa-hourglass:before {\n  content: \"\\F254\";\n}\n\n.fa-hourglass-end:before {\n  content: \"\\F253\";\n}\n\n.fa-hourglass-half:before {\n  content: \"\\F252\";\n}\n\n.fa-hourglass-start:before {\n  content: \"\\F251\";\n}\n\n.fa-house-damage:before {\n  content: \"\\F6F1\";\n}\n\n.fa-houzz:before {\n  content: \"\\F27C\";\n}\n\n.fa-hryvnia:before {\n  content: \"\\F6F2\";\n}\n\n.fa-html5:before {\n  content: \"\\F13B\";\n}\n\n.fa-hubspot:before {\n  content: \"\\F3B2\";\n}\n\n.fa-i-cursor:before {\n  content: \"\\F246\";\n}\n\n.fa-ice-cream:before {\n  content: \"\\F810\";\n}\n\n.fa-icicles:before {\n  content: \"\\F7AD\";\n}\n\n.fa-icons:before {\n  content: \"\\F86D\";\n}\n\n.fa-id-badge:before {\n  content: \"\\F2C1\";\n}\n\n.fa-id-card:before {\n  content: \"\\F2C2\";\n}\n\n.fa-id-card-alt:before {\n  content: \"\\F47F\";\n}\n\n.fa-igloo:before {\n  content: \"\\F7AE\";\n}\n\n.fa-image:before {\n  content: \"\\F03E\";\n}\n\n.fa-images:before {\n  content: \"\\F302\";\n}\n\n.fa-imdb:before {\n  content: \"\\F2D8\";\n}\n\n.fa-inbox:before {\n  content: \"\\F01C\";\n}\n\n.fa-indent:before {\n  content: \"\\F03C\";\n}\n\n.fa-industry:before {\n  content: \"\\F275\";\n}\n\n.fa-infinity:before {\n  content: \"\\F534\";\n}\n\n.fa-info:before {\n  content: \"\\F129\";\n}\n\n.fa-info-circle:before {\n  content: \"\\F05A\";\n}\n\n.fa-instagram:before {\n  content: \"\\F16D\";\n}\n\n.fa-intercom:before {\n  content: \"\\F7AF\";\n}\n\n.fa-internet-explorer:before {\n  content: \"\\F26B\";\n}\n\n.fa-invision:before {\n  content: \"\\F7B0\";\n}\n\n.fa-ioxhost:before {\n  content: \"\\F208\";\n}\n\n.fa-italic:before {\n  content: \"\\F033\";\n}\n\n.fa-itch-io:before {\n  content: \"\\F83A\";\n}\n\n.fa-itunes:before {\n  content: \"\\F3B4\";\n}\n\n.fa-itunes-note:before {\n  content: \"\\F3B5\";\n}\n\n.fa-java:before {\n  content: \"\\F4E4\";\n}\n\n.fa-jedi:before {\n  content: \"\\F669\";\n}\n\n.fa-jedi-order:before {\n  content: \"\\F50E\";\n}\n\n.fa-jenkins:before {\n  content: \"\\F3B6\";\n}\n\n.fa-jira:before {\n  content: \"\\F7B1\";\n}\n\n.fa-joget:before {\n  content: \"\\F3B7\";\n}\n\n.fa-joint:before {\n  content: \"\\F595\";\n}\n\n.fa-joomla:before {\n  content: \"\\F1AA\";\n}\n\n.fa-journal-whills:before {\n  content: \"\\F66A\";\n}\n\n.fa-js:before {\n  content: \"\\F3B8\";\n}\n\n.fa-js-square:before {\n  content: \"\\F3B9\";\n}\n\n.fa-jsfiddle:before {\n  content: \"\\F1CC\";\n}\n\n.fa-kaaba:before {\n  content: \"\\F66B\";\n}\n\n.fa-kaggle:before {\n  content: \"\\F5FA\";\n}\n\n.fa-key:before {\n  content: \"\\F084\";\n}\n\n.fa-keybase:before {\n  content: \"\\F4F5\";\n}\n\n.fa-keyboard:before {\n  content: \"\\F11C\";\n}\n\n.fa-keycdn:before {\n  content: \"\\F3BA\";\n}\n\n.fa-khanda:before {\n  content: \"\\F66D\";\n}\n\n.fa-kickstarter:before {\n  content: \"\\F3BB\";\n}\n\n.fa-kickstarter-k:before {\n  content: \"\\F3BC\";\n}\n\n.fa-kiss:before {\n  content: \"\\F596\";\n}\n\n.fa-kiss-beam:before {\n  content: \"\\F597\";\n}\n\n.fa-kiss-wink-heart:before {\n  content: \"\\F598\";\n}\n\n.fa-kiwi-bird:before {\n  content: \"\\F535\";\n}\n\n.fa-korvue:before {\n  content: \"\\F42F\";\n}\n\n.fa-landmark:before {\n  content: \"\\F66F\";\n}\n\n.fa-language:before {\n  content: \"\\F1AB\";\n}\n\n.fa-laptop:before {\n  content: \"\\F109\";\n}\n\n.fa-laptop-code:before {\n  content: \"\\F5FC\";\n}\n\n.fa-laptop-medical:before {\n  content: \"\\F812\";\n}\n\n.fa-laravel:before {\n  content: \"\\F3BD\";\n}\n\n.fa-lastfm:before {\n  content: \"\\F202\";\n}\n\n.fa-lastfm-square:before {\n  content: \"\\F203\";\n}\n\n.fa-laugh:before {\n  content: \"\\F599\";\n}\n\n.fa-laugh-beam:before {\n  content: \"\\F59A\";\n}\n\n.fa-laugh-squint:before {\n  content: \"\\F59B\";\n}\n\n.fa-laugh-wink:before {\n  content: \"\\F59C\";\n}\n\n.fa-layer-group:before {\n  content: \"\\F5FD\";\n}\n\n.fa-leaf:before {\n  content: \"\\F06C\";\n}\n\n.fa-leanpub:before {\n  content: \"\\F212\";\n}\n\n.fa-lemon:before {\n  content: \"\\F094\";\n}\n\n.fa-less:before {\n  content: \"\\F41D\";\n}\n\n.fa-less-than:before {\n  content: \"\\F536\";\n}\n\n.fa-less-than-equal:before {\n  content: \"\\F537\";\n}\n\n.fa-level-down-alt:before {\n  content: \"\\F3BE\";\n}\n\n.fa-level-up-alt:before {\n  content: \"\\F3BF\";\n}\n\n.fa-life-ring:before {\n  content: \"\\F1CD\";\n}\n\n.fa-lightbulb:before {\n  content: \"\\F0EB\";\n}\n\n.fa-line:before {\n  content: \"\\F3C0\";\n}\n\n.fa-link:before {\n  content: \"\\F0C1\";\n}\n\n.fa-linkedin:before {\n  content: \"\\F08C\";\n}\n\n.fa-linkedin-in:before {\n  content: \"\\F0E1\";\n}\n\n.fa-linode:before {\n  content: \"\\F2B8\";\n}\n\n.fa-linux:before {\n  content: \"\\F17C\";\n}\n\n.fa-lira-sign:before {\n  content: \"\\F195\";\n}\n\n.fa-list:before {\n  content: \"\\F03A\";\n}\n\n.fa-list-alt:before {\n  content: \"\\F022\";\n}\n\n.fa-list-ol:before {\n  content: \"\\F0CB\";\n}\n\n.fa-list-ul:before {\n  content: \"\\F0CA\";\n}\n\n.fa-location-arrow:before {\n  content: \"\\F124\";\n}\n\n.fa-lock:before {\n  content: \"\\F023\";\n}\n\n.fa-lock-open:before {\n  content: \"\\F3C1\";\n}\n\n.fa-long-arrow-alt-down:before {\n  content: \"\\F309\";\n}\n\n.fa-long-arrow-alt-left:before {\n  content: \"\\F30A\";\n}\n\n.fa-long-arrow-alt-right:before {\n  content: \"\\F30B\";\n}\n\n.fa-long-arrow-alt-up:before {\n  content: \"\\F30C\";\n}\n\n.fa-low-vision:before {\n  content: \"\\F2A8\";\n}\n\n.fa-luggage-cart:before {\n  content: \"\\F59D\";\n}\n\n.fa-lyft:before {\n  content: \"\\F3C3\";\n}\n\n.fa-magento:before {\n  content: \"\\F3C4\";\n}\n\n.fa-magic:before {\n  content: \"\\F0D0\";\n}\n\n.fa-magnet:before {\n  content: \"\\F076\";\n}\n\n.fa-mail-bulk:before {\n  content: \"\\F674\";\n}\n\n.fa-mailchimp:before {\n  content: \"\\F59E\";\n}\n\n.fa-male:before {\n  content: \"\\F183\";\n}\n\n.fa-mandalorian:before {\n  content: \"\\F50F\";\n}\n\n.fa-map:before {\n  content: \"\\F279\";\n}\n\n.fa-map-marked:before {\n  content: \"\\F59F\";\n}\n\n.fa-map-marked-alt:before {\n  content: \"\\F5A0\";\n}\n\n.fa-map-marker:before {\n  content: \"\\F041\";\n}\n\n.fa-map-marker-alt:before {\n  content: \"\\F3C5\";\n}\n\n.fa-map-pin:before {\n  content: \"\\F276\";\n}\n\n.fa-map-signs:before {\n  content: \"\\F277\";\n}\n\n.fa-markdown:before {\n  content: \"\\F60F\";\n}\n\n.fa-marker:before {\n  content: \"\\F5A1\";\n}\n\n.fa-mars:before {\n  content: \"\\F222\";\n}\n\n.fa-mars-double:before {\n  content: \"\\F227\";\n}\n\n.fa-mars-stroke:before {\n  content: \"\\F229\";\n}\n\n.fa-mars-stroke-h:before {\n  content: \"\\F22B\";\n}\n\n.fa-mars-stroke-v:before {\n  content: \"\\F22A\";\n}\n\n.fa-mask:before {\n  content: \"\\F6FA\";\n}\n\n.fa-mastodon:before {\n  content: \"\\F4F6\";\n}\n\n.fa-maxcdn:before {\n  content: \"\\F136\";\n}\n\n.fa-medal:before {\n  content: \"\\F5A2\";\n}\n\n.fa-medapps:before {\n  content: \"\\F3C6\";\n}\n\n.fa-medium:before {\n  content: \"\\F23A\";\n}\n\n.fa-medium-m:before {\n  content: \"\\F3C7\";\n}\n\n.fa-medkit:before {\n  content: \"\\F0FA\";\n}\n\n.fa-medrt:before {\n  content: \"\\F3C8\";\n}\n\n.fa-meetup:before {\n  content: \"\\F2E0\";\n}\n\n.fa-megaport:before {\n  content: \"\\F5A3\";\n}\n\n.fa-meh:before {\n  content: \"\\F11A\";\n}\n\n.fa-meh-blank:before {\n  content: \"\\F5A4\";\n}\n\n.fa-meh-rolling-eyes:before {\n  content: \"\\F5A5\";\n}\n\n.fa-memory:before {\n  content: \"\\F538\";\n}\n\n.fa-mendeley:before {\n  content: \"\\F7B3\";\n}\n\n.fa-menorah:before {\n  content: \"\\F676\";\n}\n\n.fa-mercury:before {\n  content: \"\\F223\";\n}\n\n.fa-meteor:before {\n  content: \"\\F753\";\n}\n\n.fa-microchip:before {\n  content: \"\\F2DB\";\n}\n\n.fa-microphone:before {\n  content: \"\\F130\";\n}\n\n.fa-microphone-alt:before {\n  content: \"\\F3C9\";\n}\n\n.fa-microphone-alt-slash:before {\n  content: \"\\F539\";\n}\n\n.fa-microphone-slash:before {\n  content: \"\\F131\";\n}\n\n.fa-microscope:before {\n  content: \"\\F610\";\n}\n\n.fa-microsoft:before {\n  content: \"\\F3CA\";\n}\n\n.fa-minus:before {\n  content: \"\\F068\";\n}\n\n.fa-minus-circle:before {\n  content: \"\\F056\";\n}\n\n.fa-minus-square:before {\n  content: \"\\F146\";\n}\n\n.fa-mitten:before {\n  content: \"\\F7B5\";\n}\n\n.fa-mix:before {\n  content: \"\\F3CB\";\n}\n\n.fa-mixcloud:before {\n  content: \"\\F289\";\n}\n\n.fa-mizuni:before {\n  content: \"\\F3CC\";\n}\n\n.fa-mobile:before {\n  content: \"\\F10B\";\n}\n\n.fa-mobile-alt:before {\n  content: \"\\F3CD\";\n}\n\n.fa-modx:before {\n  content: \"\\F285\";\n}\n\n.fa-monero:before {\n  content: \"\\F3D0\";\n}\n\n.fa-money-bill:before {\n  content: \"\\F0D6\";\n}\n\n.fa-money-bill-alt:before {\n  content: \"\\F3D1\";\n}\n\n.fa-money-bill-wave:before {\n  content: \"\\F53A\";\n}\n\n.fa-money-bill-wave-alt:before {\n  content: \"\\F53B\";\n}\n\n.fa-money-check:before {\n  content: \"\\F53C\";\n}\n\n.fa-money-check-alt:before {\n  content: \"\\F53D\";\n}\n\n.fa-monument:before {\n  content: \"\\F5A6\";\n}\n\n.fa-moon:before {\n  content: \"\\F186\";\n}\n\n.fa-mortar-pestle:before {\n  content: \"\\F5A7\";\n}\n\n.fa-mosque:before {\n  content: \"\\F678\";\n}\n\n.fa-motorcycle:before {\n  content: \"\\F21C\";\n}\n\n.fa-mountain:before {\n  content: \"\\F6FC\";\n}\n\n.fa-mouse-pointer:before {\n  content: \"\\F245\";\n}\n\n.fa-mug-hot:before {\n  content: \"\\F7B6\";\n}\n\n.fa-music:before {\n  content: \"\\F001\";\n}\n\n.fa-napster:before {\n  content: \"\\F3D2\";\n}\n\n.fa-neos:before {\n  content: \"\\F612\";\n}\n\n.fa-network-wired:before {\n  content: \"\\F6FF\";\n}\n\n.fa-neuter:before {\n  content: \"\\F22C\";\n}\n\n.fa-newspaper:before {\n  content: \"\\F1EA\";\n}\n\n.fa-nimblr:before {\n  content: \"\\F5A8\";\n}\n\n.fa-node:before {\n  content: \"\\F419\";\n}\n\n.fa-node-js:before {\n  content: \"\\F3D3\";\n}\n\n.fa-not-equal:before {\n  content: \"\\F53E\";\n}\n\n.fa-notes-medical:before {\n  content: \"\\F481\";\n}\n\n.fa-npm:before {\n  content: \"\\F3D4\";\n}\n\n.fa-ns8:before {\n  content: \"\\F3D5\";\n}\n\n.fa-nutritionix:before {\n  content: \"\\F3D6\";\n}\n\n.fa-object-group:before {\n  content: \"\\F247\";\n}\n\n.fa-object-ungroup:before {\n  content: \"\\F248\";\n}\n\n.fa-odnoklassniki:before {\n  content: \"\\F263\";\n}\n\n.fa-odnoklassniki-square:before {\n  content: \"\\F264\";\n}\n\n.fa-oil-can:before {\n  content: \"\\F613\";\n}\n\n.fa-old-republic:before {\n  content: \"\\F510\";\n}\n\n.fa-om:before {\n  content: \"\\F679\";\n}\n\n.fa-opencart:before {\n  content: \"\\F23D\";\n}\n\n.fa-openid:before {\n  content: \"\\F19B\";\n}\n\n.fa-opera:before {\n  content: \"\\F26A\";\n}\n\n.fa-optin-monster:before {\n  content: \"\\F23C\";\n}\n\n.fa-osi:before {\n  content: \"\\F41A\";\n}\n\n.fa-otter:before {\n  content: \"\\F700\";\n}\n\n.fa-outdent:before {\n  content: \"\\F03B\";\n}\n\n.fa-page4:before {\n  content: \"\\F3D7\";\n}\n\n.fa-pagelines:before {\n  content: \"\\F18C\";\n}\n\n.fa-pager:before {\n  content: \"\\F815\";\n}\n\n.fa-paint-brush:before {\n  content: \"\\F1FC\";\n}\n\n.fa-paint-roller:before {\n  content: \"\\F5AA\";\n}\n\n.fa-palette:before {\n  content: \"\\F53F\";\n}\n\n.fa-palfed:before {\n  content: \"\\F3D8\";\n}\n\n.fa-pallet:before {\n  content: \"\\F482\";\n}\n\n.fa-paper-plane:before {\n  content: \"\\F1D8\";\n}\n\n.fa-paperclip:before {\n  content: \"\\F0C6\";\n}\n\n.fa-parachute-box:before {\n  content: \"\\F4CD\";\n}\n\n.fa-paragraph:before {\n  content: \"\\F1DD\";\n}\n\n.fa-parking:before {\n  content: \"\\F540\";\n}\n\n.fa-passport:before {\n  content: \"\\F5AB\";\n}\n\n.fa-pastafarianism:before {\n  content: \"\\F67B\";\n}\n\n.fa-paste:before {\n  content: \"\\F0EA\";\n}\n\n.fa-patreon:before {\n  content: \"\\F3D9\";\n}\n\n.fa-pause:before {\n  content: \"\\F04C\";\n}\n\n.fa-pause-circle:before {\n  content: \"\\F28B\";\n}\n\n.fa-paw:before {\n  content: \"\\F1B0\";\n}\n\n.fa-paypal:before {\n  content: \"\\F1ED\";\n}\n\n.fa-peace:before {\n  content: \"\\F67C\";\n}\n\n.fa-pen:before {\n  content: \"\\F304\";\n}\n\n.fa-pen-alt:before {\n  content: \"\\F305\";\n}\n\n.fa-pen-fancy:before {\n  content: \"\\F5AC\";\n}\n\n.fa-pen-nib:before {\n  content: \"\\F5AD\";\n}\n\n.fa-pen-square:before {\n  content: \"\\F14B\";\n}\n\n.fa-pencil-alt:before {\n  content: \"\\F303\";\n}\n\n.fa-pencil-ruler:before {\n  content: \"\\F5AE\";\n}\n\n.fa-penny-arcade:before {\n  content: \"\\F704\";\n}\n\n.fa-people-carry:before {\n  content: \"\\F4CE\";\n}\n\n.fa-pepper-hot:before {\n  content: \"\\F816\";\n}\n\n.fa-percent:before {\n  content: \"\\F295\";\n}\n\n.fa-percentage:before {\n  content: \"\\F541\";\n}\n\n.fa-periscope:before {\n  content: \"\\F3DA\";\n}\n\n.fa-person-booth:before {\n  content: \"\\F756\";\n}\n\n.fa-phabricator:before {\n  content: \"\\F3DB\";\n}\n\n.fa-phoenix-framework:before {\n  content: \"\\F3DC\";\n}\n\n.fa-phoenix-squadron:before {\n  content: \"\\F511\";\n}\n\n.fa-phone:before {\n  content: \"\\F095\";\n}\n\n.fa-phone-alt:before {\n  content: \"\\F879\";\n}\n\n.fa-phone-slash:before {\n  content: \"\\F3DD\";\n}\n\n.fa-phone-square:before {\n  content: \"\\F098\";\n}\n\n.fa-phone-square-alt:before {\n  content: \"\\F87B\";\n}\n\n.fa-phone-volume:before {\n  content: \"\\F2A0\";\n}\n\n.fa-photo-video:before {\n  content: \"\\F87C\";\n}\n\n.fa-php:before {\n  content: \"\\F457\";\n}\n\n.fa-pied-piper:before {\n  content: \"\\F2AE\";\n}\n\n.fa-pied-piper-alt:before {\n  content: \"\\F1A8\";\n}\n\n.fa-pied-piper-hat:before {\n  content: \"\\F4E5\";\n}\n\n.fa-pied-piper-pp:before {\n  content: \"\\F1A7\";\n}\n\n.fa-piggy-bank:before {\n  content: \"\\F4D3\";\n}\n\n.fa-pills:before {\n  content: \"\\F484\";\n}\n\n.fa-pinterest:before {\n  content: \"\\F0D2\";\n}\n\n.fa-pinterest-p:before {\n  content: \"\\F231\";\n}\n\n.fa-pinterest-square:before {\n  content: \"\\F0D3\";\n}\n\n.fa-pizza-slice:before {\n  content: \"\\F818\";\n}\n\n.fa-place-of-worship:before {\n  content: \"\\F67F\";\n}\n\n.fa-plane:before {\n  content: \"\\F072\";\n}\n\n.fa-plane-arrival:before {\n  content: \"\\F5AF\";\n}\n\n.fa-plane-departure:before {\n  content: \"\\F5B0\";\n}\n\n.fa-play:before {\n  content: \"\\F04B\";\n}\n\n.fa-play-circle:before {\n  content: \"\\F144\";\n}\n\n.fa-playstation:before {\n  content: \"\\F3DF\";\n}\n\n.fa-plug:before {\n  content: \"\\F1E6\";\n}\n\n.fa-plus:before {\n  content: \"\\F067\";\n}\n\n.fa-plus-circle:before {\n  content: \"\\F055\";\n}\n\n.fa-plus-square:before {\n  content: \"\\F0FE\";\n}\n\n.fa-podcast:before {\n  content: \"\\F2CE\";\n}\n\n.fa-poll:before {\n  content: \"\\F681\";\n}\n\n.fa-poll-h:before {\n  content: \"\\F682\";\n}\n\n.fa-poo:before {\n  content: \"\\F2FE\";\n}\n\n.fa-poo-storm:before {\n  content: \"\\F75A\";\n}\n\n.fa-poop:before {\n  content: \"\\F619\";\n}\n\n.fa-portrait:before {\n  content: \"\\F3E0\";\n}\n\n.fa-pound-sign:before {\n  content: \"\\F154\";\n}\n\n.fa-power-off:before {\n  content: \"\\F011\";\n}\n\n.fa-pray:before {\n  content: \"\\F683\";\n}\n\n.fa-praying-hands:before {\n  content: \"\\F684\";\n}\n\n.fa-prescription:before {\n  content: \"\\F5B1\";\n}\n\n.fa-prescription-bottle:before {\n  content: \"\\F485\";\n}\n\n.fa-prescription-bottle-alt:before {\n  content: \"\\F486\";\n}\n\n.fa-print:before {\n  content: \"\\F02F\";\n}\n\n.fa-procedures:before {\n  content: \"\\F487\";\n}\n\n.fa-product-hunt:before {\n  content: \"\\F288\";\n}\n\n.fa-project-diagram:before {\n  content: \"\\F542\";\n}\n\n.fa-pushed:before {\n  content: \"\\F3E1\";\n}\n\n.fa-puzzle-piece:before {\n  content: \"\\F12E\";\n}\n\n.fa-python:before {\n  content: \"\\F3E2\";\n}\n\n.fa-qq:before {\n  content: \"\\F1D6\";\n}\n\n.fa-qrcode:before {\n  content: \"\\F029\";\n}\n\n.fa-question:before {\n  content: \"\\F128\";\n}\n\n.fa-question-circle:before {\n  content: \"\\F059\";\n}\n\n.fa-quidditch:before {\n  content: \"\\F458\";\n}\n\n.fa-quinscape:before {\n  content: \"\\F459\";\n}\n\n.fa-quora:before {\n  content: \"\\F2C4\";\n}\n\n.fa-quote-left:before {\n  content: \"\\F10D\";\n}\n\n.fa-quote-right:before {\n  content: \"\\F10E\";\n}\n\n.fa-quran:before {\n  content: \"\\F687\";\n}\n\n.fa-r-project:before {\n  content: \"\\F4F7\";\n}\n\n.fa-radiation:before {\n  content: \"\\F7B9\";\n}\n\n.fa-radiation-alt:before {\n  content: \"\\F7BA\";\n}\n\n.fa-rainbow:before {\n  content: \"\\F75B\";\n}\n\n.fa-random:before {\n  content: \"\\F074\";\n}\n\n.fa-raspberry-pi:before {\n  content: \"\\F7BB\";\n}\n\n.fa-ravelry:before {\n  content: \"\\F2D9\";\n}\n\n.fa-react:before {\n  content: \"\\F41B\";\n}\n\n.fa-reacteurope:before {\n  content: \"\\F75D\";\n}\n\n.fa-readme:before {\n  content: \"\\F4D5\";\n}\n\n.fa-rebel:before {\n  content: \"\\F1D0\";\n}\n\n.fa-receipt:before {\n  content: \"\\F543\";\n}\n\n.fa-recycle:before {\n  content: \"\\F1B8\";\n}\n\n.fa-red-river:before {\n  content: \"\\F3E3\";\n}\n\n.fa-reddit:before {\n  content: \"\\F1A1\";\n}\n\n.fa-reddit-alien:before {\n  content: \"\\F281\";\n}\n\n.fa-reddit-square:before {\n  content: \"\\F1A2\";\n}\n\n.fa-redhat:before {\n  content: \"\\F7BC\";\n}\n\n.fa-redo:before {\n  content: \"\\F01E\";\n}\n\n.fa-redo-alt:before {\n  content: \"\\F2F9\";\n}\n\n.fa-registered:before {\n  content: \"\\F25D\";\n}\n\n.fa-remove-format:before {\n  content: \"\\F87D\";\n}\n\n.fa-renren:before {\n  content: \"\\F18B\";\n}\n\n.fa-reply:before {\n  content: \"\\F3E5\";\n}\n\n.fa-reply-all:before {\n  content: \"\\F122\";\n}\n\n.fa-replyd:before {\n  content: \"\\F3E6\";\n}\n\n.fa-republican:before {\n  content: \"\\F75E\";\n}\n\n.fa-researchgate:before {\n  content: \"\\F4F8\";\n}\n\n.fa-resolving:before {\n  content: \"\\F3E7\";\n}\n\n.fa-restroom:before {\n  content: \"\\F7BD\";\n}\n\n.fa-retweet:before {\n  content: \"\\F079\";\n}\n\n.fa-rev:before {\n  content: \"\\F5B2\";\n}\n\n.fa-ribbon:before {\n  content: \"\\F4D6\";\n}\n\n.fa-ring:before {\n  content: \"\\F70B\";\n}\n\n.fa-road:before {\n  content: \"\\F018\";\n}\n\n.fa-robot:before {\n  content: \"\\F544\";\n}\n\n.fa-rocket:before {\n  content: \"\\F135\";\n}\n\n.fa-rocketchat:before {\n  content: \"\\F3E8\";\n}\n\n.fa-rockrms:before {\n  content: \"\\F3E9\";\n}\n\n.fa-route:before {\n  content: \"\\F4D7\";\n}\n\n.fa-rss:before {\n  content: \"\\F09E\";\n}\n\n.fa-rss-square:before {\n  content: \"\\F143\";\n}\n\n.fa-ruble-sign:before {\n  content: \"\\F158\";\n}\n\n.fa-ruler:before {\n  content: \"\\F545\";\n}\n\n.fa-ruler-combined:before {\n  content: \"\\F546\";\n}\n\n.fa-ruler-horizontal:before {\n  content: \"\\F547\";\n}\n\n.fa-ruler-vertical:before {\n  content: \"\\F548\";\n}\n\n.fa-running:before {\n  content: \"\\F70C\";\n}\n\n.fa-rupee-sign:before {\n  content: \"\\F156\";\n}\n\n.fa-sad-cry:before {\n  content: \"\\F5B3\";\n}\n\n.fa-sad-tear:before {\n  content: \"\\F5B4\";\n}\n\n.fa-safari:before {\n  content: \"\\F267\";\n}\n\n.fa-salesforce:before {\n  content: \"\\F83B\";\n}\n\n.fa-sass:before {\n  content: \"\\F41E\";\n}\n\n.fa-satellite:before {\n  content: \"\\F7BF\";\n}\n\n.fa-satellite-dish:before {\n  content: \"\\F7C0\";\n}\n\n.fa-save:before {\n  content: \"\\F0C7\";\n}\n\n.fa-schlix:before {\n  content: \"\\F3EA\";\n}\n\n.fa-school:before {\n  content: \"\\F549\";\n}\n\n.fa-screwdriver:before {\n  content: \"\\F54A\";\n}\n\n.fa-scribd:before {\n  content: \"\\F28A\";\n}\n\n.fa-scroll:before {\n  content: \"\\F70E\";\n}\n\n.fa-sd-card:before {\n  content: \"\\F7C2\";\n}\n\n.fa-search:before {\n  content: \"\\F002\";\n}\n\n.fa-search-dollar:before {\n  content: \"\\F688\";\n}\n\n.fa-search-location:before {\n  content: \"\\F689\";\n}\n\n.fa-search-minus:before {\n  content: \"\\F010\";\n}\n\n.fa-search-plus:before {\n  content: \"\\F00E\";\n}\n\n.fa-searchengin:before {\n  content: \"\\F3EB\";\n}\n\n.fa-seedling:before {\n  content: \"\\F4D8\";\n}\n\n.fa-sellcast:before {\n  content: \"\\F2DA\";\n}\n\n.fa-sellsy:before {\n  content: \"\\F213\";\n}\n\n.fa-server:before {\n  content: \"\\F233\";\n}\n\n.fa-servicestack:before {\n  content: \"\\F3EC\";\n}\n\n.fa-shapes:before {\n  content: \"\\F61F\";\n}\n\n.fa-share:before {\n  content: \"\\F064\";\n}\n\n.fa-share-alt:before {\n  content: \"\\F1E0\";\n}\n\n.fa-share-alt-square:before {\n  content: \"\\F1E1\";\n}\n\n.fa-share-square:before {\n  content: \"\\F14D\";\n}\n\n.fa-shekel-sign:before {\n  content: \"\\F20B\";\n}\n\n.fa-shield-alt:before {\n  content: \"\\F3ED\";\n}\n\n.fa-ship:before {\n  content: \"\\F21A\";\n}\n\n.fa-shipping-fast:before {\n  content: \"\\F48B\";\n}\n\n.fa-shirtsinbulk:before {\n  content: \"\\F214\";\n}\n\n.fa-shoe-prints:before {\n  content: \"\\F54B\";\n}\n\n.fa-shopping-bag:before {\n  content: \"\\F290\";\n}\n\n.fa-shopping-basket:before {\n  content: \"\\F291\";\n}\n\n.fa-shopping-cart:before {\n  content: \"\\F07A\";\n}\n\n.fa-shopware:before {\n  content: \"\\F5B5\";\n}\n\n.fa-shower:before {\n  content: \"\\F2CC\";\n}\n\n.fa-shuttle-van:before {\n  content: \"\\F5B6\";\n}\n\n.fa-sign:before {\n  content: \"\\F4D9\";\n}\n\n.fa-sign-in-alt:before {\n  content: \"\\F2F6\";\n}\n\n.fa-sign-language:before {\n  content: \"\\F2A7\";\n}\n\n.fa-sign-out-alt:before {\n  content: \"\\F2F5\";\n}\n\n.fa-signal:before {\n  content: \"\\F012\";\n}\n\n.fa-signature:before {\n  content: \"\\F5B7\";\n}\n\n.fa-sim-card:before {\n  content: \"\\F7C4\";\n}\n\n.fa-simplybuilt:before {\n  content: \"\\F215\";\n}\n\n.fa-sistrix:before {\n  content: \"\\F3EE\";\n}\n\n.fa-sitemap:before {\n  content: \"\\F0E8\";\n}\n\n.fa-sith:before {\n  content: \"\\F512\";\n}\n\n.fa-skating:before {\n  content: \"\\F7C5\";\n}\n\n.fa-sketch:before {\n  content: \"\\F7C6\";\n}\n\n.fa-skiing:before {\n  content: \"\\F7C9\";\n}\n\n.fa-skiing-nordic:before {\n  content: \"\\F7CA\";\n}\n\n.fa-skull:before {\n  content: \"\\F54C\";\n}\n\n.fa-skull-crossbones:before {\n  content: \"\\F714\";\n}\n\n.fa-skyatlas:before {\n  content: \"\\F216\";\n}\n\n.fa-skype:before {\n  content: \"\\F17E\";\n}\n\n.fa-slack:before {\n  content: \"\\F198\";\n}\n\n.fa-slack-hash:before {\n  content: \"\\F3EF\";\n}\n\n.fa-slash:before {\n  content: \"\\F715\";\n}\n\n.fa-sleigh:before {\n  content: \"\\F7CC\";\n}\n\n.fa-sliders-h:before {\n  content: \"\\F1DE\";\n}\n\n.fa-slideshare:before {\n  content: \"\\F1E7\";\n}\n\n.fa-smile:before {\n  content: \"\\F118\";\n}\n\n.fa-smile-beam:before {\n  content: \"\\F5B8\";\n}\n\n.fa-smile-wink:before {\n  content: \"\\F4DA\";\n}\n\n.fa-smog:before {\n  content: \"\\F75F\";\n}\n\n.fa-smoking:before {\n  content: \"\\F48D\";\n}\n\n.fa-smoking-ban:before {\n  content: \"\\F54D\";\n}\n\n.fa-sms:before {\n  content: \"\\F7CD\";\n}\n\n.fa-snapchat:before {\n  content: \"\\F2AB\";\n}\n\n.fa-snapchat-ghost:before {\n  content: \"\\F2AC\";\n}\n\n.fa-snapchat-square:before {\n  content: \"\\F2AD\";\n}\n\n.fa-snowboarding:before {\n  content: \"\\F7CE\";\n}\n\n.fa-snowflake:before {\n  content: \"\\F2DC\";\n}\n\n.fa-snowman:before {\n  content: \"\\F7D0\";\n}\n\n.fa-snowplow:before {\n  content: \"\\F7D2\";\n}\n\n.fa-socks:before {\n  content: \"\\F696\";\n}\n\n.fa-solar-panel:before {\n  content: \"\\F5BA\";\n}\n\n.fa-sort:before {\n  content: \"\\F0DC\";\n}\n\n.fa-sort-alpha-down:before {\n  content: \"\\F15D\";\n}\n\n.fa-sort-alpha-down-alt:before {\n  content: \"\\F881\";\n}\n\n.fa-sort-alpha-up:before {\n  content: \"\\F15E\";\n}\n\n.fa-sort-alpha-up-alt:before {\n  content: \"\\F882\";\n}\n\n.fa-sort-amount-down:before {\n  content: \"\\F160\";\n}\n\n.fa-sort-amount-down-alt:before {\n  content: \"\\F884\";\n}\n\n.fa-sort-amount-up:before {\n  content: \"\\F161\";\n}\n\n.fa-sort-amount-up-alt:before {\n  content: \"\\F885\";\n}\n\n.fa-sort-down:before {\n  content: \"\\F0DD\";\n}\n\n.fa-sort-numeric-down:before {\n  content: \"\\F162\";\n}\n\n.fa-sort-numeric-down-alt:before {\n  content: \"\\F886\";\n}\n\n.fa-sort-numeric-up:before {\n  content: \"\\F163\";\n}\n\n.fa-sort-numeric-up-alt:before {\n  content: \"\\F887\";\n}\n\n.fa-sort-up:before {\n  content: \"\\F0DE\";\n}\n\n.fa-soundcloud:before {\n  content: \"\\F1BE\";\n}\n\n.fa-sourcetree:before {\n  content: \"\\F7D3\";\n}\n\n.fa-spa:before {\n  content: \"\\F5BB\";\n}\n\n.fa-space-shuttle:before {\n  content: \"\\F197\";\n}\n\n.fa-speakap:before {\n  content: \"\\F3F3\";\n}\n\n.fa-speaker-deck:before {\n  content: \"\\F83C\";\n}\n\n.fa-spell-check:before {\n  content: \"\\F891\";\n}\n\n.fa-spider:before {\n  content: \"\\F717\";\n}\n\n.fa-spinner:before {\n  content: \"\\F110\";\n}\n\n.fa-splotch:before {\n  content: \"\\F5BC\";\n}\n\n.fa-spotify:before {\n  content: \"\\F1BC\";\n}\n\n.fa-spray-can:before {\n  content: \"\\F5BD\";\n}\n\n.fa-square:before {\n  content: \"\\F0C8\";\n}\n\n.fa-square-full:before {\n  content: \"\\F45C\";\n}\n\n.fa-square-root-alt:before {\n  content: \"\\F698\";\n}\n\n.fa-squarespace:before {\n  content: \"\\F5BE\";\n}\n\n.fa-stack-exchange:before {\n  content: \"\\F18D\";\n}\n\n.fa-stack-overflow:before {\n  content: \"\\F16C\";\n}\n\n.fa-stackpath:before {\n  content: \"\\F842\";\n}\n\n.fa-stamp:before {\n  content: \"\\F5BF\";\n}\n\n.fa-star:before {\n  content: \"\\F005\";\n}\n\n.fa-star-and-crescent:before {\n  content: \"\\F699\";\n}\n\n.fa-star-half:before {\n  content: \"\\F089\";\n}\n\n.fa-star-half-alt:before {\n  content: \"\\F5C0\";\n}\n\n.fa-star-of-david:before {\n  content: \"\\F69A\";\n}\n\n.fa-star-of-life:before {\n  content: \"\\F621\";\n}\n\n.fa-staylinked:before {\n  content: \"\\F3F5\";\n}\n\n.fa-steam:before {\n  content: \"\\F1B6\";\n}\n\n.fa-steam-square:before {\n  content: \"\\F1B7\";\n}\n\n.fa-steam-symbol:before {\n  content: \"\\F3F6\";\n}\n\n.fa-step-backward:before {\n  content: \"\\F048\";\n}\n\n.fa-step-forward:before {\n  content: \"\\F051\";\n}\n\n.fa-stethoscope:before {\n  content: \"\\F0F1\";\n}\n\n.fa-sticker-mule:before {\n  content: \"\\F3F7\";\n}\n\n.fa-sticky-note:before {\n  content: \"\\F249\";\n}\n\n.fa-stop:before {\n  content: \"\\F04D\";\n}\n\n.fa-stop-circle:before {\n  content: \"\\F28D\";\n}\n\n.fa-stopwatch:before {\n  content: \"\\F2F2\";\n}\n\n.fa-store:before {\n  content: \"\\F54E\";\n}\n\n.fa-store-alt:before {\n  content: \"\\F54F\";\n}\n\n.fa-strava:before {\n  content: \"\\F428\";\n}\n\n.fa-stream:before {\n  content: \"\\F550\";\n}\n\n.fa-street-view:before {\n  content: \"\\F21D\";\n}\n\n.fa-strikethrough:before {\n  content: \"\\F0CC\";\n}\n\n.fa-stripe:before {\n  content: \"\\F429\";\n}\n\n.fa-stripe-s:before {\n  content: \"\\F42A\";\n}\n\n.fa-stroopwafel:before {\n  content: \"\\F551\";\n}\n\n.fa-studiovinari:before {\n  content: \"\\F3F8\";\n}\n\n.fa-stumbleupon:before {\n  content: \"\\F1A4\";\n}\n\n.fa-stumbleupon-circle:before {\n  content: \"\\F1A3\";\n}\n\n.fa-subscript:before {\n  content: \"\\F12C\";\n}\n\n.fa-subway:before {\n  content: \"\\F239\";\n}\n\n.fa-suitcase:before {\n  content: \"\\F0F2\";\n}\n\n.fa-suitcase-rolling:before {\n  content: \"\\F5C1\";\n}\n\n.fa-sun:before {\n  content: \"\\F185\";\n}\n\n.fa-superpowers:before {\n  content: \"\\F2DD\";\n}\n\n.fa-superscript:before {\n  content: \"\\F12B\";\n}\n\n.fa-supple:before {\n  content: \"\\F3F9\";\n}\n\n.fa-surprise:before {\n  content: \"\\F5C2\";\n}\n\n.fa-suse:before {\n  content: \"\\F7D6\";\n}\n\n.fa-swatchbook:before {\n  content: \"\\F5C3\";\n}\n\n.fa-swimmer:before {\n  content: \"\\F5C4\";\n}\n\n.fa-swimming-pool:before {\n  content: \"\\F5C5\";\n}\n\n.fa-symfony:before {\n  content: \"\\F83D\";\n}\n\n.fa-synagogue:before {\n  content: \"\\F69B\";\n}\n\n.fa-sync:before {\n  content: \"\\F021\";\n}\n\n.fa-sync-alt:before {\n  content: \"\\F2F1\";\n}\n\n.fa-syringe:before {\n  content: \"\\F48E\";\n}\n\n.fa-table:before {\n  content: \"\\F0CE\";\n}\n\n.fa-table-tennis:before {\n  content: \"\\F45D\";\n}\n\n.fa-tablet:before {\n  content: \"\\F10A\";\n}\n\n.fa-tablet-alt:before {\n  content: \"\\F3FA\";\n}\n\n.fa-tablets:before {\n  content: \"\\F490\";\n}\n\n.fa-tachometer-alt:before {\n  content: \"\\F3FD\";\n}\n\n.fa-tag:before {\n  content: \"\\F02B\";\n}\n\n.fa-tags:before {\n  content: \"\\F02C\";\n}\n\n.fa-tape:before {\n  content: \"\\F4DB\";\n}\n\n.fa-tasks:before {\n  content: \"\\F0AE\";\n}\n\n.fa-taxi:before {\n  content: \"\\F1BA\";\n}\n\n.fa-teamspeak:before {\n  content: \"\\F4F9\";\n}\n\n.fa-teeth:before {\n  content: \"\\F62E\";\n}\n\n.fa-teeth-open:before {\n  content: \"\\F62F\";\n}\n\n.fa-telegram:before {\n  content: \"\\F2C6\";\n}\n\n.fa-telegram-plane:before {\n  content: \"\\F3FE\";\n}\n\n.fa-temperature-high:before {\n  content: \"\\F769\";\n}\n\n.fa-temperature-low:before {\n  content: \"\\F76B\";\n}\n\n.fa-tencent-weibo:before {\n  content: \"\\F1D5\";\n}\n\n.fa-tenge:before {\n  content: \"\\F7D7\";\n}\n\n.fa-terminal:before {\n  content: \"\\F120\";\n}\n\n.fa-text-height:before {\n  content: \"\\F034\";\n}\n\n.fa-text-width:before {\n  content: \"\\F035\";\n}\n\n.fa-th:before {\n  content: \"\\F00A\";\n}\n\n.fa-th-large:before {\n  content: \"\\F009\";\n}\n\n.fa-th-list:before {\n  content: \"\\F00B\";\n}\n\n.fa-the-red-yeti:before {\n  content: \"\\F69D\";\n}\n\n.fa-theater-masks:before {\n  content: \"\\F630\";\n}\n\n.fa-themeco:before {\n  content: \"\\F5C6\";\n}\n\n.fa-themeisle:before {\n  content: \"\\F2B2\";\n}\n\n.fa-thermometer:before {\n  content: \"\\F491\";\n}\n\n.fa-thermometer-empty:before {\n  content: \"\\F2CB\";\n}\n\n.fa-thermometer-full:before {\n  content: \"\\F2C7\";\n}\n\n.fa-thermometer-half:before {\n  content: \"\\F2C9\";\n}\n\n.fa-thermometer-quarter:before {\n  content: \"\\F2CA\";\n}\n\n.fa-thermometer-three-quarters:before {\n  content: \"\\F2C8\";\n}\n\n.fa-think-peaks:before {\n  content: \"\\F731\";\n}\n\n.fa-thumbs-down:before {\n  content: \"\\F165\";\n}\n\n.fa-thumbs-up:before {\n  content: \"\\F164\";\n}\n\n.fa-thumbtack:before {\n  content: \"\\F08D\";\n}\n\n.fa-ticket-alt:before {\n  content: \"\\F3FF\";\n}\n\n.fa-times:before {\n  content: \"\\F00D\";\n}\n\n.fa-times-circle:before {\n  content: \"\\F057\";\n}\n\n.fa-tint:before {\n  content: \"\\F043\";\n}\n\n.fa-tint-slash:before {\n  content: \"\\F5C7\";\n}\n\n.fa-tired:before {\n  content: \"\\F5C8\";\n}\n\n.fa-toggle-off:before {\n  content: \"\\F204\";\n}\n\n.fa-toggle-on:before {\n  content: \"\\F205\";\n}\n\n.fa-toilet:before {\n  content: \"\\F7D8\";\n}\n\n.fa-toilet-paper:before {\n  content: \"\\F71E\";\n}\n\n.fa-toolbox:before {\n  content: \"\\F552\";\n}\n\n.fa-tools:before {\n  content: \"\\F7D9\";\n}\n\n.fa-tooth:before {\n  content: \"\\F5C9\";\n}\n\n.fa-torah:before {\n  content: \"\\F6A0\";\n}\n\n.fa-torii-gate:before {\n  content: \"\\F6A1\";\n}\n\n.fa-tractor:before {\n  content: \"\\F722\";\n}\n\n.fa-trade-federation:before {\n  content: \"\\F513\";\n}\n\n.fa-trademark:before {\n  content: \"\\F25C\";\n}\n\n.fa-traffic-light:before {\n  content: \"\\F637\";\n}\n\n.fa-train:before {\n  content: \"\\F238\";\n}\n\n.fa-tram:before {\n  content: \"\\F7DA\";\n}\n\n.fa-transgender:before {\n  content: \"\\F224\";\n}\n\n.fa-transgender-alt:before {\n  content: \"\\F225\";\n}\n\n.fa-trash:before {\n  content: \"\\F1F8\";\n}\n\n.fa-trash-alt:before {\n  content: \"\\F2ED\";\n}\n\n.fa-trash-restore:before {\n  content: \"\\F829\";\n}\n\n.fa-trash-restore-alt:before {\n  content: \"\\F82A\";\n}\n\n.fa-tree:before {\n  content: \"\\F1BB\";\n}\n\n.fa-trello:before {\n  content: \"\\F181\";\n}\n\n.fa-tripadvisor:before {\n  content: \"\\F262\";\n}\n\n.fa-trophy:before {\n  content: \"\\F091\";\n}\n\n.fa-truck:before {\n  content: \"\\F0D1\";\n}\n\n.fa-truck-loading:before {\n  content: \"\\F4DE\";\n}\n\n.fa-truck-monster:before {\n  content: \"\\F63B\";\n}\n\n.fa-truck-moving:before {\n  content: \"\\F4DF\";\n}\n\n.fa-truck-pickup:before {\n  content: \"\\F63C\";\n}\n\n.fa-tshirt:before {\n  content: \"\\F553\";\n}\n\n.fa-tty:before {\n  content: \"\\F1E4\";\n}\n\n.fa-tumblr:before {\n  content: \"\\F173\";\n}\n\n.fa-tumblr-square:before {\n  content: \"\\F174\";\n}\n\n.fa-tv:before {\n  content: \"\\F26C\";\n}\n\n.fa-twitch:before {\n  content: \"\\F1E8\";\n}\n\n.fa-twitter:before {\n  content: \"\\F099\";\n}\n\n.fa-twitter-square:before {\n  content: \"\\F081\";\n}\n\n.fa-typo3:before {\n  content: \"\\F42B\";\n}\n\n.fa-uber:before {\n  content: \"\\F402\";\n}\n\n.fa-ubuntu:before {\n  content: \"\\F7DF\";\n}\n\n.fa-uikit:before {\n  content: \"\\F403\";\n}\n\n.fa-umbrella:before {\n  content: \"\\F0E9\";\n}\n\n.fa-umbrella-beach:before {\n  content: \"\\F5CA\";\n}\n\n.fa-underline:before {\n  content: \"\\F0CD\";\n}\n\n.fa-undo:before {\n  content: \"\\F0E2\";\n}\n\n.fa-undo-alt:before {\n  content: \"\\F2EA\";\n}\n\n.fa-uniregistry:before {\n  content: \"\\F404\";\n}\n\n.fa-universal-access:before {\n  content: \"\\F29A\";\n}\n\n.fa-university:before {\n  content: \"\\F19C\";\n}\n\n.fa-unlink:before {\n  content: \"\\F127\";\n}\n\n.fa-unlock:before {\n  content: \"\\F09C\";\n}\n\n.fa-unlock-alt:before {\n  content: \"\\F13E\";\n}\n\n.fa-untappd:before {\n  content: \"\\F405\";\n}\n\n.fa-upload:before {\n  content: \"\\F093\";\n}\n\n.fa-ups:before {\n  content: \"\\F7E0\";\n}\n\n.fa-usb:before {\n  content: \"\\F287\";\n}\n\n.fa-user:before {\n  content: \"\\F007\";\n}\n\n.fa-user-alt:before {\n  content: \"\\F406\";\n}\n\n.fa-user-alt-slash:before {\n  content: \"\\F4FA\";\n}\n\n.fa-user-astronaut:before {\n  content: \"\\F4FB\";\n}\n\n.fa-user-check:before {\n  content: \"\\F4FC\";\n}\n\n.fa-user-circle:before {\n  content: \"\\F2BD\";\n}\n\n.fa-user-clock:before {\n  content: \"\\F4FD\";\n}\n\n.fa-user-cog:before {\n  content: \"\\F4FE\";\n}\n\n.fa-user-edit:before {\n  content: \"\\F4FF\";\n}\n\n.fa-user-friends:before {\n  content: \"\\F500\";\n}\n\n.fa-user-graduate:before {\n  content: \"\\F501\";\n}\n\n.fa-user-injured:before {\n  content: \"\\F728\";\n}\n\n.fa-user-lock:before {\n  content: \"\\F502\";\n}\n\n.fa-user-md:before {\n  content: \"\\F0F0\";\n}\n\n.fa-user-minus:before {\n  content: \"\\F503\";\n}\n\n.fa-user-ninja:before {\n  content: \"\\F504\";\n}\n\n.fa-user-nurse:before {\n  content: \"\\F82F\";\n}\n\n.fa-user-plus:before {\n  content: \"\\F234\";\n}\n\n.fa-user-secret:before {\n  content: \"\\F21B\";\n}\n\n.fa-user-shield:before {\n  content: \"\\F505\";\n}\n\n.fa-user-slash:before {\n  content: \"\\F506\";\n}\n\n.fa-user-tag:before {\n  content: \"\\F507\";\n}\n\n.fa-user-tie:before {\n  content: \"\\F508\";\n}\n\n.fa-user-times:before {\n  content: \"\\F235\";\n}\n\n.fa-users:before {\n  content: \"\\F0C0\";\n}\n\n.fa-users-cog:before {\n  content: \"\\F509\";\n}\n\n.fa-usps:before {\n  content: \"\\F7E1\";\n}\n\n.fa-ussunnah:before {\n  content: \"\\F407\";\n}\n\n.fa-utensil-spoon:before {\n  content: \"\\F2E5\";\n}\n\n.fa-utensils:before {\n  content: \"\\F2E7\";\n}\n\n.fa-vaadin:before {\n  content: \"\\F408\";\n}\n\n.fa-vector-square:before {\n  content: \"\\F5CB\";\n}\n\n.fa-venus:before {\n  content: \"\\F221\";\n}\n\n.fa-venus-double:before {\n  content: \"\\F226\";\n}\n\n.fa-venus-mars:before {\n  content: \"\\F228\";\n}\n\n.fa-viacoin:before {\n  content: \"\\F237\";\n}\n\n.fa-viadeo:before {\n  content: \"\\F2A9\";\n}\n\n.fa-viadeo-square:before {\n  content: \"\\F2AA\";\n}\n\n.fa-vial:before {\n  content: \"\\F492\";\n}\n\n.fa-vials:before {\n  content: \"\\F493\";\n}\n\n.fa-viber:before {\n  content: \"\\F409\";\n}\n\n.fa-video:before {\n  content: \"\\F03D\";\n}\n\n.fa-video-slash:before {\n  content: \"\\F4E2\";\n}\n\n.fa-vihara:before {\n  content: \"\\F6A7\";\n}\n\n.fa-vimeo:before {\n  content: \"\\F40A\";\n}\n\n.fa-vimeo-square:before {\n  content: \"\\F194\";\n}\n\n.fa-vimeo-v:before {\n  content: \"\\F27D\";\n}\n\n.fa-vine:before {\n  content: \"\\F1CA\";\n}\n\n.fa-vk:before {\n  content: \"\\F189\";\n}\n\n.fa-vnv:before {\n  content: \"\\F40B\";\n}\n\n.fa-voicemail:before {\n  content: \"\\F897\";\n}\n\n.fa-volleyball-ball:before {\n  content: \"\\F45F\";\n}\n\n.fa-volume-down:before {\n  content: \"\\F027\";\n}\n\n.fa-volume-mute:before {\n  content: \"\\F6A9\";\n}\n\n.fa-volume-off:before {\n  content: \"\\F026\";\n}\n\n.fa-volume-up:before {\n  content: \"\\F028\";\n}\n\n.fa-vote-yea:before {\n  content: \"\\F772\";\n}\n\n.fa-vr-cardboard:before {\n  content: \"\\F729\";\n}\n\n.fa-vuejs:before {\n  content: \"\\F41F\";\n}\n\n.fa-walking:before {\n  content: \"\\F554\";\n}\n\n.fa-wallet:before {\n  content: \"\\F555\";\n}\n\n.fa-warehouse:before {\n  content: \"\\F494\";\n}\n\n.fa-water:before {\n  content: \"\\F773\";\n}\n\n.fa-wave-square:before {\n  content: \"\\F83E\";\n}\n\n.fa-waze:before {\n  content: \"\\F83F\";\n}\n\n.fa-weebly:before {\n  content: \"\\F5CC\";\n}\n\n.fa-weibo:before {\n  content: \"\\F18A\";\n}\n\n.fa-weight:before {\n  content: \"\\F496\";\n}\n\n.fa-weight-hanging:before {\n  content: \"\\F5CD\";\n}\n\n.fa-weixin:before {\n  content: \"\\F1D7\";\n}\n\n.fa-whatsapp:before {\n  content: \"\\F232\";\n}\n\n.fa-whatsapp-square:before {\n  content: \"\\F40C\";\n}\n\n.fa-wheelchair:before {\n  content: \"\\F193\";\n}\n\n.fa-whmcs:before {\n  content: \"\\F40D\";\n}\n\n.fa-wifi:before {\n  content: \"\\F1EB\";\n}\n\n.fa-wikipedia-w:before {\n  content: \"\\F266\";\n}\n\n.fa-wind:before {\n  content: \"\\F72E\";\n}\n\n.fa-window-close:before {\n  content: \"\\F410\";\n}\n\n.fa-window-maximize:before {\n  content: \"\\F2D0\";\n}\n\n.fa-window-minimize:before {\n  content: \"\\F2D1\";\n}\n\n.fa-window-restore:before {\n  content: \"\\F2D2\";\n}\n\n.fa-windows:before {\n  content: \"\\F17A\";\n}\n\n.fa-wine-bottle:before {\n  content: \"\\F72F\";\n}\n\n.fa-wine-glass:before {\n  content: \"\\F4E3\";\n}\n\n.fa-wine-glass-alt:before {\n  content: \"\\F5CE\";\n}\n\n.fa-wix:before {\n  content: \"\\F5CF\";\n}\n\n.fa-wizards-of-the-coast:before {\n  content: \"\\F730\";\n}\n\n.fa-wolf-pack-battalion:before {\n  content: \"\\F514\";\n}\n\n.fa-won-sign:before {\n  content: \"\\F159\";\n}\n\n.fa-wordpress:before {\n  content: \"\\F19A\";\n}\n\n.fa-wordpress-simple:before {\n  content: \"\\F411\";\n}\n\n.fa-wpbeginner:before {\n  content: \"\\F297\";\n}\n\n.fa-wpexplorer:before {\n  content: \"\\F2DE\";\n}\n\n.fa-wpforms:before {\n  content: \"\\F298\";\n}\n\n.fa-wpressr:before {\n  content: \"\\F3E4\";\n}\n\n.fa-wrench:before {\n  content: \"\\F0AD\";\n}\n\n.fa-x-ray:before {\n  content: \"\\F497\";\n}\n\n.fa-xbox:before {\n  content: \"\\F412\";\n}\n\n.fa-xing:before {\n  content: \"\\F168\";\n}\n\n.fa-xing-square:before {\n  content: \"\\F169\";\n}\n\n.fa-y-combinator:before {\n  content: \"\\F23B\";\n}\n\n.fa-yahoo:before {\n  content: \"\\F19E\";\n}\n\n.fa-yammer:before {\n  content: \"\\F840\";\n}\n\n.fa-yandex:before {\n  content: \"\\F413\";\n}\n\n.fa-yandex-international:before {\n  content: \"\\F414\";\n}\n\n.fa-yarn:before {\n  content: \"\\F7E3\";\n}\n\n.fa-yelp:before {\n  content: \"\\F1E9\";\n}\n\n.fa-yen-sign:before {\n  content: \"\\F157\";\n}\n\n.fa-yin-yang:before {\n  content: \"\\F6AD\";\n}\n\n.fa-yoast:before {\n  content: \"\\F2B1\";\n}\n\n.fa-youtube:before {\n  content: \"\\F167\";\n}\n\n.fa-youtube-square:before {\n  content: \"\\F431\";\n}\n\n.fa-zhihu:before {\n  content: \"\\F63F\";\n}\n\n.sr-only {\n  border: 0;\n  clip: rect(0, 0, 0, 0);\n  height: 1px;\n  margin: -1px;\n  overflow: hidden;\n  padding: 0;\n  position: absolute;\n  width: 1px;\n}\n\n.sr-only-focusable:active, .sr-only-focusable:focus {\n  clip: auto;\n  height: auto;\n  margin: 0;\n  overflow: visible;\n  position: static;\n  width: auto;\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/@fortawesome/fontawesome-free/scss/regular.scss":
+/*!*********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/dist/cjs.js??ref--7-3!./node_modules/@fortawesome/fontawesome-free/scss/regular.scss ***!
+  \*********************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var escape = __webpack_require__(/*! ../../../css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
+exports = module.exports = __webpack_require__(/*! ../../../css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "/*!\n * Font Awesome Free 5.9.0 by @fontawesome - https://fontawesome.com\n * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)\n */\n@font-face {\n  font-family: \"Font Awesome 5 Free\";\n  font-style: normal;\n  font-weight: 400;\n  font-display: auto;\n  src: url(" + escape(__webpack_require__(/*! ../webfonts/fa-regular-400.eot */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot")) + ");\n  src: url(" + escape(__webpack_require__(/*! ../webfonts/fa-regular-400.eot */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.eot")) + "?#iefix) format(\"embedded-opentype\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-regular-400.woff2 */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2")) + ") format(\"woff2\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-regular-400.woff */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff")) + ") format(\"woff\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-regular-400.ttf */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf")) + ") format(\"truetype\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-regular-400.svg */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.svg")) + "#fontawesome) format(\"svg\");\n}\n.far {\n  font-family: \"Font Awesome 5 Free\";\n  font-weight: 400;\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./node_modules/@fortawesome/fontawesome-free/scss/solid.scss":
+/*!*******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/dist/cjs.js??ref--7-3!./node_modules/@fortawesome/fontawesome-free/scss/solid.scss ***!
+  \*******************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var escape = __webpack_require__(/*! ../../../css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
+exports = module.exports = __webpack_require__(/*! ../../../css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "/*!\n * Font Awesome Free 5.9.0 by @fontawesome - https://fontawesome.com\n * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)\n */\n@font-face {\n  font-family: \"Font Awesome 5 Free\";\n  font-style: normal;\n  font-weight: 900;\n  font-display: auto;\n  src: url(" + escape(__webpack_require__(/*! ../webfonts/fa-solid-900.eot */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot")) + ");\n  src: url(" + escape(__webpack_require__(/*! ../webfonts/fa-solid-900.eot */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.eot")) + "?#iefix) format(\"embedded-opentype\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-solid-900.woff2 */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2")) + ") format(\"woff2\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-solid-900.woff */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff")) + ") format(\"woff\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-solid-900.ttf */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf")) + ") format(\"truetype\"), url(" + escape(__webpack_require__(/*! ../webfonts/fa-solid-900.svg */ "./node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.svg")) + "#fontawesome) format(\"svg\");\n}\n.fa,\n.fas {\n  font-family: \"Font Awesome 5 Free\";\n  font-weight: 900;\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/lib/css-base.js":
+/*!*************************************************!*\
+  !*** ./node_modules/css-loader/lib/css-base.js ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+/*
+	MIT License http://www.opensource.org/licenses/mit-license.php
+	Author Tobias Koppers @sokra
+*/
+// css base code, injected by the css-loader
+module.exports = function(useSourceMap) {
+	var list = [];
+
+	// return the list of modules as css string
+	list.toString = function toString() {
+		return this.map(function (item) {
+			var content = cssWithMappingToString(item, useSourceMap);
+			if(item[2]) {
+				return "@media " + item[2] + "{" + content + "}";
+			} else {
+				return content;
+			}
+		}).join("");
+	};
+
+	// import a list of modules into the list
+	list.i = function(modules, mediaQuery) {
+		if(typeof modules === "string")
+			modules = [[null, modules, ""]];
+		var alreadyImportedModules = {};
+		for(var i = 0; i < this.length; i++) {
+			var id = this[i][0];
+			if(typeof id === "number")
+				alreadyImportedModules[id] = true;
+		}
+		for(i = 0; i < modules.length; i++) {
+			var item = modules[i];
+			// skip already imported module
+			// this implementation is not 100% perfect for weird media query combinations
+			//  when a module is imported multiple times with different media queries.
+			//  I hope this will never occur (Hey this way we have smaller bundles)
+			if(typeof item[0] !== "number" || !alreadyImportedModules[item[0]]) {
+				if(mediaQuery && !item[2]) {
+					item[2] = mediaQuery;
+				} else if(mediaQuery) {
+					item[2] = "(" + item[2] + ") and (" + mediaQuery + ")";
+				}
+				list.push(item);
+			}
+		}
+	};
+	return list;
+};
+
+function cssWithMappingToString(item, useSourceMap) {
+	var content = item[1] || '';
+	var cssMapping = item[3];
+	if (!cssMapping) {
+		return content;
+	}
+
+	if (useSourceMap && typeof btoa === 'function') {
+		var sourceMapping = toComment(cssMapping);
+		var sourceURLs = cssMapping.sources.map(function (source) {
+			return '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'
+		});
+
+		return [content].concat(sourceURLs).concat([sourceMapping]).join('\n');
+	}
+
+	return [content].join('\n');
+}
+
+// Adapted from convert-source-map (MIT)
+function toComment(sourceMap) {
+	// eslint-disable-next-line no-undef
+	var base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));
+	var data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;
+
+	return '/*# ' + data + ' */';
+}
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/lib/url/escape.js":
+/*!***************************************************!*\
+  !*** ./node_modules/css-loader/lib/url/escape.js ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = function escape(url) {
+    if (typeof url !== 'string') {
+        return url
+    }
+    // If url is already wrapped in quotes, remove them
+    if (/^['"].*['"]$/.test(url)) {
+        url = url.slice(1, -1);
+    }
+    // Should url be wrapped?
+    // See https://drafts.csswg.org/css-values-3/#urls
+    if (/["'() \t\n]/.test(url)) {
+        return '"' + url.replace(/"/g, '\\"').replace(/\n/g, '\\n') + '"'
+    }
+
+    return url
+}
 
 
 /***/ }),
@@ -36847,6 +37358,12928 @@ process.umask = function() { return 0; };
 
 /***/ }),
 
+/***/ "./node_modules/setimmediate/setImmediate.js":
+/*!***************************************************!*\
+  !*** ./node_modules/setimmediate/setImmediate.js ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(global, process) {(function (global, undefined) {
+    "use strict";
+
+    if (global.setImmediate) {
+        return;
+    }
+
+    var nextHandle = 1; // Spec says greater than zero
+    var tasksByHandle = {};
+    var currentlyRunningATask = false;
+    var doc = global.document;
+    var registerImmediate;
+
+    function setImmediate(callback) {
+      // Callback can either be a function or a string
+      if (typeof callback !== "function") {
+        callback = new Function("" + callback);
+      }
+      // Copy function arguments
+      var args = new Array(arguments.length - 1);
+      for (var i = 0; i < args.length; i++) {
+          args[i] = arguments[i + 1];
+      }
+      // Store and register the task
+      var task = { callback: callback, args: args };
+      tasksByHandle[nextHandle] = task;
+      registerImmediate(nextHandle);
+      return nextHandle++;
+    }
+
+    function clearImmediate(handle) {
+        delete tasksByHandle[handle];
+    }
+
+    function run(task) {
+        var callback = task.callback;
+        var args = task.args;
+        switch (args.length) {
+        case 0:
+            callback();
+            break;
+        case 1:
+            callback(args[0]);
+            break;
+        case 2:
+            callback(args[0], args[1]);
+            break;
+        case 3:
+            callback(args[0], args[1], args[2]);
+            break;
+        default:
+            callback.apply(undefined, args);
+            break;
+        }
+    }
+
+    function runIfPresent(handle) {
+        // From the spec: "Wait until any invocations of this algorithm started before this one have completed."
+        // So if we're currently running a task, we'll need to delay this invocation.
+        if (currentlyRunningATask) {
+            // Delay by doing a setTimeout. setImmediate was tried instead, but in Firefox 7 it generated a
+            // "too much recursion" error.
+            setTimeout(runIfPresent, 0, handle);
+        } else {
+            var task = tasksByHandle[handle];
+            if (task) {
+                currentlyRunningATask = true;
+                try {
+                    run(task);
+                } finally {
+                    clearImmediate(handle);
+                    currentlyRunningATask = false;
+                }
+            }
+        }
+    }
+
+    function installNextTickImplementation() {
+        registerImmediate = function(handle) {
+            process.nextTick(function () { runIfPresent(handle); });
+        };
+    }
+
+    function canUsePostMessage() {
+        // The test against `importScripts` prevents this implementation from being installed inside a web worker,
+        // where `global.postMessage` means something completely different and can't be used for this purpose.
+        if (global.postMessage && !global.importScripts) {
+            var postMessageIsAsynchronous = true;
+            var oldOnMessage = global.onmessage;
+            global.onmessage = function() {
+                postMessageIsAsynchronous = false;
+            };
+            global.postMessage("", "*");
+            global.onmessage = oldOnMessage;
+            return postMessageIsAsynchronous;
+        }
+    }
+
+    function installPostMessageImplementation() {
+        // Installs an event handler on `global` for the `message` event: see
+        // * https://developer.mozilla.org/en/DOM/window.postMessage
+        // * http://www.whatwg.org/specs/web-apps/current-work/multipage/comms.html#crossDocumentMessages
+
+        var messagePrefix = "setImmediate$" + Math.random() + "$";
+        var onGlobalMessage = function(event) {
+            if (event.source === global &&
+                typeof event.data === "string" &&
+                event.data.indexOf(messagePrefix) === 0) {
+                runIfPresent(+event.data.slice(messagePrefix.length));
+            }
+        };
+
+        if (global.addEventListener) {
+            global.addEventListener("message", onGlobalMessage, false);
+        } else {
+            global.attachEvent("onmessage", onGlobalMessage);
+        }
+
+        registerImmediate = function(handle) {
+            global.postMessage(messagePrefix + handle, "*");
+        };
+    }
+
+    function installMessageChannelImplementation() {
+        var channel = new MessageChannel();
+        channel.port1.onmessage = function(event) {
+            var handle = event.data;
+            runIfPresent(handle);
+        };
+
+        registerImmediate = function(handle) {
+            channel.port2.postMessage(handle);
+        };
+    }
+
+    function installReadyStateChangeImplementation() {
+        var html = doc.documentElement;
+        registerImmediate = function(handle) {
+            // Create a <script> element; its readystatechange event will be fired asynchronously once it is inserted
+            // into the document. Do so, thus queuing up the task. Remember to clean up once it's been called.
+            var script = doc.createElement("script");
+            script.onreadystatechange = function () {
+                runIfPresent(handle);
+                script.onreadystatechange = null;
+                html.removeChild(script);
+                script = null;
+            };
+            html.appendChild(script);
+        };
+    }
+
+    function installSetTimeoutImplementation() {
+        registerImmediate = function(handle) {
+            setTimeout(runIfPresent, 0, handle);
+        };
+    }
+
+    // If supported, we should attach to the prototype of global, since that is where setTimeout et al. live.
+    var attachTo = Object.getPrototypeOf && Object.getPrototypeOf(global);
+    attachTo = attachTo && attachTo.setTimeout ? attachTo : global;
+
+    // Don't get fooled by e.g. browserify environments.
+    if ({}.toString.call(global.process) === "[object process]") {
+        // For Node.js before 0.9
+        installNextTickImplementation();
+
+    } else if (canUsePostMessage()) {
+        // For non-IE10 modern browsers
+        installPostMessageImplementation();
+
+    } else if (global.MessageChannel) {
+        // For web workers, where supported
+        installMessageChannelImplementation();
+
+    } else if (doc && "onreadystatechange" in doc.createElement("script")) {
+        // For IE 6–8
+        installReadyStateChangeImplementation();
+
+    } else {
+        // For older browsers
+        installSetTimeoutImplementation();
+    }
+
+    attachTo.setImmediate = setImmediate;
+    attachTo.clearImmediate = clearImmediate;
+}(typeof self === "undefined" ? typeof global === "undefined" ? this : global : self));
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js"), __webpack_require__(/*! ./../process/browser.js */ "./node_modules/process/browser.js")))
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/lib/addStyles.js":
+/*!****************************************************!*\
+  !*** ./node_modules/style-loader/lib/addStyles.js ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+/*
+	MIT License http://www.opensource.org/licenses/mit-license.php
+	Author Tobias Koppers @sokra
+*/
+
+var stylesInDom = {};
+
+var	memoize = function (fn) {
+	var memo;
+
+	return function () {
+		if (typeof memo === "undefined") memo = fn.apply(this, arguments);
+		return memo;
+	};
+};
+
+var isOldIE = memoize(function () {
+	// Test for IE <= 9 as proposed by Browserhacks
+	// @see http://browserhacks.com/#hack-e71d8692f65334173fee715c222cb805
+	// Tests for existence of standard globals is to allow style-loader
+	// to operate correctly into non-standard environments
+	// @see https://github.com/webpack-contrib/style-loader/issues/177
+	return window && document && document.all && !window.atob;
+});
+
+var getTarget = function (target, parent) {
+  if (parent){
+    return parent.querySelector(target);
+  }
+  return document.querySelector(target);
+};
+
+var getElement = (function (fn) {
+	var memo = {};
+
+	return function(target, parent) {
+                // If passing function in options, then use it for resolve "head" element.
+                // Useful for Shadow Root style i.e
+                // {
+                //   insertInto: function () { return document.querySelector("#foo").shadowRoot }
+                // }
+                if (typeof target === 'function') {
+                        return target();
+                }
+                if (typeof memo[target] === "undefined") {
+			var styleTarget = getTarget.call(this, target, parent);
+			// Special case to return head of iframe instead of iframe itself
+			if (window.HTMLIFrameElement && styleTarget instanceof window.HTMLIFrameElement) {
+				try {
+					// This will throw an exception if access to iframe is blocked
+					// due to cross-origin restrictions
+					styleTarget = styleTarget.contentDocument.head;
+				} catch(e) {
+					styleTarget = null;
+				}
+			}
+			memo[target] = styleTarget;
+		}
+		return memo[target]
+	};
+})();
+
+var singleton = null;
+var	singletonCounter = 0;
+var	stylesInsertedAtTop = [];
+
+var	fixUrls = __webpack_require__(/*! ./urls */ "./node_modules/style-loader/lib/urls.js");
+
+module.exports = function(list, options) {
+	if (typeof DEBUG !== "undefined" && DEBUG) {
+		if (typeof document !== "object") throw new Error("The style-loader cannot be used in a non-browser environment");
+	}
+
+	options = options || {};
+
+	options.attrs = typeof options.attrs === "object" ? options.attrs : {};
+
+	// Force single-tag solution on IE6-9, which has a hard limit on the # of <style>
+	// tags it will allow on a page
+	if (!options.singleton && typeof options.singleton !== "boolean") options.singleton = isOldIE();
+
+	// By default, add <style> tags to the <head> element
+        if (!options.insertInto) options.insertInto = "head";
+
+	// By default, add <style> tags to the bottom of the target
+	if (!options.insertAt) options.insertAt = "bottom";
+
+	var styles = listToStyles(list, options);
+
+	addStylesToDom(styles, options);
+
+	return function update (newList) {
+		var mayRemove = [];
+
+		for (var i = 0; i < styles.length; i++) {
+			var item = styles[i];
+			var domStyle = stylesInDom[item.id];
+
+			domStyle.refs--;
+			mayRemove.push(domStyle);
+		}
+
+		if(newList) {
+			var newStyles = listToStyles(newList, options);
+			addStylesToDom(newStyles, options);
+		}
+
+		for (var i = 0; i < mayRemove.length; i++) {
+			var domStyle = mayRemove[i];
+
+			if(domStyle.refs === 0) {
+				for (var j = 0; j < domStyle.parts.length; j++) domStyle.parts[j]();
+
+				delete stylesInDom[domStyle.id];
+			}
+		}
+	};
+};
+
+function addStylesToDom (styles, options) {
+	for (var i = 0; i < styles.length; i++) {
+		var item = styles[i];
+		var domStyle = stylesInDom[item.id];
+
+		if(domStyle) {
+			domStyle.refs++;
+
+			for(var j = 0; j < domStyle.parts.length; j++) {
+				domStyle.parts[j](item.parts[j]);
+			}
+
+			for(; j < item.parts.length; j++) {
+				domStyle.parts.push(addStyle(item.parts[j], options));
+			}
+		} else {
+			var parts = [];
+
+			for(var j = 0; j < item.parts.length; j++) {
+				parts.push(addStyle(item.parts[j], options));
+			}
+
+			stylesInDom[item.id] = {id: item.id, refs: 1, parts: parts};
+		}
+	}
+}
+
+function listToStyles (list, options) {
+	var styles = [];
+	var newStyles = {};
+
+	for (var i = 0; i < list.length; i++) {
+		var item = list[i];
+		var id = options.base ? item[0] + options.base : item[0];
+		var css = item[1];
+		var media = item[2];
+		var sourceMap = item[3];
+		var part = {css: css, media: media, sourceMap: sourceMap};
+
+		if(!newStyles[id]) styles.push(newStyles[id] = {id: id, parts: [part]});
+		else newStyles[id].parts.push(part);
+	}
+
+	return styles;
+}
+
+function insertStyleElement (options, style) {
+	var target = getElement(options.insertInto)
+
+	if (!target) {
+		throw new Error("Couldn't find a style target. This probably means that the value for the 'insertInto' parameter is invalid.");
+	}
+
+	var lastStyleElementInsertedAtTop = stylesInsertedAtTop[stylesInsertedAtTop.length - 1];
+
+	if (options.insertAt === "top") {
+		if (!lastStyleElementInsertedAtTop) {
+			target.insertBefore(style, target.firstChild);
+		} else if (lastStyleElementInsertedAtTop.nextSibling) {
+			target.insertBefore(style, lastStyleElementInsertedAtTop.nextSibling);
+		} else {
+			target.appendChild(style);
+		}
+		stylesInsertedAtTop.push(style);
+	} else if (options.insertAt === "bottom") {
+		target.appendChild(style);
+	} else if (typeof options.insertAt === "object" && options.insertAt.before) {
+		var nextSibling = getElement(options.insertAt.before, target);
+		target.insertBefore(style, nextSibling);
+	} else {
+		throw new Error("[Style Loader]\n\n Invalid value for parameter 'insertAt' ('options.insertAt') found.\n Must be 'top', 'bottom', or Object.\n (https://github.com/webpack-contrib/style-loader#insertat)\n");
+	}
+}
+
+function removeStyleElement (style) {
+	if (style.parentNode === null) return false;
+	style.parentNode.removeChild(style);
+
+	var idx = stylesInsertedAtTop.indexOf(style);
+	if(idx >= 0) {
+		stylesInsertedAtTop.splice(idx, 1);
+	}
+}
+
+function createStyleElement (options) {
+	var style = document.createElement("style");
+
+	if(options.attrs.type === undefined) {
+		options.attrs.type = "text/css";
+	}
+
+	if(options.attrs.nonce === undefined) {
+		var nonce = getNonce();
+		if (nonce) {
+			options.attrs.nonce = nonce;
+		}
+	}
+
+	addAttrs(style, options.attrs);
+	insertStyleElement(options, style);
+
+	return style;
+}
+
+function createLinkElement (options) {
+	var link = document.createElement("link");
+
+	if(options.attrs.type === undefined) {
+		options.attrs.type = "text/css";
+	}
+	options.attrs.rel = "stylesheet";
+
+	addAttrs(link, options.attrs);
+	insertStyleElement(options, link);
+
+	return link;
+}
+
+function addAttrs (el, attrs) {
+	Object.keys(attrs).forEach(function (key) {
+		el.setAttribute(key, attrs[key]);
+	});
+}
+
+function getNonce() {
+	if (false) {}
+
+	return __webpack_require__.nc;
+}
+
+function addStyle (obj, options) {
+	var style, update, remove, result;
+
+	// If a transform function was defined, run it on the css
+	if (options.transform && obj.css) {
+	    result = typeof options.transform === 'function'
+		 ? options.transform(obj.css) 
+		 : options.transform.default(obj.css);
+
+	    if (result) {
+	    	// If transform returns a value, use that instead of the original css.
+	    	// This allows running runtime transformations on the css.
+	    	obj.css = result;
+	    } else {
+	    	// If the transform function returns a falsy value, don't add this css.
+	    	// This allows conditional loading of css
+	    	return function() {
+	    		// noop
+	    	};
+	    }
+	}
+
+	if (options.singleton) {
+		var styleIndex = singletonCounter++;
+
+		style = singleton || (singleton = createStyleElement(options));
+
+		update = applyToSingletonTag.bind(null, style, styleIndex, false);
+		remove = applyToSingletonTag.bind(null, style, styleIndex, true);
+
+	} else if (
+		obj.sourceMap &&
+		typeof URL === "function" &&
+		typeof URL.createObjectURL === "function" &&
+		typeof URL.revokeObjectURL === "function" &&
+		typeof Blob === "function" &&
+		typeof btoa === "function"
+	) {
+		style = createLinkElement(options);
+		update = updateLink.bind(null, style, options);
+		remove = function () {
+			removeStyleElement(style);
+
+			if(style.href) URL.revokeObjectURL(style.href);
+		};
+	} else {
+		style = createStyleElement(options);
+		update = applyToTag.bind(null, style);
+		remove = function () {
+			removeStyleElement(style);
+		};
+	}
+
+	update(obj);
+
+	return function updateStyle (newObj) {
+		if (newObj) {
+			if (
+				newObj.css === obj.css &&
+				newObj.media === obj.media &&
+				newObj.sourceMap === obj.sourceMap
+			) {
+				return;
+			}
+
+			update(obj = newObj);
+		} else {
+			remove();
+		}
+	};
+}
+
+var replaceText = (function () {
+	var textStore = [];
+
+	return function (index, replacement) {
+		textStore[index] = replacement;
+
+		return textStore.filter(Boolean).join('\n');
+	};
+})();
+
+function applyToSingletonTag (style, index, remove, obj) {
+	var css = remove ? "" : obj.css;
+
+	if (style.styleSheet) {
+		style.styleSheet.cssText = replaceText(index, css);
+	} else {
+		var cssNode = document.createTextNode(css);
+		var childNodes = style.childNodes;
+
+		if (childNodes[index]) style.removeChild(childNodes[index]);
+
+		if (childNodes.length) {
+			style.insertBefore(cssNode, childNodes[index]);
+		} else {
+			style.appendChild(cssNode);
+		}
+	}
+}
+
+function applyToTag (style, obj) {
+	var css = obj.css;
+	var media = obj.media;
+
+	if(media) {
+		style.setAttribute("media", media)
+	}
+
+	if(style.styleSheet) {
+		style.styleSheet.cssText = css;
+	} else {
+		while(style.firstChild) {
+			style.removeChild(style.firstChild);
+		}
+
+		style.appendChild(document.createTextNode(css));
+	}
+}
+
+function updateLink (link, options, obj) {
+	var css = obj.css;
+	var sourceMap = obj.sourceMap;
+
+	/*
+		If convertToAbsoluteUrls isn't defined, but sourcemaps are enabled
+		and there is no publicPath defined then lets turn convertToAbsoluteUrls
+		on by default.  Otherwise default to the convertToAbsoluteUrls option
+		directly
+	*/
+	var autoFixUrls = options.convertToAbsoluteUrls === undefined && sourceMap;
+
+	if (options.convertToAbsoluteUrls || autoFixUrls) {
+		css = fixUrls(css);
+	}
+
+	if (sourceMap) {
+		// http://stackoverflow.com/a/26603875
+		css += "\n/*# sourceMappingURL=data:application/json;base64," + btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap)))) + " */";
+	}
+
+	var blob = new Blob([css], { type: "text/css" });
+
+	var oldSrc = link.href;
+
+	link.href = URL.createObjectURL(blob);
+
+	if(oldSrc) URL.revokeObjectURL(oldSrc);
+}
+
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/lib/urls.js":
+/*!***********************************************!*\
+  !*** ./node_modules/style-loader/lib/urls.js ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+
+/**
+ * When source maps are enabled, `style-loader` uses a link element with a data-uri to
+ * embed the css on the page. This breaks all relative urls because now they are relative to a
+ * bundle instead of the current page.
+ *
+ * One solution is to only use full urls, but that may be impossible.
+ *
+ * Instead, this function "fixes" the relative urls to be absolute according to the current page location.
+ *
+ * A rudimentary test suite is located at `test/fixUrls.js` and can be run via the `npm test` command.
+ *
+ */
+
+module.exports = function (css) {
+  // get current location
+  var location = typeof window !== "undefined" && window.location;
+
+  if (!location) {
+    throw new Error("fixUrls requires window.location");
+  }
+
+	// blank or null?
+	if (!css || typeof css !== "string") {
+	  return css;
+  }
+
+  var baseUrl = location.protocol + "//" + location.host;
+  var currentDir = baseUrl + location.pathname.replace(/\/[^\/]*$/, "/");
+
+	// convert each url(...)
+	/*
+	This regular expression is just a way to recursively match brackets within
+	a string.
+
+	 /url\s*\(  = Match on the word "url" with any whitespace after it and then a parens
+	   (  = Start a capturing group
+	     (?:  = Start a non-capturing group
+	         [^)(]  = Match anything that isn't a parentheses
+	         |  = OR
+	         \(  = Match a start parentheses
+	             (?:  = Start another non-capturing groups
+	                 [^)(]+  = Match anything that isn't a parentheses
+	                 |  = OR
+	                 \(  = Match a start parentheses
+	                     [^)(]*  = Match anything that isn't a parentheses
+	                 \)  = Match a end parentheses
+	             )  = End Group
+              *\) = Match anything and then a close parens
+          )  = Close non-capturing group
+          *  = Match anything
+       )  = Close capturing group
+	 \)  = Match a close parens
+
+	 /gi  = Get all matches, not the first.  Be case insensitive.
+	 */
+	var fixedCss = css.replace(/url\s*\(((?:[^)(]|\((?:[^)(]+|\([^)(]*\))*\))*)\)/gi, function(fullMatch, origUrl) {
+		// strip quotes (if they exist)
+		var unquotedOrigUrl = origUrl
+			.trim()
+			.replace(/^"(.*)"$/, function(o, $1){ return $1; })
+			.replace(/^'(.*)'$/, function(o, $1){ return $1; });
+
+		// already a full url? no change
+		if (/^(#|data:|http:\/\/|https:\/\/|file:\/\/\/|\s*$)/i.test(unquotedOrigUrl)) {
+		  return fullMatch;
+		}
+
+		// convert the url to a full url
+		var newUrl;
+
+		if (unquotedOrigUrl.indexOf("//") === 0) {
+		  	//TODO: should we add protocol?
+			newUrl = unquotedOrigUrl;
+		} else if (unquotedOrigUrl.indexOf("/") === 0) {
+			// path should be relative to the base url
+			newUrl = baseUrl + unquotedOrigUrl; // already starts with '/'
+		} else {
+			// path should be relative to current directory
+			newUrl = currentDir + unquotedOrigUrl.replace(/^\.\//, ""); // Strip leading './'
+		}
+
+		// send back the fixed url(...)
+		return "url(" + JSON.stringify(newUrl) + ")";
+	});
+
+	// send back the fixed css
+	return fixedCss;
+};
+
+
+/***/ }),
+
+/***/ "./node_modules/timers-browserify/main.js":
+/*!************************************************!*\
+  !*** ./node_modules/timers-browserify/main.js ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(global) {var scope = (typeof global !== "undefined" && global) ||
+            (typeof self !== "undefined" && self) ||
+            window;
+var apply = Function.prototype.apply;
+
+// DOM APIs, for completeness
+
+exports.setTimeout = function() {
+  return new Timeout(apply.call(setTimeout, scope, arguments), clearTimeout);
+};
+exports.setInterval = function() {
+  return new Timeout(apply.call(setInterval, scope, arguments), clearInterval);
+};
+exports.clearTimeout =
+exports.clearInterval = function(timeout) {
+  if (timeout) {
+    timeout.close();
+  }
+};
+
+function Timeout(id, clearFn) {
+  this._id = id;
+  this._clearFn = clearFn;
+}
+Timeout.prototype.unref = Timeout.prototype.ref = function() {};
+Timeout.prototype.close = function() {
+  this._clearFn.call(scope, this._id);
+};
+
+// Does not start the time, just sets up the members needed.
+exports.enroll = function(item, msecs) {
+  clearTimeout(item._idleTimeoutId);
+  item._idleTimeout = msecs;
+};
+
+exports.unenroll = function(item) {
+  clearTimeout(item._idleTimeoutId);
+  item._idleTimeout = -1;
+};
+
+exports._unrefActive = exports.active = function(item) {
+  clearTimeout(item._idleTimeoutId);
+
+  var msecs = item._idleTimeout;
+  if (msecs >= 0) {
+    item._idleTimeoutId = setTimeout(function onTimeout() {
+      if (item._onTimeout)
+        item._onTimeout();
+    }, msecs);
+  }
+};
+
+// setimmediate attaches itself to the global object
+__webpack_require__(/*! setimmediate */ "./node_modules/setimmediate/setImmediate.js");
+// On some exotic environments, it's not clear which object `setimmediate` was
+// able to install onto.  Search each possibility in the same order as the
+// `setimmediate` library.
+exports.setImmediate = (typeof self !== "undefined" && self.setImmediate) ||
+                       (typeof global !== "undefined" && global.setImmediate) ||
+                       (this && this.setImmediate);
+exports.clearImmediate = (typeof self !== "undefined" && self.clearImmediate) ||
+                         (typeof global !== "undefined" && global.clearImmediate) ||
+                         (this && this.clearImmediate);
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e&":
+/*!*******************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e& ***!
+  \*******************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "container" }, [
+      _c("div", { staticClass: "row justify-content-center" }, [
+        _c("div", { staticClass: "col-md-8" }, [
+          _c("div", { staticClass: "card" }, [
+            _c("div", { staticClass: "card-header" }, [
+              _vm._v("Example Component")
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-body" }, [
+              _vm._v(
+                "\n                    I'm an example component.\n                "
+              )
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/runtime/componentNormalizer.js ***!
+  \********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return normalizeComponent; });
+/* globals __VUE_SSR_CONTEXT__ */
+
+// IMPORTANT: Do NOT use ES2015 features in this file (except for modules).
+// This module is a runtime utility for cleaner component module output and will
+// be included in the final webpack user bundle.
+
+function normalizeComponent (
+  scriptExports,
+  render,
+  staticRenderFns,
+  functionalTemplate,
+  injectStyles,
+  scopeId,
+  moduleIdentifier, /* server only */
+  shadowMode /* vue-cli only */
+) {
+  // Vue.extend constructor export interop
+  var options = typeof scriptExports === 'function'
+    ? scriptExports.options
+    : scriptExports
+
+  // render functions
+  if (render) {
+    options.render = render
+    options.staticRenderFns = staticRenderFns
+    options._compiled = true
+  }
+
+  // functional template
+  if (functionalTemplate) {
+    options.functional = true
+  }
+
+  // scopedId
+  if (scopeId) {
+    options._scopeId = 'data-v-' + scopeId
+  }
+
+  var hook
+  if (moduleIdentifier) { // server build
+    hook = function (context) {
+      // 2.3 injection
+      context =
+        context || // cached call
+        (this.$vnode && this.$vnode.ssrContext) || // stateful
+        (this.parent && this.parent.$vnode && this.parent.$vnode.ssrContext) // functional
+      // 2.2 with runInNewContext: true
+      if (!context && typeof __VUE_SSR_CONTEXT__ !== 'undefined') {
+        context = __VUE_SSR_CONTEXT__
+      }
+      // inject component styles
+      if (injectStyles) {
+        injectStyles.call(this, context)
+      }
+      // register component module identifier for async chunk inferrence
+      if (context && context._registeredComponents) {
+        context._registeredComponents.add(moduleIdentifier)
+      }
+    }
+    // used by ssr in case component is cached and beforeCreate
+    // never gets called
+    options._ssrRegister = hook
+  } else if (injectStyles) {
+    hook = shadowMode
+      ? function () { injectStyles.call(this, this.$root.$options.shadowRoot) }
+      : injectStyles
+  }
+
+  if (hook) {
+    if (options.functional) {
+      // for template-only hot-reload because in that case the render fn doesn't
+      // go through the normalizer
+      options._injectStyles = hook
+      // register for functioal component in vue file
+      var originalRender = options.render
+      options.render = function renderWithStyleInjection (h, context) {
+        hook.call(context)
+        return originalRender(h, context)
+      }
+    } else {
+      // inject component registration as beforeCreate hook
+      var existing = options.beforeCreate
+      options.beforeCreate = existing
+        ? [].concat(existing, hook)
+        : [hook]
+    }
+  }
+
+  return {
+    exports: scriptExports,
+    options: options
+  }
+}
+
+
+/***/ }),
+
+/***/ "./node_modules/vue/dist/vue.common.dev.js":
+/*!*************************************************!*\
+  !*** ./node_modules/vue/dist/vue.common.dev.js ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(global, setImmediate) {/*!
+ * Vue.js v2.6.11
+ * (c) 2014-2019 Evan You
+ * Released under the MIT License.
+ */
+
+
+/*  */
+
+var emptyObject = Object.freeze({});
+
+// These helpers produce better VM code in JS engines due to their
+// explicitness and function inlining.
+function isUndef (v) {
+  return v === undefined || v === null
+}
+
+function isDef (v) {
+  return v !== undefined && v !== null
+}
+
+function isTrue (v) {
+  return v === true
+}
+
+function isFalse (v) {
+  return v === false
+}
+
+/**
+ * Check if value is primitive.
+ */
+function isPrimitive (value) {
+  return (
+    typeof value === 'string' ||
+    typeof value === 'number' ||
+    // $flow-disable-line
+    typeof value === 'symbol' ||
+    typeof value === 'boolean'
+  )
+}
+
+/**
+ * Quick object check - this is primarily used to tell
+ * Objects from primitive values when we know the value
+ * is a JSON-compliant type.
+ */
+function isObject (obj) {
+  return obj !== null && typeof obj === 'object'
+}
+
+/**
+ * Get the raw type string of a value, e.g., [object Object].
+ */
+var _toString = Object.prototype.toString;
+
+function toRawType (value) {
+  return _toString.call(value).slice(8, -1)
+}
+
+/**
+ * Strict object type check. Only returns true
+ * for plain JavaScript objects.
+ */
+function isPlainObject (obj) {
+  return _toString.call(obj) === '[object Object]'
+}
+
+function isRegExp (v) {
+  return _toString.call(v) === '[object RegExp]'
+}
+
+/**
+ * Check if val is a valid array index.
+ */
+function isValidArrayIndex (val) {
+  var n = parseFloat(String(val));
+  return n >= 0 && Math.floor(n) === n && isFinite(val)
+}
+
+function isPromise (val) {
+  return (
+    isDef(val) &&
+    typeof val.then === 'function' &&
+    typeof val.catch === 'function'
+  )
+}
+
+/**
+ * Convert a value to a string that is actually rendered.
+ */
+function toString (val) {
+  return val == null
+    ? ''
+    : Array.isArray(val) || (isPlainObject(val) && val.toString === _toString)
+      ? JSON.stringify(val, null, 2)
+      : String(val)
+}
+
+/**
+ * Convert an input value to a number for persistence.
+ * If the conversion fails, return original string.
+ */
+function toNumber (val) {
+  var n = parseFloat(val);
+  return isNaN(n) ? val : n
+}
+
+/**
+ * Make a map and return a function for checking if a key
+ * is in that map.
+ */
+function makeMap (
+  str,
+  expectsLowerCase
+) {
+  var map = Object.create(null);
+  var list = str.split(',');
+  for (var i = 0; i < list.length; i++) {
+    map[list[i]] = true;
+  }
+  return expectsLowerCase
+    ? function (val) { return map[val.toLowerCase()]; }
+    : function (val) { return map[val]; }
+}
+
+/**
+ * Check if a tag is a built-in tag.
+ */
+var isBuiltInTag = makeMap('slot,component', true);
+
+/**
+ * Check if an attribute is a reserved attribute.
+ */
+var isReservedAttribute = makeMap('key,ref,slot,slot-scope,is');
+
+/**
+ * Remove an item from an array.
+ */
+function remove (arr, item) {
+  if (arr.length) {
+    var index = arr.indexOf(item);
+    if (index > -1) {
+      return arr.splice(index, 1)
+    }
+  }
+}
+
+/**
+ * Check whether an object has the property.
+ */
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+function hasOwn (obj, key) {
+  return hasOwnProperty.call(obj, key)
+}
+
+/**
+ * Create a cached version of a pure function.
+ */
+function cached (fn) {
+  var cache = Object.create(null);
+  return (function cachedFn (str) {
+    var hit = cache[str];
+    return hit || (cache[str] = fn(str))
+  })
+}
+
+/**
+ * Camelize a hyphen-delimited string.
+ */
+var camelizeRE = /-(\w)/g;
+var camelize = cached(function (str) {
+  return str.replace(camelizeRE, function (_, c) { return c ? c.toUpperCase() : ''; })
+});
+
+/**
+ * Capitalize a string.
+ */
+var capitalize = cached(function (str) {
+  return str.charAt(0).toUpperCase() + str.slice(1)
+});
+
+/**
+ * Hyphenate a camelCase string.
+ */
+var hyphenateRE = /\B([A-Z])/g;
+var hyphenate = cached(function (str) {
+  return str.replace(hyphenateRE, '-$1').toLowerCase()
+});
+
+/**
+ * Simple bind polyfill for environments that do not support it,
+ * e.g., PhantomJS 1.x. Technically, we don't need this anymore
+ * since native bind is now performant enough in most browsers.
+ * But removing it would mean breaking code that was able to run in
+ * PhantomJS 1.x, so this must be kept for backward compatibility.
+ */
+
+/* istanbul ignore next */
+function polyfillBind (fn, ctx) {
+  function boundFn (a) {
+    var l = arguments.length;
+    return l
+      ? l > 1
+        ? fn.apply(ctx, arguments)
+        : fn.call(ctx, a)
+      : fn.call(ctx)
+  }
+
+  boundFn._length = fn.length;
+  return boundFn
+}
+
+function nativeBind (fn, ctx) {
+  return fn.bind(ctx)
+}
+
+var bind = Function.prototype.bind
+  ? nativeBind
+  : polyfillBind;
+
+/**
+ * Convert an Array-like object to a real Array.
+ */
+function toArray (list, start) {
+  start = start || 0;
+  var i = list.length - start;
+  var ret = new Array(i);
+  while (i--) {
+    ret[i] = list[i + start];
+  }
+  return ret
+}
+
+/**
+ * Mix properties into target object.
+ */
+function extend (to, _from) {
+  for (var key in _from) {
+    to[key] = _from[key];
+  }
+  return to
+}
+
+/**
+ * Merge an Array of Objects into a single Object.
+ */
+function toObject (arr) {
+  var res = {};
+  for (var i = 0; i < arr.length; i++) {
+    if (arr[i]) {
+      extend(res, arr[i]);
+    }
+  }
+  return res
+}
+
+/* eslint-disable no-unused-vars */
+
+/**
+ * Perform no operation.
+ * Stubbing args to make Flow happy without leaving useless transpiled code
+ * with ...rest (https://flow.org/blog/2017/05/07/Strict-Function-Call-Arity/).
+ */
+function noop (a, b, c) {}
+
+/**
+ * Always return false.
+ */
+var no = function (a, b, c) { return false; };
+
+/* eslint-enable no-unused-vars */
+
+/**
+ * Return the same value.
+ */
+var identity = function (_) { return _; };
+
+/**
+ * Generate a string containing static keys from compiler modules.
+ */
+function genStaticKeys (modules) {
+  return modules.reduce(function (keys, m) {
+    return keys.concat(m.staticKeys || [])
+  }, []).join(',')
+}
+
+/**
+ * Check if two values are loosely equal - that is,
+ * if they are plain objects, do they have the same shape?
+ */
+function looseEqual (a, b) {
+  if (a === b) { return true }
+  var isObjectA = isObject(a);
+  var isObjectB = isObject(b);
+  if (isObjectA && isObjectB) {
+    try {
+      var isArrayA = Array.isArray(a);
+      var isArrayB = Array.isArray(b);
+      if (isArrayA && isArrayB) {
+        return a.length === b.length && a.every(function (e, i) {
+          return looseEqual(e, b[i])
+        })
+      } else if (a instanceof Date && b instanceof Date) {
+        return a.getTime() === b.getTime()
+      } else if (!isArrayA && !isArrayB) {
+        var keysA = Object.keys(a);
+        var keysB = Object.keys(b);
+        return keysA.length === keysB.length && keysA.every(function (key) {
+          return looseEqual(a[key], b[key])
+        })
+      } else {
+        /* istanbul ignore next */
+        return false
+      }
+    } catch (e) {
+      /* istanbul ignore next */
+      return false
+    }
+  } else if (!isObjectA && !isObjectB) {
+    return String(a) === String(b)
+  } else {
+    return false
+  }
+}
+
+/**
+ * Return the first index at which a loosely equal value can be
+ * found in the array (if value is a plain object, the array must
+ * contain an object of the same shape), or -1 if it is not present.
+ */
+function looseIndexOf (arr, val) {
+  for (var i = 0; i < arr.length; i++) {
+    if (looseEqual(arr[i], val)) { return i }
+  }
+  return -1
+}
+
+/**
+ * Ensure a function is called only once.
+ */
+function once (fn) {
+  var called = false;
+  return function () {
+    if (!called) {
+      called = true;
+      fn.apply(this, arguments);
+    }
+  }
+}
+
+var SSR_ATTR = 'data-server-rendered';
+
+var ASSET_TYPES = [
+  'component',
+  'directive',
+  'filter'
+];
+
+var LIFECYCLE_HOOKS = [
+  'beforeCreate',
+  'created',
+  'beforeMount',
+  'mounted',
+  'beforeUpdate',
+  'updated',
+  'beforeDestroy',
+  'destroyed',
+  'activated',
+  'deactivated',
+  'errorCaptured',
+  'serverPrefetch'
+];
+
+/*  */
+
+
+
+var config = ({
+  /**
+   * Option merge strategies (used in core/util/options)
+   */
+  // $flow-disable-line
+  optionMergeStrategies: Object.create(null),
+
+  /**
+   * Whether to suppress warnings.
+   */
+  silent: false,
+
+  /**
+   * Show production mode tip message on boot?
+   */
+  productionTip: "development" !== 'production',
+
+  /**
+   * Whether to enable devtools
+   */
+  devtools: "development" !== 'production',
+
+  /**
+   * Whether to record perf
+   */
+  performance: false,
+
+  /**
+   * Error handler for watcher errors
+   */
+  errorHandler: null,
+
+  /**
+   * Warn handler for watcher warns
+   */
+  warnHandler: null,
+
+  /**
+   * Ignore certain custom elements
+   */
+  ignoredElements: [],
+
+  /**
+   * Custom user key aliases for v-on
+   */
+  // $flow-disable-line
+  keyCodes: Object.create(null),
+
+  /**
+   * Check if a tag is reserved so that it cannot be registered as a
+   * component. This is platform-dependent and may be overwritten.
+   */
+  isReservedTag: no,
+
+  /**
+   * Check if an attribute is reserved so that it cannot be used as a component
+   * prop. This is platform-dependent and may be overwritten.
+   */
+  isReservedAttr: no,
+
+  /**
+   * Check if a tag is an unknown element.
+   * Platform-dependent.
+   */
+  isUnknownElement: no,
+
+  /**
+   * Get the namespace of an element
+   */
+  getTagNamespace: noop,
+
+  /**
+   * Parse the real tag name for the specific platform.
+   */
+  parsePlatformTagName: identity,
+
+  /**
+   * Check if an attribute must be bound using property, e.g. value
+   * Platform-dependent.
+   */
+  mustUseProp: no,
+
+  /**
+   * Perform updates asynchronously. Intended to be used by Vue Test Utils
+   * This will significantly reduce performance if set to false.
+   */
+  async: true,
+
+  /**
+   * Exposed for legacy reasons
+   */
+  _lifecycleHooks: LIFECYCLE_HOOKS
+});
+
+/*  */
+
+/**
+ * unicode letters used for parsing html tags, component names and property paths.
+ * using https://www.w3.org/TR/html53/semantics-scripting.html#potentialcustomelementname
+ * skipping \u10000-\uEFFFF due to it freezing up PhantomJS
+ */
+var unicodeRegExp = /a-zA-Z\u00B7\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u037D\u037F-\u1FFF\u200C-\u200D\u203F-\u2040\u2070-\u218F\u2C00-\u2FEF\u3001-\uD7FF\uF900-\uFDCF\uFDF0-\uFFFD/;
+
+/**
+ * Check if a string starts with $ or _
+ */
+function isReserved (str) {
+  var c = (str + '').charCodeAt(0);
+  return c === 0x24 || c === 0x5F
+}
+
+/**
+ * Define a property.
+ */
+function def (obj, key, val, enumerable) {
+  Object.defineProperty(obj, key, {
+    value: val,
+    enumerable: !!enumerable,
+    writable: true,
+    configurable: true
+  });
+}
+
+/**
+ * Parse simple path.
+ */
+var bailRE = new RegExp(("[^" + (unicodeRegExp.source) + ".$_\\d]"));
+function parsePath (path) {
+  if (bailRE.test(path)) {
+    return
+  }
+  var segments = path.split('.');
+  return function (obj) {
+    for (var i = 0; i < segments.length; i++) {
+      if (!obj) { return }
+      obj = obj[segments[i]];
+    }
+    return obj
+  }
+}
+
+/*  */
+
+// can we use __proto__?
+var hasProto = '__proto__' in {};
+
+// Browser environment sniffing
+var inBrowser = typeof window !== 'undefined';
+var inWeex = typeof WXEnvironment !== 'undefined' && !!WXEnvironment.platform;
+var weexPlatform = inWeex && WXEnvironment.platform.toLowerCase();
+var UA = inBrowser && window.navigator.userAgent.toLowerCase();
+var isIE = UA && /msie|trident/.test(UA);
+var isIE9 = UA && UA.indexOf('msie 9.0') > 0;
+var isEdge = UA && UA.indexOf('edge/') > 0;
+var isAndroid = (UA && UA.indexOf('android') > 0) || (weexPlatform === 'android');
+var isIOS = (UA && /iphone|ipad|ipod|ios/.test(UA)) || (weexPlatform === 'ios');
+var isChrome = UA && /chrome\/\d+/.test(UA) && !isEdge;
+var isPhantomJS = UA && /phantomjs/.test(UA);
+var isFF = UA && UA.match(/firefox\/(\d+)/);
+
+// Firefox has a "watch" function on Object.prototype...
+var nativeWatch = ({}).watch;
+
+var supportsPassive = false;
+if (inBrowser) {
+  try {
+    var opts = {};
+    Object.defineProperty(opts, 'passive', ({
+      get: function get () {
+        /* istanbul ignore next */
+        supportsPassive = true;
+      }
+    })); // https://github.com/facebook/flow/issues/285
+    window.addEventListener('test-passive', null, opts);
+  } catch (e) {}
+}
+
+// this needs to be lazy-evaled because vue may be required before
+// vue-server-renderer can set VUE_ENV
+var _isServer;
+var isServerRendering = function () {
+  if (_isServer === undefined) {
+    /* istanbul ignore if */
+    if (!inBrowser && !inWeex && typeof global !== 'undefined') {
+      // detect presence of vue-server-renderer and avoid
+      // Webpack shimming the process
+      _isServer = global['process'] && global['process'].env.VUE_ENV === 'server';
+    } else {
+      _isServer = false;
+    }
+  }
+  return _isServer
+};
+
+// detect devtools
+var devtools = inBrowser && window.__VUE_DEVTOOLS_GLOBAL_HOOK__;
+
+/* istanbul ignore next */
+function isNative (Ctor) {
+  return typeof Ctor === 'function' && /native code/.test(Ctor.toString())
+}
+
+var hasSymbol =
+  typeof Symbol !== 'undefined' && isNative(Symbol) &&
+  typeof Reflect !== 'undefined' && isNative(Reflect.ownKeys);
+
+var _Set;
+/* istanbul ignore if */ // $flow-disable-line
+if (typeof Set !== 'undefined' && isNative(Set)) {
+  // use native Set when available.
+  _Set = Set;
+} else {
+  // a non-standard Set polyfill that only works with primitive keys.
+  _Set = /*@__PURE__*/(function () {
+    function Set () {
+      this.set = Object.create(null);
+    }
+    Set.prototype.has = function has (key) {
+      return this.set[key] === true
+    };
+    Set.prototype.add = function add (key) {
+      this.set[key] = true;
+    };
+    Set.prototype.clear = function clear () {
+      this.set = Object.create(null);
+    };
+
+    return Set;
+  }());
+}
+
+/*  */
+
+var warn = noop;
+var tip = noop;
+var generateComponentTrace = (noop); // work around flow check
+var formatComponentName = (noop);
+
+{
+  var hasConsole = typeof console !== 'undefined';
+  var classifyRE = /(?:^|[-_])(\w)/g;
+  var classify = function (str) { return str
+    .replace(classifyRE, function (c) { return c.toUpperCase(); })
+    .replace(/[-_]/g, ''); };
+
+  warn = function (msg, vm) {
+    var trace = vm ? generateComponentTrace(vm) : '';
+
+    if (config.warnHandler) {
+      config.warnHandler.call(null, msg, vm, trace);
+    } else if (hasConsole && (!config.silent)) {
+      console.error(("[Vue warn]: " + msg + trace));
+    }
+  };
+
+  tip = function (msg, vm) {
+    if (hasConsole && (!config.silent)) {
+      console.warn("[Vue tip]: " + msg + (
+        vm ? generateComponentTrace(vm) : ''
+      ));
+    }
+  };
+
+  formatComponentName = function (vm, includeFile) {
+    if (vm.$root === vm) {
+      return '<Root>'
+    }
+    var options = typeof vm === 'function' && vm.cid != null
+      ? vm.options
+      : vm._isVue
+        ? vm.$options || vm.constructor.options
+        : vm;
+    var name = options.name || options._componentTag;
+    var file = options.__file;
+    if (!name && file) {
+      var match = file.match(/([^/\\]+)\.vue$/);
+      name = match && match[1];
+    }
+
+    return (
+      (name ? ("<" + (classify(name)) + ">") : "<Anonymous>") +
+      (file && includeFile !== false ? (" at " + file) : '')
+    )
+  };
+
+  var repeat = function (str, n) {
+    var res = '';
+    while (n) {
+      if (n % 2 === 1) { res += str; }
+      if (n > 1) { str += str; }
+      n >>= 1;
+    }
+    return res
+  };
+
+  generateComponentTrace = function (vm) {
+    if (vm._isVue && vm.$parent) {
+      var tree = [];
+      var currentRecursiveSequence = 0;
+      while (vm) {
+        if (tree.length > 0) {
+          var last = tree[tree.length - 1];
+          if (last.constructor === vm.constructor) {
+            currentRecursiveSequence++;
+            vm = vm.$parent;
+            continue
+          } else if (currentRecursiveSequence > 0) {
+            tree[tree.length - 1] = [last, currentRecursiveSequence];
+            currentRecursiveSequence = 0;
+          }
+        }
+        tree.push(vm);
+        vm = vm.$parent;
+      }
+      return '\n\nfound in\n\n' + tree
+        .map(function (vm, i) { return ("" + (i === 0 ? '---> ' : repeat(' ', 5 + i * 2)) + (Array.isArray(vm)
+            ? ((formatComponentName(vm[0])) + "... (" + (vm[1]) + " recursive calls)")
+            : formatComponentName(vm))); })
+        .join('\n')
+    } else {
+      return ("\n\n(found in " + (formatComponentName(vm)) + ")")
+    }
+  };
+}
+
+/*  */
+
+var uid = 0;
+
+/**
+ * A dep is an observable that can have multiple
+ * directives subscribing to it.
+ */
+var Dep = function Dep () {
+  this.id = uid++;
+  this.subs = [];
+};
+
+Dep.prototype.addSub = function addSub (sub) {
+  this.subs.push(sub);
+};
+
+Dep.prototype.removeSub = function removeSub (sub) {
+  remove(this.subs, sub);
+};
+
+Dep.prototype.depend = function depend () {
+  if (Dep.target) {
+    Dep.target.addDep(this);
+  }
+};
+
+Dep.prototype.notify = function notify () {
+  // stabilize the subscriber list first
+  var subs = this.subs.slice();
+  if (!config.async) {
+    // subs aren't sorted in scheduler if not running async
+    // we need to sort them now to make sure they fire in correct
+    // order
+    subs.sort(function (a, b) { return a.id - b.id; });
+  }
+  for (var i = 0, l = subs.length; i < l; i++) {
+    subs[i].update();
+  }
+};
+
+// The current target watcher being evaluated.
+// This is globally unique because only one watcher
+// can be evaluated at a time.
+Dep.target = null;
+var targetStack = [];
+
+function pushTarget (target) {
+  targetStack.push(target);
+  Dep.target = target;
+}
+
+function popTarget () {
+  targetStack.pop();
+  Dep.target = targetStack[targetStack.length - 1];
+}
+
+/*  */
+
+var VNode = function VNode (
+  tag,
+  data,
+  children,
+  text,
+  elm,
+  context,
+  componentOptions,
+  asyncFactory
+) {
+  this.tag = tag;
+  this.data = data;
+  this.children = children;
+  this.text = text;
+  this.elm = elm;
+  this.ns = undefined;
+  this.context = context;
+  this.fnContext = undefined;
+  this.fnOptions = undefined;
+  this.fnScopeId = undefined;
+  this.key = data && data.key;
+  this.componentOptions = componentOptions;
+  this.componentInstance = undefined;
+  this.parent = undefined;
+  this.raw = false;
+  this.isStatic = false;
+  this.isRootInsert = true;
+  this.isComment = false;
+  this.isCloned = false;
+  this.isOnce = false;
+  this.asyncFactory = asyncFactory;
+  this.asyncMeta = undefined;
+  this.isAsyncPlaceholder = false;
+};
+
+var prototypeAccessors = { child: { configurable: true } };
+
+// DEPRECATED: alias for componentInstance for backwards compat.
+/* istanbul ignore next */
+prototypeAccessors.child.get = function () {
+  return this.componentInstance
+};
+
+Object.defineProperties( VNode.prototype, prototypeAccessors );
+
+var createEmptyVNode = function (text) {
+  if ( text === void 0 ) text = '';
+
+  var node = new VNode();
+  node.text = text;
+  node.isComment = true;
+  return node
+};
+
+function createTextVNode (val) {
+  return new VNode(undefined, undefined, undefined, String(val))
+}
+
+// optimized shallow clone
+// used for static nodes and slot nodes because they may be reused across
+// multiple renders, cloning them avoids errors when DOM manipulations rely
+// on their elm reference.
+function cloneVNode (vnode) {
+  var cloned = new VNode(
+    vnode.tag,
+    vnode.data,
+    // #7975
+    // clone children array to avoid mutating original in case of cloning
+    // a child.
+    vnode.children && vnode.children.slice(),
+    vnode.text,
+    vnode.elm,
+    vnode.context,
+    vnode.componentOptions,
+    vnode.asyncFactory
+  );
+  cloned.ns = vnode.ns;
+  cloned.isStatic = vnode.isStatic;
+  cloned.key = vnode.key;
+  cloned.isComment = vnode.isComment;
+  cloned.fnContext = vnode.fnContext;
+  cloned.fnOptions = vnode.fnOptions;
+  cloned.fnScopeId = vnode.fnScopeId;
+  cloned.asyncMeta = vnode.asyncMeta;
+  cloned.isCloned = true;
+  return cloned
+}
+
+/*
+ * not type checking this file because flow doesn't play well with
+ * dynamically accessing methods on Array prototype
+ */
+
+var arrayProto = Array.prototype;
+var arrayMethods = Object.create(arrayProto);
+
+var methodsToPatch = [
+  'push',
+  'pop',
+  'shift',
+  'unshift',
+  'splice',
+  'sort',
+  'reverse'
+];
+
+/**
+ * Intercept mutating methods and emit events
+ */
+methodsToPatch.forEach(function (method) {
+  // cache original method
+  var original = arrayProto[method];
+  def(arrayMethods, method, function mutator () {
+    var args = [], len = arguments.length;
+    while ( len-- ) args[ len ] = arguments[ len ];
+
+    var result = original.apply(this, args);
+    var ob = this.__ob__;
+    var inserted;
+    switch (method) {
+      case 'push':
+      case 'unshift':
+        inserted = args;
+        break
+      case 'splice':
+        inserted = args.slice(2);
+        break
+    }
+    if (inserted) { ob.observeArray(inserted); }
+    // notify change
+    ob.dep.notify();
+    return result
+  });
+});
+
+/*  */
+
+var arrayKeys = Object.getOwnPropertyNames(arrayMethods);
+
+/**
+ * In some cases we may want to disable observation inside a component's
+ * update computation.
+ */
+var shouldObserve = true;
+
+function toggleObserving (value) {
+  shouldObserve = value;
+}
+
+/**
+ * Observer class that is attached to each observed
+ * object. Once attached, the observer converts the target
+ * object's property keys into getter/setters that
+ * collect dependencies and dispatch updates.
+ */
+var Observer = function Observer (value) {
+  this.value = value;
+  this.dep = new Dep();
+  this.vmCount = 0;
+  def(value, '__ob__', this);
+  if (Array.isArray(value)) {
+    if (hasProto) {
+      protoAugment(value, arrayMethods);
+    } else {
+      copyAugment(value, arrayMethods, arrayKeys);
+    }
+    this.observeArray(value);
+  } else {
+    this.walk(value);
+  }
+};
+
+/**
+ * Walk through all properties and convert them into
+ * getter/setters. This method should only be called when
+ * value type is Object.
+ */
+Observer.prototype.walk = function walk (obj) {
+  var keys = Object.keys(obj);
+  for (var i = 0; i < keys.length; i++) {
+    defineReactive$$1(obj, keys[i]);
+  }
+};
+
+/**
+ * Observe a list of Array items.
+ */
+Observer.prototype.observeArray = function observeArray (items) {
+  for (var i = 0, l = items.length; i < l; i++) {
+    observe(items[i]);
+  }
+};
+
+// helpers
+
+/**
+ * Augment a target Object or Array by intercepting
+ * the prototype chain using __proto__
+ */
+function protoAugment (target, src) {
+  /* eslint-disable no-proto */
+  target.__proto__ = src;
+  /* eslint-enable no-proto */
+}
+
+/**
+ * Augment a target Object or Array by defining
+ * hidden properties.
+ */
+/* istanbul ignore next */
+function copyAugment (target, src, keys) {
+  for (var i = 0, l = keys.length; i < l; i++) {
+    var key = keys[i];
+    def(target, key, src[key]);
+  }
+}
+
+/**
+ * Attempt to create an observer instance for a value,
+ * returns the new observer if successfully observed,
+ * or the existing observer if the value already has one.
+ */
+function observe (value, asRootData) {
+  if (!isObject(value) || value instanceof VNode) {
+    return
+  }
+  var ob;
+  if (hasOwn(value, '__ob__') && value.__ob__ instanceof Observer) {
+    ob = value.__ob__;
+  } else if (
+    shouldObserve &&
+    !isServerRendering() &&
+    (Array.isArray(value) || isPlainObject(value)) &&
+    Object.isExtensible(value) &&
+    !value._isVue
+  ) {
+    ob = new Observer(value);
+  }
+  if (asRootData && ob) {
+    ob.vmCount++;
+  }
+  return ob
+}
+
+/**
+ * Define a reactive property on an Object.
+ */
+function defineReactive$$1 (
+  obj,
+  key,
+  val,
+  customSetter,
+  shallow
+) {
+  var dep = new Dep();
+
+  var property = Object.getOwnPropertyDescriptor(obj, key);
+  if (property && property.configurable === false) {
+    return
+  }
+
+  // cater for pre-defined getter/setters
+  var getter = property && property.get;
+  var setter = property && property.set;
+  if ((!getter || setter) && arguments.length === 2) {
+    val = obj[key];
+  }
+
+  var childOb = !shallow && observe(val);
+  Object.defineProperty(obj, key, {
+    enumerable: true,
+    configurable: true,
+    get: function reactiveGetter () {
+      var value = getter ? getter.call(obj) : val;
+      if (Dep.target) {
+        dep.depend();
+        if (childOb) {
+          childOb.dep.depend();
+          if (Array.isArray(value)) {
+            dependArray(value);
+          }
+        }
+      }
+      return value
+    },
+    set: function reactiveSetter (newVal) {
+      var value = getter ? getter.call(obj) : val;
+      /* eslint-disable no-self-compare */
+      if (newVal === value || (newVal !== newVal && value !== value)) {
+        return
+      }
+      /* eslint-enable no-self-compare */
+      if (customSetter) {
+        customSetter();
+      }
+      // #7981: for accessor properties without setter
+      if (getter && !setter) { return }
+      if (setter) {
+        setter.call(obj, newVal);
+      } else {
+        val = newVal;
+      }
+      childOb = !shallow && observe(newVal);
+      dep.notify();
+    }
+  });
+}
+
+/**
+ * Set a property on an object. Adds the new property and
+ * triggers change notification if the property doesn't
+ * already exist.
+ */
+function set (target, key, val) {
+  if (isUndef(target) || isPrimitive(target)
+  ) {
+    warn(("Cannot set reactive property on undefined, null, or primitive value: " + ((target))));
+  }
+  if (Array.isArray(target) && isValidArrayIndex(key)) {
+    target.length = Math.max(target.length, key);
+    target.splice(key, 1, val);
+    return val
+  }
+  if (key in target && !(key in Object.prototype)) {
+    target[key] = val;
+    return val
+  }
+  var ob = (target).__ob__;
+  if (target._isVue || (ob && ob.vmCount)) {
+    warn(
+      'Avoid adding reactive properties to a Vue instance or its root $data ' +
+      'at runtime - declare it upfront in the data option.'
+    );
+    return val
+  }
+  if (!ob) {
+    target[key] = val;
+    return val
+  }
+  defineReactive$$1(ob.value, key, val);
+  ob.dep.notify();
+  return val
+}
+
+/**
+ * Delete a property and trigger change if necessary.
+ */
+function del (target, key) {
+  if (isUndef(target) || isPrimitive(target)
+  ) {
+    warn(("Cannot delete reactive property on undefined, null, or primitive value: " + ((target))));
+  }
+  if (Array.isArray(target) && isValidArrayIndex(key)) {
+    target.splice(key, 1);
+    return
+  }
+  var ob = (target).__ob__;
+  if (target._isVue || (ob && ob.vmCount)) {
+    warn(
+      'Avoid deleting properties on a Vue instance or its root $data ' +
+      '- just set it to null.'
+    );
+    return
+  }
+  if (!hasOwn(target, key)) {
+    return
+  }
+  delete target[key];
+  if (!ob) {
+    return
+  }
+  ob.dep.notify();
+}
+
+/**
+ * Collect dependencies on array elements when the array is touched, since
+ * we cannot intercept array element access like property getters.
+ */
+function dependArray (value) {
+  for (var e = (void 0), i = 0, l = value.length; i < l; i++) {
+    e = value[i];
+    e && e.__ob__ && e.__ob__.dep.depend();
+    if (Array.isArray(e)) {
+      dependArray(e);
+    }
+  }
+}
+
+/*  */
+
+/**
+ * Option overwriting strategies are functions that handle
+ * how to merge a parent option value and a child option
+ * value into the final value.
+ */
+var strats = config.optionMergeStrategies;
+
+/**
+ * Options with restrictions
+ */
+{
+  strats.el = strats.propsData = function (parent, child, vm, key) {
+    if (!vm) {
+      warn(
+        "option \"" + key + "\" can only be used during instance " +
+        'creation with the `new` keyword.'
+      );
+    }
+    return defaultStrat(parent, child)
+  };
+}
+
+/**
+ * Helper that recursively merges two data objects together.
+ */
+function mergeData (to, from) {
+  if (!from) { return to }
+  var key, toVal, fromVal;
+
+  var keys = hasSymbol
+    ? Reflect.ownKeys(from)
+    : Object.keys(from);
+
+  for (var i = 0; i < keys.length; i++) {
+    key = keys[i];
+    // in case the object is already observed...
+    if (key === '__ob__') { continue }
+    toVal = to[key];
+    fromVal = from[key];
+    if (!hasOwn(to, key)) {
+      set(to, key, fromVal);
+    } else if (
+      toVal !== fromVal &&
+      isPlainObject(toVal) &&
+      isPlainObject(fromVal)
+    ) {
+      mergeData(toVal, fromVal);
+    }
+  }
+  return to
+}
+
+/**
+ * Data
+ */
+function mergeDataOrFn (
+  parentVal,
+  childVal,
+  vm
+) {
+  if (!vm) {
+    // in a Vue.extend merge, both should be functions
+    if (!childVal) {
+      return parentVal
+    }
+    if (!parentVal) {
+      return childVal
+    }
+    // when parentVal & childVal are both present,
+    // we need to return a function that returns the
+    // merged result of both functions... no need to
+    // check if parentVal is a function here because
+    // it has to be a function to pass previous merges.
+    return function mergedDataFn () {
+      return mergeData(
+        typeof childVal === 'function' ? childVal.call(this, this) : childVal,
+        typeof parentVal === 'function' ? parentVal.call(this, this) : parentVal
+      )
+    }
+  } else {
+    return function mergedInstanceDataFn () {
+      // instance merge
+      var instanceData = typeof childVal === 'function'
+        ? childVal.call(vm, vm)
+        : childVal;
+      var defaultData = typeof parentVal === 'function'
+        ? parentVal.call(vm, vm)
+        : parentVal;
+      if (instanceData) {
+        return mergeData(instanceData, defaultData)
+      } else {
+        return defaultData
+      }
+    }
+  }
+}
+
+strats.data = function (
+  parentVal,
+  childVal,
+  vm
+) {
+  if (!vm) {
+    if (childVal && typeof childVal !== 'function') {
+      warn(
+        'The "data" option should be a function ' +
+        'that returns a per-instance value in component ' +
+        'definitions.',
+        vm
+      );
+
+      return parentVal
+    }
+    return mergeDataOrFn(parentVal, childVal)
+  }
+
+  return mergeDataOrFn(parentVal, childVal, vm)
+};
+
+/**
+ * Hooks and props are merged as arrays.
+ */
+function mergeHook (
+  parentVal,
+  childVal
+) {
+  var res = childVal
+    ? parentVal
+      ? parentVal.concat(childVal)
+      : Array.isArray(childVal)
+        ? childVal
+        : [childVal]
+    : parentVal;
+  return res
+    ? dedupeHooks(res)
+    : res
+}
+
+function dedupeHooks (hooks) {
+  var res = [];
+  for (var i = 0; i < hooks.length; i++) {
+    if (res.indexOf(hooks[i]) === -1) {
+      res.push(hooks[i]);
+    }
+  }
+  return res
+}
+
+LIFECYCLE_HOOKS.forEach(function (hook) {
+  strats[hook] = mergeHook;
+});
+
+/**
+ * Assets
+ *
+ * When a vm is present (instance creation), we need to do
+ * a three-way merge between constructor options, instance
+ * options and parent options.
+ */
+function mergeAssets (
+  parentVal,
+  childVal,
+  vm,
+  key
+) {
+  var res = Object.create(parentVal || null);
+  if (childVal) {
+    assertObjectType(key, childVal, vm);
+    return extend(res, childVal)
+  } else {
+    return res
+  }
+}
+
+ASSET_TYPES.forEach(function (type) {
+  strats[type + 's'] = mergeAssets;
+});
+
+/**
+ * Watchers.
+ *
+ * Watchers hashes should not overwrite one
+ * another, so we merge them as arrays.
+ */
+strats.watch = function (
+  parentVal,
+  childVal,
+  vm,
+  key
+) {
+  // work around Firefox's Object.prototype.watch...
+  if (parentVal === nativeWatch) { parentVal = undefined; }
+  if (childVal === nativeWatch) { childVal = undefined; }
+  /* istanbul ignore if */
+  if (!childVal) { return Object.create(parentVal || null) }
+  {
+    assertObjectType(key, childVal, vm);
+  }
+  if (!parentVal) { return childVal }
+  var ret = {};
+  extend(ret, parentVal);
+  for (var key$1 in childVal) {
+    var parent = ret[key$1];
+    var child = childVal[key$1];
+    if (parent && !Array.isArray(parent)) {
+      parent = [parent];
+    }
+    ret[key$1] = parent
+      ? parent.concat(child)
+      : Array.isArray(child) ? child : [child];
+  }
+  return ret
+};
+
+/**
+ * Other object hashes.
+ */
+strats.props =
+strats.methods =
+strats.inject =
+strats.computed = function (
+  parentVal,
+  childVal,
+  vm,
+  key
+) {
+  if (childVal && "development" !== 'production') {
+    assertObjectType(key, childVal, vm);
+  }
+  if (!parentVal) { return childVal }
+  var ret = Object.create(null);
+  extend(ret, parentVal);
+  if (childVal) { extend(ret, childVal); }
+  return ret
+};
+strats.provide = mergeDataOrFn;
+
+/**
+ * Default strategy.
+ */
+var defaultStrat = function (parentVal, childVal) {
+  return childVal === undefined
+    ? parentVal
+    : childVal
+};
+
+/**
+ * Validate component names
+ */
+function checkComponents (options) {
+  for (var key in options.components) {
+    validateComponentName(key);
+  }
+}
+
+function validateComponentName (name) {
+  if (!new RegExp(("^[a-zA-Z][\\-\\.0-9_" + (unicodeRegExp.source) + "]*$")).test(name)) {
+    warn(
+      'Invalid component name: "' + name + '". Component names ' +
+      'should conform to valid custom element name in html5 specification.'
+    );
+  }
+  if (isBuiltInTag(name) || config.isReservedTag(name)) {
+    warn(
+      'Do not use built-in or reserved HTML elements as component ' +
+      'id: ' + name
+    );
+  }
+}
+
+/**
+ * Ensure all props option syntax are normalized into the
+ * Object-based format.
+ */
+function normalizeProps (options, vm) {
+  var props = options.props;
+  if (!props) { return }
+  var res = {};
+  var i, val, name;
+  if (Array.isArray(props)) {
+    i = props.length;
+    while (i--) {
+      val = props[i];
+      if (typeof val === 'string') {
+        name = camelize(val);
+        res[name] = { type: null };
+      } else {
+        warn('props must be strings when using array syntax.');
+      }
+    }
+  } else if (isPlainObject(props)) {
+    for (var key in props) {
+      val = props[key];
+      name = camelize(key);
+      res[name] = isPlainObject(val)
+        ? val
+        : { type: val };
+    }
+  } else {
+    warn(
+      "Invalid value for option \"props\": expected an Array or an Object, " +
+      "but got " + (toRawType(props)) + ".",
+      vm
+    );
+  }
+  options.props = res;
+}
+
+/**
+ * Normalize all injections into Object-based format
+ */
+function normalizeInject (options, vm) {
+  var inject = options.inject;
+  if (!inject) { return }
+  var normalized = options.inject = {};
+  if (Array.isArray(inject)) {
+    for (var i = 0; i < inject.length; i++) {
+      normalized[inject[i]] = { from: inject[i] };
+    }
+  } else if (isPlainObject(inject)) {
+    for (var key in inject) {
+      var val = inject[key];
+      normalized[key] = isPlainObject(val)
+        ? extend({ from: key }, val)
+        : { from: val };
+    }
+  } else {
+    warn(
+      "Invalid value for option \"inject\": expected an Array or an Object, " +
+      "but got " + (toRawType(inject)) + ".",
+      vm
+    );
+  }
+}
+
+/**
+ * Normalize raw function directives into object format.
+ */
+function normalizeDirectives (options) {
+  var dirs = options.directives;
+  if (dirs) {
+    for (var key in dirs) {
+      var def$$1 = dirs[key];
+      if (typeof def$$1 === 'function') {
+        dirs[key] = { bind: def$$1, update: def$$1 };
+      }
+    }
+  }
+}
+
+function assertObjectType (name, value, vm) {
+  if (!isPlainObject(value)) {
+    warn(
+      "Invalid value for option \"" + name + "\": expected an Object, " +
+      "but got " + (toRawType(value)) + ".",
+      vm
+    );
+  }
+}
+
+/**
+ * Merge two option objects into a new one.
+ * Core utility used in both instantiation and inheritance.
+ */
+function mergeOptions (
+  parent,
+  child,
+  vm
+) {
+  {
+    checkComponents(child);
+  }
+
+  if (typeof child === 'function') {
+    child = child.options;
+  }
+
+  normalizeProps(child, vm);
+  normalizeInject(child, vm);
+  normalizeDirectives(child);
+
+  // Apply extends and mixins on the child options,
+  // but only if it is a raw options object that isn't
+  // the result of another mergeOptions call.
+  // Only merged options has the _base property.
+  if (!child._base) {
+    if (child.extends) {
+      parent = mergeOptions(parent, child.extends, vm);
+    }
+    if (child.mixins) {
+      for (var i = 0, l = child.mixins.length; i < l; i++) {
+        parent = mergeOptions(parent, child.mixins[i], vm);
+      }
+    }
+  }
+
+  var options = {};
+  var key;
+  for (key in parent) {
+    mergeField(key);
+  }
+  for (key in child) {
+    if (!hasOwn(parent, key)) {
+      mergeField(key);
+    }
+  }
+  function mergeField (key) {
+    var strat = strats[key] || defaultStrat;
+    options[key] = strat(parent[key], child[key], vm, key);
+  }
+  return options
+}
+
+/**
+ * Resolve an asset.
+ * This function is used because child instances need access
+ * to assets defined in its ancestor chain.
+ */
+function resolveAsset (
+  options,
+  type,
+  id,
+  warnMissing
+) {
+  /* istanbul ignore if */
+  if (typeof id !== 'string') {
+    return
+  }
+  var assets = options[type];
+  // check local registration variations first
+  if (hasOwn(assets, id)) { return assets[id] }
+  var camelizedId = camelize(id);
+  if (hasOwn(assets, camelizedId)) { return assets[camelizedId] }
+  var PascalCaseId = capitalize(camelizedId);
+  if (hasOwn(assets, PascalCaseId)) { return assets[PascalCaseId] }
+  // fallback to prototype chain
+  var res = assets[id] || assets[camelizedId] || assets[PascalCaseId];
+  if (warnMissing && !res) {
+    warn(
+      'Failed to resolve ' + type.slice(0, -1) + ': ' + id,
+      options
+    );
+  }
+  return res
+}
+
+/*  */
+
+
+
+function validateProp (
+  key,
+  propOptions,
+  propsData,
+  vm
+) {
+  var prop = propOptions[key];
+  var absent = !hasOwn(propsData, key);
+  var value = propsData[key];
+  // boolean casting
+  var booleanIndex = getTypeIndex(Boolean, prop.type);
+  if (booleanIndex > -1) {
+    if (absent && !hasOwn(prop, 'default')) {
+      value = false;
+    } else if (value === '' || value === hyphenate(key)) {
+      // only cast empty string / same name to boolean if
+      // boolean has higher priority
+      var stringIndex = getTypeIndex(String, prop.type);
+      if (stringIndex < 0 || booleanIndex < stringIndex) {
+        value = true;
+      }
+    }
+  }
+  // check default value
+  if (value === undefined) {
+    value = getPropDefaultValue(vm, prop, key);
+    // since the default value is a fresh copy,
+    // make sure to observe it.
+    var prevShouldObserve = shouldObserve;
+    toggleObserving(true);
+    observe(value);
+    toggleObserving(prevShouldObserve);
+  }
+  {
+    assertProp(prop, key, value, vm, absent);
+  }
+  return value
+}
+
+/**
+ * Get the default value of a prop.
+ */
+function getPropDefaultValue (vm, prop, key) {
+  // no default, return undefined
+  if (!hasOwn(prop, 'default')) {
+    return undefined
+  }
+  var def = prop.default;
+  // warn against non-factory defaults for Object & Array
+  if (isObject(def)) {
+    warn(
+      'Invalid default value for prop "' + key + '": ' +
+      'Props with type Object/Array must use a factory function ' +
+      'to return the default value.',
+      vm
+    );
+  }
+  // the raw prop value was also undefined from previous render,
+  // return previous default value to avoid unnecessary watcher trigger
+  if (vm && vm.$options.propsData &&
+    vm.$options.propsData[key] === undefined &&
+    vm._props[key] !== undefined
+  ) {
+    return vm._props[key]
+  }
+  // call factory function for non-Function types
+  // a value is Function if its prototype is function even across different execution context
+  return typeof def === 'function' && getType(prop.type) !== 'Function'
+    ? def.call(vm)
+    : def
+}
+
+/**
+ * Assert whether a prop is valid.
+ */
+function assertProp (
+  prop,
+  name,
+  value,
+  vm,
+  absent
+) {
+  if (prop.required && absent) {
+    warn(
+      'Missing required prop: "' + name + '"',
+      vm
+    );
+    return
+  }
+  if (value == null && !prop.required) {
+    return
+  }
+  var type = prop.type;
+  var valid = !type || type === true;
+  var expectedTypes = [];
+  if (type) {
+    if (!Array.isArray(type)) {
+      type = [type];
+    }
+    for (var i = 0; i < type.length && !valid; i++) {
+      var assertedType = assertType(value, type[i]);
+      expectedTypes.push(assertedType.expectedType || '');
+      valid = assertedType.valid;
+    }
+  }
+
+  if (!valid) {
+    warn(
+      getInvalidTypeMessage(name, value, expectedTypes),
+      vm
+    );
+    return
+  }
+  var validator = prop.validator;
+  if (validator) {
+    if (!validator(value)) {
+      warn(
+        'Invalid prop: custom validator check failed for prop "' + name + '".',
+        vm
+      );
+    }
+  }
+}
+
+var simpleCheckRE = /^(String|Number|Boolean|Function|Symbol)$/;
+
+function assertType (value, type) {
+  var valid;
+  var expectedType = getType(type);
+  if (simpleCheckRE.test(expectedType)) {
+    var t = typeof value;
+    valid = t === expectedType.toLowerCase();
+    // for primitive wrapper objects
+    if (!valid && t === 'object') {
+      valid = value instanceof type;
+    }
+  } else if (expectedType === 'Object') {
+    valid = isPlainObject(value);
+  } else if (expectedType === 'Array') {
+    valid = Array.isArray(value);
+  } else {
+    valid = value instanceof type;
+  }
+  return {
+    valid: valid,
+    expectedType: expectedType
+  }
+}
+
+/**
+ * Use function string name to check built-in types,
+ * because a simple equality check will fail when running
+ * across different vms / iframes.
+ */
+function getType (fn) {
+  var match = fn && fn.toString().match(/^\s*function (\w+)/);
+  return match ? match[1] : ''
+}
+
+function isSameType (a, b) {
+  return getType(a) === getType(b)
+}
+
+function getTypeIndex (type, expectedTypes) {
+  if (!Array.isArray(expectedTypes)) {
+    return isSameType(expectedTypes, type) ? 0 : -1
+  }
+  for (var i = 0, len = expectedTypes.length; i < len; i++) {
+    if (isSameType(expectedTypes[i], type)) {
+      return i
+    }
+  }
+  return -1
+}
+
+function getInvalidTypeMessage (name, value, expectedTypes) {
+  var message = "Invalid prop: type check failed for prop \"" + name + "\"." +
+    " Expected " + (expectedTypes.map(capitalize).join(', '));
+  var expectedType = expectedTypes[0];
+  var receivedType = toRawType(value);
+  var expectedValue = styleValue(value, expectedType);
+  var receivedValue = styleValue(value, receivedType);
+  // check if we need to specify expected value
+  if (expectedTypes.length === 1 &&
+      isExplicable(expectedType) &&
+      !isBoolean(expectedType, receivedType)) {
+    message += " with value " + expectedValue;
+  }
+  message += ", got " + receivedType + " ";
+  // check if we need to specify received value
+  if (isExplicable(receivedType)) {
+    message += "with value " + receivedValue + ".";
+  }
+  return message
+}
+
+function styleValue (value, type) {
+  if (type === 'String') {
+    return ("\"" + value + "\"")
+  } else if (type === 'Number') {
+    return ("" + (Number(value)))
+  } else {
+    return ("" + value)
+  }
+}
+
+function isExplicable (value) {
+  var explicitTypes = ['string', 'number', 'boolean'];
+  return explicitTypes.some(function (elem) { return value.toLowerCase() === elem; })
+}
+
+function isBoolean () {
+  var args = [], len = arguments.length;
+  while ( len-- ) args[ len ] = arguments[ len ];
+
+  return args.some(function (elem) { return elem.toLowerCase() === 'boolean'; })
+}
+
+/*  */
+
+function handleError (err, vm, info) {
+  // Deactivate deps tracking while processing error handler to avoid possible infinite rendering.
+  // See: https://github.com/vuejs/vuex/issues/1505
+  pushTarget();
+  try {
+    if (vm) {
+      var cur = vm;
+      while ((cur = cur.$parent)) {
+        var hooks = cur.$options.errorCaptured;
+        if (hooks) {
+          for (var i = 0; i < hooks.length; i++) {
+            try {
+              var capture = hooks[i].call(cur, err, vm, info) === false;
+              if (capture) { return }
+            } catch (e) {
+              globalHandleError(e, cur, 'errorCaptured hook');
+            }
+          }
+        }
+      }
+    }
+    globalHandleError(err, vm, info);
+  } finally {
+    popTarget();
+  }
+}
+
+function invokeWithErrorHandling (
+  handler,
+  context,
+  args,
+  vm,
+  info
+) {
+  var res;
+  try {
+    res = args ? handler.apply(context, args) : handler.call(context);
+    if (res && !res._isVue && isPromise(res) && !res._handled) {
+      res.catch(function (e) { return handleError(e, vm, info + " (Promise/async)"); });
+      // issue #9511
+      // avoid catch triggering multiple times when nested calls
+      res._handled = true;
+    }
+  } catch (e) {
+    handleError(e, vm, info);
+  }
+  return res
+}
+
+function globalHandleError (err, vm, info) {
+  if (config.errorHandler) {
+    try {
+      return config.errorHandler.call(null, err, vm, info)
+    } catch (e) {
+      // if the user intentionally throws the original error in the handler,
+      // do not log it twice
+      if (e !== err) {
+        logError(e, null, 'config.errorHandler');
+      }
+    }
+  }
+  logError(err, vm, info);
+}
+
+function logError (err, vm, info) {
+  {
+    warn(("Error in " + info + ": \"" + (err.toString()) + "\""), vm);
+  }
+  /* istanbul ignore else */
+  if ((inBrowser || inWeex) && typeof console !== 'undefined') {
+    console.error(err);
+  } else {
+    throw err
+  }
+}
+
+/*  */
+
+var isUsingMicroTask = false;
+
+var callbacks = [];
+var pending = false;
+
+function flushCallbacks () {
+  pending = false;
+  var copies = callbacks.slice(0);
+  callbacks.length = 0;
+  for (var i = 0; i < copies.length; i++) {
+    copies[i]();
+  }
+}
+
+// Here we have async deferring wrappers using microtasks.
+// In 2.5 we used (macro) tasks (in combination with microtasks).
+// However, it has subtle problems when state is changed right before repaint
+// (e.g. #6813, out-in transitions).
+// Also, using (macro) tasks in event handler would cause some weird behaviors
+// that cannot be circumvented (e.g. #7109, #7153, #7546, #7834, #8109).
+// So we now use microtasks everywhere, again.
+// A major drawback of this tradeoff is that there are some scenarios
+// where microtasks have too high a priority and fire in between supposedly
+// sequential events (e.g. #4521, #6690, which have workarounds)
+// or even between bubbling of the same event (#6566).
+var timerFunc;
+
+// The nextTick behavior leverages the microtask queue, which can be accessed
+// via either native Promise.then or MutationObserver.
+// MutationObserver has wider support, however it is seriously bugged in
+// UIWebView in iOS >= 9.3.3 when triggered in touch event handlers. It
+// completely stops working after triggering a few times... so, if native
+// Promise is available, we will use it:
+/* istanbul ignore next, $flow-disable-line */
+if (typeof Promise !== 'undefined' && isNative(Promise)) {
+  var p = Promise.resolve();
+  timerFunc = function () {
+    p.then(flushCallbacks);
+    // In problematic UIWebViews, Promise.then doesn't completely break, but
+    // it can get stuck in a weird state where callbacks are pushed into the
+    // microtask queue but the queue isn't being flushed, until the browser
+    // needs to do some other work, e.g. handle a timer. Therefore we can
+    // "force" the microtask queue to be flushed by adding an empty timer.
+    if (isIOS) { setTimeout(noop); }
+  };
+  isUsingMicroTask = true;
+} else if (!isIE && typeof MutationObserver !== 'undefined' && (
+  isNative(MutationObserver) ||
+  // PhantomJS and iOS 7.x
+  MutationObserver.toString() === '[object MutationObserverConstructor]'
+)) {
+  // Use MutationObserver where native Promise is not available,
+  // e.g. PhantomJS, iOS7, Android 4.4
+  // (#6466 MutationObserver is unreliable in IE11)
+  var counter = 1;
+  var observer = new MutationObserver(flushCallbacks);
+  var textNode = document.createTextNode(String(counter));
+  observer.observe(textNode, {
+    characterData: true
+  });
+  timerFunc = function () {
+    counter = (counter + 1) % 2;
+    textNode.data = String(counter);
+  };
+  isUsingMicroTask = true;
+} else if (typeof setImmediate !== 'undefined' && isNative(setImmediate)) {
+  // Fallback to setImmediate.
+  // Technically it leverages the (macro) task queue,
+  // but it is still a better choice than setTimeout.
+  timerFunc = function () {
+    setImmediate(flushCallbacks);
+  };
+} else {
+  // Fallback to setTimeout.
+  timerFunc = function () {
+    setTimeout(flushCallbacks, 0);
+  };
+}
+
+function nextTick (cb, ctx) {
+  var _resolve;
+  callbacks.push(function () {
+    if (cb) {
+      try {
+        cb.call(ctx);
+      } catch (e) {
+        handleError(e, ctx, 'nextTick');
+      }
+    } else if (_resolve) {
+      _resolve(ctx);
+    }
+  });
+  if (!pending) {
+    pending = true;
+    timerFunc();
+  }
+  // $flow-disable-line
+  if (!cb && typeof Promise !== 'undefined') {
+    return new Promise(function (resolve) {
+      _resolve = resolve;
+    })
+  }
+}
+
+/*  */
+
+var mark;
+var measure;
+
+{
+  var perf = inBrowser && window.performance;
+  /* istanbul ignore if */
+  if (
+    perf &&
+    perf.mark &&
+    perf.measure &&
+    perf.clearMarks &&
+    perf.clearMeasures
+  ) {
+    mark = function (tag) { return perf.mark(tag); };
+    measure = function (name, startTag, endTag) {
+      perf.measure(name, startTag, endTag);
+      perf.clearMarks(startTag);
+      perf.clearMarks(endTag);
+      // perf.clearMeasures(name)
+    };
+  }
+}
+
+/* not type checking this file because flow doesn't play well with Proxy */
+
+var initProxy;
+
+{
+  var allowedGlobals = makeMap(
+    'Infinity,undefined,NaN,isFinite,isNaN,' +
+    'parseFloat,parseInt,decodeURI,decodeURIComponent,encodeURI,encodeURIComponent,' +
+    'Math,Number,Date,Array,Object,Boolean,String,RegExp,Map,Set,JSON,Intl,' +
+    'require' // for Webpack/Browserify
+  );
+
+  var warnNonPresent = function (target, key) {
+    warn(
+      "Property or method \"" + key + "\" is not defined on the instance but " +
+      'referenced during render. Make sure that this property is reactive, ' +
+      'either in the data option, or for class-based components, by ' +
+      'initializing the property. ' +
+      'See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.',
+      target
+    );
+  };
+
+  var warnReservedPrefix = function (target, key) {
+    warn(
+      "Property \"" + key + "\" must be accessed with \"$data." + key + "\" because " +
+      'properties starting with "$" or "_" are not proxied in the Vue instance to ' +
+      'prevent conflicts with Vue internals. ' +
+      'See: https://vuejs.org/v2/api/#data',
+      target
+    );
+  };
+
+  var hasProxy =
+    typeof Proxy !== 'undefined' && isNative(Proxy);
+
+  if (hasProxy) {
+    var isBuiltInModifier = makeMap('stop,prevent,self,ctrl,shift,alt,meta,exact');
+    config.keyCodes = new Proxy(config.keyCodes, {
+      set: function set (target, key, value) {
+        if (isBuiltInModifier(key)) {
+          warn(("Avoid overwriting built-in modifier in config.keyCodes: ." + key));
+          return false
+        } else {
+          target[key] = value;
+          return true
+        }
+      }
+    });
+  }
+
+  var hasHandler = {
+    has: function has (target, key) {
+      var has = key in target;
+      var isAllowed = allowedGlobals(key) ||
+        (typeof key === 'string' && key.charAt(0) === '_' && !(key in target.$data));
+      if (!has && !isAllowed) {
+        if (key in target.$data) { warnReservedPrefix(target, key); }
+        else { warnNonPresent(target, key); }
+      }
+      return has || !isAllowed
+    }
+  };
+
+  var getHandler = {
+    get: function get (target, key) {
+      if (typeof key === 'string' && !(key in target)) {
+        if (key in target.$data) { warnReservedPrefix(target, key); }
+        else { warnNonPresent(target, key); }
+      }
+      return target[key]
+    }
+  };
+
+  initProxy = function initProxy (vm) {
+    if (hasProxy) {
+      // determine which proxy handler to use
+      var options = vm.$options;
+      var handlers = options.render && options.render._withStripped
+        ? getHandler
+        : hasHandler;
+      vm._renderProxy = new Proxy(vm, handlers);
+    } else {
+      vm._renderProxy = vm;
+    }
+  };
+}
+
+/*  */
+
+var seenObjects = new _Set();
+
+/**
+ * Recursively traverse an object to evoke all converted
+ * getters, so that every nested property inside the object
+ * is collected as a "deep" dependency.
+ */
+function traverse (val) {
+  _traverse(val, seenObjects);
+  seenObjects.clear();
+}
+
+function _traverse (val, seen) {
+  var i, keys;
+  var isA = Array.isArray(val);
+  if ((!isA && !isObject(val)) || Object.isFrozen(val) || val instanceof VNode) {
+    return
+  }
+  if (val.__ob__) {
+    var depId = val.__ob__.dep.id;
+    if (seen.has(depId)) {
+      return
+    }
+    seen.add(depId);
+  }
+  if (isA) {
+    i = val.length;
+    while (i--) { _traverse(val[i], seen); }
+  } else {
+    keys = Object.keys(val);
+    i = keys.length;
+    while (i--) { _traverse(val[keys[i]], seen); }
+  }
+}
+
+/*  */
+
+var normalizeEvent = cached(function (name) {
+  var passive = name.charAt(0) === '&';
+  name = passive ? name.slice(1) : name;
+  var once$$1 = name.charAt(0) === '~'; // Prefixed last, checked first
+  name = once$$1 ? name.slice(1) : name;
+  var capture = name.charAt(0) === '!';
+  name = capture ? name.slice(1) : name;
+  return {
+    name: name,
+    once: once$$1,
+    capture: capture,
+    passive: passive
+  }
+});
+
+function createFnInvoker (fns, vm) {
+  function invoker () {
+    var arguments$1 = arguments;
+
+    var fns = invoker.fns;
+    if (Array.isArray(fns)) {
+      var cloned = fns.slice();
+      for (var i = 0; i < cloned.length; i++) {
+        invokeWithErrorHandling(cloned[i], null, arguments$1, vm, "v-on handler");
+      }
+    } else {
+      // return handler return value for single handlers
+      return invokeWithErrorHandling(fns, null, arguments, vm, "v-on handler")
+    }
+  }
+  invoker.fns = fns;
+  return invoker
+}
+
+function updateListeners (
+  on,
+  oldOn,
+  add,
+  remove$$1,
+  createOnceHandler,
+  vm
+) {
+  var name, def$$1, cur, old, event;
+  for (name in on) {
+    def$$1 = cur = on[name];
+    old = oldOn[name];
+    event = normalizeEvent(name);
+    if (isUndef(cur)) {
+      warn(
+        "Invalid handler for event \"" + (event.name) + "\": got " + String(cur),
+        vm
+      );
+    } else if (isUndef(old)) {
+      if (isUndef(cur.fns)) {
+        cur = on[name] = createFnInvoker(cur, vm);
+      }
+      if (isTrue(event.once)) {
+        cur = on[name] = createOnceHandler(event.name, cur, event.capture);
+      }
+      add(event.name, cur, event.capture, event.passive, event.params);
+    } else if (cur !== old) {
+      old.fns = cur;
+      on[name] = old;
+    }
+  }
+  for (name in oldOn) {
+    if (isUndef(on[name])) {
+      event = normalizeEvent(name);
+      remove$$1(event.name, oldOn[name], event.capture);
+    }
+  }
+}
+
+/*  */
+
+function mergeVNodeHook (def, hookKey, hook) {
+  if (def instanceof VNode) {
+    def = def.data.hook || (def.data.hook = {});
+  }
+  var invoker;
+  var oldHook = def[hookKey];
+
+  function wrappedHook () {
+    hook.apply(this, arguments);
+    // important: remove merged hook to ensure it's called only once
+    // and prevent memory leak
+    remove(invoker.fns, wrappedHook);
+  }
+
+  if (isUndef(oldHook)) {
+    // no existing hook
+    invoker = createFnInvoker([wrappedHook]);
+  } else {
+    /* istanbul ignore if */
+    if (isDef(oldHook.fns) && isTrue(oldHook.merged)) {
+      // already a merged invoker
+      invoker = oldHook;
+      invoker.fns.push(wrappedHook);
+    } else {
+      // existing plain hook
+      invoker = createFnInvoker([oldHook, wrappedHook]);
+    }
+  }
+
+  invoker.merged = true;
+  def[hookKey] = invoker;
+}
+
+/*  */
+
+function extractPropsFromVNodeData (
+  data,
+  Ctor,
+  tag
+) {
+  // we are only extracting raw values here.
+  // validation and default values are handled in the child
+  // component itself.
+  var propOptions = Ctor.options.props;
+  if (isUndef(propOptions)) {
+    return
+  }
+  var res = {};
+  var attrs = data.attrs;
+  var props = data.props;
+  if (isDef(attrs) || isDef(props)) {
+    for (var key in propOptions) {
+      var altKey = hyphenate(key);
+      {
+        var keyInLowerCase = key.toLowerCase();
+        if (
+          key !== keyInLowerCase &&
+          attrs && hasOwn(attrs, keyInLowerCase)
+        ) {
+          tip(
+            "Prop \"" + keyInLowerCase + "\" is passed to component " +
+            (formatComponentName(tag || Ctor)) + ", but the declared prop name is" +
+            " \"" + key + "\". " +
+            "Note that HTML attributes are case-insensitive and camelCased " +
+            "props need to use their kebab-case equivalents when using in-DOM " +
+            "templates. You should probably use \"" + altKey + "\" instead of \"" + key + "\"."
+          );
+        }
+      }
+      checkProp(res, props, key, altKey, true) ||
+      checkProp(res, attrs, key, altKey, false);
+    }
+  }
+  return res
+}
+
+function checkProp (
+  res,
+  hash,
+  key,
+  altKey,
+  preserve
+) {
+  if (isDef(hash)) {
+    if (hasOwn(hash, key)) {
+      res[key] = hash[key];
+      if (!preserve) {
+        delete hash[key];
+      }
+      return true
+    } else if (hasOwn(hash, altKey)) {
+      res[key] = hash[altKey];
+      if (!preserve) {
+        delete hash[altKey];
+      }
+      return true
+    }
+  }
+  return false
+}
+
+/*  */
+
+// The template compiler attempts to minimize the need for normalization by
+// statically analyzing the template at compile time.
+//
+// For plain HTML markup, normalization can be completely skipped because the
+// generated render function is guaranteed to return Array<VNode>. There are
+// two cases where extra normalization is needed:
+
+// 1. When the children contains components - because a functional component
+// may return an Array instead of a single root. In this case, just a simple
+// normalization is needed - if any child is an Array, we flatten the whole
+// thing with Array.prototype.concat. It is guaranteed to be only 1-level deep
+// because functional components already normalize their own children.
+function simpleNormalizeChildren (children) {
+  for (var i = 0; i < children.length; i++) {
+    if (Array.isArray(children[i])) {
+      return Array.prototype.concat.apply([], children)
+    }
+  }
+  return children
+}
+
+// 2. When the children contains constructs that always generated nested Arrays,
+// e.g. <template>, <slot>, v-for, or when the children is provided by user
+// with hand-written render functions / JSX. In such cases a full normalization
+// is needed to cater to all possible types of children values.
+function normalizeChildren (children) {
+  return isPrimitive(children)
+    ? [createTextVNode(children)]
+    : Array.isArray(children)
+      ? normalizeArrayChildren(children)
+      : undefined
+}
+
+function isTextNode (node) {
+  return isDef(node) && isDef(node.text) && isFalse(node.isComment)
+}
+
+function normalizeArrayChildren (children, nestedIndex) {
+  var res = [];
+  var i, c, lastIndex, last;
+  for (i = 0; i < children.length; i++) {
+    c = children[i];
+    if (isUndef(c) || typeof c === 'boolean') { continue }
+    lastIndex = res.length - 1;
+    last = res[lastIndex];
+    //  nested
+    if (Array.isArray(c)) {
+      if (c.length > 0) {
+        c = normalizeArrayChildren(c, ((nestedIndex || '') + "_" + i));
+        // merge adjacent text nodes
+        if (isTextNode(c[0]) && isTextNode(last)) {
+          res[lastIndex] = createTextVNode(last.text + (c[0]).text);
+          c.shift();
+        }
+        res.push.apply(res, c);
+      }
+    } else if (isPrimitive(c)) {
+      if (isTextNode(last)) {
+        // merge adjacent text nodes
+        // this is necessary for SSR hydration because text nodes are
+        // essentially merged when rendered to HTML strings
+        res[lastIndex] = createTextVNode(last.text + c);
+      } else if (c !== '') {
+        // convert primitive to vnode
+        res.push(createTextVNode(c));
+      }
+    } else {
+      if (isTextNode(c) && isTextNode(last)) {
+        // merge adjacent text nodes
+        res[lastIndex] = createTextVNode(last.text + c.text);
+      } else {
+        // default key for nested array children (likely generated by v-for)
+        if (isTrue(children._isVList) &&
+          isDef(c.tag) &&
+          isUndef(c.key) &&
+          isDef(nestedIndex)) {
+          c.key = "__vlist" + nestedIndex + "_" + i + "__";
+        }
+        res.push(c);
+      }
+    }
+  }
+  return res
+}
+
+/*  */
+
+function initProvide (vm) {
+  var provide = vm.$options.provide;
+  if (provide) {
+    vm._provided = typeof provide === 'function'
+      ? provide.call(vm)
+      : provide;
+  }
+}
+
+function initInjections (vm) {
+  var result = resolveInject(vm.$options.inject, vm);
+  if (result) {
+    toggleObserving(false);
+    Object.keys(result).forEach(function (key) {
+      /* istanbul ignore else */
+      {
+        defineReactive$$1(vm, key, result[key], function () {
+          warn(
+            "Avoid mutating an injected value directly since the changes will be " +
+            "overwritten whenever the provided component re-renders. " +
+            "injection being mutated: \"" + key + "\"",
+            vm
+          );
+        });
+      }
+    });
+    toggleObserving(true);
+  }
+}
+
+function resolveInject (inject, vm) {
+  if (inject) {
+    // inject is :any because flow is not smart enough to figure out cached
+    var result = Object.create(null);
+    var keys = hasSymbol
+      ? Reflect.ownKeys(inject)
+      : Object.keys(inject);
+
+    for (var i = 0; i < keys.length; i++) {
+      var key = keys[i];
+      // #6574 in case the inject object is observed...
+      if (key === '__ob__') { continue }
+      var provideKey = inject[key].from;
+      var source = vm;
+      while (source) {
+        if (source._provided && hasOwn(source._provided, provideKey)) {
+          result[key] = source._provided[provideKey];
+          break
+        }
+        source = source.$parent;
+      }
+      if (!source) {
+        if ('default' in inject[key]) {
+          var provideDefault = inject[key].default;
+          result[key] = typeof provideDefault === 'function'
+            ? provideDefault.call(vm)
+            : provideDefault;
+        } else {
+          warn(("Injection \"" + key + "\" not found"), vm);
+        }
+      }
+    }
+    return result
+  }
+}
+
+/*  */
+
+
+
+/**
+ * Runtime helper for resolving raw children VNodes into a slot object.
+ */
+function resolveSlots (
+  children,
+  context
+) {
+  if (!children || !children.length) {
+    return {}
+  }
+  var slots = {};
+  for (var i = 0, l = children.length; i < l; i++) {
+    var child = children[i];
+    var data = child.data;
+    // remove slot attribute if the node is resolved as a Vue slot node
+    if (data && data.attrs && data.attrs.slot) {
+      delete data.attrs.slot;
+    }
+    // named slots should only be respected if the vnode was rendered in the
+    // same context.
+    if ((child.context === context || child.fnContext === context) &&
+      data && data.slot != null
+    ) {
+      var name = data.slot;
+      var slot = (slots[name] || (slots[name] = []));
+      if (child.tag === 'template') {
+        slot.push.apply(slot, child.children || []);
+      } else {
+        slot.push(child);
+      }
+    } else {
+      (slots.default || (slots.default = [])).push(child);
+    }
+  }
+  // ignore slots that contains only whitespace
+  for (var name$1 in slots) {
+    if (slots[name$1].every(isWhitespace)) {
+      delete slots[name$1];
+    }
+  }
+  return slots
+}
+
+function isWhitespace (node) {
+  return (node.isComment && !node.asyncFactory) || node.text === ' '
+}
+
+/*  */
+
+function normalizeScopedSlots (
+  slots,
+  normalSlots,
+  prevSlots
+) {
+  var res;
+  var hasNormalSlots = Object.keys(normalSlots).length > 0;
+  var isStable = slots ? !!slots.$stable : !hasNormalSlots;
+  var key = slots && slots.$key;
+  if (!slots) {
+    res = {};
+  } else if (slots._normalized) {
+    // fast path 1: child component re-render only, parent did not change
+    return slots._normalized
+  } else if (
+    isStable &&
+    prevSlots &&
+    prevSlots !== emptyObject &&
+    key === prevSlots.$key &&
+    !hasNormalSlots &&
+    !prevSlots.$hasNormal
+  ) {
+    // fast path 2: stable scoped slots w/ no normal slots to proxy,
+    // only need to normalize once
+    return prevSlots
+  } else {
+    res = {};
+    for (var key$1 in slots) {
+      if (slots[key$1] && key$1[0] !== '$') {
+        res[key$1] = normalizeScopedSlot(normalSlots, key$1, slots[key$1]);
+      }
+    }
+  }
+  // expose normal slots on scopedSlots
+  for (var key$2 in normalSlots) {
+    if (!(key$2 in res)) {
+      res[key$2] = proxyNormalSlot(normalSlots, key$2);
+    }
+  }
+  // avoriaz seems to mock a non-extensible $scopedSlots object
+  // and when that is passed down this would cause an error
+  if (slots && Object.isExtensible(slots)) {
+    (slots)._normalized = res;
+  }
+  def(res, '$stable', isStable);
+  def(res, '$key', key);
+  def(res, '$hasNormal', hasNormalSlots);
+  return res
+}
+
+function normalizeScopedSlot(normalSlots, key, fn) {
+  var normalized = function () {
+    var res = arguments.length ? fn.apply(null, arguments) : fn({});
+    res = res && typeof res === 'object' && !Array.isArray(res)
+      ? [res] // single vnode
+      : normalizeChildren(res);
+    return res && (
+      res.length === 0 ||
+      (res.length === 1 && res[0].isComment) // #9658
+    ) ? undefined
+      : res
+  };
+  // this is a slot using the new v-slot syntax without scope. although it is
+  // compiled as a scoped slot, render fn users would expect it to be present
+  // on this.$slots because the usage is semantically a normal slot.
+  if (fn.proxy) {
+    Object.defineProperty(normalSlots, key, {
+      get: normalized,
+      enumerable: true,
+      configurable: true
+    });
+  }
+  return normalized
+}
+
+function proxyNormalSlot(slots, key) {
+  return function () { return slots[key]; }
+}
+
+/*  */
+
+/**
+ * Runtime helper for rendering v-for lists.
+ */
+function renderList (
+  val,
+  render
+) {
+  var ret, i, l, keys, key;
+  if (Array.isArray(val) || typeof val === 'string') {
+    ret = new Array(val.length);
+    for (i = 0, l = val.length; i < l; i++) {
+      ret[i] = render(val[i], i);
+    }
+  } else if (typeof val === 'number') {
+    ret = new Array(val);
+    for (i = 0; i < val; i++) {
+      ret[i] = render(i + 1, i);
+    }
+  } else if (isObject(val)) {
+    if (hasSymbol && val[Symbol.iterator]) {
+      ret = [];
+      var iterator = val[Symbol.iterator]();
+      var result = iterator.next();
+      while (!result.done) {
+        ret.push(render(result.value, ret.length));
+        result = iterator.next();
+      }
+    } else {
+      keys = Object.keys(val);
+      ret = new Array(keys.length);
+      for (i = 0, l = keys.length; i < l; i++) {
+        key = keys[i];
+        ret[i] = render(val[key], key, i);
+      }
+    }
+  }
+  if (!isDef(ret)) {
+    ret = [];
+  }
+  (ret)._isVList = true;
+  return ret
+}
+
+/*  */
+
+/**
+ * Runtime helper for rendering <slot>
+ */
+function renderSlot (
+  name,
+  fallback,
+  props,
+  bindObject
+) {
+  var scopedSlotFn = this.$scopedSlots[name];
+  var nodes;
+  if (scopedSlotFn) { // scoped slot
+    props = props || {};
+    if (bindObject) {
+      if (!isObject(bindObject)) {
+        warn(
+          'slot v-bind without argument expects an Object',
+          this
+        );
+      }
+      props = extend(extend({}, bindObject), props);
+    }
+    nodes = scopedSlotFn(props) || fallback;
+  } else {
+    nodes = this.$slots[name] || fallback;
+  }
+
+  var target = props && props.slot;
+  if (target) {
+    return this.$createElement('template', { slot: target }, nodes)
+  } else {
+    return nodes
+  }
+}
+
+/*  */
+
+/**
+ * Runtime helper for resolving filters
+ */
+function resolveFilter (id) {
+  return resolveAsset(this.$options, 'filters', id, true) || identity
+}
+
+/*  */
+
+function isKeyNotMatch (expect, actual) {
+  if (Array.isArray(expect)) {
+    return expect.indexOf(actual) === -1
+  } else {
+    return expect !== actual
+  }
+}
+
+/**
+ * Runtime helper for checking keyCodes from config.
+ * exposed as Vue.prototype._k
+ * passing in eventKeyName as last argument separately for backwards compat
+ */
+function checkKeyCodes (
+  eventKeyCode,
+  key,
+  builtInKeyCode,
+  eventKeyName,
+  builtInKeyName
+) {
+  var mappedKeyCode = config.keyCodes[key] || builtInKeyCode;
+  if (builtInKeyName && eventKeyName && !config.keyCodes[key]) {
+    return isKeyNotMatch(builtInKeyName, eventKeyName)
+  } else if (mappedKeyCode) {
+    return isKeyNotMatch(mappedKeyCode, eventKeyCode)
+  } else if (eventKeyName) {
+    return hyphenate(eventKeyName) !== key
+  }
+}
+
+/*  */
+
+/**
+ * Runtime helper for merging v-bind="object" into a VNode's data.
+ */
+function bindObjectProps (
+  data,
+  tag,
+  value,
+  asProp,
+  isSync
+) {
+  if (value) {
+    if (!isObject(value)) {
+      warn(
+        'v-bind without argument expects an Object or Array value',
+        this
+      );
+    } else {
+      if (Array.isArray(value)) {
+        value = toObject(value);
+      }
+      var hash;
+      var loop = function ( key ) {
+        if (
+          key === 'class' ||
+          key === 'style' ||
+          isReservedAttribute(key)
+        ) {
+          hash = data;
+        } else {
+          var type = data.attrs && data.attrs.type;
+          hash = asProp || config.mustUseProp(tag, type, key)
+            ? data.domProps || (data.domProps = {})
+            : data.attrs || (data.attrs = {});
+        }
+        var camelizedKey = camelize(key);
+        var hyphenatedKey = hyphenate(key);
+        if (!(camelizedKey in hash) && !(hyphenatedKey in hash)) {
+          hash[key] = value[key];
+
+          if (isSync) {
+            var on = data.on || (data.on = {});
+            on[("update:" + key)] = function ($event) {
+              value[key] = $event;
+            };
+          }
+        }
+      };
+
+      for (var key in value) loop( key );
+    }
+  }
+  return data
+}
+
+/*  */
+
+/**
+ * Runtime helper for rendering static trees.
+ */
+function renderStatic (
+  index,
+  isInFor
+) {
+  var cached = this._staticTrees || (this._staticTrees = []);
+  var tree = cached[index];
+  // if has already-rendered static tree and not inside v-for,
+  // we can reuse the same tree.
+  if (tree && !isInFor) {
+    return tree
+  }
+  // otherwise, render a fresh tree.
+  tree = cached[index] = this.$options.staticRenderFns[index].call(
+    this._renderProxy,
+    null,
+    this // for render fns generated for functional component templates
+  );
+  markStatic(tree, ("__static__" + index), false);
+  return tree
+}
+
+/**
+ * Runtime helper for v-once.
+ * Effectively it means marking the node as static with a unique key.
+ */
+function markOnce (
+  tree,
+  index,
+  key
+) {
+  markStatic(tree, ("__once__" + index + (key ? ("_" + key) : "")), true);
+  return tree
+}
+
+function markStatic (
+  tree,
+  key,
+  isOnce
+) {
+  if (Array.isArray(tree)) {
+    for (var i = 0; i < tree.length; i++) {
+      if (tree[i] && typeof tree[i] !== 'string') {
+        markStaticNode(tree[i], (key + "_" + i), isOnce);
+      }
+    }
+  } else {
+    markStaticNode(tree, key, isOnce);
+  }
+}
+
+function markStaticNode (node, key, isOnce) {
+  node.isStatic = true;
+  node.key = key;
+  node.isOnce = isOnce;
+}
+
+/*  */
+
+function bindObjectListeners (data, value) {
+  if (value) {
+    if (!isPlainObject(value)) {
+      warn(
+        'v-on without argument expects an Object value',
+        this
+      );
+    } else {
+      var on = data.on = data.on ? extend({}, data.on) : {};
+      for (var key in value) {
+        var existing = on[key];
+        var ours = value[key];
+        on[key] = existing ? [].concat(existing, ours) : ours;
+      }
+    }
+  }
+  return data
+}
+
+/*  */
+
+function resolveScopedSlots (
+  fns, // see flow/vnode
+  res,
+  // the following are added in 2.6
+  hasDynamicKeys,
+  contentHashKey
+) {
+  res = res || { $stable: !hasDynamicKeys };
+  for (var i = 0; i < fns.length; i++) {
+    var slot = fns[i];
+    if (Array.isArray(slot)) {
+      resolveScopedSlots(slot, res, hasDynamicKeys);
+    } else if (slot) {
+      // marker for reverse proxying v-slot without scope on this.$slots
+      if (slot.proxy) {
+        slot.fn.proxy = true;
+      }
+      res[slot.key] = slot.fn;
+    }
+  }
+  if (contentHashKey) {
+    (res).$key = contentHashKey;
+  }
+  return res
+}
+
+/*  */
+
+function bindDynamicKeys (baseObj, values) {
+  for (var i = 0; i < values.length; i += 2) {
+    var key = values[i];
+    if (typeof key === 'string' && key) {
+      baseObj[values[i]] = values[i + 1];
+    } else if (key !== '' && key !== null) {
+      // null is a special value for explicitly removing a binding
+      warn(
+        ("Invalid value for dynamic directive argument (expected string or null): " + key),
+        this
+      );
+    }
+  }
+  return baseObj
+}
+
+// helper to dynamically append modifier runtime markers to event names.
+// ensure only append when value is already string, otherwise it will be cast
+// to string and cause the type check to miss.
+function prependModifier (value, symbol) {
+  return typeof value === 'string' ? symbol + value : value
+}
+
+/*  */
+
+function installRenderHelpers (target) {
+  target._o = markOnce;
+  target._n = toNumber;
+  target._s = toString;
+  target._l = renderList;
+  target._t = renderSlot;
+  target._q = looseEqual;
+  target._i = looseIndexOf;
+  target._m = renderStatic;
+  target._f = resolveFilter;
+  target._k = checkKeyCodes;
+  target._b = bindObjectProps;
+  target._v = createTextVNode;
+  target._e = createEmptyVNode;
+  target._u = resolveScopedSlots;
+  target._g = bindObjectListeners;
+  target._d = bindDynamicKeys;
+  target._p = prependModifier;
+}
+
+/*  */
+
+function FunctionalRenderContext (
+  data,
+  props,
+  children,
+  parent,
+  Ctor
+) {
+  var this$1 = this;
+
+  var options = Ctor.options;
+  // ensure the createElement function in functional components
+  // gets a unique context - this is necessary for correct named slot check
+  var contextVm;
+  if (hasOwn(parent, '_uid')) {
+    contextVm = Object.create(parent);
+    // $flow-disable-line
+    contextVm._original = parent;
+  } else {
+    // the context vm passed in is a functional context as well.
+    // in this case we want to make sure we are able to get a hold to the
+    // real context instance.
+    contextVm = parent;
+    // $flow-disable-line
+    parent = parent._original;
+  }
+  var isCompiled = isTrue(options._compiled);
+  var needNormalization = !isCompiled;
+
+  this.data = data;
+  this.props = props;
+  this.children = children;
+  this.parent = parent;
+  this.listeners = data.on || emptyObject;
+  this.injections = resolveInject(options.inject, parent);
+  this.slots = function () {
+    if (!this$1.$slots) {
+      normalizeScopedSlots(
+        data.scopedSlots,
+        this$1.$slots = resolveSlots(children, parent)
+      );
+    }
+    return this$1.$slots
+  };
+
+  Object.defineProperty(this, 'scopedSlots', ({
+    enumerable: true,
+    get: function get () {
+      return normalizeScopedSlots(data.scopedSlots, this.slots())
+    }
+  }));
+
+  // support for compiled functional template
+  if (isCompiled) {
+    // exposing $options for renderStatic()
+    this.$options = options;
+    // pre-resolve slots for renderSlot()
+    this.$slots = this.slots();
+    this.$scopedSlots = normalizeScopedSlots(data.scopedSlots, this.$slots);
+  }
+
+  if (options._scopeId) {
+    this._c = function (a, b, c, d) {
+      var vnode = createElement(contextVm, a, b, c, d, needNormalization);
+      if (vnode && !Array.isArray(vnode)) {
+        vnode.fnScopeId = options._scopeId;
+        vnode.fnContext = parent;
+      }
+      return vnode
+    };
+  } else {
+    this._c = function (a, b, c, d) { return createElement(contextVm, a, b, c, d, needNormalization); };
+  }
+}
+
+installRenderHelpers(FunctionalRenderContext.prototype);
+
+function createFunctionalComponent (
+  Ctor,
+  propsData,
+  data,
+  contextVm,
+  children
+) {
+  var options = Ctor.options;
+  var props = {};
+  var propOptions = options.props;
+  if (isDef(propOptions)) {
+    for (var key in propOptions) {
+      props[key] = validateProp(key, propOptions, propsData || emptyObject);
+    }
+  } else {
+    if (isDef(data.attrs)) { mergeProps(props, data.attrs); }
+    if (isDef(data.props)) { mergeProps(props, data.props); }
+  }
+
+  var renderContext = new FunctionalRenderContext(
+    data,
+    props,
+    children,
+    contextVm,
+    Ctor
+  );
+
+  var vnode = options.render.call(null, renderContext._c, renderContext);
+
+  if (vnode instanceof VNode) {
+    return cloneAndMarkFunctionalResult(vnode, data, renderContext.parent, options, renderContext)
+  } else if (Array.isArray(vnode)) {
+    var vnodes = normalizeChildren(vnode) || [];
+    var res = new Array(vnodes.length);
+    for (var i = 0; i < vnodes.length; i++) {
+      res[i] = cloneAndMarkFunctionalResult(vnodes[i], data, renderContext.parent, options, renderContext);
+    }
+    return res
+  }
+}
+
+function cloneAndMarkFunctionalResult (vnode, data, contextVm, options, renderContext) {
+  // #7817 clone node before setting fnContext, otherwise if the node is reused
+  // (e.g. it was from a cached normal slot) the fnContext causes named slots
+  // that should not be matched to match.
+  var clone = cloneVNode(vnode);
+  clone.fnContext = contextVm;
+  clone.fnOptions = options;
+  {
+    (clone.devtoolsMeta = clone.devtoolsMeta || {}).renderContext = renderContext;
+  }
+  if (data.slot) {
+    (clone.data || (clone.data = {})).slot = data.slot;
+  }
+  return clone
+}
+
+function mergeProps (to, from) {
+  for (var key in from) {
+    to[camelize(key)] = from[key];
+  }
+}
+
+/*  */
+
+/*  */
+
+/*  */
+
+/*  */
+
+// inline hooks to be invoked on component VNodes during patch
+var componentVNodeHooks = {
+  init: function init (vnode, hydrating) {
+    if (
+      vnode.componentInstance &&
+      !vnode.componentInstance._isDestroyed &&
+      vnode.data.keepAlive
+    ) {
+      // kept-alive components, treat as a patch
+      var mountedNode = vnode; // work around flow
+      componentVNodeHooks.prepatch(mountedNode, mountedNode);
+    } else {
+      var child = vnode.componentInstance = createComponentInstanceForVnode(
+        vnode,
+        activeInstance
+      );
+      child.$mount(hydrating ? vnode.elm : undefined, hydrating);
+    }
+  },
+
+  prepatch: function prepatch (oldVnode, vnode) {
+    var options = vnode.componentOptions;
+    var child = vnode.componentInstance = oldVnode.componentInstance;
+    updateChildComponent(
+      child,
+      options.propsData, // updated props
+      options.listeners, // updated listeners
+      vnode, // new parent vnode
+      options.children // new children
+    );
+  },
+
+  insert: function insert (vnode) {
+    var context = vnode.context;
+    var componentInstance = vnode.componentInstance;
+    if (!componentInstance._isMounted) {
+      componentInstance._isMounted = true;
+      callHook(componentInstance, 'mounted');
+    }
+    if (vnode.data.keepAlive) {
+      if (context._isMounted) {
+        // vue-router#1212
+        // During updates, a kept-alive component's child components may
+        // change, so directly walking the tree here may call activated hooks
+        // on incorrect children. Instead we push them into a queue which will
+        // be processed after the whole patch process ended.
+        queueActivatedComponent(componentInstance);
+      } else {
+        activateChildComponent(componentInstance, true /* direct */);
+      }
+    }
+  },
+
+  destroy: function destroy (vnode) {
+    var componentInstance = vnode.componentInstance;
+    if (!componentInstance._isDestroyed) {
+      if (!vnode.data.keepAlive) {
+        componentInstance.$destroy();
+      } else {
+        deactivateChildComponent(componentInstance, true /* direct */);
+      }
+    }
+  }
+};
+
+var hooksToMerge = Object.keys(componentVNodeHooks);
+
+function createComponent (
+  Ctor,
+  data,
+  context,
+  children,
+  tag
+) {
+  if (isUndef(Ctor)) {
+    return
+  }
+
+  var baseCtor = context.$options._base;
+
+  // plain options object: turn it into a constructor
+  if (isObject(Ctor)) {
+    Ctor = baseCtor.extend(Ctor);
+  }
+
+  // if at this stage it's not a constructor or an async component factory,
+  // reject.
+  if (typeof Ctor !== 'function') {
+    {
+      warn(("Invalid Component definition: " + (String(Ctor))), context);
+    }
+    return
+  }
+
+  // async component
+  var asyncFactory;
+  if (isUndef(Ctor.cid)) {
+    asyncFactory = Ctor;
+    Ctor = resolveAsyncComponent(asyncFactory, baseCtor);
+    if (Ctor === undefined) {
+      // return a placeholder node for async component, which is rendered
+      // as a comment node but preserves all the raw information for the node.
+      // the information will be used for async server-rendering and hydration.
+      return createAsyncPlaceholder(
+        asyncFactory,
+        data,
+        context,
+        children,
+        tag
+      )
+    }
+  }
+
+  data = data || {};
+
+  // resolve constructor options in case global mixins are applied after
+  // component constructor creation
+  resolveConstructorOptions(Ctor);
+
+  // transform component v-model data into props & events
+  if (isDef(data.model)) {
+    transformModel(Ctor.options, data);
+  }
+
+  // extract props
+  var propsData = extractPropsFromVNodeData(data, Ctor, tag);
+
+  // functional component
+  if (isTrue(Ctor.options.functional)) {
+    return createFunctionalComponent(Ctor, propsData, data, context, children)
+  }
+
+  // extract listeners, since these needs to be treated as
+  // child component listeners instead of DOM listeners
+  var listeners = data.on;
+  // replace with listeners with .native modifier
+  // so it gets processed during parent component patch.
+  data.on = data.nativeOn;
+
+  if (isTrue(Ctor.options.abstract)) {
+    // abstract components do not keep anything
+    // other than props & listeners & slot
+
+    // work around flow
+    var slot = data.slot;
+    data = {};
+    if (slot) {
+      data.slot = slot;
+    }
+  }
+
+  // install component management hooks onto the placeholder node
+  installComponentHooks(data);
+
+  // return a placeholder vnode
+  var name = Ctor.options.name || tag;
+  var vnode = new VNode(
+    ("vue-component-" + (Ctor.cid) + (name ? ("-" + name) : '')),
+    data, undefined, undefined, undefined, context,
+    { Ctor: Ctor, propsData: propsData, listeners: listeners, tag: tag, children: children },
+    asyncFactory
+  );
+
+  return vnode
+}
+
+function createComponentInstanceForVnode (
+  vnode, // we know it's MountedComponentVNode but flow doesn't
+  parent // activeInstance in lifecycle state
+) {
+  var options = {
+    _isComponent: true,
+    _parentVnode: vnode,
+    parent: parent
+  };
+  // check inline-template render functions
+  var inlineTemplate = vnode.data.inlineTemplate;
+  if (isDef(inlineTemplate)) {
+    options.render = inlineTemplate.render;
+    options.staticRenderFns = inlineTemplate.staticRenderFns;
+  }
+  return new vnode.componentOptions.Ctor(options)
+}
+
+function installComponentHooks (data) {
+  var hooks = data.hook || (data.hook = {});
+  for (var i = 0; i < hooksToMerge.length; i++) {
+    var key = hooksToMerge[i];
+    var existing = hooks[key];
+    var toMerge = componentVNodeHooks[key];
+    if (existing !== toMerge && !(existing && existing._merged)) {
+      hooks[key] = existing ? mergeHook$1(toMerge, existing) : toMerge;
+    }
+  }
+}
+
+function mergeHook$1 (f1, f2) {
+  var merged = function (a, b) {
+    // flow complains about extra args which is why we use any
+    f1(a, b);
+    f2(a, b);
+  };
+  merged._merged = true;
+  return merged
+}
+
+// transform component v-model info (value and callback) into
+// prop and event handler respectively.
+function transformModel (options, data) {
+  var prop = (options.model && options.model.prop) || 'value';
+  var event = (options.model && options.model.event) || 'input'
+  ;(data.attrs || (data.attrs = {}))[prop] = data.model.value;
+  var on = data.on || (data.on = {});
+  var existing = on[event];
+  var callback = data.model.callback;
+  if (isDef(existing)) {
+    if (
+      Array.isArray(existing)
+        ? existing.indexOf(callback) === -1
+        : existing !== callback
+    ) {
+      on[event] = [callback].concat(existing);
+    }
+  } else {
+    on[event] = callback;
+  }
+}
+
+/*  */
+
+var SIMPLE_NORMALIZE = 1;
+var ALWAYS_NORMALIZE = 2;
+
+// wrapper function for providing a more flexible interface
+// without getting yelled at by flow
+function createElement (
+  context,
+  tag,
+  data,
+  children,
+  normalizationType,
+  alwaysNormalize
+) {
+  if (Array.isArray(data) || isPrimitive(data)) {
+    normalizationType = children;
+    children = data;
+    data = undefined;
+  }
+  if (isTrue(alwaysNormalize)) {
+    normalizationType = ALWAYS_NORMALIZE;
+  }
+  return _createElement(context, tag, data, children, normalizationType)
+}
+
+function _createElement (
+  context,
+  tag,
+  data,
+  children,
+  normalizationType
+) {
+  if (isDef(data) && isDef((data).__ob__)) {
+    warn(
+      "Avoid using observed data object as vnode data: " + (JSON.stringify(data)) + "\n" +
+      'Always create fresh vnode data objects in each render!',
+      context
+    );
+    return createEmptyVNode()
+  }
+  // object syntax in v-bind
+  if (isDef(data) && isDef(data.is)) {
+    tag = data.is;
+  }
+  if (!tag) {
+    // in case of component :is set to falsy value
+    return createEmptyVNode()
+  }
+  // warn against non-primitive key
+  if (isDef(data) && isDef(data.key) && !isPrimitive(data.key)
+  ) {
+    {
+      warn(
+        'Avoid using non-primitive value as key, ' +
+        'use string/number value instead.',
+        context
+      );
+    }
+  }
+  // support single function children as default scoped slot
+  if (Array.isArray(children) &&
+    typeof children[0] === 'function'
+  ) {
+    data = data || {};
+    data.scopedSlots = { default: children[0] };
+    children.length = 0;
+  }
+  if (normalizationType === ALWAYS_NORMALIZE) {
+    children = normalizeChildren(children);
+  } else if (normalizationType === SIMPLE_NORMALIZE) {
+    children = simpleNormalizeChildren(children);
+  }
+  var vnode, ns;
+  if (typeof tag === 'string') {
+    var Ctor;
+    ns = (context.$vnode && context.$vnode.ns) || config.getTagNamespace(tag);
+    if (config.isReservedTag(tag)) {
+      // platform built-in elements
+      if (isDef(data) && isDef(data.nativeOn)) {
+        warn(
+          ("The .native modifier for v-on is only valid on components but it was used on <" + tag + ">."),
+          context
+        );
+      }
+      vnode = new VNode(
+        config.parsePlatformTagName(tag), data, children,
+        undefined, undefined, context
+      );
+    } else if ((!data || !data.pre) && isDef(Ctor = resolveAsset(context.$options, 'components', tag))) {
+      // component
+      vnode = createComponent(Ctor, data, context, children, tag);
+    } else {
+      // unknown or unlisted namespaced elements
+      // check at runtime because it may get assigned a namespace when its
+      // parent normalizes children
+      vnode = new VNode(
+        tag, data, children,
+        undefined, undefined, context
+      );
+    }
+  } else {
+    // direct component options / constructor
+    vnode = createComponent(tag, data, context, children);
+  }
+  if (Array.isArray(vnode)) {
+    return vnode
+  } else if (isDef(vnode)) {
+    if (isDef(ns)) { applyNS(vnode, ns); }
+    if (isDef(data)) { registerDeepBindings(data); }
+    return vnode
+  } else {
+    return createEmptyVNode()
+  }
+}
+
+function applyNS (vnode, ns, force) {
+  vnode.ns = ns;
+  if (vnode.tag === 'foreignObject') {
+    // use default namespace inside foreignObject
+    ns = undefined;
+    force = true;
+  }
+  if (isDef(vnode.children)) {
+    for (var i = 0, l = vnode.children.length; i < l; i++) {
+      var child = vnode.children[i];
+      if (isDef(child.tag) && (
+        isUndef(child.ns) || (isTrue(force) && child.tag !== 'svg'))) {
+        applyNS(child, ns, force);
+      }
+    }
+  }
+}
+
+// ref #5318
+// necessary to ensure parent re-render when deep bindings like :style and
+// :class are used on slot nodes
+function registerDeepBindings (data) {
+  if (isObject(data.style)) {
+    traverse(data.style);
+  }
+  if (isObject(data.class)) {
+    traverse(data.class);
+  }
+}
+
+/*  */
+
+function initRender (vm) {
+  vm._vnode = null; // the root of the child tree
+  vm._staticTrees = null; // v-once cached trees
+  var options = vm.$options;
+  var parentVnode = vm.$vnode = options._parentVnode; // the placeholder node in parent tree
+  var renderContext = parentVnode && parentVnode.context;
+  vm.$slots = resolveSlots(options._renderChildren, renderContext);
+  vm.$scopedSlots = emptyObject;
+  // bind the createElement fn to this instance
+  // so that we get proper render context inside it.
+  // args order: tag, data, children, normalizationType, alwaysNormalize
+  // internal version is used by render functions compiled from templates
+  vm._c = function (a, b, c, d) { return createElement(vm, a, b, c, d, false); };
+  // normalization is always applied for the public version, used in
+  // user-written render functions.
+  vm.$createElement = function (a, b, c, d) { return createElement(vm, a, b, c, d, true); };
+
+  // $attrs & $listeners are exposed for easier HOC creation.
+  // they need to be reactive so that HOCs using them are always updated
+  var parentData = parentVnode && parentVnode.data;
+
+  /* istanbul ignore else */
+  {
+    defineReactive$$1(vm, '$attrs', parentData && parentData.attrs || emptyObject, function () {
+      !isUpdatingChildComponent && warn("$attrs is readonly.", vm);
+    }, true);
+    defineReactive$$1(vm, '$listeners', options._parentListeners || emptyObject, function () {
+      !isUpdatingChildComponent && warn("$listeners is readonly.", vm);
+    }, true);
+  }
+}
+
+var currentRenderingInstance = null;
+
+function renderMixin (Vue) {
+  // install runtime convenience helpers
+  installRenderHelpers(Vue.prototype);
+
+  Vue.prototype.$nextTick = function (fn) {
+    return nextTick(fn, this)
+  };
+
+  Vue.prototype._render = function () {
+    var vm = this;
+    var ref = vm.$options;
+    var render = ref.render;
+    var _parentVnode = ref._parentVnode;
+
+    if (_parentVnode) {
+      vm.$scopedSlots = normalizeScopedSlots(
+        _parentVnode.data.scopedSlots,
+        vm.$slots,
+        vm.$scopedSlots
+      );
+    }
+
+    // set parent vnode. this allows render functions to have access
+    // to the data on the placeholder node.
+    vm.$vnode = _parentVnode;
+    // render self
+    var vnode;
+    try {
+      // There's no need to maintain a stack because all render fns are called
+      // separately from one another. Nested component's render fns are called
+      // when parent component is patched.
+      currentRenderingInstance = vm;
+      vnode = render.call(vm._renderProxy, vm.$createElement);
+    } catch (e) {
+      handleError(e, vm, "render");
+      // return error render result,
+      // or previous vnode to prevent render error causing blank component
+      /* istanbul ignore else */
+      if (vm.$options.renderError) {
+        try {
+          vnode = vm.$options.renderError.call(vm._renderProxy, vm.$createElement, e);
+        } catch (e) {
+          handleError(e, vm, "renderError");
+          vnode = vm._vnode;
+        }
+      } else {
+        vnode = vm._vnode;
+      }
+    } finally {
+      currentRenderingInstance = null;
+    }
+    // if the returned array contains only a single node, allow it
+    if (Array.isArray(vnode) && vnode.length === 1) {
+      vnode = vnode[0];
+    }
+    // return empty vnode in case the render function errored out
+    if (!(vnode instanceof VNode)) {
+      if (Array.isArray(vnode)) {
+        warn(
+          'Multiple root nodes returned from render function. Render function ' +
+          'should return a single root node.',
+          vm
+        );
+      }
+      vnode = createEmptyVNode();
+    }
+    // set parent
+    vnode.parent = _parentVnode;
+    return vnode
+  };
+}
+
+/*  */
+
+function ensureCtor (comp, base) {
+  if (
+    comp.__esModule ||
+    (hasSymbol && comp[Symbol.toStringTag] === 'Module')
+  ) {
+    comp = comp.default;
+  }
+  return isObject(comp)
+    ? base.extend(comp)
+    : comp
+}
+
+function createAsyncPlaceholder (
+  factory,
+  data,
+  context,
+  children,
+  tag
+) {
+  var node = createEmptyVNode();
+  node.asyncFactory = factory;
+  node.asyncMeta = { data: data, context: context, children: children, tag: tag };
+  return node
+}
+
+function resolveAsyncComponent (
+  factory,
+  baseCtor
+) {
+  if (isTrue(factory.error) && isDef(factory.errorComp)) {
+    return factory.errorComp
+  }
+
+  if (isDef(factory.resolved)) {
+    return factory.resolved
+  }
+
+  var owner = currentRenderingInstance;
+  if (owner && isDef(factory.owners) && factory.owners.indexOf(owner) === -1) {
+    // already pending
+    factory.owners.push(owner);
+  }
+
+  if (isTrue(factory.loading) && isDef(factory.loadingComp)) {
+    return factory.loadingComp
+  }
+
+  if (owner && !isDef(factory.owners)) {
+    var owners = factory.owners = [owner];
+    var sync = true;
+    var timerLoading = null;
+    var timerTimeout = null
+
+    ;(owner).$on('hook:destroyed', function () { return remove(owners, owner); });
+
+    var forceRender = function (renderCompleted) {
+      for (var i = 0, l = owners.length; i < l; i++) {
+        (owners[i]).$forceUpdate();
+      }
+
+      if (renderCompleted) {
+        owners.length = 0;
+        if (timerLoading !== null) {
+          clearTimeout(timerLoading);
+          timerLoading = null;
+        }
+        if (timerTimeout !== null) {
+          clearTimeout(timerTimeout);
+          timerTimeout = null;
+        }
+      }
+    };
+
+    var resolve = once(function (res) {
+      // cache resolved
+      factory.resolved = ensureCtor(res, baseCtor);
+      // invoke callbacks only if this is not a synchronous resolve
+      // (async resolves are shimmed as synchronous during SSR)
+      if (!sync) {
+        forceRender(true);
+      } else {
+        owners.length = 0;
+      }
+    });
+
+    var reject = once(function (reason) {
+      warn(
+        "Failed to resolve async component: " + (String(factory)) +
+        (reason ? ("\nReason: " + reason) : '')
+      );
+      if (isDef(factory.errorComp)) {
+        factory.error = true;
+        forceRender(true);
+      }
+    });
+
+    var res = factory(resolve, reject);
+
+    if (isObject(res)) {
+      if (isPromise(res)) {
+        // () => Promise
+        if (isUndef(factory.resolved)) {
+          res.then(resolve, reject);
+        }
+      } else if (isPromise(res.component)) {
+        res.component.then(resolve, reject);
+
+        if (isDef(res.error)) {
+          factory.errorComp = ensureCtor(res.error, baseCtor);
+        }
+
+        if (isDef(res.loading)) {
+          factory.loadingComp = ensureCtor(res.loading, baseCtor);
+          if (res.delay === 0) {
+            factory.loading = true;
+          } else {
+            timerLoading = setTimeout(function () {
+              timerLoading = null;
+              if (isUndef(factory.resolved) && isUndef(factory.error)) {
+                factory.loading = true;
+                forceRender(false);
+              }
+            }, res.delay || 200);
+          }
+        }
+
+        if (isDef(res.timeout)) {
+          timerTimeout = setTimeout(function () {
+            timerTimeout = null;
+            if (isUndef(factory.resolved)) {
+              reject(
+                "timeout (" + (res.timeout) + "ms)"
+              );
+            }
+          }, res.timeout);
+        }
+      }
+    }
+
+    sync = false;
+    // return in case resolved synchronously
+    return factory.loading
+      ? factory.loadingComp
+      : factory.resolved
+  }
+}
+
+/*  */
+
+function isAsyncPlaceholder (node) {
+  return node.isComment && node.asyncFactory
+}
+
+/*  */
+
+function getFirstComponentChild (children) {
+  if (Array.isArray(children)) {
+    for (var i = 0; i < children.length; i++) {
+      var c = children[i];
+      if (isDef(c) && (isDef(c.componentOptions) || isAsyncPlaceholder(c))) {
+        return c
+      }
+    }
+  }
+}
+
+/*  */
+
+/*  */
+
+function initEvents (vm) {
+  vm._events = Object.create(null);
+  vm._hasHookEvent = false;
+  // init parent attached events
+  var listeners = vm.$options._parentListeners;
+  if (listeners) {
+    updateComponentListeners(vm, listeners);
+  }
+}
+
+var target;
+
+function add (event, fn) {
+  target.$on(event, fn);
+}
+
+function remove$1 (event, fn) {
+  target.$off(event, fn);
+}
+
+function createOnceHandler (event, fn) {
+  var _target = target;
+  return function onceHandler () {
+    var res = fn.apply(null, arguments);
+    if (res !== null) {
+      _target.$off(event, onceHandler);
+    }
+  }
+}
+
+function updateComponentListeners (
+  vm,
+  listeners,
+  oldListeners
+) {
+  target = vm;
+  updateListeners(listeners, oldListeners || {}, add, remove$1, createOnceHandler, vm);
+  target = undefined;
+}
+
+function eventsMixin (Vue) {
+  var hookRE = /^hook:/;
+  Vue.prototype.$on = function (event, fn) {
+    var vm = this;
+    if (Array.isArray(event)) {
+      for (var i = 0, l = event.length; i < l; i++) {
+        vm.$on(event[i], fn);
+      }
+    } else {
+      (vm._events[event] || (vm._events[event] = [])).push(fn);
+      // optimize hook:event cost by using a boolean flag marked at registration
+      // instead of a hash lookup
+      if (hookRE.test(event)) {
+        vm._hasHookEvent = true;
+      }
+    }
+    return vm
+  };
+
+  Vue.prototype.$once = function (event, fn) {
+    var vm = this;
+    function on () {
+      vm.$off(event, on);
+      fn.apply(vm, arguments);
+    }
+    on.fn = fn;
+    vm.$on(event, on);
+    return vm
+  };
+
+  Vue.prototype.$off = function (event, fn) {
+    var vm = this;
+    // all
+    if (!arguments.length) {
+      vm._events = Object.create(null);
+      return vm
+    }
+    // array of events
+    if (Array.isArray(event)) {
+      for (var i$1 = 0, l = event.length; i$1 < l; i$1++) {
+        vm.$off(event[i$1], fn);
+      }
+      return vm
+    }
+    // specific event
+    var cbs = vm._events[event];
+    if (!cbs) {
+      return vm
+    }
+    if (!fn) {
+      vm._events[event] = null;
+      return vm
+    }
+    // specific handler
+    var cb;
+    var i = cbs.length;
+    while (i--) {
+      cb = cbs[i];
+      if (cb === fn || cb.fn === fn) {
+        cbs.splice(i, 1);
+        break
+      }
+    }
+    return vm
+  };
+
+  Vue.prototype.$emit = function (event) {
+    var vm = this;
+    {
+      var lowerCaseEvent = event.toLowerCase();
+      if (lowerCaseEvent !== event && vm._events[lowerCaseEvent]) {
+        tip(
+          "Event \"" + lowerCaseEvent + "\" is emitted in component " +
+          (formatComponentName(vm)) + " but the handler is registered for \"" + event + "\". " +
+          "Note that HTML attributes are case-insensitive and you cannot use " +
+          "v-on to listen to camelCase events when using in-DOM templates. " +
+          "You should probably use \"" + (hyphenate(event)) + "\" instead of \"" + event + "\"."
+        );
+      }
+    }
+    var cbs = vm._events[event];
+    if (cbs) {
+      cbs = cbs.length > 1 ? toArray(cbs) : cbs;
+      var args = toArray(arguments, 1);
+      var info = "event handler for \"" + event + "\"";
+      for (var i = 0, l = cbs.length; i < l; i++) {
+        invokeWithErrorHandling(cbs[i], vm, args, vm, info);
+      }
+    }
+    return vm
+  };
+}
+
+/*  */
+
+var activeInstance = null;
+var isUpdatingChildComponent = false;
+
+function setActiveInstance(vm) {
+  var prevActiveInstance = activeInstance;
+  activeInstance = vm;
+  return function () {
+    activeInstance = prevActiveInstance;
+  }
+}
+
+function initLifecycle (vm) {
+  var options = vm.$options;
+
+  // locate first non-abstract parent
+  var parent = options.parent;
+  if (parent && !options.abstract) {
+    while (parent.$options.abstract && parent.$parent) {
+      parent = parent.$parent;
+    }
+    parent.$children.push(vm);
+  }
+
+  vm.$parent = parent;
+  vm.$root = parent ? parent.$root : vm;
+
+  vm.$children = [];
+  vm.$refs = {};
+
+  vm._watcher = null;
+  vm._inactive = null;
+  vm._directInactive = false;
+  vm._isMounted = false;
+  vm._isDestroyed = false;
+  vm._isBeingDestroyed = false;
+}
+
+function lifecycleMixin (Vue) {
+  Vue.prototype._update = function (vnode, hydrating) {
+    var vm = this;
+    var prevEl = vm.$el;
+    var prevVnode = vm._vnode;
+    var restoreActiveInstance = setActiveInstance(vm);
+    vm._vnode = vnode;
+    // Vue.prototype.__patch__ is injected in entry points
+    // based on the rendering backend used.
+    if (!prevVnode) {
+      // initial render
+      vm.$el = vm.__patch__(vm.$el, vnode, hydrating, false /* removeOnly */);
+    } else {
+      // updates
+      vm.$el = vm.__patch__(prevVnode, vnode);
+    }
+    restoreActiveInstance();
+    // update __vue__ reference
+    if (prevEl) {
+      prevEl.__vue__ = null;
+    }
+    if (vm.$el) {
+      vm.$el.__vue__ = vm;
+    }
+    // if parent is an HOC, update its $el as well
+    if (vm.$vnode && vm.$parent && vm.$vnode === vm.$parent._vnode) {
+      vm.$parent.$el = vm.$el;
+    }
+    // updated hook is called by the scheduler to ensure that children are
+    // updated in a parent's updated hook.
+  };
+
+  Vue.prototype.$forceUpdate = function () {
+    var vm = this;
+    if (vm._watcher) {
+      vm._watcher.update();
+    }
+  };
+
+  Vue.prototype.$destroy = function () {
+    var vm = this;
+    if (vm._isBeingDestroyed) {
+      return
+    }
+    callHook(vm, 'beforeDestroy');
+    vm._isBeingDestroyed = true;
+    // remove self from parent
+    var parent = vm.$parent;
+    if (parent && !parent._isBeingDestroyed && !vm.$options.abstract) {
+      remove(parent.$children, vm);
+    }
+    // teardown watchers
+    if (vm._watcher) {
+      vm._watcher.teardown();
+    }
+    var i = vm._watchers.length;
+    while (i--) {
+      vm._watchers[i].teardown();
+    }
+    // remove reference from data ob
+    // frozen object may not have observer.
+    if (vm._data.__ob__) {
+      vm._data.__ob__.vmCount--;
+    }
+    // call the last hook...
+    vm._isDestroyed = true;
+    // invoke destroy hooks on current rendered tree
+    vm.__patch__(vm._vnode, null);
+    // fire destroyed hook
+    callHook(vm, 'destroyed');
+    // turn off all instance listeners.
+    vm.$off();
+    // remove __vue__ reference
+    if (vm.$el) {
+      vm.$el.__vue__ = null;
+    }
+    // release circular reference (#6759)
+    if (vm.$vnode) {
+      vm.$vnode.parent = null;
+    }
+  };
+}
+
+function mountComponent (
+  vm,
+  el,
+  hydrating
+) {
+  vm.$el = el;
+  if (!vm.$options.render) {
+    vm.$options.render = createEmptyVNode;
+    {
+      /* istanbul ignore if */
+      if ((vm.$options.template && vm.$options.template.charAt(0) !== '#') ||
+        vm.$options.el || el) {
+        warn(
+          'You are using the runtime-only build of Vue where the template ' +
+          'compiler is not available. Either pre-compile the templates into ' +
+          'render functions, or use the compiler-included build.',
+          vm
+        );
+      } else {
+        warn(
+          'Failed to mount component: template or render function not defined.',
+          vm
+        );
+      }
+    }
+  }
+  callHook(vm, 'beforeMount');
+
+  var updateComponent;
+  /* istanbul ignore if */
+  if (config.performance && mark) {
+    updateComponent = function () {
+      var name = vm._name;
+      var id = vm._uid;
+      var startTag = "vue-perf-start:" + id;
+      var endTag = "vue-perf-end:" + id;
+
+      mark(startTag);
+      var vnode = vm._render();
+      mark(endTag);
+      measure(("vue " + name + " render"), startTag, endTag);
+
+      mark(startTag);
+      vm._update(vnode, hydrating);
+      mark(endTag);
+      measure(("vue " + name + " patch"), startTag, endTag);
+    };
+  } else {
+    updateComponent = function () {
+      vm._update(vm._render(), hydrating);
+    };
+  }
+
+  // we set this to vm._watcher inside the watcher's constructor
+  // since the watcher's initial patch may call $forceUpdate (e.g. inside child
+  // component's mounted hook), which relies on vm._watcher being already defined
+  new Watcher(vm, updateComponent, noop, {
+    before: function before () {
+      if (vm._isMounted && !vm._isDestroyed) {
+        callHook(vm, 'beforeUpdate');
+      }
+    }
+  }, true /* isRenderWatcher */);
+  hydrating = false;
+
+  // manually mounted instance, call mounted on self
+  // mounted is called for render-created child components in its inserted hook
+  if (vm.$vnode == null) {
+    vm._isMounted = true;
+    callHook(vm, 'mounted');
+  }
+  return vm
+}
+
+function updateChildComponent (
+  vm,
+  propsData,
+  listeners,
+  parentVnode,
+  renderChildren
+) {
+  {
+    isUpdatingChildComponent = true;
+  }
+
+  // determine whether component has slot children
+  // we need to do this before overwriting $options._renderChildren.
+
+  // check if there are dynamic scopedSlots (hand-written or compiled but with
+  // dynamic slot names). Static scoped slots compiled from template has the
+  // "$stable" marker.
+  var newScopedSlots = parentVnode.data.scopedSlots;
+  var oldScopedSlots = vm.$scopedSlots;
+  var hasDynamicScopedSlot = !!(
+    (newScopedSlots && !newScopedSlots.$stable) ||
+    (oldScopedSlots !== emptyObject && !oldScopedSlots.$stable) ||
+    (newScopedSlots && vm.$scopedSlots.$key !== newScopedSlots.$key)
+  );
+
+  // Any static slot children from the parent may have changed during parent's
+  // update. Dynamic scoped slots may also have changed. In such cases, a forced
+  // update is necessary to ensure correctness.
+  var needsForceUpdate = !!(
+    renderChildren ||               // has new static slots
+    vm.$options._renderChildren ||  // has old static slots
+    hasDynamicScopedSlot
+  );
+
+  vm.$options._parentVnode = parentVnode;
+  vm.$vnode = parentVnode; // update vm's placeholder node without re-render
+
+  if (vm._vnode) { // update child tree's parent
+    vm._vnode.parent = parentVnode;
+  }
+  vm.$options._renderChildren = renderChildren;
+
+  // update $attrs and $listeners hash
+  // these are also reactive so they may trigger child update if the child
+  // used them during render
+  vm.$attrs = parentVnode.data.attrs || emptyObject;
+  vm.$listeners = listeners || emptyObject;
+
+  // update props
+  if (propsData && vm.$options.props) {
+    toggleObserving(false);
+    var props = vm._props;
+    var propKeys = vm.$options._propKeys || [];
+    for (var i = 0; i < propKeys.length; i++) {
+      var key = propKeys[i];
+      var propOptions = vm.$options.props; // wtf flow?
+      props[key] = validateProp(key, propOptions, propsData, vm);
+    }
+    toggleObserving(true);
+    // keep a copy of raw propsData
+    vm.$options.propsData = propsData;
+  }
+
+  // update listeners
+  listeners = listeners || emptyObject;
+  var oldListeners = vm.$options._parentListeners;
+  vm.$options._parentListeners = listeners;
+  updateComponentListeners(vm, listeners, oldListeners);
+
+  // resolve slots + force update if has children
+  if (needsForceUpdate) {
+    vm.$slots = resolveSlots(renderChildren, parentVnode.context);
+    vm.$forceUpdate();
+  }
+
+  {
+    isUpdatingChildComponent = false;
+  }
+}
+
+function isInInactiveTree (vm) {
+  while (vm && (vm = vm.$parent)) {
+    if (vm._inactive) { return true }
+  }
+  return false
+}
+
+function activateChildComponent (vm, direct) {
+  if (direct) {
+    vm._directInactive = false;
+    if (isInInactiveTree(vm)) {
+      return
+    }
+  } else if (vm._directInactive) {
+    return
+  }
+  if (vm._inactive || vm._inactive === null) {
+    vm._inactive = false;
+    for (var i = 0; i < vm.$children.length; i++) {
+      activateChildComponent(vm.$children[i]);
+    }
+    callHook(vm, 'activated');
+  }
+}
+
+function deactivateChildComponent (vm, direct) {
+  if (direct) {
+    vm._directInactive = true;
+    if (isInInactiveTree(vm)) {
+      return
+    }
+  }
+  if (!vm._inactive) {
+    vm._inactive = true;
+    for (var i = 0; i < vm.$children.length; i++) {
+      deactivateChildComponent(vm.$children[i]);
+    }
+    callHook(vm, 'deactivated');
+  }
+}
+
+function callHook (vm, hook) {
+  // #7573 disable dep collection when invoking lifecycle hooks
+  pushTarget();
+  var handlers = vm.$options[hook];
+  var info = hook + " hook";
+  if (handlers) {
+    for (var i = 0, j = handlers.length; i < j; i++) {
+      invokeWithErrorHandling(handlers[i], vm, null, vm, info);
+    }
+  }
+  if (vm._hasHookEvent) {
+    vm.$emit('hook:' + hook);
+  }
+  popTarget();
+}
+
+/*  */
+
+var MAX_UPDATE_COUNT = 100;
+
+var queue = [];
+var activatedChildren = [];
+var has = {};
+var circular = {};
+var waiting = false;
+var flushing = false;
+var index = 0;
+
+/**
+ * Reset the scheduler's state.
+ */
+function resetSchedulerState () {
+  index = queue.length = activatedChildren.length = 0;
+  has = {};
+  {
+    circular = {};
+  }
+  waiting = flushing = false;
+}
+
+// Async edge case #6566 requires saving the timestamp when event listeners are
+// attached. However, calling performance.now() has a perf overhead especially
+// if the page has thousands of event listeners. Instead, we take a timestamp
+// every time the scheduler flushes and use that for all event listeners
+// attached during that flush.
+var currentFlushTimestamp = 0;
+
+// Async edge case fix requires storing an event listener's attach timestamp.
+var getNow = Date.now;
+
+// Determine what event timestamp the browser is using. Annoyingly, the
+// timestamp can either be hi-res (relative to page load) or low-res
+// (relative to UNIX epoch), so in order to compare time we have to use the
+// same timestamp type when saving the flush timestamp.
+// All IE versions use low-res event timestamps, and have problematic clock
+// implementations (#9632)
+if (inBrowser && !isIE) {
+  var performance = window.performance;
+  if (
+    performance &&
+    typeof performance.now === 'function' &&
+    getNow() > document.createEvent('Event').timeStamp
+  ) {
+    // if the event timestamp, although evaluated AFTER the Date.now(), is
+    // smaller than it, it means the event is using a hi-res timestamp,
+    // and we need to use the hi-res version for event listener timestamps as
+    // well.
+    getNow = function () { return performance.now(); };
+  }
+}
+
+/**
+ * Flush both queues and run the watchers.
+ */
+function flushSchedulerQueue () {
+  currentFlushTimestamp = getNow();
+  flushing = true;
+  var watcher, id;
+
+  // Sort queue before flush.
+  // This ensures that:
+  // 1. Components are updated from parent to child. (because parent is always
+  //    created before the child)
+  // 2. A component's user watchers are run before its render watcher (because
+  //    user watchers are created before the render watcher)
+  // 3. If a component is destroyed during a parent component's watcher run,
+  //    its watchers can be skipped.
+  queue.sort(function (a, b) { return a.id - b.id; });
+
+  // do not cache length because more watchers might be pushed
+  // as we run existing watchers
+  for (index = 0; index < queue.length; index++) {
+    watcher = queue[index];
+    if (watcher.before) {
+      watcher.before();
+    }
+    id = watcher.id;
+    has[id] = null;
+    watcher.run();
+    // in dev build, check and stop circular updates.
+    if (has[id] != null) {
+      circular[id] = (circular[id] || 0) + 1;
+      if (circular[id] > MAX_UPDATE_COUNT) {
+        warn(
+          'You may have an infinite update loop ' + (
+            watcher.user
+              ? ("in watcher with expression \"" + (watcher.expression) + "\"")
+              : "in a component render function."
+          ),
+          watcher.vm
+        );
+        break
+      }
+    }
+  }
+
+  // keep copies of post queues before resetting state
+  var activatedQueue = activatedChildren.slice();
+  var updatedQueue = queue.slice();
+
+  resetSchedulerState();
+
+  // call component updated and activated hooks
+  callActivatedHooks(activatedQueue);
+  callUpdatedHooks(updatedQueue);
+
+  // devtool hook
+  /* istanbul ignore if */
+  if (devtools && config.devtools) {
+    devtools.emit('flush');
+  }
+}
+
+function callUpdatedHooks (queue) {
+  var i = queue.length;
+  while (i--) {
+    var watcher = queue[i];
+    var vm = watcher.vm;
+    if (vm._watcher === watcher && vm._isMounted && !vm._isDestroyed) {
+      callHook(vm, 'updated');
+    }
+  }
+}
+
+/**
+ * Queue a kept-alive component that was activated during patch.
+ * The queue will be processed after the entire tree has been patched.
+ */
+function queueActivatedComponent (vm) {
+  // setting _inactive to false here so that a render function can
+  // rely on checking whether it's in an inactive tree (e.g. router-view)
+  vm._inactive = false;
+  activatedChildren.push(vm);
+}
+
+function callActivatedHooks (queue) {
+  for (var i = 0; i < queue.length; i++) {
+    queue[i]._inactive = true;
+    activateChildComponent(queue[i], true /* true */);
+  }
+}
+
+/**
+ * Push a watcher into the watcher queue.
+ * Jobs with duplicate IDs will be skipped unless it's
+ * pushed when the queue is being flushed.
+ */
+function queueWatcher (watcher) {
+  var id = watcher.id;
+  if (has[id] == null) {
+    has[id] = true;
+    if (!flushing) {
+      queue.push(watcher);
+    } else {
+      // if already flushing, splice the watcher based on its id
+      // if already past its id, it will be run next immediately.
+      var i = queue.length - 1;
+      while (i > index && queue[i].id > watcher.id) {
+        i--;
+      }
+      queue.splice(i + 1, 0, watcher);
+    }
+    // queue the flush
+    if (!waiting) {
+      waiting = true;
+
+      if (!config.async) {
+        flushSchedulerQueue();
+        return
+      }
+      nextTick(flushSchedulerQueue);
+    }
+  }
+}
+
+/*  */
+
+
+
+var uid$2 = 0;
+
+/**
+ * A watcher parses an expression, collects dependencies,
+ * and fires callback when the expression value changes.
+ * This is used for both the $watch() api and directives.
+ */
+var Watcher = function Watcher (
+  vm,
+  expOrFn,
+  cb,
+  options,
+  isRenderWatcher
+) {
+  this.vm = vm;
+  if (isRenderWatcher) {
+    vm._watcher = this;
+  }
+  vm._watchers.push(this);
+  // options
+  if (options) {
+    this.deep = !!options.deep;
+    this.user = !!options.user;
+    this.lazy = !!options.lazy;
+    this.sync = !!options.sync;
+    this.before = options.before;
+  } else {
+    this.deep = this.user = this.lazy = this.sync = false;
+  }
+  this.cb = cb;
+  this.id = ++uid$2; // uid for batching
+  this.active = true;
+  this.dirty = this.lazy; // for lazy watchers
+  this.deps = [];
+  this.newDeps = [];
+  this.depIds = new _Set();
+  this.newDepIds = new _Set();
+  this.expression = expOrFn.toString();
+  // parse expression for getter
+  if (typeof expOrFn === 'function') {
+    this.getter = expOrFn;
+  } else {
+    this.getter = parsePath(expOrFn);
+    if (!this.getter) {
+      this.getter = noop;
+      warn(
+        "Failed watching path: \"" + expOrFn + "\" " +
+        'Watcher only accepts simple dot-delimited paths. ' +
+        'For full control, use a function instead.',
+        vm
+      );
+    }
+  }
+  this.value = this.lazy
+    ? undefined
+    : this.get();
+};
+
+/**
+ * Evaluate the getter, and re-collect dependencies.
+ */
+Watcher.prototype.get = function get () {
+  pushTarget(this);
+  var value;
+  var vm = this.vm;
+  try {
+    value = this.getter.call(vm, vm);
+  } catch (e) {
+    if (this.user) {
+      handleError(e, vm, ("getter for watcher \"" + (this.expression) + "\""));
+    } else {
+      throw e
+    }
+  } finally {
+    // "touch" every property so they are all tracked as
+    // dependencies for deep watching
+    if (this.deep) {
+      traverse(value);
+    }
+    popTarget();
+    this.cleanupDeps();
+  }
+  return value
+};
+
+/**
+ * Add a dependency to this directive.
+ */
+Watcher.prototype.addDep = function addDep (dep) {
+  var id = dep.id;
+  if (!this.newDepIds.has(id)) {
+    this.newDepIds.add(id);
+    this.newDeps.push(dep);
+    if (!this.depIds.has(id)) {
+      dep.addSub(this);
+    }
+  }
+};
+
+/**
+ * Clean up for dependency collection.
+ */
+Watcher.prototype.cleanupDeps = function cleanupDeps () {
+  var i = this.deps.length;
+  while (i--) {
+    var dep = this.deps[i];
+    if (!this.newDepIds.has(dep.id)) {
+      dep.removeSub(this);
+    }
+  }
+  var tmp = this.depIds;
+  this.depIds = this.newDepIds;
+  this.newDepIds = tmp;
+  this.newDepIds.clear();
+  tmp = this.deps;
+  this.deps = this.newDeps;
+  this.newDeps = tmp;
+  this.newDeps.length = 0;
+};
+
+/**
+ * Subscriber interface.
+ * Will be called when a dependency changes.
+ */
+Watcher.prototype.update = function update () {
+  /* istanbul ignore else */
+  if (this.lazy) {
+    this.dirty = true;
+  } else if (this.sync) {
+    this.run();
+  } else {
+    queueWatcher(this);
+  }
+};
+
+/**
+ * Scheduler job interface.
+ * Will be called by the scheduler.
+ */
+Watcher.prototype.run = function run () {
+  if (this.active) {
+    var value = this.get();
+    if (
+      value !== this.value ||
+      // Deep watchers and watchers on Object/Arrays should fire even
+      // when the value is the same, because the value may
+      // have mutated.
+      isObject(value) ||
+      this.deep
+    ) {
+      // set new value
+      var oldValue = this.value;
+      this.value = value;
+      if (this.user) {
+        try {
+          this.cb.call(this.vm, value, oldValue);
+        } catch (e) {
+          handleError(e, this.vm, ("callback for watcher \"" + (this.expression) + "\""));
+        }
+      } else {
+        this.cb.call(this.vm, value, oldValue);
+      }
+    }
+  }
+};
+
+/**
+ * Evaluate the value of the watcher.
+ * This only gets called for lazy watchers.
+ */
+Watcher.prototype.evaluate = function evaluate () {
+  this.value = this.get();
+  this.dirty = false;
+};
+
+/**
+ * Depend on all deps collected by this watcher.
+ */
+Watcher.prototype.depend = function depend () {
+  var i = this.deps.length;
+  while (i--) {
+    this.deps[i].depend();
+  }
+};
+
+/**
+ * Remove self from all dependencies' subscriber list.
+ */
+Watcher.prototype.teardown = function teardown () {
+  if (this.active) {
+    // remove self from vm's watcher list
+    // this is a somewhat expensive operation so we skip it
+    // if the vm is being destroyed.
+    if (!this.vm._isBeingDestroyed) {
+      remove(this.vm._watchers, this);
+    }
+    var i = this.deps.length;
+    while (i--) {
+      this.deps[i].removeSub(this);
+    }
+    this.active = false;
+  }
+};
+
+/*  */
+
+var sharedPropertyDefinition = {
+  enumerable: true,
+  configurable: true,
+  get: noop,
+  set: noop
+};
+
+function proxy (target, sourceKey, key) {
+  sharedPropertyDefinition.get = function proxyGetter () {
+    return this[sourceKey][key]
+  };
+  sharedPropertyDefinition.set = function proxySetter (val) {
+    this[sourceKey][key] = val;
+  };
+  Object.defineProperty(target, key, sharedPropertyDefinition);
+}
+
+function initState (vm) {
+  vm._watchers = [];
+  var opts = vm.$options;
+  if (opts.props) { initProps(vm, opts.props); }
+  if (opts.methods) { initMethods(vm, opts.methods); }
+  if (opts.data) {
+    initData(vm);
+  } else {
+    observe(vm._data = {}, true /* asRootData */);
+  }
+  if (opts.computed) { initComputed(vm, opts.computed); }
+  if (opts.watch && opts.watch !== nativeWatch) {
+    initWatch(vm, opts.watch);
+  }
+}
+
+function initProps (vm, propsOptions) {
+  var propsData = vm.$options.propsData || {};
+  var props = vm._props = {};
+  // cache prop keys so that future props updates can iterate using Array
+  // instead of dynamic object key enumeration.
+  var keys = vm.$options._propKeys = [];
+  var isRoot = !vm.$parent;
+  // root instance props should be converted
+  if (!isRoot) {
+    toggleObserving(false);
+  }
+  var loop = function ( key ) {
+    keys.push(key);
+    var value = validateProp(key, propsOptions, propsData, vm);
+    /* istanbul ignore else */
+    {
+      var hyphenatedKey = hyphenate(key);
+      if (isReservedAttribute(hyphenatedKey) ||
+          config.isReservedAttr(hyphenatedKey)) {
+        warn(
+          ("\"" + hyphenatedKey + "\" is a reserved attribute and cannot be used as component prop."),
+          vm
+        );
+      }
+      defineReactive$$1(props, key, value, function () {
+        if (!isRoot && !isUpdatingChildComponent) {
+          warn(
+            "Avoid mutating a prop directly since the value will be " +
+            "overwritten whenever the parent component re-renders. " +
+            "Instead, use a data or computed property based on the prop's " +
+            "value. Prop being mutated: \"" + key + "\"",
+            vm
+          );
+        }
+      });
+    }
+    // static props are already proxied on the component's prototype
+    // during Vue.extend(). We only need to proxy props defined at
+    // instantiation here.
+    if (!(key in vm)) {
+      proxy(vm, "_props", key);
+    }
+  };
+
+  for (var key in propsOptions) loop( key );
+  toggleObserving(true);
+}
+
+function initData (vm) {
+  var data = vm.$options.data;
+  data = vm._data = typeof data === 'function'
+    ? getData(data, vm)
+    : data || {};
+  if (!isPlainObject(data)) {
+    data = {};
+    warn(
+      'data functions should return an object:\n' +
+      'https://vuejs.org/v2/guide/components.html#data-Must-Be-a-Function',
+      vm
+    );
+  }
+  // proxy data on instance
+  var keys = Object.keys(data);
+  var props = vm.$options.props;
+  var methods = vm.$options.methods;
+  var i = keys.length;
+  while (i--) {
+    var key = keys[i];
+    {
+      if (methods && hasOwn(methods, key)) {
+        warn(
+          ("Method \"" + key + "\" has already been defined as a data property."),
+          vm
+        );
+      }
+    }
+    if (props && hasOwn(props, key)) {
+      warn(
+        "The data property \"" + key + "\" is already declared as a prop. " +
+        "Use prop default value instead.",
+        vm
+      );
+    } else if (!isReserved(key)) {
+      proxy(vm, "_data", key);
+    }
+  }
+  // observe data
+  observe(data, true /* asRootData */);
+}
+
+function getData (data, vm) {
+  // #7573 disable dep collection when invoking data getters
+  pushTarget();
+  try {
+    return data.call(vm, vm)
+  } catch (e) {
+    handleError(e, vm, "data()");
+    return {}
+  } finally {
+    popTarget();
+  }
+}
+
+var computedWatcherOptions = { lazy: true };
+
+function initComputed (vm, computed) {
+  // $flow-disable-line
+  var watchers = vm._computedWatchers = Object.create(null);
+  // computed properties are just getters during SSR
+  var isSSR = isServerRendering();
+
+  for (var key in computed) {
+    var userDef = computed[key];
+    var getter = typeof userDef === 'function' ? userDef : userDef.get;
+    if (getter == null) {
+      warn(
+        ("Getter is missing for computed property \"" + key + "\"."),
+        vm
+      );
+    }
+
+    if (!isSSR) {
+      // create internal watcher for the computed property.
+      watchers[key] = new Watcher(
+        vm,
+        getter || noop,
+        noop,
+        computedWatcherOptions
+      );
+    }
+
+    // component-defined computed properties are already defined on the
+    // component prototype. We only need to define computed properties defined
+    // at instantiation here.
+    if (!(key in vm)) {
+      defineComputed(vm, key, userDef);
+    } else {
+      if (key in vm.$data) {
+        warn(("The computed property \"" + key + "\" is already defined in data."), vm);
+      } else if (vm.$options.props && key in vm.$options.props) {
+        warn(("The computed property \"" + key + "\" is already defined as a prop."), vm);
+      }
+    }
+  }
+}
+
+function defineComputed (
+  target,
+  key,
+  userDef
+) {
+  var shouldCache = !isServerRendering();
+  if (typeof userDef === 'function') {
+    sharedPropertyDefinition.get = shouldCache
+      ? createComputedGetter(key)
+      : createGetterInvoker(userDef);
+    sharedPropertyDefinition.set = noop;
+  } else {
+    sharedPropertyDefinition.get = userDef.get
+      ? shouldCache && userDef.cache !== false
+        ? createComputedGetter(key)
+        : createGetterInvoker(userDef.get)
+      : noop;
+    sharedPropertyDefinition.set = userDef.set || noop;
+  }
+  if (sharedPropertyDefinition.set === noop) {
+    sharedPropertyDefinition.set = function () {
+      warn(
+        ("Computed property \"" + key + "\" was assigned to but it has no setter."),
+        this
+      );
+    };
+  }
+  Object.defineProperty(target, key, sharedPropertyDefinition);
+}
+
+function createComputedGetter (key) {
+  return function computedGetter () {
+    var watcher = this._computedWatchers && this._computedWatchers[key];
+    if (watcher) {
+      if (watcher.dirty) {
+        watcher.evaluate();
+      }
+      if (Dep.target) {
+        watcher.depend();
+      }
+      return watcher.value
+    }
+  }
+}
+
+function createGetterInvoker(fn) {
+  return function computedGetter () {
+    return fn.call(this, this)
+  }
+}
+
+function initMethods (vm, methods) {
+  var props = vm.$options.props;
+  for (var key in methods) {
+    {
+      if (typeof methods[key] !== 'function') {
+        warn(
+          "Method \"" + key + "\" has type \"" + (typeof methods[key]) + "\" in the component definition. " +
+          "Did you reference the function correctly?",
+          vm
+        );
+      }
+      if (props && hasOwn(props, key)) {
+        warn(
+          ("Method \"" + key + "\" has already been defined as a prop."),
+          vm
+        );
+      }
+      if ((key in vm) && isReserved(key)) {
+        warn(
+          "Method \"" + key + "\" conflicts with an existing Vue instance method. " +
+          "Avoid defining component methods that start with _ or $."
+        );
+      }
+    }
+    vm[key] = typeof methods[key] !== 'function' ? noop : bind(methods[key], vm);
+  }
+}
+
+function initWatch (vm, watch) {
+  for (var key in watch) {
+    var handler = watch[key];
+    if (Array.isArray(handler)) {
+      for (var i = 0; i < handler.length; i++) {
+        createWatcher(vm, key, handler[i]);
+      }
+    } else {
+      createWatcher(vm, key, handler);
+    }
+  }
+}
+
+function createWatcher (
+  vm,
+  expOrFn,
+  handler,
+  options
+) {
+  if (isPlainObject(handler)) {
+    options = handler;
+    handler = handler.handler;
+  }
+  if (typeof handler === 'string') {
+    handler = vm[handler];
+  }
+  return vm.$watch(expOrFn, handler, options)
+}
+
+function stateMixin (Vue) {
+  // flow somehow has problems with directly declared definition object
+  // when using Object.defineProperty, so we have to procedurally build up
+  // the object here.
+  var dataDef = {};
+  dataDef.get = function () { return this._data };
+  var propsDef = {};
+  propsDef.get = function () { return this._props };
+  {
+    dataDef.set = function () {
+      warn(
+        'Avoid replacing instance root $data. ' +
+        'Use nested data properties instead.',
+        this
+      );
+    };
+    propsDef.set = function () {
+      warn("$props is readonly.", this);
+    };
+  }
+  Object.defineProperty(Vue.prototype, '$data', dataDef);
+  Object.defineProperty(Vue.prototype, '$props', propsDef);
+
+  Vue.prototype.$set = set;
+  Vue.prototype.$delete = del;
+
+  Vue.prototype.$watch = function (
+    expOrFn,
+    cb,
+    options
+  ) {
+    var vm = this;
+    if (isPlainObject(cb)) {
+      return createWatcher(vm, expOrFn, cb, options)
+    }
+    options = options || {};
+    options.user = true;
+    var watcher = new Watcher(vm, expOrFn, cb, options);
+    if (options.immediate) {
+      try {
+        cb.call(vm, watcher.value);
+      } catch (error) {
+        handleError(error, vm, ("callback for immediate watcher \"" + (watcher.expression) + "\""));
+      }
+    }
+    return function unwatchFn () {
+      watcher.teardown();
+    }
+  };
+}
+
+/*  */
+
+var uid$3 = 0;
+
+function initMixin (Vue) {
+  Vue.prototype._init = function (options) {
+    var vm = this;
+    // a uid
+    vm._uid = uid$3++;
+
+    var startTag, endTag;
+    /* istanbul ignore if */
+    if (config.performance && mark) {
+      startTag = "vue-perf-start:" + (vm._uid);
+      endTag = "vue-perf-end:" + (vm._uid);
+      mark(startTag);
+    }
+
+    // a flag to avoid this being observed
+    vm._isVue = true;
+    // merge options
+    if (options && options._isComponent) {
+      // optimize internal component instantiation
+      // since dynamic options merging is pretty slow, and none of the
+      // internal component options needs special treatment.
+      initInternalComponent(vm, options);
+    } else {
+      vm.$options = mergeOptions(
+        resolveConstructorOptions(vm.constructor),
+        options || {},
+        vm
+      );
+    }
+    /* istanbul ignore else */
+    {
+      initProxy(vm);
+    }
+    // expose real self
+    vm._self = vm;
+    initLifecycle(vm);
+    initEvents(vm);
+    initRender(vm);
+    callHook(vm, 'beforeCreate');
+    initInjections(vm); // resolve injections before data/props
+    initState(vm);
+    initProvide(vm); // resolve provide after data/props
+    callHook(vm, 'created');
+
+    /* istanbul ignore if */
+    if (config.performance && mark) {
+      vm._name = formatComponentName(vm, false);
+      mark(endTag);
+      measure(("vue " + (vm._name) + " init"), startTag, endTag);
+    }
+
+    if (vm.$options.el) {
+      vm.$mount(vm.$options.el);
+    }
+  };
+}
+
+function initInternalComponent (vm, options) {
+  var opts = vm.$options = Object.create(vm.constructor.options);
+  // doing this because it's faster than dynamic enumeration.
+  var parentVnode = options._parentVnode;
+  opts.parent = options.parent;
+  opts._parentVnode = parentVnode;
+
+  var vnodeComponentOptions = parentVnode.componentOptions;
+  opts.propsData = vnodeComponentOptions.propsData;
+  opts._parentListeners = vnodeComponentOptions.listeners;
+  opts._renderChildren = vnodeComponentOptions.children;
+  opts._componentTag = vnodeComponentOptions.tag;
+
+  if (options.render) {
+    opts.render = options.render;
+    opts.staticRenderFns = options.staticRenderFns;
+  }
+}
+
+function resolveConstructorOptions (Ctor) {
+  var options = Ctor.options;
+  if (Ctor.super) {
+    var superOptions = resolveConstructorOptions(Ctor.super);
+    var cachedSuperOptions = Ctor.superOptions;
+    if (superOptions !== cachedSuperOptions) {
+      // super option changed,
+      // need to resolve new options.
+      Ctor.superOptions = superOptions;
+      // check if there are any late-modified/attached options (#4976)
+      var modifiedOptions = resolveModifiedOptions(Ctor);
+      // update base extend options
+      if (modifiedOptions) {
+        extend(Ctor.extendOptions, modifiedOptions);
+      }
+      options = Ctor.options = mergeOptions(superOptions, Ctor.extendOptions);
+      if (options.name) {
+        options.components[options.name] = Ctor;
+      }
+    }
+  }
+  return options
+}
+
+function resolveModifiedOptions (Ctor) {
+  var modified;
+  var latest = Ctor.options;
+  var sealed = Ctor.sealedOptions;
+  for (var key in latest) {
+    if (latest[key] !== sealed[key]) {
+      if (!modified) { modified = {}; }
+      modified[key] = latest[key];
+    }
+  }
+  return modified
+}
+
+function Vue (options) {
+  if (!(this instanceof Vue)
+  ) {
+    warn('Vue is a constructor and should be called with the `new` keyword');
+  }
+  this._init(options);
+}
+
+initMixin(Vue);
+stateMixin(Vue);
+eventsMixin(Vue);
+lifecycleMixin(Vue);
+renderMixin(Vue);
+
+/*  */
+
+function initUse (Vue) {
+  Vue.use = function (plugin) {
+    var installedPlugins = (this._installedPlugins || (this._installedPlugins = []));
+    if (installedPlugins.indexOf(plugin) > -1) {
+      return this
+    }
+
+    // additional parameters
+    var args = toArray(arguments, 1);
+    args.unshift(this);
+    if (typeof plugin.install === 'function') {
+      plugin.install.apply(plugin, args);
+    } else if (typeof plugin === 'function') {
+      plugin.apply(null, args);
+    }
+    installedPlugins.push(plugin);
+    return this
+  };
+}
+
+/*  */
+
+function initMixin$1 (Vue) {
+  Vue.mixin = function (mixin) {
+    this.options = mergeOptions(this.options, mixin);
+    return this
+  };
+}
+
+/*  */
+
+function initExtend (Vue) {
+  /**
+   * Each instance constructor, including Vue, has a unique
+   * cid. This enables us to create wrapped "child
+   * constructors" for prototypal inheritance and cache them.
+   */
+  Vue.cid = 0;
+  var cid = 1;
+
+  /**
+   * Class inheritance
+   */
+  Vue.extend = function (extendOptions) {
+    extendOptions = extendOptions || {};
+    var Super = this;
+    var SuperId = Super.cid;
+    var cachedCtors = extendOptions._Ctor || (extendOptions._Ctor = {});
+    if (cachedCtors[SuperId]) {
+      return cachedCtors[SuperId]
+    }
+
+    var name = extendOptions.name || Super.options.name;
+    if (name) {
+      validateComponentName(name);
+    }
+
+    var Sub = function VueComponent (options) {
+      this._init(options);
+    };
+    Sub.prototype = Object.create(Super.prototype);
+    Sub.prototype.constructor = Sub;
+    Sub.cid = cid++;
+    Sub.options = mergeOptions(
+      Super.options,
+      extendOptions
+    );
+    Sub['super'] = Super;
+
+    // For props and computed properties, we define the proxy getters on
+    // the Vue instances at extension time, on the extended prototype. This
+    // avoids Object.defineProperty calls for each instance created.
+    if (Sub.options.props) {
+      initProps$1(Sub);
+    }
+    if (Sub.options.computed) {
+      initComputed$1(Sub);
+    }
+
+    // allow further extension/mixin/plugin usage
+    Sub.extend = Super.extend;
+    Sub.mixin = Super.mixin;
+    Sub.use = Super.use;
+
+    // create asset registers, so extended classes
+    // can have their private assets too.
+    ASSET_TYPES.forEach(function (type) {
+      Sub[type] = Super[type];
+    });
+    // enable recursive self-lookup
+    if (name) {
+      Sub.options.components[name] = Sub;
+    }
+
+    // keep a reference to the super options at extension time.
+    // later at instantiation we can check if Super's options have
+    // been updated.
+    Sub.superOptions = Super.options;
+    Sub.extendOptions = extendOptions;
+    Sub.sealedOptions = extend({}, Sub.options);
+
+    // cache constructor
+    cachedCtors[SuperId] = Sub;
+    return Sub
+  };
+}
+
+function initProps$1 (Comp) {
+  var props = Comp.options.props;
+  for (var key in props) {
+    proxy(Comp.prototype, "_props", key);
+  }
+}
+
+function initComputed$1 (Comp) {
+  var computed = Comp.options.computed;
+  for (var key in computed) {
+    defineComputed(Comp.prototype, key, computed[key]);
+  }
+}
+
+/*  */
+
+function initAssetRegisters (Vue) {
+  /**
+   * Create asset registration methods.
+   */
+  ASSET_TYPES.forEach(function (type) {
+    Vue[type] = function (
+      id,
+      definition
+    ) {
+      if (!definition) {
+        return this.options[type + 's'][id]
+      } else {
+        /* istanbul ignore if */
+        if (type === 'component') {
+          validateComponentName(id);
+        }
+        if (type === 'component' && isPlainObject(definition)) {
+          definition.name = definition.name || id;
+          definition = this.options._base.extend(definition);
+        }
+        if (type === 'directive' && typeof definition === 'function') {
+          definition = { bind: definition, update: definition };
+        }
+        this.options[type + 's'][id] = definition;
+        return definition
+      }
+    };
+  });
+}
+
+/*  */
+
+
+
+function getComponentName (opts) {
+  return opts && (opts.Ctor.options.name || opts.tag)
+}
+
+function matches (pattern, name) {
+  if (Array.isArray(pattern)) {
+    return pattern.indexOf(name) > -1
+  } else if (typeof pattern === 'string') {
+    return pattern.split(',').indexOf(name) > -1
+  } else if (isRegExp(pattern)) {
+    return pattern.test(name)
+  }
+  /* istanbul ignore next */
+  return false
+}
+
+function pruneCache (keepAliveInstance, filter) {
+  var cache = keepAliveInstance.cache;
+  var keys = keepAliveInstance.keys;
+  var _vnode = keepAliveInstance._vnode;
+  for (var key in cache) {
+    var cachedNode = cache[key];
+    if (cachedNode) {
+      var name = getComponentName(cachedNode.componentOptions);
+      if (name && !filter(name)) {
+        pruneCacheEntry(cache, key, keys, _vnode);
+      }
+    }
+  }
+}
+
+function pruneCacheEntry (
+  cache,
+  key,
+  keys,
+  current
+) {
+  var cached$$1 = cache[key];
+  if (cached$$1 && (!current || cached$$1.tag !== current.tag)) {
+    cached$$1.componentInstance.$destroy();
+  }
+  cache[key] = null;
+  remove(keys, key);
+}
+
+var patternTypes = [String, RegExp, Array];
+
+var KeepAlive = {
+  name: 'keep-alive',
+  abstract: true,
+
+  props: {
+    include: patternTypes,
+    exclude: patternTypes,
+    max: [String, Number]
+  },
+
+  created: function created () {
+    this.cache = Object.create(null);
+    this.keys = [];
+  },
+
+  destroyed: function destroyed () {
+    for (var key in this.cache) {
+      pruneCacheEntry(this.cache, key, this.keys);
+    }
+  },
+
+  mounted: function mounted () {
+    var this$1 = this;
+
+    this.$watch('include', function (val) {
+      pruneCache(this$1, function (name) { return matches(val, name); });
+    });
+    this.$watch('exclude', function (val) {
+      pruneCache(this$1, function (name) { return !matches(val, name); });
+    });
+  },
+
+  render: function render () {
+    var slot = this.$slots.default;
+    var vnode = getFirstComponentChild(slot);
+    var componentOptions = vnode && vnode.componentOptions;
+    if (componentOptions) {
+      // check pattern
+      var name = getComponentName(componentOptions);
+      var ref = this;
+      var include = ref.include;
+      var exclude = ref.exclude;
+      if (
+        // not included
+        (include && (!name || !matches(include, name))) ||
+        // excluded
+        (exclude && name && matches(exclude, name))
+      ) {
+        return vnode
+      }
+
+      var ref$1 = this;
+      var cache = ref$1.cache;
+      var keys = ref$1.keys;
+      var key = vnode.key == null
+        // same constructor may get registered as different local components
+        // so cid alone is not enough (#3269)
+        ? componentOptions.Ctor.cid + (componentOptions.tag ? ("::" + (componentOptions.tag)) : '')
+        : vnode.key;
+      if (cache[key]) {
+        vnode.componentInstance = cache[key].componentInstance;
+        // make current key freshest
+        remove(keys, key);
+        keys.push(key);
+      } else {
+        cache[key] = vnode;
+        keys.push(key);
+        // prune oldest entry
+        if (this.max && keys.length > parseInt(this.max)) {
+          pruneCacheEntry(cache, keys[0], keys, this._vnode);
+        }
+      }
+
+      vnode.data.keepAlive = true;
+    }
+    return vnode || (slot && slot[0])
+  }
+};
+
+var builtInComponents = {
+  KeepAlive: KeepAlive
+};
+
+/*  */
+
+function initGlobalAPI (Vue) {
+  // config
+  var configDef = {};
+  configDef.get = function () { return config; };
+  {
+    configDef.set = function () {
+      warn(
+        'Do not replace the Vue.config object, set individual fields instead.'
+      );
+    };
+  }
+  Object.defineProperty(Vue, 'config', configDef);
+
+  // exposed util methods.
+  // NOTE: these are not considered part of the public API - avoid relying on
+  // them unless you are aware of the risk.
+  Vue.util = {
+    warn: warn,
+    extend: extend,
+    mergeOptions: mergeOptions,
+    defineReactive: defineReactive$$1
+  };
+
+  Vue.set = set;
+  Vue.delete = del;
+  Vue.nextTick = nextTick;
+
+  // 2.6 explicit observable API
+  Vue.observable = function (obj) {
+    observe(obj);
+    return obj
+  };
+
+  Vue.options = Object.create(null);
+  ASSET_TYPES.forEach(function (type) {
+    Vue.options[type + 's'] = Object.create(null);
+  });
+
+  // this is used to identify the "base" constructor to extend all plain-object
+  // components with in Weex's multi-instance scenarios.
+  Vue.options._base = Vue;
+
+  extend(Vue.options.components, builtInComponents);
+
+  initUse(Vue);
+  initMixin$1(Vue);
+  initExtend(Vue);
+  initAssetRegisters(Vue);
+}
+
+initGlobalAPI(Vue);
+
+Object.defineProperty(Vue.prototype, '$isServer', {
+  get: isServerRendering
+});
+
+Object.defineProperty(Vue.prototype, '$ssrContext', {
+  get: function get () {
+    /* istanbul ignore next */
+    return this.$vnode && this.$vnode.ssrContext
+  }
+});
+
+// expose FunctionalRenderContext for ssr runtime helper installation
+Object.defineProperty(Vue, 'FunctionalRenderContext', {
+  value: FunctionalRenderContext
+});
+
+Vue.version = '2.6.11';
+
+/*  */
+
+// these are reserved for web because they are directly compiled away
+// during template compilation
+var isReservedAttr = makeMap('style,class');
+
+// attributes that should be using props for binding
+var acceptValue = makeMap('input,textarea,option,select,progress');
+var mustUseProp = function (tag, type, attr) {
+  return (
+    (attr === 'value' && acceptValue(tag)) && type !== 'button' ||
+    (attr === 'selected' && tag === 'option') ||
+    (attr === 'checked' && tag === 'input') ||
+    (attr === 'muted' && tag === 'video')
+  )
+};
+
+var isEnumeratedAttr = makeMap('contenteditable,draggable,spellcheck');
+
+var isValidContentEditableValue = makeMap('events,caret,typing,plaintext-only');
+
+var convertEnumeratedValue = function (key, value) {
+  return isFalsyAttrValue(value) || value === 'false'
+    ? 'false'
+    // allow arbitrary string value for contenteditable
+    : key === 'contenteditable' && isValidContentEditableValue(value)
+      ? value
+      : 'true'
+};
+
+var isBooleanAttr = makeMap(
+  'allowfullscreen,async,autofocus,autoplay,checked,compact,controls,declare,' +
+  'default,defaultchecked,defaultmuted,defaultselected,defer,disabled,' +
+  'enabled,formnovalidate,hidden,indeterminate,inert,ismap,itemscope,loop,multiple,' +
+  'muted,nohref,noresize,noshade,novalidate,nowrap,open,pauseonexit,readonly,' +
+  'required,reversed,scoped,seamless,selected,sortable,translate,' +
+  'truespeed,typemustmatch,visible'
+);
+
+var xlinkNS = 'http://www.w3.org/1999/xlink';
+
+var isXlink = function (name) {
+  return name.charAt(5) === ':' && name.slice(0, 5) === 'xlink'
+};
+
+var getXlinkProp = function (name) {
+  return isXlink(name) ? name.slice(6, name.length) : ''
+};
+
+var isFalsyAttrValue = function (val) {
+  return val == null || val === false
+};
+
+/*  */
+
+function genClassForVnode (vnode) {
+  var data = vnode.data;
+  var parentNode = vnode;
+  var childNode = vnode;
+  while (isDef(childNode.componentInstance)) {
+    childNode = childNode.componentInstance._vnode;
+    if (childNode && childNode.data) {
+      data = mergeClassData(childNode.data, data);
+    }
+  }
+  while (isDef(parentNode = parentNode.parent)) {
+    if (parentNode && parentNode.data) {
+      data = mergeClassData(data, parentNode.data);
+    }
+  }
+  return renderClass(data.staticClass, data.class)
+}
+
+function mergeClassData (child, parent) {
+  return {
+    staticClass: concat(child.staticClass, parent.staticClass),
+    class: isDef(child.class)
+      ? [child.class, parent.class]
+      : parent.class
+  }
+}
+
+function renderClass (
+  staticClass,
+  dynamicClass
+) {
+  if (isDef(staticClass) || isDef(dynamicClass)) {
+    return concat(staticClass, stringifyClass(dynamicClass))
+  }
+  /* istanbul ignore next */
+  return ''
+}
+
+function concat (a, b) {
+  return a ? b ? (a + ' ' + b) : a : (b || '')
+}
+
+function stringifyClass (value) {
+  if (Array.isArray(value)) {
+    return stringifyArray(value)
+  }
+  if (isObject(value)) {
+    return stringifyObject(value)
+  }
+  if (typeof value === 'string') {
+    return value
+  }
+  /* istanbul ignore next */
+  return ''
+}
+
+function stringifyArray (value) {
+  var res = '';
+  var stringified;
+  for (var i = 0, l = value.length; i < l; i++) {
+    if (isDef(stringified = stringifyClass(value[i])) && stringified !== '') {
+      if (res) { res += ' '; }
+      res += stringified;
+    }
+  }
+  return res
+}
+
+function stringifyObject (value) {
+  var res = '';
+  for (var key in value) {
+    if (value[key]) {
+      if (res) { res += ' '; }
+      res += key;
+    }
+  }
+  return res
+}
+
+/*  */
+
+var namespaceMap = {
+  svg: 'http://www.w3.org/2000/svg',
+  math: 'http://www.w3.org/1998/Math/MathML'
+};
+
+var isHTMLTag = makeMap(
+  'html,body,base,head,link,meta,style,title,' +
+  'address,article,aside,footer,header,h1,h2,h3,h4,h5,h6,hgroup,nav,section,' +
+  'div,dd,dl,dt,figcaption,figure,picture,hr,img,li,main,ol,p,pre,ul,' +
+  'a,b,abbr,bdi,bdo,br,cite,code,data,dfn,em,i,kbd,mark,q,rp,rt,rtc,ruby,' +
+  's,samp,small,span,strong,sub,sup,time,u,var,wbr,area,audio,map,track,video,' +
+  'embed,object,param,source,canvas,script,noscript,del,ins,' +
+  'caption,col,colgroup,table,thead,tbody,td,th,tr,' +
+  'button,datalist,fieldset,form,input,label,legend,meter,optgroup,option,' +
+  'output,progress,select,textarea,' +
+  'details,dialog,menu,menuitem,summary,' +
+  'content,element,shadow,template,blockquote,iframe,tfoot'
+);
+
+// this map is intentionally selective, only covering SVG elements that may
+// contain child elements.
+var isSVG = makeMap(
+  'svg,animate,circle,clippath,cursor,defs,desc,ellipse,filter,font-face,' +
+  'foreignObject,g,glyph,image,line,marker,mask,missing-glyph,path,pattern,' +
+  'polygon,polyline,rect,switch,symbol,text,textpath,tspan,use,view',
+  true
+);
+
+var isPreTag = function (tag) { return tag === 'pre'; };
+
+var isReservedTag = function (tag) {
+  return isHTMLTag(tag) || isSVG(tag)
+};
+
+function getTagNamespace (tag) {
+  if (isSVG(tag)) {
+    return 'svg'
+  }
+  // basic support for MathML
+  // note it doesn't support other MathML elements being component roots
+  if (tag === 'math') {
+    return 'math'
+  }
+}
+
+var unknownElementCache = Object.create(null);
+function isUnknownElement (tag) {
+  /* istanbul ignore if */
+  if (!inBrowser) {
+    return true
+  }
+  if (isReservedTag(tag)) {
+    return false
+  }
+  tag = tag.toLowerCase();
+  /* istanbul ignore if */
+  if (unknownElementCache[tag] != null) {
+    return unknownElementCache[tag]
+  }
+  var el = document.createElement(tag);
+  if (tag.indexOf('-') > -1) {
+    // http://stackoverflow.com/a/28210364/1070244
+    return (unknownElementCache[tag] = (
+      el.constructor === window.HTMLUnknownElement ||
+      el.constructor === window.HTMLElement
+    ))
+  } else {
+    return (unknownElementCache[tag] = /HTMLUnknownElement/.test(el.toString()))
+  }
+}
+
+var isTextInputType = makeMap('text,number,password,search,email,tel,url');
+
+/*  */
+
+/**
+ * Query an element selector if it's not an element already.
+ */
+function query (el) {
+  if (typeof el === 'string') {
+    var selected = document.querySelector(el);
+    if (!selected) {
+      warn(
+        'Cannot find element: ' + el
+      );
+      return document.createElement('div')
+    }
+    return selected
+  } else {
+    return el
+  }
+}
+
+/*  */
+
+function createElement$1 (tagName, vnode) {
+  var elm = document.createElement(tagName);
+  if (tagName !== 'select') {
+    return elm
+  }
+  // false or null will remove the attribute but undefined will not
+  if (vnode.data && vnode.data.attrs && vnode.data.attrs.multiple !== undefined) {
+    elm.setAttribute('multiple', 'multiple');
+  }
+  return elm
+}
+
+function createElementNS (namespace, tagName) {
+  return document.createElementNS(namespaceMap[namespace], tagName)
+}
+
+function createTextNode (text) {
+  return document.createTextNode(text)
+}
+
+function createComment (text) {
+  return document.createComment(text)
+}
+
+function insertBefore (parentNode, newNode, referenceNode) {
+  parentNode.insertBefore(newNode, referenceNode);
+}
+
+function removeChild (node, child) {
+  node.removeChild(child);
+}
+
+function appendChild (node, child) {
+  node.appendChild(child);
+}
+
+function parentNode (node) {
+  return node.parentNode
+}
+
+function nextSibling (node) {
+  return node.nextSibling
+}
+
+function tagName (node) {
+  return node.tagName
+}
+
+function setTextContent (node, text) {
+  node.textContent = text;
+}
+
+function setStyleScope (node, scopeId) {
+  node.setAttribute(scopeId, '');
+}
+
+var nodeOps = /*#__PURE__*/Object.freeze({
+  createElement: createElement$1,
+  createElementNS: createElementNS,
+  createTextNode: createTextNode,
+  createComment: createComment,
+  insertBefore: insertBefore,
+  removeChild: removeChild,
+  appendChild: appendChild,
+  parentNode: parentNode,
+  nextSibling: nextSibling,
+  tagName: tagName,
+  setTextContent: setTextContent,
+  setStyleScope: setStyleScope
+});
+
+/*  */
+
+var ref = {
+  create: function create (_, vnode) {
+    registerRef(vnode);
+  },
+  update: function update (oldVnode, vnode) {
+    if (oldVnode.data.ref !== vnode.data.ref) {
+      registerRef(oldVnode, true);
+      registerRef(vnode);
+    }
+  },
+  destroy: function destroy (vnode) {
+    registerRef(vnode, true);
+  }
+};
+
+function registerRef (vnode, isRemoval) {
+  var key = vnode.data.ref;
+  if (!isDef(key)) { return }
+
+  var vm = vnode.context;
+  var ref = vnode.componentInstance || vnode.elm;
+  var refs = vm.$refs;
+  if (isRemoval) {
+    if (Array.isArray(refs[key])) {
+      remove(refs[key], ref);
+    } else if (refs[key] === ref) {
+      refs[key] = undefined;
+    }
+  } else {
+    if (vnode.data.refInFor) {
+      if (!Array.isArray(refs[key])) {
+        refs[key] = [ref];
+      } else if (refs[key].indexOf(ref) < 0) {
+        // $flow-disable-line
+        refs[key].push(ref);
+      }
+    } else {
+      refs[key] = ref;
+    }
+  }
+}
+
+/**
+ * Virtual DOM patching algorithm based on Snabbdom by
+ * Simon Friis Vindum (@paldepind)
+ * Licensed under the MIT License
+ * https://github.com/paldepind/snabbdom/blob/master/LICENSE
+ *
+ * modified by Evan You (@yyx990803)
+ *
+ * Not type-checking this because this file is perf-critical and the cost
+ * of making flow understand it is not worth it.
+ */
+
+var emptyNode = new VNode('', {}, []);
+
+var hooks = ['create', 'activate', 'update', 'remove', 'destroy'];
+
+function sameVnode (a, b) {
+  return (
+    a.key === b.key && (
+      (
+        a.tag === b.tag &&
+        a.isComment === b.isComment &&
+        isDef(a.data) === isDef(b.data) &&
+        sameInputType(a, b)
+      ) || (
+        isTrue(a.isAsyncPlaceholder) &&
+        a.asyncFactory === b.asyncFactory &&
+        isUndef(b.asyncFactory.error)
+      )
+    )
+  )
+}
+
+function sameInputType (a, b) {
+  if (a.tag !== 'input') { return true }
+  var i;
+  var typeA = isDef(i = a.data) && isDef(i = i.attrs) && i.type;
+  var typeB = isDef(i = b.data) && isDef(i = i.attrs) && i.type;
+  return typeA === typeB || isTextInputType(typeA) && isTextInputType(typeB)
+}
+
+function createKeyToOldIdx (children, beginIdx, endIdx) {
+  var i, key;
+  var map = {};
+  for (i = beginIdx; i <= endIdx; ++i) {
+    key = children[i].key;
+    if (isDef(key)) { map[key] = i; }
+  }
+  return map
+}
+
+function createPatchFunction (backend) {
+  var i, j;
+  var cbs = {};
+
+  var modules = backend.modules;
+  var nodeOps = backend.nodeOps;
+
+  for (i = 0; i < hooks.length; ++i) {
+    cbs[hooks[i]] = [];
+    for (j = 0; j < modules.length; ++j) {
+      if (isDef(modules[j][hooks[i]])) {
+        cbs[hooks[i]].push(modules[j][hooks[i]]);
+      }
+    }
+  }
+
+  function emptyNodeAt (elm) {
+    return new VNode(nodeOps.tagName(elm).toLowerCase(), {}, [], undefined, elm)
+  }
+
+  function createRmCb (childElm, listeners) {
+    function remove$$1 () {
+      if (--remove$$1.listeners === 0) {
+        removeNode(childElm);
+      }
+    }
+    remove$$1.listeners = listeners;
+    return remove$$1
+  }
+
+  function removeNode (el) {
+    var parent = nodeOps.parentNode(el);
+    // element may have already been removed due to v-html / v-text
+    if (isDef(parent)) {
+      nodeOps.removeChild(parent, el);
+    }
+  }
+
+  function isUnknownElement$$1 (vnode, inVPre) {
+    return (
+      !inVPre &&
+      !vnode.ns &&
+      !(
+        config.ignoredElements.length &&
+        config.ignoredElements.some(function (ignore) {
+          return isRegExp(ignore)
+            ? ignore.test(vnode.tag)
+            : ignore === vnode.tag
+        })
+      ) &&
+      config.isUnknownElement(vnode.tag)
+    )
+  }
+
+  var creatingElmInVPre = 0;
+
+  function createElm (
+    vnode,
+    insertedVnodeQueue,
+    parentElm,
+    refElm,
+    nested,
+    ownerArray,
+    index
+  ) {
+    if (isDef(vnode.elm) && isDef(ownerArray)) {
+      // This vnode was used in a previous render!
+      // now it's used as a new node, overwriting its elm would cause
+      // potential patch errors down the road when it's used as an insertion
+      // reference node. Instead, we clone the node on-demand before creating
+      // associated DOM element for it.
+      vnode = ownerArray[index] = cloneVNode(vnode);
+    }
+
+    vnode.isRootInsert = !nested; // for transition enter check
+    if (createComponent(vnode, insertedVnodeQueue, parentElm, refElm)) {
+      return
+    }
+
+    var data = vnode.data;
+    var children = vnode.children;
+    var tag = vnode.tag;
+    if (isDef(tag)) {
+      {
+        if (data && data.pre) {
+          creatingElmInVPre++;
+        }
+        if (isUnknownElement$$1(vnode, creatingElmInVPre)) {
+          warn(
+            'Unknown custom element: <' + tag + '> - did you ' +
+            'register the component correctly? For recursive components, ' +
+            'make sure to provide the "name" option.',
+            vnode.context
+          );
+        }
+      }
+
+      vnode.elm = vnode.ns
+        ? nodeOps.createElementNS(vnode.ns, tag)
+        : nodeOps.createElement(tag, vnode);
+      setScope(vnode);
+
+      /* istanbul ignore if */
+      {
+        createChildren(vnode, children, insertedVnodeQueue);
+        if (isDef(data)) {
+          invokeCreateHooks(vnode, insertedVnodeQueue);
+        }
+        insert(parentElm, vnode.elm, refElm);
+      }
+
+      if (data && data.pre) {
+        creatingElmInVPre--;
+      }
+    } else if (isTrue(vnode.isComment)) {
+      vnode.elm = nodeOps.createComment(vnode.text);
+      insert(parentElm, vnode.elm, refElm);
+    } else {
+      vnode.elm = nodeOps.createTextNode(vnode.text);
+      insert(parentElm, vnode.elm, refElm);
+    }
+  }
+
+  function createComponent (vnode, insertedVnodeQueue, parentElm, refElm) {
+    var i = vnode.data;
+    if (isDef(i)) {
+      var isReactivated = isDef(vnode.componentInstance) && i.keepAlive;
+      if (isDef(i = i.hook) && isDef(i = i.init)) {
+        i(vnode, false /* hydrating */);
+      }
+      // after calling the init hook, if the vnode is a child component
+      // it should've created a child instance and mounted it. the child
+      // component also has set the placeholder vnode's elm.
+      // in that case we can just return the element and be done.
+      if (isDef(vnode.componentInstance)) {
+        initComponent(vnode, insertedVnodeQueue);
+        insert(parentElm, vnode.elm, refElm);
+        if (isTrue(isReactivated)) {
+          reactivateComponent(vnode, insertedVnodeQueue, parentElm, refElm);
+        }
+        return true
+      }
+    }
+  }
+
+  function initComponent (vnode, insertedVnodeQueue) {
+    if (isDef(vnode.data.pendingInsert)) {
+      insertedVnodeQueue.push.apply(insertedVnodeQueue, vnode.data.pendingInsert);
+      vnode.data.pendingInsert = null;
+    }
+    vnode.elm = vnode.componentInstance.$el;
+    if (isPatchable(vnode)) {
+      invokeCreateHooks(vnode, insertedVnodeQueue);
+      setScope(vnode);
+    } else {
+      // empty component root.
+      // skip all element-related modules except for ref (#3455)
+      registerRef(vnode);
+      // make sure to invoke the insert hook
+      insertedVnodeQueue.push(vnode);
+    }
+  }
+
+  function reactivateComponent (vnode, insertedVnodeQueue, parentElm, refElm) {
+    var i;
+    // hack for #4339: a reactivated component with inner transition
+    // does not trigger because the inner node's created hooks are not called
+    // again. It's not ideal to involve module-specific logic in here but
+    // there doesn't seem to be a better way to do it.
+    var innerNode = vnode;
+    while (innerNode.componentInstance) {
+      innerNode = innerNode.componentInstance._vnode;
+      if (isDef(i = innerNode.data) && isDef(i = i.transition)) {
+        for (i = 0; i < cbs.activate.length; ++i) {
+          cbs.activate[i](emptyNode, innerNode);
+        }
+        insertedVnodeQueue.push(innerNode);
+        break
+      }
+    }
+    // unlike a newly created component,
+    // a reactivated keep-alive component doesn't insert itself
+    insert(parentElm, vnode.elm, refElm);
+  }
+
+  function insert (parent, elm, ref$$1) {
+    if (isDef(parent)) {
+      if (isDef(ref$$1)) {
+        if (nodeOps.parentNode(ref$$1) === parent) {
+          nodeOps.insertBefore(parent, elm, ref$$1);
+        }
+      } else {
+        nodeOps.appendChild(parent, elm);
+      }
+    }
+  }
+
+  function createChildren (vnode, children, insertedVnodeQueue) {
+    if (Array.isArray(children)) {
+      {
+        checkDuplicateKeys(children);
+      }
+      for (var i = 0; i < children.length; ++i) {
+        createElm(children[i], insertedVnodeQueue, vnode.elm, null, true, children, i);
+      }
+    } else if (isPrimitive(vnode.text)) {
+      nodeOps.appendChild(vnode.elm, nodeOps.createTextNode(String(vnode.text)));
+    }
+  }
+
+  function isPatchable (vnode) {
+    while (vnode.componentInstance) {
+      vnode = vnode.componentInstance._vnode;
+    }
+    return isDef(vnode.tag)
+  }
+
+  function invokeCreateHooks (vnode, insertedVnodeQueue) {
+    for (var i$1 = 0; i$1 < cbs.create.length; ++i$1) {
+      cbs.create[i$1](emptyNode, vnode);
+    }
+    i = vnode.data.hook; // Reuse variable
+    if (isDef(i)) {
+      if (isDef(i.create)) { i.create(emptyNode, vnode); }
+      if (isDef(i.insert)) { insertedVnodeQueue.push(vnode); }
+    }
+  }
+
+  // set scope id attribute for scoped CSS.
+  // this is implemented as a special case to avoid the overhead
+  // of going through the normal attribute patching process.
+  function setScope (vnode) {
+    var i;
+    if (isDef(i = vnode.fnScopeId)) {
+      nodeOps.setStyleScope(vnode.elm, i);
+    } else {
+      var ancestor = vnode;
+      while (ancestor) {
+        if (isDef(i = ancestor.context) && isDef(i = i.$options._scopeId)) {
+          nodeOps.setStyleScope(vnode.elm, i);
+        }
+        ancestor = ancestor.parent;
+      }
+    }
+    // for slot content they should also get the scopeId from the host instance.
+    if (isDef(i = activeInstance) &&
+      i !== vnode.context &&
+      i !== vnode.fnContext &&
+      isDef(i = i.$options._scopeId)
+    ) {
+      nodeOps.setStyleScope(vnode.elm, i);
+    }
+  }
+
+  function addVnodes (parentElm, refElm, vnodes, startIdx, endIdx, insertedVnodeQueue) {
+    for (; startIdx <= endIdx; ++startIdx) {
+      createElm(vnodes[startIdx], insertedVnodeQueue, parentElm, refElm, false, vnodes, startIdx);
+    }
+  }
+
+  function invokeDestroyHook (vnode) {
+    var i, j;
+    var data = vnode.data;
+    if (isDef(data)) {
+      if (isDef(i = data.hook) && isDef(i = i.destroy)) { i(vnode); }
+      for (i = 0; i < cbs.destroy.length; ++i) { cbs.destroy[i](vnode); }
+    }
+    if (isDef(i = vnode.children)) {
+      for (j = 0; j < vnode.children.length; ++j) {
+        invokeDestroyHook(vnode.children[j]);
+      }
+    }
+  }
+
+  function removeVnodes (vnodes, startIdx, endIdx) {
+    for (; startIdx <= endIdx; ++startIdx) {
+      var ch = vnodes[startIdx];
+      if (isDef(ch)) {
+        if (isDef(ch.tag)) {
+          removeAndInvokeRemoveHook(ch);
+          invokeDestroyHook(ch);
+        } else { // Text node
+          removeNode(ch.elm);
+        }
+      }
+    }
+  }
+
+  function removeAndInvokeRemoveHook (vnode, rm) {
+    if (isDef(rm) || isDef(vnode.data)) {
+      var i;
+      var listeners = cbs.remove.length + 1;
+      if (isDef(rm)) {
+        // we have a recursively passed down rm callback
+        // increase the listeners count
+        rm.listeners += listeners;
+      } else {
+        // directly removing
+        rm = createRmCb(vnode.elm, listeners);
+      }
+      // recursively invoke hooks on child component root node
+      if (isDef(i = vnode.componentInstance) && isDef(i = i._vnode) && isDef(i.data)) {
+        removeAndInvokeRemoveHook(i, rm);
+      }
+      for (i = 0; i < cbs.remove.length; ++i) {
+        cbs.remove[i](vnode, rm);
+      }
+      if (isDef(i = vnode.data.hook) && isDef(i = i.remove)) {
+        i(vnode, rm);
+      } else {
+        rm();
+      }
+    } else {
+      removeNode(vnode.elm);
+    }
+  }
+
+  function updateChildren (parentElm, oldCh, newCh, insertedVnodeQueue, removeOnly) {
+    var oldStartIdx = 0;
+    var newStartIdx = 0;
+    var oldEndIdx = oldCh.length - 1;
+    var oldStartVnode = oldCh[0];
+    var oldEndVnode = oldCh[oldEndIdx];
+    var newEndIdx = newCh.length - 1;
+    var newStartVnode = newCh[0];
+    var newEndVnode = newCh[newEndIdx];
+    var oldKeyToIdx, idxInOld, vnodeToMove, refElm;
+
+    // removeOnly is a special flag used only by <transition-group>
+    // to ensure removed elements stay in correct relative positions
+    // during leaving transitions
+    var canMove = !removeOnly;
+
+    {
+      checkDuplicateKeys(newCh);
+    }
+
+    while (oldStartIdx <= oldEndIdx && newStartIdx <= newEndIdx) {
+      if (isUndef(oldStartVnode)) {
+        oldStartVnode = oldCh[++oldStartIdx]; // Vnode has been moved left
+      } else if (isUndef(oldEndVnode)) {
+        oldEndVnode = oldCh[--oldEndIdx];
+      } else if (sameVnode(oldStartVnode, newStartVnode)) {
+        patchVnode(oldStartVnode, newStartVnode, insertedVnodeQueue, newCh, newStartIdx);
+        oldStartVnode = oldCh[++oldStartIdx];
+        newStartVnode = newCh[++newStartIdx];
+      } else if (sameVnode(oldEndVnode, newEndVnode)) {
+        patchVnode(oldEndVnode, newEndVnode, insertedVnodeQueue, newCh, newEndIdx);
+        oldEndVnode = oldCh[--oldEndIdx];
+        newEndVnode = newCh[--newEndIdx];
+      } else if (sameVnode(oldStartVnode, newEndVnode)) { // Vnode moved right
+        patchVnode(oldStartVnode, newEndVnode, insertedVnodeQueue, newCh, newEndIdx);
+        canMove && nodeOps.insertBefore(parentElm, oldStartVnode.elm, nodeOps.nextSibling(oldEndVnode.elm));
+        oldStartVnode = oldCh[++oldStartIdx];
+        newEndVnode = newCh[--newEndIdx];
+      } else if (sameVnode(oldEndVnode, newStartVnode)) { // Vnode moved left
+        patchVnode(oldEndVnode, newStartVnode, insertedVnodeQueue, newCh, newStartIdx);
+        canMove && nodeOps.insertBefore(parentElm, oldEndVnode.elm, oldStartVnode.elm);
+        oldEndVnode = oldCh[--oldEndIdx];
+        newStartVnode = newCh[++newStartIdx];
+      } else {
+        if (isUndef(oldKeyToIdx)) { oldKeyToIdx = createKeyToOldIdx(oldCh, oldStartIdx, oldEndIdx); }
+        idxInOld = isDef(newStartVnode.key)
+          ? oldKeyToIdx[newStartVnode.key]
+          : findIdxInOld(newStartVnode, oldCh, oldStartIdx, oldEndIdx);
+        if (isUndef(idxInOld)) { // New element
+          createElm(newStartVnode, insertedVnodeQueue, parentElm, oldStartVnode.elm, false, newCh, newStartIdx);
+        } else {
+          vnodeToMove = oldCh[idxInOld];
+          if (sameVnode(vnodeToMove, newStartVnode)) {
+            patchVnode(vnodeToMove, newStartVnode, insertedVnodeQueue, newCh, newStartIdx);
+            oldCh[idxInOld] = undefined;
+            canMove && nodeOps.insertBefore(parentElm, vnodeToMove.elm, oldStartVnode.elm);
+          } else {
+            // same key but different element. treat as new element
+            createElm(newStartVnode, insertedVnodeQueue, parentElm, oldStartVnode.elm, false, newCh, newStartIdx);
+          }
+        }
+        newStartVnode = newCh[++newStartIdx];
+      }
+    }
+    if (oldStartIdx > oldEndIdx) {
+      refElm = isUndef(newCh[newEndIdx + 1]) ? null : newCh[newEndIdx + 1].elm;
+      addVnodes(parentElm, refElm, newCh, newStartIdx, newEndIdx, insertedVnodeQueue);
+    } else if (newStartIdx > newEndIdx) {
+      removeVnodes(oldCh, oldStartIdx, oldEndIdx);
+    }
+  }
+
+  function checkDuplicateKeys (children) {
+    var seenKeys = {};
+    for (var i = 0; i < children.length; i++) {
+      var vnode = children[i];
+      var key = vnode.key;
+      if (isDef(key)) {
+        if (seenKeys[key]) {
+          warn(
+            ("Duplicate keys detected: '" + key + "'. This may cause an update error."),
+            vnode.context
+          );
+        } else {
+          seenKeys[key] = true;
+        }
+      }
+    }
+  }
+
+  function findIdxInOld (node, oldCh, start, end) {
+    for (var i = start; i < end; i++) {
+      var c = oldCh[i];
+      if (isDef(c) && sameVnode(node, c)) { return i }
+    }
+  }
+
+  function patchVnode (
+    oldVnode,
+    vnode,
+    insertedVnodeQueue,
+    ownerArray,
+    index,
+    removeOnly
+  ) {
+    if (oldVnode === vnode) {
+      return
+    }
+
+    if (isDef(vnode.elm) && isDef(ownerArray)) {
+      // clone reused vnode
+      vnode = ownerArray[index] = cloneVNode(vnode);
+    }
+
+    var elm = vnode.elm = oldVnode.elm;
+
+    if (isTrue(oldVnode.isAsyncPlaceholder)) {
+      if (isDef(vnode.asyncFactory.resolved)) {
+        hydrate(oldVnode.elm, vnode, insertedVnodeQueue);
+      } else {
+        vnode.isAsyncPlaceholder = true;
+      }
+      return
+    }
+
+    // reuse element for static trees.
+    // note we only do this if the vnode is cloned -
+    // if the new node is not cloned it means the render functions have been
+    // reset by the hot-reload-api and we need to do a proper re-render.
+    if (isTrue(vnode.isStatic) &&
+      isTrue(oldVnode.isStatic) &&
+      vnode.key === oldVnode.key &&
+      (isTrue(vnode.isCloned) || isTrue(vnode.isOnce))
+    ) {
+      vnode.componentInstance = oldVnode.componentInstance;
+      return
+    }
+
+    var i;
+    var data = vnode.data;
+    if (isDef(data) && isDef(i = data.hook) && isDef(i = i.prepatch)) {
+      i(oldVnode, vnode);
+    }
+
+    var oldCh = oldVnode.children;
+    var ch = vnode.children;
+    if (isDef(data) && isPatchable(vnode)) {
+      for (i = 0; i < cbs.update.length; ++i) { cbs.update[i](oldVnode, vnode); }
+      if (isDef(i = data.hook) && isDef(i = i.update)) { i(oldVnode, vnode); }
+    }
+    if (isUndef(vnode.text)) {
+      if (isDef(oldCh) && isDef(ch)) {
+        if (oldCh !== ch) { updateChildren(elm, oldCh, ch, insertedVnodeQueue, removeOnly); }
+      } else if (isDef(ch)) {
+        {
+          checkDuplicateKeys(ch);
+        }
+        if (isDef(oldVnode.text)) { nodeOps.setTextContent(elm, ''); }
+        addVnodes(elm, null, ch, 0, ch.length - 1, insertedVnodeQueue);
+      } else if (isDef(oldCh)) {
+        removeVnodes(oldCh, 0, oldCh.length - 1);
+      } else if (isDef(oldVnode.text)) {
+        nodeOps.setTextContent(elm, '');
+      }
+    } else if (oldVnode.text !== vnode.text) {
+      nodeOps.setTextContent(elm, vnode.text);
+    }
+    if (isDef(data)) {
+      if (isDef(i = data.hook) && isDef(i = i.postpatch)) { i(oldVnode, vnode); }
+    }
+  }
+
+  function invokeInsertHook (vnode, queue, initial) {
+    // delay insert hooks for component root nodes, invoke them after the
+    // element is really inserted
+    if (isTrue(initial) && isDef(vnode.parent)) {
+      vnode.parent.data.pendingInsert = queue;
+    } else {
+      for (var i = 0; i < queue.length; ++i) {
+        queue[i].data.hook.insert(queue[i]);
+      }
+    }
+  }
+
+  var hydrationBailed = false;
+  // list of modules that can skip create hook during hydration because they
+  // are already rendered on the client or has no need for initialization
+  // Note: style is excluded because it relies on initial clone for future
+  // deep updates (#7063).
+  var isRenderedModule = makeMap('attrs,class,staticClass,staticStyle,key');
+
+  // Note: this is a browser-only function so we can assume elms are DOM nodes.
+  function hydrate (elm, vnode, insertedVnodeQueue, inVPre) {
+    var i;
+    var tag = vnode.tag;
+    var data = vnode.data;
+    var children = vnode.children;
+    inVPre = inVPre || (data && data.pre);
+    vnode.elm = elm;
+
+    if (isTrue(vnode.isComment) && isDef(vnode.asyncFactory)) {
+      vnode.isAsyncPlaceholder = true;
+      return true
+    }
+    // assert node match
+    {
+      if (!assertNodeMatch(elm, vnode, inVPre)) {
+        return false
+      }
+    }
+    if (isDef(data)) {
+      if (isDef(i = data.hook) && isDef(i = i.init)) { i(vnode, true /* hydrating */); }
+      if (isDef(i = vnode.componentInstance)) {
+        // child component. it should have hydrated its own tree.
+        initComponent(vnode, insertedVnodeQueue);
+        return true
+      }
+    }
+    if (isDef(tag)) {
+      if (isDef(children)) {
+        // empty element, allow client to pick up and populate children
+        if (!elm.hasChildNodes()) {
+          createChildren(vnode, children, insertedVnodeQueue);
+        } else {
+          // v-html and domProps: innerHTML
+          if (isDef(i = data) && isDef(i = i.domProps) && isDef(i = i.innerHTML)) {
+            if (i !== elm.innerHTML) {
+              /* istanbul ignore if */
+              if (typeof console !== 'undefined' &&
+                !hydrationBailed
+              ) {
+                hydrationBailed = true;
+                console.warn('Parent: ', elm);
+                console.warn('server innerHTML: ', i);
+                console.warn('client innerHTML: ', elm.innerHTML);
+              }
+              return false
+            }
+          } else {
+            // iterate and compare children lists
+            var childrenMatch = true;
+            var childNode = elm.firstChild;
+            for (var i$1 = 0; i$1 < children.length; i$1++) {
+              if (!childNode || !hydrate(childNode, children[i$1], insertedVnodeQueue, inVPre)) {
+                childrenMatch = false;
+                break
+              }
+              childNode = childNode.nextSibling;
+            }
+            // if childNode is not null, it means the actual childNodes list is
+            // longer than the virtual children list.
+            if (!childrenMatch || childNode) {
+              /* istanbul ignore if */
+              if (typeof console !== 'undefined' &&
+                !hydrationBailed
+              ) {
+                hydrationBailed = true;
+                console.warn('Parent: ', elm);
+                console.warn('Mismatching childNodes vs. VNodes: ', elm.childNodes, children);
+              }
+              return false
+            }
+          }
+        }
+      }
+      if (isDef(data)) {
+        var fullInvoke = false;
+        for (var key in data) {
+          if (!isRenderedModule(key)) {
+            fullInvoke = true;
+            invokeCreateHooks(vnode, insertedVnodeQueue);
+            break
+          }
+        }
+        if (!fullInvoke && data['class']) {
+          // ensure collecting deps for deep class bindings for future updates
+          traverse(data['class']);
+        }
+      }
+    } else if (elm.data !== vnode.text) {
+      elm.data = vnode.text;
+    }
+    return true
+  }
+
+  function assertNodeMatch (node, vnode, inVPre) {
+    if (isDef(vnode.tag)) {
+      return vnode.tag.indexOf('vue-component') === 0 || (
+        !isUnknownElement$$1(vnode, inVPre) &&
+        vnode.tag.toLowerCase() === (node.tagName && node.tagName.toLowerCase())
+      )
+    } else {
+      return node.nodeType === (vnode.isComment ? 8 : 3)
+    }
+  }
+
+  return function patch (oldVnode, vnode, hydrating, removeOnly) {
+    if (isUndef(vnode)) {
+      if (isDef(oldVnode)) { invokeDestroyHook(oldVnode); }
+      return
+    }
+
+    var isInitialPatch = false;
+    var insertedVnodeQueue = [];
+
+    if (isUndef(oldVnode)) {
+      // empty mount (likely as component), create new root element
+      isInitialPatch = true;
+      createElm(vnode, insertedVnodeQueue);
+    } else {
+      var isRealElement = isDef(oldVnode.nodeType);
+      if (!isRealElement && sameVnode(oldVnode, vnode)) {
+        // patch existing root node
+        patchVnode(oldVnode, vnode, insertedVnodeQueue, null, null, removeOnly);
+      } else {
+        if (isRealElement) {
+          // mounting to a real element
+          // check if this is server-rendered content and if we can perform
+          // a successful hydration.
+          if (oldVnode.nodeType === 1 && oldVnode.hasAttribute(SSR_ATTR)) {
+            oldVnode.removeAttribute(SSR_ATTR);
+            hydrating = true;
+          }
+          if (isTrue(hydrating)) {
+            if (hydrate(oldVnode, vnode, insertedVnodeQueue)) {
+              invokeInsertHook(vnode, insertedVnodeQueue, true);
+              return oldVnode
+            } else {
+              warn(
+                'The client-side rendered virtual DOM tree is not matching ' +
+                'server-rendered content. This is likely caused by incorrect ' +
+                'HTML markup, for example nesting block-level elements inside ' +
+                '<p>, or missing <tbody>. Bailing hydration and performing ' +
+                'full client-side render.'
+              );
+            }
+          }
+          // either not server-rendered, or hydration failed.
+          // create an empty node and replace it
+          oldVnode = emptyNodeAt(oldVnode);
+        }
+
+        // replacing existing element
+        var oldElm = oldVnode.elm;
+        var parentElm = nodeOps.parentNode(oldElm);
+
+        // create new node
+        createElm(
+          vnode,
+          insertedVnodeQueue,
+          // extremely rare edge case: do not insert if old element is in a
+          // leaving transition. Only happens when combining transition +
+          // keep-alive + HOCs. (#4590)
+          oldElm._leaveCb ? null : parentElm,
+          nodeOps.nextSibling(oldElm)
+        );
+
+        // update parent placeholder node element, recursively
+        if (isDef(vnode.parent)) {
+          var ancestor = vnode.parent;
+          var patchable = isPatchable(vnode);
+          while (ancestor) {
+            for (var i = 0; i < cbs.destroy.length; ++i) {
+              cbs.destroy[i](ancestor);
+            }
+            ancestor.elm = vnode.elm;
+            if (patchable) {
+              for (var i$1 = 0; i$1 < cbs.create.length; ++i$1) {
+                cbs.create[i$1](emptyNode, ancestor);
+              }
+              // #6513
+              // invoke insert hooks that may have been merged by create hooks.
+              // e.g. for directives that uses the "inserted" hook.
+              var insert = ancestor.data.hook.insert;
+              if (insert.merged) {
+                // start at index 1 to avoid re-invoking component mounted hook
+                for (var i$2 = 1; i$2 < insert.fns.length; i$2++) {
+                  insert.fns[i$2]();
+                }
+              }
+            } else {
+              registerRef(ancestor);
+            }
+            ancestor = ancestor.parent;
+          }
+        }
+
+        // destroy old node
+        if (isDef(parentElm)) {
+          removeVnodes([oldVnode], 0, 0);
+        } else if (isDef(oldVnode.tag)) {
+          invokeDestroyHook(oldVnode);
+        }
+      }
+    }
+
+    invokeInsertHook(vnode, insertedVnodeQueue, isInitialPatch);
+    return vnode.elm
+  }
+}
+
+/*  */
+
+var directives = {
+  create: updateDirectives,
+  update: updateDirectives,
+  destroy: function unbindDirectives (vnode) {
+    updateDirectives(vnode, emptyNode);
+  }
+};
+
+function updateDirectives (oldVnode, vnode) {
+  if (oldVnode.data.directives || vnode.data.directives) {
+    _update(oldVnode, vnode);
+  }
+}
+
+function _update (oldVnode, vnode) {
+  var isCreate = oldVnode === emptyNode;
+  var isDestroy = vnode === emptyNode;
+  var oldDirs = normalizeDirectives$1(oldVnode.data.directives, oldVnode.context);
+  var newDirs = normalizeDirectives$1(vnode.data.directives, vnode.context);
+
+  var dirsWithInsert = [];
+  var dirsWithPostpatch = [];
+
+  var key, oldDir, dir;
+  for (key in newDirs) {
+    oldDir = oldDirs[key];
+    dir = newDirs[key];
+    if (!oldDir) {
+      // new directive, bind
+      callHook$1(dir, 'bind', vnode, oldVnode);
+      if (dir.def && dir.def.inserted) {
+        dirsWithInsert.push(dir);
+      }
+    } else {
+      // existing directive, update
+      dir.oldValue = oldDir.value;
+      dir.oldArg = oldDir.arg;
+      callHook$1(dir, 'update', vnode, oldVnode);
+      if (dir.def && dir.def.componentUpdated) {
+        dirsWithPostpatch.push(dir);
+      }
+    }
+  }
+
+  if (dirsWithInsert.length) {
+    var callInsert = function () {
+      for (var i = 0; i < dirsWithInsert.length; i++) {
+        callHook$1(dirsWithInsert[i], 'inserted', vnode, oldVnode);
+      }
+    };
+    if (isCreate) {
+      mergeVNodeHook(vnode, 'insert', callInsert);
+    } else {
+      callInsert();
+    }
+  }
+
+  if (dirsWithPostpatch.length) {
+    mergeVNodeHook(vnode, 'postpatch', function () {
+      for (var i = 0; i < dirsWithPostpatch.length; i++) {
+        callHook$1(dirsWithPostpatch[i], 'componentUpdated', vnode, oldVnode);
+      }
+    });
+  }
+
+  if (!isCreate) {
+    for (key in oldDirs) {
+      if (!newDirs[key]) {
+        // no longer present, unbind
+        callHook$1(oldDirs[key], 'unbind', oldVnode, oldVnode, isDestroy);
+      }
+    }
+  }
+}
+
+var emptyModifiers = Object.create(null);
+
+function normalizeDirectives$1 (
+  dirs,
+  vm
+) {
+  var res = Object.create(null);
+  if (!dirs) {
+    // $flow-disable-line
+    return res
+  }
+  var i, dir;
+  for (i = 0; i < dirs.length; i++) {
+    dir = dirs[i];
+    if (!dir.modifiers) {
+      // $flow-disable-line
+      dir.modifiers = emptyModifiers;
+    }
+    res[getRawDirName(dir)] = dir;
+    dir.def = resolveAsset(vm.$options, 'directives', dir.name, true);
+  }
+  // $flow-disable-line
+  return res
+}
+
+function getRawDirName (dir) {
+  return dir.rawName || ((dir.name) + "." + (Object.keys(dir.modifiers || {}).join('.')))
+}
+
+function callHook$1 (dir, hook, vnode, oldVnode, isDestroy) {
+  var fn = dir.def && dir.def[hook];
+  if (fn) {
+    try {
+      fn(vnode.elm, dir, vnode, oldVnode, isDestroy);
+    } catch (e) {
+      handleError(e, vnode.context, ("directive " + (dir.name) + " " + hook + " hook"));
+    }
+  }
+}
+
+var baseModules = [
+  ref,
+  directives
+];
+
+/*  */
+
+function updateAttrs (oldVnode, vnode) {
+  var opts = vnode.componentOptions;
+  if (isDef(opts) && opts.Ctor.options.inheritAttrs === false) {
+    return
+  }
+  if (isUndef(oldVnode.data.attrs) && isUndef(vnode.data.attrs)) {
+    return
+  }
+  var key, cur, old;
+  var elm = vnode.elm;
+  var oldAttrs = oldVnode.data.attrs || {};
+  var attrs = vnode.data.attrs || {};
+  // clone observed objects, as the user probably wants to mutate it
+  if (isDef(attrs.__ob__)) {
+    attrs = vnode.data.attrs = extend({}, attrs);
+  }
+
+  for (key in attrs) {
+    cur = attrs[key];
+    old = oldAttrs[key];
+    if (old !== cur) {
+      setAttr(elm, key, cur);
+    }
+  }
+  // #4391: in IE9, setting type can reset value for input[type=radio]
+  // #6666: IE/Edge forces progress value down to 1 before setting a max
+  /* istanbul ignore if */
+  if ((isIE || isEdge) && attrs.value !== oldAttrs.value) {
+    setAttr(elm, 'value', attrs.value);
+  }
+  for (key in oldAttrs) {
+    if (isUndef(attrs[key])) {
+      if (isXlink(key)) {
+        elm.removeAttributeNS(xlinkNS, getXlinkProp(key));
+      } else if (!isEnumeratedAttr(key)) {
+        elm.removeAttribute(key);
+      }
+    }
+  }
+}
+
+function setAttr (el, key, value) {
+  if (el.tagName.indexOf('-') > -1) {
+    baseSetAttr(el, key, value);
+  } else if (isBooleanAttr(key)) {
+    // set attribute for blank value
+    // e.g. <option disabled>Select one</option>
+    if (isFalsyAttrValue(value)) {
+      el.removeAttribute(key);
+    } else {
+      // technically allowfullscreen is a boolean attribute for <iframe>,
+      // but Flash expects a value of "true" when used on <embed> tag
+      value = key === 'allowfullscreen' && el.tagName === 'EMBED'
+        ? 'true'
+        : key;
+      el.setAttribute(key, value);
+    }
+  } else if (isEnumeratedAttr(key)) {
+    el.setAttribute(key, convertEnumeratedValue(key, value));
+  } else if (isXlink(key)) {
+    if (isFalsyAttrValue(value)) {
+      el.removeAttributeNS(xlinkNS, getXlinkProp(key));
+    } else {
+      el.setAttributeNS(xlinkNS, key, value);
+    }
+  } else {
+    baseSetAttr(el, key, value);
+  }
+}
+
+function baseSetAttr (el, key, value) {
+  if (isFalsyAttrValue(value)) {
+    el.removeAttribute(key);
+  } else {
+    // #7138: IE10 & 11 fires input event when setting placeholder on
+    // <textarea>... block the first input event and remove the blocker
+    // immediately.
+    /* istanbul ignore if */
+    if (
+      isIE && !isIE9 &&
+      el.tagName === 'TEXTAREA' &&
+      key === 'placeholder' && value !== '' && !el.__ieph
+    ) {
+      var blocker = function (e) {
+        e.stopImmediatePropagation();
+        el.removeEventListener('input', blocker);
+      };
+      el.addEventListener('input', blocker);
+      // $flow-disable-line
+      el.__ieph = true; /* IE placeholder patched */
+    }
+    el.setAttribute(key, value);
+  }
+}
+
+var attrs = {
+  create: updateAttrs,
+  update: updateAttrs
+};
+
+/*  */
+
+function updateClass (oldVnode, vnode) {
+  var el = vnode.elm;
+  var data = vnode.data;
+  var oldData = oldVnode.data;
+  if (
+    isUndef(data.staticClass) &&
+    isUndef(data.class) && (
+      isUndef(oldData) || (
+        isUndef(oldData.staticClass) &&
+        isUndef(oldData.class)
+      )
+    )
+  ) {
+    return
+  }
+
+  var cls = genClassForVnode(vnode);
+
+  // handle transition classes
+  var transitionClass = el._transitionClasses;
+  if (isDef(transitionClass)) {
+    cls = concat(cls, stringifyClass(transitionClass));
+  }
+
+  // set the class
+  if (cls !== el._prevClass) {
+    el.setAttribute('class', cls);
+    el._prevClass = cls;
+  }
+}
+
+var klass = {
+  create: updateClass,
+  update: updateClass
+};
+
+/*  */
+
+var validDivisionCharRE = /[\w).+\-_$\]]/;
+
+function parseFilters (exp) {
+  var inSingle = false;
+  var inDouble = false;
+  var inTemplateString = false;
+  var inRegex = false;
+  var curly = 0;
+  var square = 0;
+  var paren = 0;
+  var lastFilterIndex = 0;
+  var c, prev, i, expression, filters;
+
+  for (i = 0; i < exp.length; i++) {
+    prev = c;
+    c = exp.charCodeAt(i);
+    if (inSingle) {
+      if (c === 0x27 && prev !== 0x5C) { inSingle = false; }
+    } else if (inDouble) {
+      if (c === 0x22 && prev !== 0x5C) { inDouble = false; }
+    } else if (inTemplateString) {
+      if (c === 0x60 && prev !== 0x5C) { inTemplateString = false; }
+    } else if (inRegex) {
+      if (c === 0x2f && prev !== 0x5C) { inRegex = false; }
+    } else if (
+      c === 0x7C && // pipe
+      exp.charCodeAt(i + 1) !== 0x7C &&
+      exp.charCodeAt(i - 1) !== 0x7C &&
+      !curly && !square && !paren
+    ) {
+      if (expression === undefined) {
+        // first filter, end of expression
+        lastFilterIndex = i + 1;
+        expression = exp.slice(0, i).trim();
+      } else {
+        pushFilter();
+      }
+    } else {
+      switch (c) {
+        case 0x22: inDouble = true; break         // "
+        case 0x27: inSingle = true; break         // '
+        case 0x60: inTemplateString = true; break // `
+        case 0x28: paren++; break                 // (
+        case 0x29: paren--; break                 // )
+        case 0x5B: square++; break                // [
+        case 0x5D: square--; break                // ]
+        case 0x7B: curly++; break                 // {
+        case 0x7D: curly--; break                 // }
+      }
+      if (c === 0x2f) { // /
+        var j = i - 1;
+        var p = (void 0);
+        // find first non-whitespace prev char
+        for (; j >= 0; j--) {
+          p = exp.charAt(j);
+          if (p !== ' ') { break }
+        }
+        if (!p || !validDivisionCharRE.test(p)) {
+          inRegex = true;
+        }
+      }
+    }
+  }
+
+  if (expression === undefined) {
+    expression = exp.slice(0, i).trim();
+  } else if (lastFilterIndex !== 0) {
+    pushFilter();
+  }
+
+  function pushFilter () {
+    (filters || (filters = [])).push(exp.slice(lastFilterIndex, i).trim());
+    lastFilterIndex = i + 1;
+  }
+
+  if (filters) {
+    for (i = 0; i < filters.length; i++) {
+      expression = wrapFilter(expression, filters[i]);
+    }
+  }
+
+  return expression
+}
+
+function wrapFilter (exp, filter) {
+  var i = filter.indexOf('(');
+  if (i < 0) {
+    // _f: resolveFilter
+    return ("_f(\"" + filter + "\")(" + exp + ")")
+  } else {
+    var name = filter.slice(0, i);
+    var args = filter.slice(i + 1);
+    return ("_f(\"" + name + "\")(" + exp + (args !== ')' ? ',' + args : args))
+  }
+}
+
+/*  */
+
+
+
+/* eslint-disable no-unused-vars */
+function baseWarn (msg, range) {
+  console.error(("[Vue compiler]: " + msg));
+}
+/* eslint-enable no-unused-vars */
+
+function pluckModuleFunction (
+  modules,
+  key
+) {
+  return modules
+    ? modules.map(function (m) { return m[key]; }).filter(function (_) { return _; })
+    : []
+}
+
+function addProp (el, name, value, range, dynamic) {
+  (el.props || (el.props = [])).push(rangeSetItem({ name: name, value: value, dynamic: dynamic }, range));
+  el.plain = false;
+}
+
+function addAttr (el, name, value, range, dynamic) {
+  var attrs = dynamic
+    ? (el.dynamicAttrs || (el.dynamicAttrs = []))
+    : (el.attrs || (el.attrs = []));
+  attrs.push(rangeSetItem({ name: name, value: value, dynamic: dynamic }, range));
+  el.plain = false;
+}
+
+// add a raw attr (use this in preTransforms)
+function addRawAttr (el, name, value, range) {
+  el.attrsMap[name] = value;
+  el.attrsList.push(rangeSetItem({ name: name, value: value }, range));
+}
+
+function addDirective (
+  el,
+  name,
+  rawName,
+  value,
+  arg,
+  isDynamicArg,
+  modifiers,
+  range
+) {
+  (el.directives || (el.directives = [])).push(rangeSetItem({
+    name: name,
+    rawName: rawName,
+    value: value,
+    arg: arg,
+    isDynamicArg: isDynamicArg,
+    modifiers: modifiers
+  }, range));
+  el.plain = false;
+}
+
+function prependModifierMarker (symbol, name, dynamic) {
+  return dynamic
+    ? ("_p(" + name + ",\"" + symbol + "\")")
+    : symbol + name // mark the event as captured
+}
+
+function addHandler (
+  el,
+  name,
+  value,
+  modifiers,
+  important,
+  warn,
+  range,
+  dynamic
+) {
+  modifiers = modifiers || emptyObject;
+  // warn prevent and passive modifier
+  /* istanbul ignore if */
+  if (
+    warn &&
+    modifiers.prevent && modifiers.passive
+  ) {
+    warn(
+      'passive and prevent can\'t be used together. ' +
+      'Passive handler can\'t prevent default event.',
+      range
+    );
+  }
+
+  // normalize click.right and click.middle since they don't actually fire
+  // this is technically browser-specific, but at least for now browsers are
+  // the only target envs that have right/middle clicks.
+  if (modifiers.right) {
+    if (dynamic) {
+      name = "(" + name + ")==='click'?'contextmenu':(" + name + ")";
+    } else if (name === 'click') {
+      name = 'contextmenu';
+      delete modifiers.right;
+    }
+  } else if (modifiers.middle) {
+    if (dynamic) {
+      name = "(" + name + ")==='click'?'mouseup':(" + name + ")";
+    } else if (name === 'click') {
+      name = 'mouseup';
+    }
+  }
+
+  // check capture modifier
+  if (modifiers.capture) {
+    delete modifiers.capture;
+    name = prependModifierMarker('!', name, dynamic);
+  }
+  if (modifiers.once) {
+    delete modifiers.once;
+    name = prependModifierMarker('~', name, dynamic);
+  }
+  /* istanbul ignore if */
+  if (modifiers.passive) {
+    delete modifiers.passive;
+    name = prependModifierMarker('&', name, dynamic);
+  }
+
+  var events;
+  if (modifiers.native) {
+    delete modifiers.native;
+    events = el.nativeEvents || (el.nativeEvents = {});
+  } else {
+    events = el.events || (el.events = {});
+  }
+
+  var newHandler = rangeSetItem({ value: value.trim(), dynamic: dynamic }, range);
+  if (modifiers !== emptyObject) {
+    newHandler.modifiers = modifiers;
+  }
+
+  var handlers = events[name];
+  /* istanbul ignore if */
+  if (Array.isArray(handlers)) {
+    important ? handlers.unshift(newHandler) : handlers.push(newHandler);
+  } else if (handlers) {
+    events[name] = important ? [newHandler, handlers] : [handlers, newHandler];
+  } else {
+    events[name] = newHandler;
+  }
+
+  el.plain = false;
+}
+
+function getRawBindingAttr (
+  el,
+  name
+) {
+  return el.rawAttrsMap[':' + name] ||
+    el.rawAttrsMap['v-bind:' + name] ||
+    el.rawAttrsMap[name]
+}
+
+function getBindingAttr (
+  el,
+  name,
+  getStatic
+) {
+  var dynamicValue =
+    getAndRemoveAttr(el, ':' + name) ||
+    getAndRemoveAttr(el, 'v-bind:' + name);
+  if (dynamicValue != null) {
+    return parseFilters(dynamicValue)
+  } else if (getStatic !== false) {
+    var staticValue = getAndRemoveAttr(el, name);
+    if (staticValue != null) {
+      return JSON.stringify(staticValue)
+    }
+  }
+}
+
+// note: this only removes the attr from the Array (attrsList) so that it
+// doesn't get processed by processAttrs.
+// By default it does NOT remove it from the map (attrsMap) because the map is
+// needed during codegen.
+function getAndRemoveAttr (
+  el,
+  name,
+  removeFromMap
+) {
+  var val;
+  if ((val = el.attrsMap[name]) != null) {
+    var list = el.attrsList;
+    for (var i = 0, l = list.length; i < l; i++) {
+      if (list[i].name === name) {
+        list.splice(i, 1);
+        break
+      }
+    }
+  }
+  if (removeFromMap) {
+    delete el.attrsMap[name];
+  }
+  return val
+}
+
+function getAndRemoveAttrByRegex (
+  el,
+  name
+) {
+  var list = el.attrsList;
+  for (var i = 0, l = list.length; i < l; i++) {
+    var attr = list[i];
+    if (name.test(attr.name)) {
+      list.splice(i, 1);
+      return attr
+    }
+  }
+}
+
+function rangeSetItem (
+  item,
+  range
+) {
+  if (range) {
+    if (range.start != null) {
+      item.start = range.start;
+    }
+    if (range.end != null) {
+      item.end = range.end;
+    }
+  }
+  return item
+}
+
+/*  */
+
+/**
+ * Cross-platform code generation for component v-model
+ */
+function genComponentModel (
+  el,
+  value,
+  modifiers
+) {
+  var ref = modifiers || {};
+  var number = ref.number;
+  var trim = ref.trim;
+
+  var baseValueExpression = '$$v';
+  var valueExpression = baseValueExpression;
+  if (trim) {
+    valueExpression =
+      "(typeof " + baseValueExpression + " === 'string'" +
+      "? " + baseValueExpression + ".trim()" +
+      ": " + baseValueExpression + ")";
+  }
+  if (number) {
+    valueExpression = "_n(" + valueExpression + ")";
+  }
+  var assignment = genAssignmentCode(value, valueExpression);
+
+  el.model = {
+    value: ("(" + value + ")"),
+    expression: JSON.stringify(value),
+    callback: ("function (" + baseValueExpression + ") {" + assignment + "}")
+  };
+}
+
+/**
+ * Cross-platform codegen helper for generating v-model value assignment code.
+ */
+function genAssignmentCode (
+  value,
+  assignment
+) {
+  var res = parseModel(value);
+  if (res.key === null) {
+    return (value + "=" + assignment)
+  } else {
+    return ("$set(" + (res.exp) + ", " + (res.key) + ", " + assignment + ")")
+  }
+}
+
+/**
+ * Parse a v-model expression into a base path and a final key segment.
+ * Handles both dot-path and possible square brackets.
+ *
+ * Possible cases:
+ *
+ * - test
+ * - test[key]
+ * - test[test1[key]]
+ * - test["a"][key]
+ * - xxx.test[a[a].test1[key]]
+ * - test.xxx.a["asa"][test1[key]]
+ *
+ */
+
+var len, str, chr, index$1, expressionPos, expressionEndPos;
+
+
+
+function parseModel (val) {
+  // Fix https://github.com/vuejs/vue/pull/7730
+  // allow v-model="obj.val " (trailing whitespace)
+  val = val.trim();
+  len = val.length;
+
+  if (val.indexOf('[') < 0 || val.lastIndexOf(']') < len - 1) {
+    index$1 = val.lastIndexOf('.');
+    if (index$1 > -1) {
+      return {
+        exp: val.slice(0, index$1),
+        key: '"' + val.slice(index$1 + 1) + '"'
+      }
+    } else {
+      return {
+        exp: val,
+        key: null
+      }
+    }
+  }
+
+  str = val;
+  index$1 = expressionPos = expressionEndPos = 0;
+
+  while (!eof()) {
+    chr = next();
+    /* istanbul ignore if */
+    if (isStringStart(chr)) {
+      parseString(chr);
+    } else if (chr === 0x5B) {
+      parseBracket(chr);
+    }
+  }
+
+  return {
+    exp: val.slice(0, expressionPos),
+    key: val.slice(expressionPos + 1, expressionEndPos)
+  }
+}
+
+function next () {
+  return str.charCodeAt(++index$1)
+}
+
+function eof () {
+  return index$1 >= len
+}
+
+function isStringStart (chr) {
+  return chr === 0x22 || chr === 0x27
+}
+
+function parseBracket (chr) {
+  var inBracket = 1;
+  expressionPos = index$1;
+  while (!eof()) {
+    chr = next();
+    if (isStringStart(chr)) {
+      parseString(chr);
+      continue
+    }
+    if (chr === 0x5B) { inBracket++; }
+    if (chr === 0x5D) { inBracket--; }
+    if (inBracket === 0) {
+      expressionEndPos = index$1;
+      break
+    }
+  }
+}
+
+function parseString (chr) {
+  var stringQuote = chr;
+  while (!eof()) {
+    chr = next();
+    if (chr === stringQuote) {
+      break
+    }
+  }
+}
+
+/*  */
+
+var warn$1;
+
+// in some cases, the event used has to be determined at runtime
+// so we used some reserved tokens during compile.
+var RANGE_TOKEN = '__r';
+var CHECKBOX_RADIO_TOKEN = '__c';
+
+function model (
+  el,
+  dir,
+  _warn
+) {
+  warn$1 = _warn;
+  var value = dir.value;
+  var modifiers = dir.modifiers;
+  var tag = el.tag;
+  var type = el.attrsMap.type;
+
+  {
+    // inputs with type="file" are read only and setting the input's
+    // value will throw an error.
+    if (tag === 'input' && type === 'file') {
+      warn$1(
+        "<" + (el.tag) + " v-model=\"" + value + "\" type=\"file\">:\n" +
+        "File inputs are read only. Use a v-on:change listener instead.",
+        el.rawAttrsMap['v-model']
+      );
+    }
+  }
+
+  if (el.component) {
+    genComponentModel(el, value, modifiers);
+    // component v-model doesn't need extra runtime
+    return false
+  } else if (tag === 'select') {
+    genSelect(el, value, modifiers);
+  } else if (tag === 'input' && type === 'checkbox') {
+    genCheckboxModel(el, value, modifiers);
+  } else if (tag === 'input' && type === 'radio') {
+    genRadioModel(el, value, modifiers);
+  } else if (tag === 'input' || tag === 'textarea') {
+    genDefaultModel(el, value, modifiers);
+  } else if (!config.isReservedTag(tag)) {
+    genComponentModel(el, value, modifiers);
+    // component v-model doesn't need extra runtime
+    return false
+  } else {
+    warn$1(
+      "<" + (el.tag) + " v-model=\"" + value + "\">: " +
+      "v-model is not supported on this element type. " +
+      'If you are working with contenteditable, it\'s recommended to ' +
+      'wrap a library dedicated for that purpose inside a custom component.',
+      el.rawAttrsMap['v-model']
+    );
+  }
+
+  // ensure runtime directive metadata
+  return true
+}
+
+function genCheckboxModel (
+  el,
+  value,
+  modifiers
+) {
+  var number = modifiers && modifiers.number;
+  var valueBinding = getBindingAttr(el, 'value') || 'null';
+  var trueValueBinding = getBindingAttr(el, 'true-value') || 'true';
+  var falseValueBinding = getBindingAttr(el, 'false-value') || 'false';
+  addProp(el, 'checked',
+    "Array.isArray(" + value + ")" +
+    "?_i(" + value + "," + valueBinding + ")>-1" + (
+      trueValueBinding === 'true'
+        ? (":(" + value + ")")
+        : (":_q(" + value + "," + trueValueBinding + ")")
+    )
+  );
+  addHandler(el, 'change',
+    "var $$a=" + value + "," +
+        '$$el=$event.target,' +
+        "$$c=$$el.checked?(" + trueValueBinding + "):(" + falseValueBinding + ");" +
+    'if(Array.isArray($$a)){' +
+      "var $$v=" + (number ? '_n(' + valueBinding + ')' : valueBinding) + "," +
+          '$$i=_i($$a,$$v);' +
+      "if($$el.checked){$$i<0&&(" + (genAssignmentCode(value, '$$a.concat([$$v])')) + ")}" +
+      "else{$$i>-1&&(" + (genAssignmentCode(value, '$$a.slice(0,$$i).concat($$a.slice($$i+1))')) + ")}" +
+    "}else{" + (genAssignmentCode(value, '$$c')) + "}",
+    null, true
+  );
+}
+
+function genRadioModel (
+  el,
+  value,
+  modifiers
+) {
+  var number = modifiers && modifiers.number;
+  var valueBinding = getBindingAttr(el, 'value') || 'null';
+  valueBinding = number ? ("_n(" + valueBinding + ")") : valueBinding;
+  addProp(el, 'checked', ("_q(" + value + "," + valueBinding + ")"));
+  addHandler(el, 'change', genAssignmentCode(value, valueBinding), null, true);
+}
+
+function genSelect (
+  el,
+  value,
+  modifiers
+) {
+  var number = modifiers && modifiers.number;
+  var selectedVal = "Array.prototype.filter" +
+    ".call($event.target.options,function(o){return o.selected})" +
+    ".map(function(o){var val = \"_value\" in o ? o._value : o.value;" +
+    "return " + (number ? '_n(val)' : 'val') + "})";
+
+  var assignment = '$event.target.multiple ? $$selectedVal : $$selectedVal[0]';
+  var code = "var $$selectedVal = " + selectedVal + ";";
+  code = code + " " + (genAssignmentCode(value, assignment));
+  addHandler(el, 'change', code, null, true);
+}
+
+function genDefaultModel (
+  el,
+  value,
+  modifiers
+) {
+  var type = el.attrsMap.type;
+
+  // warn if v-bind:value conflicts with v-model
+  // except for inputs with v-bind:type
+  {
+    var value$1 = el.attrsMap['v-bind:value'] || el.attrsMap[':value'];
+    var typeBinding = el.attrsMap['v-bind:type'] || el.attrsMap[':type'];
+    if (value$1 && !typeBinding) {
+      var binding = el.attrsMap['v-bind:value'] ? 'v-bind:value' : ':value';
+      warn$1(
+        binding + "=\"" + value$1 + "\" conflicts with v-model on the same element " +
+        'because the latter already expands to a value binding internally',
+        el.rawAttrsMap[binding]
+      );
+    }
+  }
+
+  var ref = modifiers || {};
+  var lazy = ref.lazy;
+  var number = ref.number;
+  var trim = ref.trim;
+  var needCompositionGuard = !lazy && type !== 'range';
+  var event = lazy
+    ? 'change'
+    : type === 'range'
+      ? RANGE_TOKEN
+      : 'input';
+
+  var valueExpression = '$event.target.value';
+  if (trim) {
+    valueExpression = "$event.target.value.trim()";
+  }
+  if (number) {
+    valueExpression = "_n(" + valueExpression + ")";
+  }
+
+  var code = genAssignmentCode(value, valueExpression);
+  if (needCompositionGuard) {
+    code = "if($event.target.composing)return;" + code;
+  }
+
+  addProp(el, 'value', ("(" + value + ")"));
+  addHandler(el, event, code, null, true);
+  if (trim || number) {
+    addHandler(el, 'blur', '$forceUpdate()');
+  }
+}
+
+/*  */
+
+// normalize v-model event tokens that can only be determined at runtime.
+// it's important to place the event as the first in the array because
+// the whole point is ensuring the v-model callback gets called before
+// user-attached handlers.
+function normalizeEvents (on) {
+  /* istanbul ignore if */
+  if (isDef(on[RANGE_TOKEN])) {
+    // IE input[type=range] only supports `change` event
+    var event = isIE ? 'change' : 'input';
+    on[event] = [].concat(on[RANGE_TOKEN], on[event] || []);
+    delete on[RANGE_TOKEN];
+  }
+  // This was originally intended to fix #4521 but no longer necessary
+  // after 2.5. Keeping it for backwards compat with generated code from < 2.4
+  /* istanbul ignore if */
+  if (isDef(on[CHECKBOX_RADIO_TOKEN])) {
+    on.change = [].concat(on[CHECKBOX_RADIO_TOKEN], on.change || []);
+    delete on[CHECKBOX_RADIO_TOKEN];
+  }
+}
+
+var target$1;
+
+function createOnceHandler$1 (event, handler, capture) {
+  var _target = target$1; // save current target element in closure
+  return function onceHandler () {
+    var res = handler.apply(null, arguments);
+    if (res !== null) {
+      remove$2(event, onceHandler, capture, _target);
+    }
+  }
+}
+
+// #9446: Firefox <= 53 (in particular, ESR 52) has incorrect Event.timeStamp
+// implementation and does not fire microtasks in between event propagation, so
+// safe to exclude.
+var useMicrotaskFix = isUsingMicroTask && !(isFF && Number(isFF[1]) <= 53);
+
+function add$1 (
+  name,
+  handler,
+  capture,
+  passive
+) {
+  // async edge case #6566: inner click event triggers patch, event handler
+  // attached to outer element during patch, and triggered again. This
+  // happens because browsers fire microtask ticks between event propagation.
+  // the solution is simple: we save the timestamp when a handler is attached,
+  // and the handler would only fire if the event passed to it was fired
+  // AFTER it was attached.
+  if (useMicrotaskFix) {
+    var attachedTimestamp = currentFlushTimestamp;
+    var original = handler;
+    handler = original._wrapper = function (e) {
+      if (
+        // no bubbling, should always fire.
+        // this is just a safety net in case event.timeStamp is unreliable in
+        // certain weird environments...
+        e.target === e.currentTarget ||
+        // event is fired after handler attachment
+        e.timeStamp >= attachedTimestamp ||
+        // bail for environments that have buggy event.timeStamp implementations
+        // #9462 iOS 9 bug: event.timeStamp is 0 after history.pushState
+        // #9681 QtWebEngine event.timeStamp is negative value
+        e.timeStamp <= 0 ||
+        // #9448 bail if event is fired in another document in a multi-page
+        // electron/nw.js app, since event.timeStamp will be using a different
+        // starting reference
+        e.target.ownerDocument !== document
+      ) {
+        return original.apply(this, arguments)
+      }
+    };
+  }
+  target$1.addEventListener(
+    name,
+    handler,
+    supportsPassive
+      ? { capture: capture, passive: passive }
+      : capture
+  );
+}
+
+function remove$2 (
+  name,
+  handler,
+  capture,
+  _target
+) {
+  (_target || target$1).removeEventListener(
+    name,
+    handler._wrapper || handler,
+    capture
+  );
+}
+
+function updateDOMListeners (oldVnode, vnode) {
+  if (isUndef(oldVnode.data.on) && isUndef(vnode.data.on)) {
+    return
+  }
+  var on = vnode.data.on || {};
+  var oldOn = oldVnode.data.on || {};
+  target$1 = vnode.elm;
+  normalizeEvents(on);
+  updateListeners(on, oldOn, add$1, remove$2, createOnceHandler$1, vnode.context);
+  target$1 = undefined;
+}
+
+var events = {
+  create: updateDOMListeners,
+  update: updateDOMListeners
+};
+
+/*  */
+
+var svgContainer;
+
+function updateDOMProps (oldVnode, vnode) {
+  if (isUndef(oldVnode.data.domProps) && isUndef(vnode.data.domProps)) {
+    return
+  }
+  var key, cur;
+  var elm = vnode.elm;
+  var oldProps = oldVnode.data.domProps || {};
+  var props = vnode.data.domProps || {};
+  // clone observed objects, as the user probably wants to mutate it
+  if (isDef(props.__ob__)) {
+    props = vnode.data.domProps = extend({}, props);
+  }
+
+  for (key in oldProps) {
+    if (!(key in props)) {
+      elm[key] = '';
+    }
+  }
+
+  for (key in props) {
+    cur = props[key];
+    // ignore children if the node has textContent or innerHTML,
+    // as these will throw away existing DOM nodes and cause removal errors
+    // on subsequent patches (#3360)
+    if (key === 'textContent' || key === 'innerHTML') {
+      if (vnode.children) { vnode.children.length = 0; }
+      if (cur === oldProps[key]) { continue }
+      // #6601 work around Chrome version <= 55 bug where single textNode
+      // replaced by innerHTML/textContent retains its parentNode property
+      if (elm.childNodes.length === 1) {
+        elm.removeChild(elm.childNodes[0]);
+      }
+    }
+
+    if (key === 'value' && elm.tagName !== 'PROGRESS') {
+      // store value as _value as well since
+      // non-string values will be stringified
+      elm._value = cur;
+      // avoid resetting cursor position when value is the same
+      var strCur = isUndef(cur) ? '' : String(cur);
+      if (shouldUpdateValue(elm, strCur)) {
+        elm.value = strCur;
+      }
+    } else if (key === 'innerHTML' && isSVG(elm.tagName) && isUndef(elm.innerHTML)) {
+      // IE doesn't support innerHTML for SVG elements
+      svgContainer = svgContainer || document.createElement('div');
+      svgContainer.innerHTML = "<svg>" + cur + "</svg>";
+      var svg = svgContainer.firstChild;
+      while (elm.firstChild) {
+        elm.removeChild(elm.firstChild);
+      }
+      while (svg.firstChild) {
+        elm.appendChild(svg.firstChild);
+      }
+    } else if (
+      // skip the update if old and new VDOM state is the same.
+      // `value` is handled separately because the DOM value may be temporarily
+      // out of sync with VDOM state due to focus, composition and modifiers.
+      // This  #4521 by skipping the unnecesarry `checked` update.
+      cur !== oldProps[key]
+    ) {
+      // some property updates can throw
+      // e.g. `value` on <progress> w/ non-finite value
+      try {
+        elm[key] = cur;
+      } catch (e) {}
+    }
+  }
+}
+
+// check platforms/web/util/attrs.js acceptValue
+
+
+function shouldUpdateValue (elm, checkVal) {
+  return (!elm.composing && (
+    elm.tagName === 'OPTION' ||
+    isNotInFocusAndDirty(elm, checkVal) ||
+    isDirtyWithModifiers(elm, checkVal)
+  ))
+}
+
+function isNotInFocusAndDirty (elm, checkVal) {
+  // return true when textbox (.number and .trim) loses focus and its value is
+  // not equal to the updated value
+  var notInFocus = true;
+  // #6157
+  // work around IE bug when accessing document.activeElement in an iframe
+  try { notInFocus = document.activeElement !== elm; } catch (e) {}
+  return notInFocus && elm.value !== checkVal
+}
+
+function isDirtyWithModifiers (elm, newVal) {
+  var value = elm.value;
+  var modifiers = elm._vModifiers; // injected by v-model runtime
+  if (isDef(modifiers)) {
+    if (modifiers.number) {
+      return toNumber(value) !== toNumber(newVal)
+    }
+    if (modifiers.trim) {
+      return value.trim() !== newVal.trim()
+    }
+  }
+  return value !== newVal
+}
+
+var domProps = {
+  create: updateDOMProps,
+  update: updateDOMProps
+};
+
+/*  */
+
+var parseStyleText = cached(function (cssText) {
+  var res = {};
+  var listDelimiter = /;(?![^(]*\))/g;
+  var propertyDelimiter = /:(.+)/;
+  cssText.split(listDelimiter).forEach(function (item) {
+    if (item) {
+      var tmp = item.split(propertyDelimiter);
+      tmp.length > 1 && (res[tmp[0].trim()] = tmp[1].trim());
+    }
+  });
+  return res
+});
+
+// merge static and dynamic style data on the same vnode
+function normalizeStyleData (data) {
+  var style = normalizeStyleBinding(data.style);
+  // static style is pre-processed into an object during compilation
+  // and is always a fresh object, so it's safe to merge into it
+  return data.staticStyle
+    ? extend(data.staticStyle, style)
+    : style
+}
+
+// normalize possible array / string values into Object
+function normalizeStyleBinding (bindingStyle) {
+  if (Array.isArray(bindingStyle)) {
+    return toObject(bindingStyle)
+  }
+  if (typeof bindingStyle === 'string') {
+    return parseStyleText(bindingStyle)
+  }
+  return bindingStyle
+}
+
+/**
+ * parent component style should be after child's
+ * so that parent component's style could override it
+ */
+function getStyle (vnode, checkChild) {
+  var res = {};
+  var styleData;
+
+  if (checkChild) {
+    var childNode = vnode;
+    while (childNode.componentInstance) {
+      childNode = childNode.componentInstance._vnode;
+      if (
+        childNode && childNode.data &&
+        (styleData = normalizeStyleData(childNode.data))
+      ) {
+        extend(res, styleData);
+      }
+    }
+  }
+
+  if ((styleData = normalizeStyleData(vnode.data))) {
+    extend(res, styleData);
+  }
+
+  var parentNode = vnode;
+  while ((parentNode = parentNode.parent)) {
+    if (parentNode.data && (styleData = normalizeStyleData(parentNode.data))) {
+      extend(res, styleData);
+    }
+  }
+  return res
+}
+
+/*  */
+
+var cssVarRE = /^--/;
+var importantRE = /\s*!important$/;
+var setProp = function (el, name, val) {
+  /* istanbul ignore if */
+  if (cssVarRE.test(name)) {
+    el.style.setProperty(name, val);
+  } else if (importantRE.test(val)) {
+    el.style.setProperty(hyphenate(name), val.replace(importantRE, ''), 'important');
+  } else {
+    var normalizedName = normalize(name);
+    if (Array.isArray(val)) {
+      // Support values array created by autoprefixer, e.g.
+      // {display: ["-webkit-box", "-ms-flexbox", "flex"]}
+      // Set them one by one, and the browser will only set those it can recognize
+      for (var i = 0, len = val.length; i < len; i++) {
+        el.style[normalizedName] = val[i];
+      }
+    } else {
+      el.style[normalizedName] = val;
+    }
+  }
+};
+
+var vendorNames = ['Webkit', 'Moz', 'ms'];
+
+var emptyStyle;
+var normalize = cached(function (prop) {
+  emptyStyle = emptyStyle || document.createElement('div').style;
+  prop = camelize(prop);
+  if (prop !== 'filter' && (prop in emptyStyle)) {
+    return prop
+  }
+  var capName = prop.charAt(0).toUpperCase() + prop.slice(1);
+  for (var i = 0; i < vendorNames.length; i++) {
+    var name = vendorNames[i] + capName;
+    if (name in emptyStyle) {
+      return name
+    }
+  }
+});
+
+function updateStyle (oldVnode, vnode) {
+  var data = vnode.data;
+  var oldData = oldVnode.data;
+
+  if (isUndef(data.staticStyle) && isUndef(data.style) &&
+    isUndef(oldData.staticStyle) && isUndef(oldData.style)
+  ) {
+    return
+  }
+
+  var cur, name;
+  var el = vnode.elm;
+  var oldStaticStyle = oldData.staticStyle;
+  var oldStyleBinding = oldData.normalizedStyle || oldData.style || {};
+
+  // if static style exists, stylebinding already merged into it when doing normalizeStyleData
+  var oldStyle = oldStaticStyle || oldStyleBinding;
+
+  var style = normalizeStyleBinding(vnode.data.style) || {};
+
+  // store normalized style under a different key for next diff
+  // make sure to clone it if it's reactive, since the user likely wants
+  // to mutate it.
+  vnode.data.normalizedStyle = isDef(style.__ob__)
+    ? extend({}, style)
+    : style;
+
+  var newStyle = getStyle(vnode, true);
+
+  for (name in oldStyle) {
+    if (isUndef(newStyle[name])) {
+      setProp(el, name, '');
+    }
+  }
+  for (name in newStyle) {
+    cur = newStyle[name];
+    if (cur !== oldStyle[name]) {
+      // ie9 setting to null has no effect, must use empty string
+      setProp(el, name, cur == null ? '' : cur);
+    }
+  }
+}
+
+var style = {
+  create: updateStyle,
+  update: updateStyle
+};
+
+/*  */
+
+var whitespaceRE = /\s+/;
+
+/**
+ * Add class with compatibility for SVG since classList is not supported on
+ * SVG elements in IE
+ */
+function addClass (el, cls) {
+  /* istanbul ignore if */
+  if (!cls || !(cls = cls.trim())) {
+    return
+  }
+
+  /* istanbul ignore else */
+  if (el.classList) {
+    if (cls.indexOf(' ') > -1) {
+      cls.split(whitespaceRE).forEach(function (c) { return el.classList.add(c); });
+    } else {
+      el.classList.add(cls);
+    }
+  } else {
+    var cur = " " + (el.getAttribute('class') || '') + " ";
+    if (cur.indexOf(' ' + cls + ' ') < 0) {
+      el.setAttribute('class', (cur + cls).trim());
+    }
+  }
+}
+
+/**
+ * Remove class with compatibility for SVG since classList is not supported on
+ * SVG elements in IE
+ */
+function removeClass (el, cls) {
+  /* istanbul ignore if */
+  if (!cls || !(cls = cls.trim())) {
+    return
+  }
+
+  /* istanbul ignore else */
+  if (el.classList) {
+    if (cls.indexOf(' ') > -1) {
+      cls.split(whitespaceRE).forEach(function (c) { return el.classList.remove(c); });
+    } else {
+      el.classList.remove(cls);
+    }
+    if (!el.classList.length) {
+      el.removeAttribute('class');
+    }
+  } else {
+    var cur = " " + (el.getAttribute('class') || '') + " ";
+    var tar = ' ' + cls + ' ';
+    while (cur.indexOf(tar) >= 0) {
+      cur = cur.replace(tar, ' ');
+    }
+    cur = cur.trim();
+    if (cur) {
+      el.setAttribute('class', cur);
+    } else {
+      el.removeAttribute('class');
+    }
+  }
+}
+
+/*  */
+
+function resolveTransition (def$$1) {
+  if (!def$$1) {
+    return
+  }
+  /* istanbul ignore else */
+  if (typeof def$$1 === 'object') {
+    var res = {};
+    if (def$$1.css !== false) {
+      extend(res, autoCssTransition(def$$1.name || 'v'));
+    }
+    extend(res, def$$1);
+    return res
+  } else if (typeof def$$1 === 'string') {
+    return autoCssTransition(def$$1)
+  }
+}
+
+var autoCssTransition = cached(function (name) {
+  return {
+    enterClass: (name + "-enter"),
+    enterToClass: (name + "-enter-to"),
+    enterActiveClass: (name + "-enter-active"),
+    leaveClass: (name + "-leave"),
+    leaveToClass: (name + "-leave-to"),
+    leaveActiveClass: (name + "-leave-active")
+  }
+});
+
+var hasTransition = inBrowser && !isIE9;
+var TRANSITION = 'transition';
+var ANIMATION = 'animation';
+
+// Transition property/event sniffing
+var transitionProp = 'transition';
+var transitionEndEvent = 'transitionend';
+var animationProp = 'animation';
+var animationEndEvent = 'animationend';
+if (hasTransition) {
+  /* istanbul ignore if */
+  if (window.ontransitionend === undefined &&
+    window.onwebkittransitionend !== undefined
+  ) {
+    transitionProp = 'WebkitTransition';
+    transitionEndEvent = 'webkitTransitionEnd';
+  }
+  if (window.onanimationend === undefined &&
+    window.onwebkitanimationend !== undefined
+  ) {
+    animationProp = 'WebkitAnimation';
+    animationEndEvent = 'webkitAnimationEnd';
+  }
+}
+
+// binding to window is necessary to make hot reload work in IE in strict mode
+var raf = inBrowser
+  ? window.requestAnimationFrame
+    ? window.requestAnimationFrame.bind(window)
+    : setTimeout
+  : /* istanbul ignore next */ function (fn) { return fn(); };
+
+function nextFrame (fn) {
+  raf(function () {
+    raf(fn);
+  });
+}
+
+function addTransitionClass (el, cls) {
+  var transitionClasses = el._transitionClasses || (el._transitionClasses = []);
+  if (transitionClasses.indexOf(cls) < 0) {
+    transitionClasses.push(cls);
+    addClass(el, cls);
+  }
+}
+
+function removeTransitionClass (el, cls) {
+  if (el._transitionClasses) {
+    remove(el._transitionClasses, cls);
+  }
+  removeClass(el, cls);
+}
+
+function whenTransitionEnds (
+  el,
+  expectedType,
+  cb
+) {
+  var ref = getTransitionInfo(el, expectedType);
+  var type = ref.type;
+  var timeout = ref.timeout;
+  var propCount = ref.propCount;
+  if (!type) { return cb() }
+  var event = type === TRANSITION ? transitionEndEvent : animationEndEvent;
+  var ended = 0;
+  var end = function () {
+    el.removeEventListener(event, onEnd);
+    cb();
+  };
+  var onEnd = function (e) {
+    if (e.target === el) {
+      if (++ended >= propCount) {
+        end();
+      }
+    }
+  };
+  setTimeout(function () {
+    if (ended < propCount) {
+      end();
+    }
+  }, timeout + 1);
+  el.addEventListener(event, onEnd);
+}
+
+var transformRE = /\b(transform|all)(,|$)/;
+
+function getTransitionInfo (el, expectedType) {
+  var styles = window.getComputedStyle(el);
+  // JSDOM may return undefined for transition properties
+  var transitionDelays = (styles[transitionProp + 'Delay'] || '').split(', ');
+  var transitionDurations = (styles[transitionProp + 'Duration'] || '').split(', ');
+  var transitionTimeout = getTimeout(transitionDelays, transitionDurations);
+  var animationDelays = (styles[animationProp + 'Delay'] || '').split(', ');
+  var animationDurations = (styles[animationProp + 'Duration'] || '').split(', ');
+  var animationTimeout = getTimeout(animationDelays, animationDurations);
+
+  var type;
+  var timeout = 0;
+  var propCount = 0;
+  /* istanbul ignore if */
+  if (expectedType === TRANSITION) {
+    if (transitionTimeout > 0) {
+      type = TRANSITION;
+      timeout = transitionTimeout;
+      propCount = transitionDurations.length;
+    }
+  } else if (expectedType === ANIMATION) {
+    if (animationTimeout > 0) {
+      type = ANIMATION;
+      timeout = animationTimeout;
+      propCount = animationDurations.length;
+    }
+  } else {
+    timeout = Math.max(transitionTimeout, animationTimeout);
+    type = timeout > 0
+      ? transitionTimeout > animationTimeout
+        ? TRANSITION
+        : ANIMATION
+      : null;
+    propCount = type
+      ? type === TRANSITION
+        ? transitionDurations.length
+        : animationDurations.length
+      : 0;
+  }
+  var hasTransform =
+    type === TRANSITION &&
+    transformRE.test(styles[transitionProp + 'Property']);
+  return {
+    type: type,
+    timeout: timeout,
+    propCount: propCount,
+    hasTransform: hasTransform
+  }
+}
+
+function getTimeout (delays, durations) {
+  /* istanbul ignore next */
+  while (delays.length < durations.length) {
+    delays = delays.concat(delays);
+  }
+
+  return Math.max.apply(null, durations.map(function (d, i) {
+    return toMs(d) + toMs(delays[i])
+  }))
+}
+
+// Old versions of Chromium (below 61.0.3163.100) formats floating pointer numbers
+// in a locale-dependent way, using a comma instead of a dot.
+// If comma is not replaced with a dot, the input will be rounded down (i.e. acting
+// as a floor function) causing unexpected behaviors
+function toMs (s) {
+  return Number(s.slice(0, -1).replace(',', '.')) * 1000
+}
+
+/*  */
+
+function enter (vnode, toggleDisplay) {
+  var el = vnode.elm;
+
+  // call leave callback now
+  if (isDef(el._leaveCb)) {
+    el._leaveCb.cancelled = true;
+    el._leaveCb();
+  }
+
+  var data = resolveTransition(vnode.data.transition);
+  if (isUndef(data)) {
+    return
+  }
+
+  /* istanbul ignore if */
+  if (isDef(el._enterCb) || el.nodeType !== 1) {
+    return
+  }
+
+  var css = data.css;
+  var type = data.type;
+  var enterClass = data.enterClass;
+  var enterToClass = data.enterToClass;
+  var enterActiveClass = data.enterActiveClass;
+  var appearClass = data.appearClass;
+  var appearToClass = data.appearToClass;
+  var appearActiveClass = data.appearActiveClass;
+  var beforeEnter = data.beforeEnter;
+  var enter = data.enter;
+  var afterEnter = data.afterEnter;
+  var enterCancelled = data.enterCancelled;
+  var beforeAppear = data.beforeAppear;
+  var appear = data.appear;
+  var afterAppear = data.afterAppear;
+  var appearCancelled = data.appearCancelled;
+  var duration = data.duration;
+
+  // activeInstance will always be the <transition> component managing this
+  // transition. One edge case to check is when the <transition> is placed
+  // as the root node of a child component. In that case we need to check
+  // <transition>'s parent for appear check.
+  var context = activeInstance;
+  var transitionNode = activeInstance.$vnode;
+  while (transitionNode && transitionNode.parent) {
+    context = transitionNode.context;
+    transitionNode = transitionNode.parent;
+  }
+
+  var isAppear = !context._isMounted || !vnode.isRootInsert;
+
+  if (isAppear && !appear && appear !== '') {
+    return
+  }
+
+  var startClass = isAppear && appearClass
+    ? appearClass
+    : enterClass;
+  var activeClass = isAppear && appearActiveClass
+    ? appearActiveClass
+    : enterActiveClass;
+  var toClass = isAppear && appearToClass
+    ? appearToClass
+    : enterToClass;
+
+  var beforeEnterHook = isAppear
+    ? (beforeAppear || beforeEnter)
+    : beforeEnter;
+  var enterHook = isAppear
+    ? (typeof appear === 'function' ? appear : enter)
+    : enter;
+  var afterEnterHook = isAppear
+    ? (afterAppear || afterEnter)
+    : afterEnter;
+  var enterCancelledHook = isAppear
+    ? (appearCancelled || enterCancelled)
+    : enterCancelled;
+
+  var explicitEnterDuration = toNumber(
+    isObject(duration)
+      ? duration.enter
+      : duration
+  );
+
+  if (explicitEnterDuration != null) {
+    checkDuration(explicitEnterDuration, 'enter', vnode);
+  }
+
+  var expectsCSS = css !== false && !isIE9;
+  var userWantsControl = getHookArgumentsLength(enterHook);
+
+  var cb = el._enterCb = once(function () {
+    if (expectsCSS) {
+      removeTransitionClass(el, toClass);
+      removeTransitionClass(el, activeClass);
+    }
+    if (cb.cancelled) {
+      if (expectsCSS) {
+        removeTransitionClass(el, startClass);
+      }
+      enterCancelledHook && enterCancelledHook(el);
+    } else {
+      afterEnterHook && afterEnterHook(el);
+    }
+    el._enterCb = null;
+  });
+
+  if (!vnode.data.show) {
+    // remove pending leave element on enter by injecting an insert hook
+    mergeVNodeHook(vnode, 'insert', function () {
+      var parent = el.parentNode;
+      var pendingNode = parent && parent._pending && parent._pending[vnode.key];
+      if (pendingNode &&
+        pendingNode.tag === vnode.tag &&
+        pendingNode.elm._leaveCb
+      ) {
+        pendingNode.elm._leaveCb();
+      }
+      enterHook && enterHook(el, cb);
+    });
+  }
+
+  // start enter transition
+  beforeEnterHook && beforeEnterHook(el);
+  if (expectsCSS) {
+    addTransitionClass(el, startClass);
+    addTransitionClass(el, activeClass);
+    nextFrame(function () {
+      removeTransitionClass(el, startClass);
+      if (!cb.cancelled) {
+        addTransitionClass(el, toClass);
+        if (!userWantsControl) {
+          if (isValidDuration(explicitEnterDuration)) {
+            setTimeout(cb, explicitEnterDuration);
+          } else {
+            whenTransitionEnds(el, type, cb);
+          }
+        }
+      }
+    });
+  }
+
+  if (vnode.data.show) {
+    toggleDisplay && toggleDisplay();
+    enterHook && enterHook(el, cb);
+  }
+
+  if (!expectsCSS && !userWantsControl) {
+    cb();
+  }
+}
+
+function leave (vnode, rm) {
+  var el = vnode.elm;
+
+  // call enter callback now
+  if (isDef(el._enterCb)) {
+    el._enterCb.cancelled = true;
+    el._enterCb();
+  }
+
+  var data = resolveTransition(vnode.data.transition);
+  if (isUndef(data) || el.nodeType !== 1) {
+    return rm()
+  }
+
+  /* istanbul ignore if */
+  if (isDef(el._leaveCb)) {
+    return
+  }
+
+  var css = data.css;
+  var type = data.type;
+  var leaveClass = data.leaveClass;
+  var leaveToClass = data.leaveToClass;
+  var leaveActiveClass = data.leaveActiveClass;
+  var beforeLeave = data.beforeLeave;
+  var leave = data.leave;
+  var afterLeave = data.afterLeave;
+  var leaveCancelled = data.leaveCancelled;
+  var delayLeave = data.delayLeave;
+  var duration = data.duration;
+
+  var expectsCSS = css !== false && !isIE9;
+  var userWantsControl = getHookArgumentsLength(leave);
+
+  var explicitLeaveDuration = toNumber(
+    isObject(duration)
+      ? duration.leave
+      : duration
+  );
+
+  if (isDef(explicitLeaveDuration)) {
+    checkDuration(explicitLeaveDuration, 'leave', vnode);
+  }
+
+  var cb = el._leaveCb = once(function () {
+    if (el.parentNode && el.parentNode._pending) {
+      el.parentNode._pending[vnode.key] = null;
+    }
+    if (expectsCSS) {
+      removeTransitionClass(el, leaveToClass);
+      removeTransitionClass(el, leaveActiveClass);
+    }
+    if (cb.cancelled) {
+      if (expectsCSS) {
+        removeTransitionClass(el, leaveClass);
+      }
+      leaveCancelled && leaveCancelled(el);
+    } else {
+      rm();
+      afterLeave && afterLeave(el);
+    }
+    el._leaveCb = null;
+  });
+
+  if (delayLeave) {
+    delayLeave(performLeave);
+  } else {
+    performLeave();
+  }
+
+  function performLeave () {
+    // the delayed leave may have already been cancelled
+    if (cb.cancelled) {
+      return
+    }
+    // record leaving element
+    if (!vnode.data.show && el.parentNode) {
+      (el.parentNode._pending || (el.parentNode._pending = {}))[(vnode.key)] = vnode;
+    }
+    beforeLeave && beforeLeave(el);
+    if (expectsCSS) {
+      addTransitionClass(el, leaveClass);
+      addTransitionClass(el, leaveActiveClass);
+      nextFrame(function () {
+        removeTransitionClass(el, leaveClass);
+        if (!cb.cancelled) {
+          addTransitionClass(el, leaveToClass);
+          if (!userWantsControl) {
+            if (isValidDuration(explicitLeaveDuration)) {
+              setTimeout(cb, explicitLeaveDuration);
+            } else {
+              whenTransitionEnds(el, type, cb);
+            }
+          }
+        }
+      });
+    }
+    leave && leave(el, cb);
+    if (!expectsCSS && !userWantsControl) {
+      cb();
+    }
+  }
+}
+
+// only used in dev mode
+function checkDuration (val, name, vnode) {
+  if (typeof val !== 'number') {
+    warn(
+      "<transition> explicit " + name + " duration is not a valid number - " +
+      "got " + (JSON.stringify(val)) + ".",
+      vnode.context
+    );
+  } else if (isNaN(val)) {
+    warn(
+      "<transition> explicit " + name + " duration is NaN - " +
+      'the duration expression might be incorrect.',
+      vnode.context
+    );
+  }
+}
+
+function isValidDuration (val) {
+  return typeof val === 'number' && !isNaN(val)
+}
+
+/**
+ * Normalize a transition hook's argument length. The hook may be:
+ * - a merged hook (invoker) with the original in .fns
+ * - a wrapped component method (check ._length)
+ * - a plain function (.length)
+ */
+function getHookArgumentsLength (fn) {
+  if (isUndef(fn)) {
+    return false
+  }
+  var invokerFns = fn.fns;
+  if (isDef(invokerFns)) {
+    // invoker
+    return getHookArgumentsLength(
+      Array.isArray(invokerFns)
+        ? invokerFns[0]
+        : invokerFns
+    )
+  } else {
+    return (fn._length || fn.length) > 1
+  }
+}
+
+function _enter (_, vnode) {
+  if (vnode.data.show !== true) {
+    enter(vnode);
+  }
+}
+
+var transition = inBrowser ? {
+  create: _enter,
+  activate: _enter,
+  remove: function remove$$1 (vnode, rm) {
+    /* istanbul ignore else */
+    if (vnode.data.show !== true) {
+      leave(vnode, rm);
+    } else {
+      rm();
+    }
+  }
+} : {};
+
+var platformModules = [
+  attrs,
+  klass,
+  events,
+  domProps,
+  style,
+  transition
+];
+
+/*  */
+
+// the directive module should be applied last, after all
+// built-in modules have been applied.
+var modules = platformModules.concat(baseModules);
+
+var patch = createPatchFunction({ nodeOps: nodeOps, modules: modules });
+
+/**
+ * Not type checking this file because flow doesn't like attaching
+ * properties to Elements.
+ */
+
+/* istanbul ignore if */
+if (isIE9) {
+  // http://www.matts411.com/post/internet-explorer-9-oninput/
+  document.addEventListener('selectionchange', function () {
+    var el = document.activeElement;
+    if (el && el.vmodel) {
+      trigger(el, 'input');
+    }
+  });
+}
+
+var directive = {
+  inserted: function inserted (el, binding, vnode, oldVnode) {
+    if (vnode.tag === 'select') {
+      // #6903
+      if (oldVnode.elm && !oldVnode.elm._vOptions) {
+        mergeVNodeHook(vnode, 'postpatch', function () {
+          directive.componentUpdated(el, binding, vnode);
+        });
+      } else {
+        setSelected(el, binding, vnode.context);
+      }
+      el._vOptions = [].map.call(el.options, getValue);
+    } else if (vnode.tag === 'textarea' || isTextInputType(el.type)) {
+      el._vModifiers = binding.modifiers;
+      if (!binding.modifiers.lazy) {
+        el.addEventListener('compositionstart', onCompositionStart);
+        el.addEventListener('compositionend', onCompositionEnd);
+        // Safari < 10.2 & UIWebView doesn't fire compositionend when
+        // switching focus before confirming composition choice
+        // this also fixes the issue where some browsers e.g. iOS Chrome
+        // fires "change" instead of "input" on autocomplete.
+        el.addEventListener('change', onCompositionEnd);
+        /* istanbul ignore if */
+        if (isIE9) {
+          el.vmodel = true;
+        }
+      }
+    }
+  },
+
+  componentUpdated: function componentUpdated (el, binding, vnode) {
+    if (vnode.tag === 'select') {
+      setSelected(el, binding, vnode.context);
+      // in case the options rendered by v-for have changed,
+      // it's possible that the value is out-of-sync with the rendered options.
+      // detect such cases and filter out values that no longer has a matching
+      // option in the DOM.
+      var prevOptions = el._vOptions;
+      var curOptions = el._vOptions = [].map.call(el.options, getValue);
+      if (curOptions.some(function (o, i) { return !looseEqual(o, prevOptions[i]); })) {
+        // trigger change event if
+        // no matching option found for at least one value
+        var needReset = el.multiple
+          ? binding.value.some(function (v) { return hasNoMatchingOption(v, curOptions); })
+          : binding.value !== binding.oldValue && hasNoMatchingOption(binding.value, curOptions);
+        if (needReset) {
+          trigger(el, 'change');
+        }
+      }
+    }
+  }
+};
+
+function setSelected (el, binding, vm) {
+  actuallySetSelected(el, binding, vm);
+  /* istanbul ignore if */
+  if (isIE || isEdge) {
+    setTimeout(function () {
+      actuallySetSelected(el, binding, vm);
+    }, 0);
+  }
+}
+
+function actuallySetSelected (el, binding, vm) {
+  var value = binding.value;
+  var isMultiple = el.multiple;
+  if (isMultiple && !Array.isArray(value)) {
+    warn(
+      "<select multiple v-model=\"" + (binding.expression) + "\"> " +
+      "expects an Array value for its binding, but got " + (Object.prototype.toString.call(value).slice(8, -1)),
+      vm
+    );
+    return
+  }
+  var selected, option;
+  for (var i = 0, l = el.options.length; i < l; i++) {
+    option = el.options[i];
+    if (isMultiple) {
+      selected = looseIndexOf(value, getValue(option)) > -1;
+      if (option.selected !== selected) {
+        option.selected = selected;
+      }
+    } else {
+      if (looseEqual(getValue(option), value)) {
+        if (el.selectedIndex !== i) {
+          el.selectedIndex = i;
+        }
+        return
+      }
+    }
+  }
+  if (!isMultiple) {
+    el.selectedIndex = -1;
+  }
+}
+
+function hasNoMatchingOption (value, options) {
+  return options.every(function (o) { return !looseEqual(o, value); })
+}
+
+function getValue (option) {
+  return '_value' in option
+    ? option._value
+    : option.value
+}
+
+function onCompositionStart (e) {
+  e.target.composing = true;
+}
+
+function onCompositionEnd (e) {
+  // prevent triggering an input event for no reason
+  if (!e.target.composing) { return }
+  e.target.composing = false;
+  trigger(e.target, 'input');
+}
+
+function trigger (el, type) {
+  var e = document.createEvent('HTMLEvents');
+  e.initEvent(type, true, true);
+  el.dispatchEvent(e);
+}
+
+/*  */
+
+// recursively search for possible transition defined inside the component root
+function locateNode (vnode) {
+  return vnode.componentInstance && (!vnode.data || !vnode.data.transition)
+    ? locateNode(vnode.componentInstance._vnode)
+    : vnode
+}
+
+var show = {
+  bind: function bind (el, ref, vnode) {
+    var value = ref.value;
+
+    vnode = locateNode(vnode);
+    var transition$$1 = vnode.data && vnode.data.transition;
+    var originalDisplay = el.__vOriginalDisplay =
+      el.style.display === 'none' ? '' : el.style.display;
+    if (value && transition$$1) {
+      vnode.data.show = true;
+      enter(vnode, function () {
+        el.style.display = originalDisplay;
+      });
+    } else {
+      el.style.display = value ? originalDisplay : 'none';
+    }
+  },
+
+  update: function update (el, ref, vnode) {
+    var value = ref.value;
+    var oldValue = ref.oldValue;
+
+    /* istanbul ignore if */
+    if (!value === !oldValue) { return }
+    vnode = locateNode(vnode);
+    var transition$$1 = vnode.data && vnode.data.transition;
+    if (transition$$1) {
+      vnode.data.show = true;
+      if (value) {
+        enter(vnode, function () {
+          el.style.display = el.__vOriginalDisplay;
+        });
+      } else {
+        leave(vnode, function () {
+          el.style.display = 'none';
+        });
+      }
+    } else {
+      el.style.display = value ? el.__vOriginalDisplay : 'none';
+    }
+  },
+
+  unbind: function unbind (
+    el,
+    binding,
+    vnode,
+    oldVnode,
+    isDestroy
+  ) {
+    if (!isDestroy) {
+      el.style.display = el.__vOriginalDisplay;
+    }
+  }
+};
+
+var platformDirectives = {
+  model: directive,
+  show: show
+};
+
+/*  */
+
+var transitionProps = {
+  name: String,
+  appear: Boolean,
+  css: Boolean,
+  mode: String,
+  type: String,
+  enterClass: String,
+  leaveClass: String,
+  enterToClass: String,
+  leaveToClass: String,
+  enterActiveClass: String,
+  leaveActiveClass: String,
+  appearClass: String,
+  appearActiveClass: String,
+  appearToClass: String,
+  duration: [Number, String, Object]
+};
+
+// in case the child is also an abstract component, e.g. <keep-alive>
+// we want to recursively retrieve the real component to be rendered
+function getRealChild (vnode) {
+  var compOptions = vnode && vnode.componentOptions;
+  if (compOptions && compOptions.Ctor.options.abstract) {
+    return getRealChild(getFirstComponentChild(compOptions.children))
+  } else {
+    return vnode
+  }
+}
+
+function extractTransitionData (comp) {
+  var data = {};
+  var options = comp.$options;
+  // props
+  for (var key in options.propsData) {
+    data[key] = comp[key];
+  }
+  // events.
+  // extract listeners and pass them directly to the transition methods
+  var listeners = options._parentListeners;
+  for (var key$1 in listeners) {
+    data[camelize(key$1)] = listeners[key$1];
+  }
+  return data
+}
+
+function placeholder (h, rawChild) {
+  if (/\d-keep-alive$/.test(rawChild.tag)) {
+    return h('keep-alive', {
+      props: rawChild.componentOptions.propsData
+    })
+  }
+}
+
+function hasParentTransition (vnode) {
+  while ((vnode = vnode.parent)) {
+    if (vnode.data.transition) {
+      return true
+    }
+  }
+}
+
+function isSameChild (child, oldChild) {
+  return oldChild.key === child.key && oldChild.tag === child.tag
+}
+
+var isNotTextNode = function (c) { return c.tag || isAsyncPlaceholder(c); };
+
+var isVShowDirective = function (d) { return d.name === 'show'; };
+
+var Transition = {
+  name: 'transition',
+  props: transitionProps,
+  abstract: true,
+
+  render: function render (h) {
+    var this$1 = this;
+
+    var children = this.$slots.default;
+    if (!children) {
+      return
+    }
+
+    // filter out text nodes (possible whitespaces)
+    children = children.filter(isNotTextNode);
+    /* istanbul ignore if */
+    if (!children.length) {
+      return
+    }
+
+    // warn multiple elements
+    if (children.length > 1) {
+      warn(
+        '<transition> can only be used on a single element. Use ' +
+        '<transition-group> for lists.',
+        this.$parent
+      );
+    }
+
+    var mode = this.mode;
+
+    // warn invalid mode
+    if (mode && mode !== 'in-out' && mode !== 'out-in'
+    ) {
+      warn(
+        'invalid <transition> mode: ' + mode,
+        this.$parent
+      );
+    }
+
+    var rawChild = children[0];
+
+    // if this is a component root node and the component's
+    // parent container node also has transition, skip.
+    if (hasParentTransition(this.$vnode)) {
+      return rawChild
+    }
+
+    // apply transition data to child
+    // use getRealChild() to ignore abstract components e.g. keep-alive
+    var child = getRealChild(rawChild);
+    /* istanbul ignore if */
+    if (!child) {
+      return rawChild
+    }
+
+    if (this._leaving) {
+      return placeholder(h, rawChild)
+    }
+
+    // ensure a key that is unique to the vnode type and to this transition
+    // component instance. This key will be used to remove pending leaving nodes
+    // during entering.
+    var id = "__transition-" + (this._uid) + "-";
+    child.key = child.key == null
+      ? child.isComment
+        ? id + 'comment'
+        : id + child.tag
+      : isPrimitive(child.key)
+        ? (String(child.key).indexOf(id) === 0 ? child.key : id + child.key)
+        : child.key;
+
+    var data = (child.data || (child.data = {})).transition = extractTransitionData(this);
+    var oldRawChild = this._vnode;
+    var oldChild = getRealChild(oldRawChild);
+
+    // mark v-show
+    // so that the transition module can hand over the control to the directive
+    if (child.data.directives && child.data.directives.some(isVShowDirective)) {
+      child.data.show = true;
+    }
+
+    if (
+      oldChild &&
+      oldChild.data &&
+      !isSameChild(child, oldChild) &&
+      !isAsyncPlaceholder(oldChild) &&
+      // #6687 component root is a comment node
+      !(oldChild.componentInstance && oldChild.componentInstance._vnode.isComment)
+    ) {
+      // replace old child transition data with fresh one
+      // important for dynamic transitions!
+      var oldData = oldChild.data.transition = extend({}, data);
+      // handle transition mode
+      if (mode === 'out-in') {
+        // return placeholder node and queue update when leave finishes
+        this._leaving = true;
+        mergeVNodeHook(oldData, 'afterLeave', function () {
+          this$1._leaving = false;
+          this$1.$forceUpdate();
+        });
+        return placeholder(h, rawChild)
+      } else if (mode === 'in-out') {
+        if (isAsyncPlaceholder(child)) {
+          return oldRawChild
+        }
+        var delayedLeave;
+        var performLeave = function () { delayedLeave(); };
+        mergeVNodeHook(data, 'afterEnter', performLeave);
+        mergeVNodeHook(data, 'enterCancelled', performLeave);
+        mergeVNodeHook(oldData, 'delayLeave', function (leave) { delayedLeave = leave; });
+      }
+    }
+
+    return rawChild
+  }
+};
+
+/*  */
+
+var props = extend({
+  tag: String,
+  moveClass: String
+}, transitionProps);
+
+delete props.mode;
+
+var TransitionGroup = {
+  props: props,
+
+  beforeMount: function beforeMount () {
+    var this$1 = this;
+
+    var update = this._update;
+    this._update = function (vnode, hydrating) {
+      var restoreActiveInstance = setActiveInstance(this$1);
+      // force removing pass
+      this$1.__patch__(
+        this$1._vnode,
+        this$1.kept,
+        false, // hydrating
+        true // removeOnly (!important, avoids unnecessary moves)
+      );
+      this$1._vnode = this$1.kept;
+      restoreActiveInstance();
+      update.call(this$1, vnode, hydrating);
+    };
+  },
+
+  render: function render (h) {
+    var tag = this.tag || this.$vnode.data.tag || 'span';
+    var map = Object.create(null);
+    var prevChildren = this.prevChildren = this.children;
+    var rawChildren = this.$slots.default || [];
+    var children = this.children = [];
+    var transitionData = extractTransitionData(this);
+
+    for (var i = 0; i < rawChildren.length; i++) {
+      var c = rawChildren[i];
+      if (c.tag) {
+        if (c.key != null && String(c.key).indexOf('__vlist') !== 0) {
+          children.push(c);
+          map[c.key] = c
+          ;(c.data || (c.data = {})).transition = transitionData;
+        } else {
+          var opts = c.componentOptions;
+          var name = opts ? (opts.Ctor.options.name || opts.tag || '') : c.tag;
+          warn(("<transition-group> children must be keyed: <" + name + ">"));
+        }
+      }
+    }
+
+    if (prevChildren) {
+      var kept = [];
+      var removed = [];
+      for (var i$1 = 0; i$1 < prevChildren.length; i$1++) {
+        var c$1 = prevChildren[i$1];
+        c$1.data.transition = transitionData;
+        c$1.data.pos = c$1.elm.getBoundingClientRect();
+        if (map[c$1.key]) {
+          kept.push(c$1);
+        } else {
+          removed.push(c$1);
+        }
+      }
+      this.kept = h(tag, null, kept);
+      this.removed = removed;
+    }
+
+    return h(tag, null, children)
+  },
+
+  updated: function updated () {
+    var children = this.prevChildren;
+    var moveClass = this.moveClass || ((this.name || 'v') + '-move');
+    if (!children.length || !this.hasMove(children[0].elm, moveClass)) {
+      return
+    }
+
+    // we divide the work into three loops to avoid mixing DOM reads and writes
+    // in each iteration - which helps prevent layout thrashing.
+    children.forEach(callPendingCbs);
+    children.forEach(recordPosition);
+    children.forEach(applyTranslation);
+
+    // force reflow to put everything in position
+    // assign to this to avoid being removed in tree-shaking
+    // $flow-disable-line
+    this._reflow = document.body.offsetHeight;
+
+    children.forEach(function (c) {
+      if (c.data.moved) {
+        var el = c.elm;
+        var s = el.style;
+        addTransitionClass(el, moveClass);
+        s.transform = s.WebkitTransform = s.transitionDuration = '';
+        el.addEventListener(transitionEndEvent, el._moveCb = function cb (e) {
+          if (e && e.target !== el) {
+            return
+          }
+          if (!e || /transform$/.test(e.propertyName)) {
+            el.removeEventListener(transitionEndEvent, cb);
+            el._moveCb = null;
+            removeTransitionClass(el, moveClass);
+          }
+        });
+      }
+    });
+  },
+
+  methods: {
+    hasMove: function hasMove (el, moveClass) {
+      /* istanbul ignore if */
+      if (!hasTransition) {
+        return false
+      }
+      /* istanbul ignore if */
+      if (this._hasMove) {
+        return this._hasMove
+      }
+      // Detect whether an element with the move class applied has
+      // CSS transitions. Since the element may be inside an entering
+      // transition at this very moment, we make a clone of it and remove
+      // all other transition classes applied to ensure only the move class
+      // is applied.
+      var clone = el.cloneNode();
+      if (el._transitionClasses) {
+        el._transitionClasses.forEach(function (cls) { removeClass(clone, cls); });
+      }
+      addClass(clone, moveClass);
+      clone.style.display = 'none';
+      this.$el.appendChild(clone);
+      var info = getTransitionInfo(clone);
+      this.$el.removeChild(clone);
+      return (this._hasMove = info.hasTransform)
+    }
+  }
+};
+
+function callPendingCbs (c) {
+  /* istanbul ignore if */
+  if (c.elm._moveCb) {
+    c.elm._moveCb();
+  }
+  /* istanbul ignore if */
+  if (c.elm._enterCb) {
+    c.elm._enterCb();
+  }
+}
+
+function recordPosition (c) {
+  c.data.newPos = c.elm.getBoundingClientRect();
+}
+
+function applyTranslation (c) {
+  var oldPos = c.data.pos;
+  var newPos = c.data.newPos;
+  var dx = oldPos.left - newPos.left;
+  var dy = oldPos.top - newPos.top;
+  if (dx || dy) {
+    c.data.moved = true;
+    var s = c.elm.style;
+    s.transform = s.WebkitTransform = "translate(" + dx + "px," + dy + "px)";
+    s.transitionDuration = '0s';
+  }
+}
+
+var platformComponents = {
+  Transition: Transition,
+  TransitionGroup: TransitionGroup
+};
+
+/*  */
+
+// install platform specific utils
+Vue.config.mustUseProp = mustUseProp;
+Vue.config.isReservedTag = isReservedTag;
+Vue.config.isReservedAttr = isReservedAttr;
+Vue.config.getTagNamespace = getTagNamespace;
+Vue.config.isUnknownElement = isUnknownElement;
+
+// install platform runtime directives & components
+extend(Vue.options.directives, platformDirectives);
+extend(Vue.options.components, platformComponents);
+
+// install platform patch function
+Vue.prototype.__patch__ = inBrowser ? patch : noop;
+
+// public mount method
+Vue.prototype.$mount = function (
+  el,
+  hydrating
+) {
+  el = el && inBrowser ? query(el) : undefined;
+  return mountComponent(this, el, hydrating)
+};
+
+// devtools global hook
+/* istanbul ignore next */
+if (inBrowser) {
+  setTimeout(function () {
+    if (config.devtools) {
+      if (devtools) {
+        devtools.emit('init', Vue);
+      } else {
+        console[console.info ? 'info' : 'log'](
+          'Download the Vue Devtools extension for a better development experience:\n' +
+          'https://github.com/vuejs/vue-devtools'
+        );
+      }
+    }
+    if (config.productionTip !== false &&
+      typeof console !== 'undefined'
+    ) {
+      console[console.info ? 'info' : 'log'](
+        "You are running Vue in development mode.\n" +
+        "Make sure to turn on production mode when deploying for production.\n" +
+        "See more tips at https://vuejs.org/guide/deployment.html"
+      );
+    }
+  }, 0);
+}
+
+/*  */
+
+var defaultTagRE = /\{\{((?:.|\r?\n)+?)\}\}/g;
+var regexEscapeRE = /[-.*+?^${}()|[\]\/\\]/g;
+
+var buildRegex = cached(function (delimiters) {
+  var open = delimiters[0].replace(regexEscapeRE, '\\$&');
+  var close = delimiters[1].replace(regexEscapeRE, '\\$&');
+  return new RegExp(open + '((?:.|\\n)+?)' + close, 'g')
+});
+
+
+
+function parseText (
+  text,
+  delimiters
+) {
+  var tagRE = delimiters ? buildRegex(delimiters) : defaultTagRE;
+  if (!tagRE.test(text)) {
+    return
+  }
+  var tokens = [];
+  var rawTokens = [];
+  var lastIndex = tagRE.lastIndex = 0;
+  var match, index, tokenValue;
+  while ((match = tagRE.exec(text))) {
+    index = match.index;
+    // push text token
+    if (index > lastIndex) {
+      rawTokens.push(tokenValue = text.slice(lastIndex, index));
+      tokens.push(JSON.stringify(tokenValue));
+    }
+    // tag token
+    var exp = parseFilters(match[1].trim());
+    tokens.push(("_s(" + exp + ")"));
+    rawTokens.push({ '@binding': exp });
+    lastIndex = index + match[0].length;
+  }
+  if (lastIndex < text.length) {
+    rawTokens.push(tokenValue = text.slice(lastIndex));
+    tokens.push(JSON.stringify(tokenValue));
+  }
+  return {
+    expression: tokens.join('+'),
+    tokens: rawTokens
+  }
+}
+
+/*  */
+
+function transformNode (el, options) {
+  var warn = options.warn || baseWarn;
+  var staticClass = getAndRemoveAttr(el, 'class');
+  if (staticClass) {
+    var res = parseText(staticClass, options.delimiters);
+    if (res) {
+      warn(
+        "class=\"" + staticClass + "\": " +
+        'Interpolation inside attributes has been removed. ' +
+        'Use v-bind or the colon shorthand instead. For example, ' +
+        'instead of <div class="{{ val }}">, use <div :class="val">.',
+        el.rawAttrsMap['class']
+      );
+    }
+  }
+  if (staticClass) {
+    el.staticClass = JSON.stringify(staticClass);
+  }
+  var classBinding = getBindingAttr(el, 'class', false /* getStatic */);
+  if (classBinding) {
+    el.classBinding = classBinding;
+  }
+}
+
+function genData (el) {
+  var data = '';
+  if (el.staticClass) {
+    data += "staticClass:" + (el.staticClass) + ",";
+  }
+  if (el.classBinding) {
+    data += "class:" + (el.classBinding) + ",";
+  }
+  return data
+}
+
+var klass$1 = {
+  staticKeys: ['staticClass'],
+  transformNode: transformNode,
+  genData: genData
+};
+
+/*  */
+
+function transformNode$1 (el, options) {
+  var warn = options.warn || baseWarn;
+  var staticStyle = getAndRemoveAttr(el, 'style');
+  if (staticStyle) {
+    /* istanbul ignore if */
+    {
+      var res = parseText(staticStyle, options.delimiters);
+      if (res) {
+        warn(
+          "style=\"" + staticStyle + "\": " +
+          'Interpolation inside attributes has been removed. ' +
+          'Use v-bind or the colon shorthand instead. For example, ' +
+          'instead of <div style="{{ val }}">, use <div :style="val">.',
+          el.rawAttrsMap['style']
+        );
+      }
+    }
+    el.staticStyle = JSON.stringify(parseStyleText(staticStyle));
+  }
+
+  var styleBinding = getBindingAttr(el, 'style', false /* getStatic */);
+  if (styleBinding) {
+    el.styleBinding = styleBinding;
+  }
+}
+
+function genData$1 (el) {
+  var data = '';
+  if (el.staticStyle) {
+    data += "staticStyle:" + (el.staticStyle) + ",";
+  }
+  if (el.styleBinding) {
+    data += "style:(" + (el.styleBinding) + "),";
+  }
+  return data
+}
+
+var style$1 = {
+  staticKeys: ['staticStyle'],
+  transformNode: transformNode$1,
+  genData: genData$1
+};
+
+/*  */
+
+var decoder;
+
+var he = {
+  decode: function decode (html) {
+    decoder = decoder || document.createElement('div');
+    decoder.innerHTML = html;
+    return decoder.textContent
+  }
+};
+
+/*  */
+
+var isUnaryTag = makeMap(
+  'area,base,br,col,embed,frame,hr,img,input,isindex,keygen,' +
+  'link,meta,param,source,track,wbr'
+);
+
+// Elements that you can, intentionally, leave open
+// (and which close themselves)
+var canBeLeftOpenTag = makeMap(
+  'colgroup,dd,dt,li,options,p,td,tfoot,th,thead,tr,source'
+);
+
+// HTML5 tags https://html.spec.whatwg.org/multipage/indices.html#elements-3
+// Phrasing Content https://html.spec.whatwg.org/multipage/dom.html#phrasing-content
+var isNonPhrasingTag = makeMap(
+  'address,article,aside,base,blockquote,body,caption,col,colgroup,dd,' +
+  'details,dialog,div,dl,dt,fieldset,figcaption,figure,footer,form,' +
+  'h1,h2,h3,h4,h5,h6,head,header,hgroup,hr,html,legend,li,menuitem,meta,' +
+  'optgroup,option,param,rp,rt,source,style,summary,tbody,td,tfoot,th,thead,' +
+  'title,tr,track'
+);
+
+/**
+ * Not type-checking this file because it's mostly vendor code.
+ */
+
+// Regular Expressions for parsing tags and attributes
+var attribute = /^\s*([^\s"'<>\/=]+)(?:\s*(=)\s*(?:"([^"]*)"+|'([^']*)'+|([^\s"'=<>`]+)))?/;
+var dynamicArgAttribute = /^\s*((?:v-[\w-]+:|@|:|#)\[[^=]+\][^\s"'<>\/=]*)(?:\s*(=)\s*(?:"([^"]*)"+|'([^']*)'+|([^\s"'=<>`]+)))?/;
+var ncname = "[a-zA-Z_][\\-\\.0-9_a-zA-Z" + (unicodeRegExp.source) + "]*";
+var qnameCapture = "((?:" + ncname + "\\:)?" + ncname + ")";
+var startTagOpen = new RegExp(("^<" + qnameCapture));
+var startTagClose = /^\s*(\/?)>/;
+var endTag = new RegExp(("^<\\/" + qnameCapture + "[^>]*>"));
+var doctype = /^<!DOCTYPE [^>]+>/i;
+// #7298: escape - to avoid being passed as HTML comment when inlined in page
+var comment = /^<!\--/;
+var conditionalComment = /^<!\[/;
+
+// Special Elements (can contain anything)
+var isPlainTextElement = makeMap('script,style,textarea', true);
+var reCache = {};
+
+var decodingMap = {
+  '&lt;': '<',
+  '&gt;': '>',
+  '&quot;': '"',
+  '&amp;': '&',
+  '&#10;': '\n',
+  '&#9;': '\t',
+  '&#39;': "'"
+};
+var encodedAttr = /&(?:lt|gt|quot|amp|#39);/g;
+var encodedAttrWithNewLines = /&(?:lt|gt|quot|amp|#39|#10|#9);/g;
+
+// #5992
+var isIgnoreNewlineTag = makeMap('pre,textarea', true);
+var shouldIgnoreFirstNewline = function (tag, html) { return tag && isIgnoreNewlineTag(tag) && html[0] === '\n'; };
+
+function decodeAttr (value, shouldDecodeNewlines) {
+  var re = shouldDecodeNewlines ? encodedAttrWithNewLines : encodedAttr;
+  return value.replace(re, function (match) { return decodingMap[match]; })
+}
+
+function parseHTML (html, options) {
+  var stack = [];
+  var expectHTML = options.expectHTML;
+  var isUnaryTag$$1 = options.isUnaryTag || no;
+  var canBeLeftOpenTag$$1 = options.canBeLeftOpenTag || no;
+  var index = 0;
+  var last, lastTag;
+  while (html) {
+    last = html;
+    // Make sure we're not in a plaintext content element like script/style
+    if (!lastTag || !isPlainTextElement(lastTag)) {
+      var textEnd = html.indexOf('<');
+      if (textEnd === 0) {
+        // Comment:
+        if (comment.test(html)) {
+          var commentEnd = html.indexOf('-->');
+
+          if (commentEnd >= 0) {
+            if (options.shouldKeepComment) {
+              options.comment(html.substring(4, commentEnd), index, index + commentEnd + 3);
+            }
+            advance(commentEnd + 3);
+            continue
+          }
+        }
+
+        // http://en.wikipedia.org/wiki/Conditional_comment#Downlevel-revealed_conditional_comment
+        if (conditionalComment.test(html)) {
+          var conditionalEnd = html.indexOf(']>');
+
+          if (conditionalEnd >= 0) {
+            advance(conditionalEnd + 2);
+            continue
+          }
+        }
+
+        // Doctype:
+        var doctypeMatch = html.match(doctype);
+        if (doctypeMatch) {
+          advance(doctypeMatch[0].length);
+          continue
+        }
+
+        // End tag:
+        var endTagMatch = html.match(endTag);
+        if (endTagMatch) {
+          var curIndex = index;
+          advance(endTagMatch[0].length);
+          parseEndTag(endTagMatch[1], curIndex, index);
+          continue
+        }
+
+        // Start tag:
+        var startTagMatch = parseStartTag();
+        if (startTagMatch) {
+          handleStartTag(startTagMatch);
+          if (shouldIgnoreFirstNewline(startTagMatch.tagName, html)) {
+            advance(1);
+          }
+          continue
+        }
+      }
+
+      var text = (void 0), rest = (void 0), next = (void 0);
+      if (textEnd >= 0) {
+        rest = html.slice(textEnd);
+        while (
+          !endTag.test(rest) &&
+          !startTagOpen.test(rest) &&
+          !comment.test(rest) &&
+          !conditionalComment.test(rest)
+        ) {
+          // < in plain text, be forgiving and treat it as text
+          next = rest.indexOf('<', 1);
+          if (next < 0) { break }
+          textEnd += next;
+          rest = html.slice(textEnd);
+        }
+        text = html.substring(0, textEnd);
+      }
+
+      if (textEnd < 0) {
+        text = html;
+      }
+
+      if (text) {
+        advance(text.length);
+      }
+
+      if (options.chars && text) {
+        options.chars(text, index - text.length, index);
+      }
+    } else {
+      var endTagLength = 0;
+      var stackedTag = lastTag.toLowerCase();
+      var reStackedTag = reCache[stackedTag] || (reCache[stackedTag] = new RegExp('([\\s\\S]*?)(</' + stackedTag + '[^>]*>)', 'i'));
+      var rest$1 = html.replace(reStackedTag, function (all, text, endTag) {
+        endTagLength = endTag.length;
+        if (!isPlainTextElement(stackedTag) && stackedTag !== 'noscript') {
+          text = text
+            .replace(/<!\--([\s\S]*?)-->/g, '$1') // #7298
+            .replace(/<!\[CDATA\[([\s\S]*?)]]>/g, '$1');
+        }
+        if (shouldIgnoreFirstNewline(stackedTag, text)) {
+          text = text.slice(1);
+        }
+        if (options.chars) {
+          options.chars(text);
+        }
+        return ''
+      });
+      index += html.length - rest$1.length;
+      html = rest$1;
+      parseEndTag(stackedTag, index - endTagLength, index);
+    }
+
+    if (html === last) {
+      options.chars && options.chars(html);
+      if (!stack.length && options.warn) {
+        options.warn(("Mal-formatted tag at end of template: \"" + html + "\""), { start: index + html.length });
+      }
+      break
+    }
+  }
+
+  // Clean up any remaining tags
+  parseEndTag();
+
+  function advance (n) {
+    index += n;
+    html = html.substring(n);
+  }
+
+  function parseStartTag () {
+    var start = html.match(startTagOpen);
+    if (start) {
+      var match = {
+        tagName: start[1],
+        attrs: [],
+        start: index
+      };
+      advance(start[0].length);
+      var end, attr;
+      while (!(end = html.match(startTagClose)) && (attr = html.match(dynamicArgAttribute) || html.match(attribute))) {
+        attr.start = index;
+        advance(attr[0].length);
+        attr.end = index;
+        match.attrs.push(attr);
+      }
+      if (end) {
+        match.unarySlash = end[1];
+        advance(end[0].length);
+        match.end = index;
+        return match
+      }
+    }
+  }
+
+  function handleStartTag (match) {
+    var tagName = match.tagName;
+    var unarySlash = match.unarySlash;
+
+    if (expectHTML) {
+      if (lastTag === 'p' && isNonPhrasingTag(tagName)) {
+        parseEndTag(lastTag);
+      }
+      if (canBeLeftOpenTag$$1(tagName) && lastTag === tagName) {
+        parseEndTag(tagName);
+      }
+    }
+
+    var unary = isUnaryTag$$1(tagName) || !!unarySlash;
+
+    var l = match.attrs.length;
+    var attrs = new Array(l);
+    for (var i = 0; i < l; i++) {
+      var args = match.attrs[i];
+      var value = args[3] || args[4] || args[5] || '';
+      var shouldDecodeNewlines = tagName === 'a' && args[1] === 'href'
+        ? options.shouldDecodeNewlinesForHref
+        : options.shouldDecodeNewlines;
+      attrs[i] = {
+        name: args[1],
+        value: decodeAttr(value, shouldDecodeNewlines)
+      };
+      if (options.outputSourceRange) {
+        attrs[i].start = args.start + args[0].match(/^\s*/).length;
+        attrs[i].end = args.end;
+      }
+    }
+
+    if (!unary) {
+      stack.push({ tag: tagName, lowerCasedTag: tagName.toLowerCase(), attrs: attrs, start: match.start, end: match.end });
+      lastTag = tagName;
+    }
+
+    if (options.start) {
+      options.start(tagName, attrs, unary, match.start, match.end);
+    }
+  }
+
+  function parseEndTag (tagName, start, end) {
+    var pos, lowerCasedTagName;
+    if (start == null) { start = index; }
+    if (end == null) { end = index; }
+
+    // Find the closest opened tag of the same type
+    if (tagName) {
+      lowerCasedTagName = tagName.toLowerCase();
+      for (pos = stack.length - 1; pos >= 0; pos--) {
+        if (stack[pos].lowerCasedTag === lowerCasedTagName) {
+          break
+        }
+      }
+    } else {
+      // If no tag name is provided, clean shop
+      pos = 0;
+    }
+
+    if (pos >= 0) {
+      // Close all the open elements, up the stack
+      for (var i = stack.length - 1; i >= pos; i--) {
+        if (i > pos || !tagName &&
+          options.warn
+        ) {
+          options.warn(
+            ("tag <" + (stack[i].tag) + "> has no matching end tag."),
+            { start: stack[i].start, end: stack[i].end }
+          );
+        }
+        if (options.end) {
+          options.end(stack[i].tag, start, end);
+        }
+      }
+
+      // Remove the open elements from the stack
+      stack.length = pos;
+      lastTag = pos && stack[pos - 1].tag;
+    } else if (lowerCasedTagName === 'br') {
+      if (options.start) {
+        options.start(tagName, [], true, start, end);
+      }
+    } else if (lowerCasedTagName === 'p') {
+      if (options.start) {
+        options.start(tagName, [], false, start, end);
+      }
+      if (options.end) {
+        options.end(tagName, start, end);
+      }
+    }
+  }
+}
+
+/*  */
+
+var onRE = /^@|^v-on:/;
+var dirRE = /^v-|^@|^:|^#/;
+var forAliasRE = /([\s\S]*?)\s+(?:in|of)\s+([\s\S]*)/;
+var forIteratorRE = /,([^,\}\]]*)(?:,([^,\}\]]*))?$/;
+var stripParensRE = /^\(|\)$/g;
+var dynamicArgRE = /^\[.*\]$/;
+
+var argRE = /:(.*)$/;
+var bindRE = /^:|^\.|^v-bind:/;
+var modifierRE = /\.[^.\]]+(?=[^\]]*$)/g;
+
+var slotRE = /^v-slot(:|$)|^#/;
+
+var lineBreakRE = /[\r\n]/;
+var whitespaceRE$1 = /\s+/g;
+
+var invalidAttributeRE = /[\s"'<>\/=]/;
+
+var decodeHTMLCached = cached(he.decode);
+
+var emptySlotScopeToken = "_empty_";
+
+// configurable state
+var warn$2;
+var delimiters;
+var transforms;
+var preTransforms;
+var postTransforms;
+var platformIsPreTag;
+var platformMustUseProp;
+var platformGetTagNamespace;
+var maybeComponent;
+
+function createASTElement (
+  tag,
+  attrs,
+  parent
+) {
+  return {
+    type: 1,
+    tag: tag,
+    attrsList: attrs,
+    attrsMap: makeAttrsMap(attrs),
+    rawAttrsMap: {},
+    parent: parent,
+    children: []
+  }
+}
+
+/**
+ * Convert HTML string to AST.
+ */
+function parse (
+  template,
+  options
+) {
+  warn$2 = options.warn || baseWarn;
+
+  platformIsPreTag = options.isPreTag || no;
+  platformMustUseProp = options.mustUseProp || no;
+  platformGetTagNamespace = options.getTagNamespace || no;
+  var isReservedTag = options.isReservedTag || no;
+  maybeComponent = function (el) { return !!el.component || !isReservedTag(el.tag); };
+
+  transforms = pluckModuleFunction(options.modules, 'transformNode');
+  preTransforms = pluckModuleFunction(options.modules, 'preTransformNode');
+  postTransforms = pluckModuleFunction(options.modules, 'postTransformNode');
+
+  delimiters = options.delimiters;
+
+  var stack = [];
+  var preserveWhitespace = options.preserveWhitespace !== false;
+  var whitespaceOption = options.whitespace;
+  var root;
+  var currentParent;
+  var inVPre = false;
+  var inPre = false;
+  var warned = false;
+
+  function warnOnce (msg, range) {
+    if (!warned) {
+      warned = true;
+      warn$2(msg, range);
+    }
+  }
+
+  function closeElement (element) {
+    trimEndingWhitespace(element);
+    if (!inVPre && !element.processed) {
+      element = processElement(element, options);
+    }
+    // tree management
+    if (!stack.length && element !== root) {
+      // allow root elements with v-if, v-else-if and v-else
+      if (root.if && (element.elseif || element.else)) {
+        {
+          checkRootConstraints(element);
+        }
+        addIfCondition(root, {
+          exp: element.elseif,
+          block: element
+        });
+      } else {
+        warnOnce(
+          "Component template should contain exactly one root element. " +
+          "If you are using v-if on multiple elements, " +
+          "use v-else-if to chain them instead.",
+          { start: element.start }
+        );
+      }
+    }
+    if (currentParent && !element.forbidden) {
+      if (element.elseif || element.else) {
+        processIfConditions(element, currentParent);
+      } else {
+        if (element.slotScope) {
+          // scoped slot
+          // keep it in the children list so that v-else(-if) conditions can
+          // find it as the prev node.
+          var name = element.slotTarget || '"default"'
+          ;(currentParent.scopedSlots || (currentParent.scopedSlots = {}))[name] = element;
+        }
+        currentParent.children.push(element);
+        element.parent = currentParent;
+      }
+    }
+
+    // final children cleanup
+    // filter out scoped slots
+    element.children = element.children.filter(function (c) { return !(c).slotScope; });
+    // remove trailing whitespace node again
+    trimEndingWhitespace(element);
+
+    // check pre state
+    if (element.pre) {
+      inVPre = false;
+    }
+    if (platformIsPreTag(element.tag)) {
+      inPre = false;
+    }
+    // apply post-transforms
+    for (var i = 0; i < postTransforms.length; i++) {
+      postTransforms[i](element, options);
+    }
+  }
+
+  function trimEndingWhitespace (el) {
+    // remove trailing whitespace node
+    if (!inPre) {
+      var lastNode;
+      while (
+        (lastNode = el.children[el.children.length - 1]) &&
+        lastNode.type === 3 &&
+        lastNode.text === ' '
+      ) {
+        el.children.pop();
+      }
+    }
+  }
+
+  function checkRootConstraints (el) {
+    if (el.tag === 'slot' || el.tag === 'template') {
+      warnOnce(
+        "Cannot use <" + (el.tag) + "> as component root element because it may " +
+        'contain multiple nodes.',
+        { start: el.start }
+      );
+    }
+    if (el.attrsMap.hasOwnProperty('v-for')) {
+      warnOnce(
+        'Cannot use v-for on stateful component root element because ' +
+        'it renders multiple elements.',
+        el.rawAttrsMap['v-for']
+      );
+    }
+  }
+
+  parseHTML(template, {
+    warn: warn$2,
+    expectHTML: options.expectHTML,
+    isUnaryTag: options.isUnaryTag,
+    canBeLeftOpenTag: options.canBeLeftOpenTag,
+    shouldDecodeNewlines: options.shouldDecodeNewlines,
+    shouldDecodeNewlinesForHref: options.shouldDecodeNewlinesForHref,
+    shouldKeepComment: options.comments,
+    outputSourceRange: options.outputSourceRange,
+    start: function start (tag, attrs, unary, start$1, end) {
+      // check namespace.
+      // inherit parent ns if there is one
+      var ns = (currentParent && currentParent.ns) || platformGetTagNamespace(tag);
+
+      // handle IE svg bug
+      /* istanbul ignore if */
+      if (isIE && ns === 'svg') {
+        attrs = guardIESVGBug(attrs);
+      }
+
+      var element = createASTElement(tag, attrs, currentParent);
+      if (ns) {
+        element.ns = ns;
+      }
+
+      {
+        if (options.outputSourceRange) {
+          element.start = start$1;
+          element.end = end;
+          element.rawAttrsMap = element.attrsList.reduce(function (cumulated, attr) {
+            cumulated[attr.name] = attr;
+            return cumulated
+          }, {});
+        }
+        attrs.forEach(function (attr) {
+          if (invalidAttributeRE.test(attr.name)) {
+            warn$2(
+              "Invalid dynamic argument expression: attribute names cannot contain " +
+              "spaces, quotes, <, >, / or =.",
+              {
+                start: attr.start + attr.name.indexOf("["),
+                end: attr.start + attr.name.length
+              }
+            );
+          }
+        });
+      }
+
+      if (isForbiddenTag(element) && !isServerRendering()) {
+        element.forbidden = true;
+        warn$2(
+          'Templates should only be responsible for mapping the state to the ' +
+          'UI. Avoid placing tags with side-effects in your templates, such as ' +
+          "<" + tag + ">" + ', as they will not be parsed.',
+          { start: element.start }
+        );
+      }
+
+      // apply pre-transforms
+      for (var i = 0; i < preTransforms.length; i++) {
+        element = preTransforms[i](element, options) || element;
+      }
+
+      if (!inVPre) {
+        processPre(element);
+        if (element.pre) {
+          inVPre = true;
+        }
+      }
+      if (platformIsPreTag(element.tag)) {
+        inPre = true;
+      }
+      if (inVPre) {
+        processRawAttrs(element);
+      } else if (!element.processed) {
+        // structural directives
+        processFor(element);
+        processIf(element);
+        processOnce(element);
+      }
+
+      if (!root) {
+        root = element;
+        {
+          checkRootConstraints(root);
+        }
+      }
+
+      if (!unary) {
+        currentParent = element;
+        stack.push(element);
+      } else {
+        closeElement(element);
+      }
+    },
+
+    end: function end (tag, start, end$1) {
+      var element = stack[stack.length - 1];
+      // pop stack
+      stack.length -= 1;
+      currentParent = stack[stack.length - 1];
+      if (options.outputSourceRange) {
+        element.end = end$1;
+      }
+      closeElement(element);
+    },
+
+    chars: function chars (text, start, end) {
+      if (!currentParent) {
+        {
+          if (text === template) {
+            warnOnce(
+              'Component template requires a root element, rather than just text.',
+              { start: start }
+            );
+          } else if ((text = text.trim())) {
+            warnOnce(
+              ("text \"" + text + "\" outside root element will be ignored."),
+              { start: start }
+            );
+          }
+        }
+        return
+      }
+      // IE textarea placeholder bug
+      /* istanbul ignore if */
+      if (isIE &&
+        currentParent.tag === 'textarea' &&
+        currentParent.attrsMap.placeholder === text
+      ) {
+        return
+      }
+      var children = currentParent.children;
+      if (inPre || text.trim()) {
+        text = isTextTag(currentParent) ? text : decodeHTMLCached(text);
+      } else if (!children.length) {
+        // remove the whitespace-only node right after an opening tag
+        text = '';
+      } else if (whitespaceOption) {
+        if (whitespaceOption === 'condense') {
+          // in condense mode, remove the whitespace node if it contains
+          // line break, otherwise condense to a single space
+          text = lineBreakRE.test(text) ? '' : ' ';
+        } else {
+          text = ' ';
+        }
+      } else {
+        text = preserveWhitespace ? ' ' : '';
+      }
+      if (text) {
+        if (!inPre && whitespaceOption === 'condense') {
+          // condense consecutive whitespaces into single space
+          text = text.replace(whitespaceRE$1, ' ');
+        }
+        var res;
+        var child;
+        if (!inVPre && text !== ' ' && (res = parseText(text, delimiters))) {
+          child = {
+            type: 2,
+            expression: res.expression,
+            tokens: res.tokens,
+            text: text
+          };
+        } else if (text !== ' ' || !children.length || children[children.length - 1].text !== ' ') {
+          child = {
+            type: 3,
+            text: text
+          };
+        }
+        if (child) {
+          if (options.outputSourceRange) {
+            child.start = start;
+            child.end = end;
+          }
+          children.push(child);
+        }
+      }
+    },
+    comment: function comment (text, start, end) {
+      // adding anyting as a sibling to the root node is forbidden
+      // comments should still be allowed, but ignored
+      if (currentParent) {
+        var child = {
+          type: 3,
+          text: text,
+          isComment: true
+        };
+        if (options.outputSourceRange) {
+          child.start = start;
+          child.end = end;
+        }
+        currentParent.children.push(child);
+      }
+    }
+  });
+  return root
+}
+
+function processPre (el) {
+  if (getAndRemoveAttr(el, 'v-pre') != null) {
+    el.pre = true;
+  }
+}
+
+function processRawAttrs (el) {
+  var list = el.attrsList;
+  var len = list.length;
+  if (len) {
+    var attrs = el.attrs = new Array(len);
+    for (var i = 0; i < len; i++) {
+      attrs[i] = {
+        name: list[i].name,
+        value: JSON.stringify(list[i].value)
+      };
+      if (list[i].start != null) {
+        attrs[i].start = list[i].start;
+        attrs[i].end = list[i].end;
+      }
+    }
+  } else if (!el.pre) {
+    // non root node in pre blocks with no attributes
+    el.plain = true;
+  }
+}
+
+function processElement (
+  element,
+  options
+) {
+  processKey(element);
+
+  // determine whether this is a plain element after
+  // removing structural attributes
+  element.plain = (
+    !element.key &&
+    !element.scopedSlots &&
+    !element.attrsList.length
+  );
+
+  processRef(element);
+  processSlotContent(element);
+  processSlotOutlet(element);
+  processComponent(element);
+  for (var i = 0; i < transforms.length; i++) {
+    element = transforms[i](element, options) || element;
+  }
+  processAttrs(element);
+  return element
+}
+
+function processKey (el) {
+  var exp = getBindingAttr(el, 'key');
+  if (exp) {
+    {
+      if (el.tag === 'template') {
+        warn$2(
+          "<template> cannot be keyed. Place the key on real elements instead.",
+          getRawBindingAttr(el, 'key')
+        );
+      }
+      if (el.for) {
+        var iterator = el.iterator2 || el.iterator1;
+        var parent = el.parent;
+        if (iterator && iterator === exp && parent && parent.tag === 'transition-group') {
+          warn$2(
+            "Do not use v-for index as key on <transition-group> children, " +
+            "this is the same as not using keys.",
+            getRawBindingAttr(el, 'key'),
+            true /* tip */
+          );
+        }
+      }
+    }
+    el.key = exp;
+  }
+}
+
+function processRef (el) {
+  var ref = getBindingAttr(el, 'ref');
+  if (ref) {
+    el.ref = ref;
+    el.refInFor = checkInFor(el);
+  }
+}
+
+function processFor (el) {
+  var exp;
+  if ((exp = getAndRemoveAttr(el, 'v-for'))) {
+    var res = parseFor(exp);
+    if (res) {
+      extend(el, res);
+    } else {
+      warn$2(
+        ("Invalid v-for expression: " + exp),
+        el.rawAttrsMap['v-for']
+      );
+    }
+  }
+}
+
+
+
+function parseFor (exp) {
+  var inMatch = exp.match(forAliasRE);
+  if (!inMatch) { return }
+  var res = {};
+  res.for = inMatch[2].trim();
+  var alias = inMatch[1].trim().replace(stripParensRE, '');
+  var iteratorMatch = alias.match(forIteratorRE);
+  if (iteratorMatch) {
+    res.alias = alias.replace(forIteratorRE, '').trim();
+    res.iterator1 = iteratorMatch[1].trim();
+    if (iteratorMatch[2]) {
+      res.iterator2 = iteratorMatch[2].trim();
+    }
+  } else {
+    res.alias = alias;
+  }
+  return res
+}
+
+function processIf (el) {
+  var exp = getAndRemoveAttr(el, 'v-if');
+  if (exp) {
+    el.if = exp;
+    addIfCondition(el, {
+      exp: exp,
+      block: el
+    });
+  } else {
+    if (getAndRemoveAttr(el, 'v-else') != null) {
+      el.else = true;
+    }
+    var elseif = getAndRemoveAttr(el, 'v-else-if');
+    if (elseif) {
+      el.elseif = elseif;
+    }
+  }
+}
+
+function processIfConditions (el, parent) {
+  var prev = findPrevElement(parent.children);
+  if (prev && prev.if) {
+    addIfCondition(prev, {
+      exp: el.elseif,
+      block: el
+    });
+  } else {
+    warn$2(
+      "v-" + (el.elseif ? ('else-if="' + el.elseif + '"') : 'else') + " " +
+      "used on element <" + (el.tag) + "> without corresponding v-if.",
+      el.rawAttrsMap[el.elseif ? 'v-else-if' : 'v-else']
+    );
+  }
+}
+
+function findPrevElement (children) {
+  var i = children.length;
+  while (i--) {
+    if (children[i].type === 1) {
+      return children[i]
+    } else {
+      if (children[i].text !== ' ') {
+        warn$2(
+          "text \"" + (children[i].text.trim()) + "\" between v-if and v-else(-if) " +
+          "will be ignored.",
+          children[i]
+        );
+      }
+      children.pop();
+    }
+  }
+}
+
+function addIfCondition (el, condition) {
+  if (!el.ifConditions) {
+    el.ifConditions = [];
+  }
+  el.ifConditions.push(condition);
+}
+
+function processOnce (el) {
+  var once$$1 = getAndRemoveAttr(el, 'v-once');
+  if (once$$1 != null) {
+    el.once = true;
+  }
+}
+
+// handle content being passed to a component as slot,
+// e.g. <template slot="xxx">, <div slot-scope="xxx">
+function processSlotContent (el) {
+  var slotScope;
+  if (el.tag === 'template') {
+    slotScope = getAndRemoveAttr(el, 'scope');
+    /* istanbul ignore if */
+    if (slotScope) {
+      warn$2(
+        "the \"scope\" attribute for scoped slots have been deprecated and " +
+        "replaced by \"slot-scope\" since 2.5. The new \"slot-scope\" attribute " +
+        "can also be used on plain elements in addition to <template> to " +
+        "denote scoped slots.",
+        el.rawAttrsMap['scope'],
+        true
+      );
+    }
+    el.slotScope = slotScope || getAndRemoveAttr(el, 'slot-scope');
+  } else if ((slotScope = getAndRemoveAttr(el, 'slot-scope'))) {
+    /* istanbul ignore if */
+    if (el.attrsMap['v-for']) {
+      warn$2(
+        "Ambiguous combined usage of slot-scope and v-for on <" + (el.tag) + "> " +
+        "(v-for takes higher priority). Use a wrapper <template> for the " +
+        "scoped slot to make it clearer.",
+        el.rawAttrsMap['slot-scope'],
+        true
+      );
+    }
+    el.slotScope = slotScope;
+  }
+
+  // slot="xxx"
+  var slotTarget = getBindingAttr(el, 'slot');
+  if (slotTarget) {
+    el.slotTarget = slotTarget === '""' ? '"default"' : slotTarget;
+    el.slotTargetDynamic = !!(el.attrsMap[':slot'] || el.attrsMap['v-bind:slot']);
+    // preserve slot as an attribute for native shadow DOM compat
+    // only for non-scoped slots.
+    if (el.tag !== 'template' && !el.slotScope) {
+      addAttr(el, 'slot', slotTarget, getRawBindingAttr(el, 'slot'));
+    }
+  }
+
+  // 2.6 v-slot syntax
+  {
+    if (el.tag === 'template') {
+      // v-slot on <template>
+      var slotBinding = getAndRemoveAttrByRegex(el, slotRE);
+      if (slotBinding) {
+        {
+          if (el.slotTarget || el.slotScope) {
+            warn$2(
+              "Unexpected mixed usage of different slot syntaxes.",
+              el
+            );
+          }
+          if (el.parent && !maybeComponent(el.parent)) {
+            warn$2(
+              "<template v-slot> can only appear at the root level inside " +
+              "the receiving component",
+              el
+            );
+          }
+        }
+        var ref = getSlotName(slotBinding);
+        var name = ref.name;
+        var dynamic = ref.dynamic;
+        el.slotTarget = name;
+        el.slotTargetDynamic = dynamic;
+        el.slotScope = slotBinding.value || emptySlotScopeToken; // force it into a scoped slot for perf
+      }
+    } else {
+      // v-slot on component, denotes default slot
+      var slotBinding$1 = getAndRemoveAttrByRegex(el, slotRE);
+      if (slotBinding$1) {
+        {
+          if (!maybeComponent(el)) {
+            warn$2(
+              "v-slot can only be used on components or <template>.",
+              slotBinding$1
+            );
+          }
+          if (el.slotScope || el.slotTarget) {
+            warn$2(
+              "Unexpected mixed usage of different slot syntaxes.",
+              el
+            );
+          }
+          if (el.scopedSlots) {
+            warn$2(
+              "To avoid scope ambiguity, the default slot should also use " +
+              "<template> syntax when there are other named slots.",
+              slotBinding$1
+            );
+          }
+        }
+        // add the component's children to its default slot
+        var slots = el.scopedSlots || (el.scopedSlots = {});
+        var ref$1 = getSlotName(slotBinding$1);
+        var name$1 = ref$1.name;
+        var dynamic$1 = ref$1.dynamic;
+        var slotContainer = slots[name$1] = createASTElement('template', [], el);
+        slotContainer.slotTarget = name$1;
+        slotContainer.slotTargetDynamic = dynamic$1;
+        slotContainer.children = el.children.filter(function (c) {
+          if (!c.slotScope) {
+            c.parent = slotContainer;
+            return true
+          }
+        });
+        slotContainer.slotScope = slotBinding$1.value || emptySlotScopeToken;
+        // remove children as they are returned from scopedSlots now
+        el.children = [];
+        // mark el non-plain so data gets generated
+        el.plain = false;
+      }
+    }
+  }
+}
+
+function getSlotName (binding) {
+  var name = binding.name.replace(slotRE, '');
+  if (!name) {
+    if (binding.name[0] !== '#') {
+      name = 'default';
+    } else {
+      warn$2(
+        "v-slot shorthand syntax requires a slot name.",
+        binding
+      );
+    }
+  }
+  return dynamicArgRE.test(name)
+    // dynamic [name]
+    ? { name: name.slice(1, -1), dynamic: true }
+    // static name
+    : { name: ("\"" + name + "\""), dynamic: false }
+}
+
+// handle <slot/> outlets
+function processSlotOutlet (el) {
+  if (el.tag === 'slot') {
+    el.slotName = getBindingAttr(el, 'name');
+    if (el.key) {
+      warn$2(
+        "`key` does not work on <slot> because slots are abstract outlets " +
+        "and can possibly expand into multiple elements. " +
+        "Use the key on a wrapping element instead.",
+        getRawBindingAttr(el, 'key')
+      );
+    }
+  }
+}
+
+function processComponent (el) {
+  var binding;
+  if ((binding = getBindingAttr(el, 'is'))) {
+    el.component = binding;
+  }
+  if (getAndRemoveAttr(el, 'inline-template') != null) {
+    el.inlineTemplate = true;
+  }
+}
+
+function processAttrs (el) {
+  var list = el.attrsList;
+  var i, l, name, rawName, value, modifiers, syncGen, isDynamic;
+  for (i = 0, l = list.length; i < l; i++) {
+    name = rawName = list[i].name;
+    value = list[i].value;
+    if (dirRE.test(name)) {
+      // mark element as dynamic
+      el.hasBindings = true;
+      // modifiers
+      modifiers = parseModifiers(name.replace(dirRE, ''));
+      // support .foo shorthand syntax for the .prop modifier
+      if (modifiers) {
+        name = name.replace(modifierRE, '');
+      }
+      if (bindRE.test(name)) { // v-bind
+        name = name.replace(bindRE, '');
+        value = parseFilters(value);
+        isDynamic = dynamicArgRE.test(name);
+        if (isDynamic) {
+          name = name.slice(1, -1);
+        }
+        if (
+          value.trim().length === 0
+        ) {
+          warn$2(
+            ("The value for a v-bind expression cannot be empty. Found in \"v-bind:" + name + "\"")
+          );
+        }
+        if (modifiers) {
+          if (modifiers.prop && !isDynamic) {
+            name = camelize(name);
+            if (name === 'innerHtml') { name = 'innerHTML'; }
+          }
+          if (modifiers.camel && !isDynamic) {
+            name = camelize(name);
+          }
+          if (modifiers.sync) {
+            syncGen = genAssignmentCode(value, "$event");
+            if (!isDynamic) {
+              addHandler(
+                el,
+                ("update:" + (camelize(name))),
+                syncGen,
+                null,
+                false,
+                warn$2,
+                list[i]
+              );
+              if (hyphenate(name) !== camelize(name)) {
+                addHandler(
+                  el,
+                  ("update:" + (hyphenate(name))),
+                  syncGen,
+                  null,
+                  false,
+                  warn$2,
+                  list[i]
+                );
+              }
+            } else {
+              // handler w/ dynamic event name
+              addHandler(
+                el,
+                ("\"update:\"+(" + name + ")"),
+                syncGen,
+                null,
+                false,
+                warn$2,
+                list[i],
+                true // dynamic
+              );
+            }
+          }
+        }
+        if ((modifiers && modifiers.prop) || (
+          !el.component && platformMustUseProp(el.tag, el.attrsMap.type, name)
+        )) {
+          addProp(el, name, value, list[i], isDynamic);
+        } else {
+          addAttr(el, name, value, list[i], isDynamic);
+        }
+      } else if (onRE.test(name)) { // v-on
+        name = name.replace(onRE, '');
+        isDynamic = dynamicArgRE.test(name);
+        if (isDynamic) {
+          name = name.slice(1, -1);
+        }
+        addHandler(el, name, value, modifiers, false, warn$2, list[i], isDynamic);
+      } else { // normal directives
+        name = name.replace(dirRE, '');
+        // parse arg
+        var argMatch = name.match(argRE);
+        var arg = argMatch && argMatch[1];
+        isDynamic = false;
+        if (arg) {
+          name = name.slice(0, -(arg.length + 1));
+          if (dynamicArgRE.test(arg)) {
+            arg = arg.slice(1, -1);
+            isDynamic = true;
+          }
+        }
+        addDirective(el, name, rawName, value, arg, isDynamic, modifiers, list[i]);
+        if (name === 'model') {
+          checkForAliasModel(el, value);
+        }
+      }
+    } else {
+      // literal attribute
+      {
+        var res = parseText(value, delimiters);
+        if (res) {
+          warn$2(
+            name + "=\"" + value + "\": " +
+            'Interpolation inside attributes has been removed. ' +
+            'Use v-bind or the colon shorthand instead. For example, ' +
+            'instead of <div id="{{ val }}">, use <div :id="val">.',
+            list[i]
+          );
+        }
+      }
+      addAttr(el, name, JSON.stringify(value), list[i]);
+      // #6887 firefox doesn't update muted state if set via attribute
+      // even immediately after element creation
+      if (!el.component &&
+          name === 'muted' &&
+          platformMustUseProp(el.tag, el.attrsMap.type, name)) {
+        addProp(el, name, 'true', list[i]);
+      }
+    }
+  }
+}
+
+function checkInFor (el) {
+  var parent = el;
+  while (parent) {
+    if (parent.for !== undefined) {
+      return true
+    }
+    parent = parent.parent;
+  }
+  return false
+}
+
+function parseModifiers (name) {
+  var match = name.match(modifierRE);
+  if (match) {
+    var ret = {};
+    match.forEach(function (m) { ret[m.slice(1)] = true; });
+    return ret
+  }
+}
+
+function makeAttrsMap (attrs) {
+  var map = {};
+  for (var i = 0, l = attrs.length; i < l; i++) {
+    if (
+      map[attrs[i].name] && !isIE && !isEdge
+    ) {
+      warn$2('duplicate attribute: ' + attrs[i].name, attrs[i]);
+    }
+    map[attrs[i].name] = attrs[i].value;
+  }
+  return map
+}
+
+// for script (e.g. type="x/template") or style, do not decode content
+function isTextTag (el) {
+  return el.tag === 'script' || el.tag === 'style'
+}
+
+function isForbiddenTag (el) {
+  return (
+    el.tag === 'style' ||
+    (el.tag === 'script' && (
+      !el.attrsMap.type ||
+      el.attrsMap.type === 'text/javascript'
+    ))
+  )
+}
+
+var ieNSBug = /^xmlns:NS\d+/;
+var ieNSPrefix = /^NS\d+:/;
+
+/* istanbul ignore next */
+function guardIESVGBug (attrs) {
+  var res = [];
+  for (var i = 0; i < attrs.length; i++) {
+    var attr = attrs[i];
+    if (!ieNSBug.test(attr.name)) {
+      attr.name = attr.name.replace(ieNSPrefix, '');
+      res.push(attr);
+    }
+  }
+  return res
+}
+
+function checkForAliasModel (el, value) {
+  var _el = el;
+  while (_el) {
+    if (_el.for && _el.alias === value) {
+      warn$2(
+        "<" + (el.tag) + " v-model=\"" + value + "\">: " +
+        "You are binding v-model directly to a v-for iteration alias. " +
+        "This will not be able to modify the v-for source array because " +
+        "writing to the alias is like modifying a function local variable. " +
+        "Consider using an array of objects and use v-model on an object property instead.",
+        el.rawAttrsMap['v-model']
+      );
+    }
+    _el = _el.parent;
+  }
+}
+
+/*  */
+
+function preTransformNode (el, options) {
+  if (el.tag === 'input') {
+    var map = el.attrsMap;
+    if (!map['v-model']) {
+      return
+    }
+
+    var typeBinding;
+    if (map[':type'] || map['v-bind:type']) {
+      typeBinding = getBindingAttr(el, 'type');
+    }
+    if (!map.type && !typeBinding && map['v-bind']) {
+      typeBinding = "(" + (map['v-bind']) + ").type";
+    }
+
+    if (typeBinding) {
+      var ifCondition = getAndRemoveAttr(el, 'v-if', true);
+      var ifConditionExtra = ifCondition ? ("&&(" + ifCondition + ")") : "";
+      var hasElse = getAndRemoveAttr(el, 'v-else', true) != null;
+      var elseIfCondition = getAndRemoveAttr(el, 'v-else-if', true);
+      // 1. checkbox
+      var branch0 = cloneASTElement(el);
+      // process for on the main node
+      processFor(branch0);
+      addRawAttr(branch0, 'type', 'checkbox');
+      processElement(branch0, options);
+      branch0.processed = true; // prevent it from double-processed
+      branch0.if = "(" + typeBinding + ")==='checkbox'" + ifConditionExtra;
+      addIfCondition(branch0, {
+        exp: branch0.if,
+        block: branch0
+      });
+      // 2. add radio else-if condition
+      var branch1 = cloneASTElement(el);
+      getAndRemoveAttr(branch1, 'v-for', true);
+      addRawAttr(branch1, 'type', 'radio');
+      processElement(branch1, options);
+      addIfCondition(branch0, {
+        exp: "(" + typeBinding + ")==='radio'" + ifConditionExtra,
+        block: branch1
+      });
+      // 3. other
+      var branch2 = cloneASTElement(el);
+      getAndRemoveAttr(branch2, 'v-for', true);
+      addRawAttr(branch2, ':type', typeBinding);
+      processElement(branch2, options);
+      addIfCondition(branch0, {
+        exp: ifCondition,
+        block: branch2
+      });
+
+      if (hasElse) {
+        branch0.else = true;
+      } else if (elseIfCondition) {
+        branch0.elseif = elseIfCondition;
+      }
+
+      return branch0
+    }
+  }
+}
+
+function cloneASTElement (el) {
+  return createASTElement(el.tag, el.attrsList.slice(), el.parent)
+}
+
+var model$1 = {
+  preTransformNode: preTransformNode
+};
+
+var modules$1 = [
+  klass$1,
+  style$1,
+  model$1
+];
+
+/*  */
+
+function text (el, dir) {
+  if (dir.value) {
+    addProp(el, 'textContent', ("_s(" + (dir.value) + ")"), dir);
+  }
+}
+
+/*  */
+
+function html (el, dir) {
+  if (dir.value) {
+    addProp(el, 'innerHTML', ("_s(" + (dir.value) + ")"), dir);
+  }
+}
+
+var directives$1 = {
+  model: model,
+  text: text,
+  html: html
+};
+
+/*  */
+
+var baseOptions = {
+  expectHTML: true,
+  modules: modules$1,
+  directives: directives$1,
+  isPreTag: isPreTag,
+  isUnaryTag: isUnaryTag,
+  mustUseProp: mustUseProp,
+  canBeLeftOpenTag: canBeLeftOpenTag,
+  isReservedTag: isReservedTag,
+  getTagNamespace: getTagNamespace,
+  staticKeys: genStaticKeys(modules$1)
+};
+
+/*  */
+
+var isStaticKey;
+var isPlatformReservedTag;
+
+var genStaticKeysCached = cached(genStaticKeys$1);
+
+/**
+ * Goal of the optimizer: walk the generated template AST tree
+ * and detect sub-trees that are purely static, i.e. parts of
+ * the DOM that never needs to change.
+ *
+ * Once we detect these sub-trees, we can:
+ *
+ * 1. Hoist them into constants, so that we no longer need to
+ *    create fresh nodes for them on each re-render;
+ * 2. Completely skip them in the patching process.
+ */
+function optimize (root, options) {
+  if (!root) { return }
+  isStaticKey = genStaticKeysCached(options.staticKeys || '');
+  isPlatformReservedTag = options.isReservedTag || no;
+  // first pass: mark all non-static nodes.
+  markStatic$1(root);
+  // second pass: mark static roots.
+  markStaticRoots(root, false);
+}
+
+function genStaticKeys$1 (keys) {
+  return makeMap(
+    'type,tag,attrsList,attrsMap,plain,parent,children,attrs,start,end,rawAttrsMap' +
+    (keys ? ',' + keys : '')
+  )
+}
+
+function markStatic$1 (node) {
+  node.static = isStatic(node);
+  if (node.type === 1) {
+    // do not make component slot content static. this avoids
+    // 1. components not able to mutate slot nodes
+    // 2. static slot content fails for hot-reloading
+    if (
+      !isPlatformReservedTag(node.tag) &&
+      node.tag !== 'slot' &&
+      node.attrsMap['inline-template'] == null
+    ) {
+      return
+    }
+    for (var i = 0, l = node.children.length; i < l; i++) {
+      var child = node.children[i];
+      markStatic$1(child);
+      if (!child.static) {
+        node.static = false;
+      }
+    }
+    if (node.ifConditions) {
+      for (var i$1 = 1, l$1 = node.ifConditions.length; i$1 < l$1; i$1++) {
+        var block = node.ifConditions[i$1].block;
+        markStatic$1(block);
+        if (!block.static) {
+          node.static = false;
+        }
+      }
+    }
+  }
+}
+
+function markStaticRoots (node, isInFor) {
+  if (node.type === 1) {
+    if (node.static || node.once) {
+      node.staticInFor = isInFor;
+    }
+    // For a node to qualify as a static root, it should have children that
+    // are not just static text. Otherwise the cost of hoisting out will
+    // outweigh the benefits and it's better off to just always render it fresh.
+    if (node.static && node.children.length && !(
+      node.children.length === 1 &&
+      node.children[0].type === 3
+    )) {
+      node.staticRoot = true;
+      return
+    } else {
+      node.staticRoot = false;
+    }
+    if (node.children) {
+      for (var i = 0, l = node.children.length; i < l; i++) {
+        markStaticRoots(node.children[i], isInFor || !!node.for);
+      }
+    }
+    if (node.ifConditions) {
+      for (var i$1 = 1, l$1 = node.ifConditions.length; i$1 < l$1; i$1++) {
+        markStaticRoots(node.ifConditions[i$1].block, isInFor);
+      }
+    }
+  }
+}
+
+function isStatic (node) {
+  if (node.type === 2) { // expression
+    return false
+  }
+  if (node.type === 3) { // text
+    return true
+  }
+  return !!(node.pre || (
+    !node.hasBindings && // no dynamic bindings
+    !node.if && !node.for && // not v-if or v-for or v-else
+    !isBuiltInTag(node.tag) && // not a built-in
+    isPlatformReservedTag(node.tag) && // not a component
+    !isDirectChildOfTemplateFor(node) &&
+    Object.keys(node).every(isStaticKey)
+  ))
+}
+
+function isDirectChildOfTemplateFor (node) {
+  while (node.parent) {
+    node = node.parent;
+    if (node.tag !== 'template') {
+      return false
+    }
+    if (node.for) {
+      return true
+    }
+  }
+  return false
+}
+
+/*  */
+
+var fnExpRE = /^([\w$_]+|\([^)]*?\))\s*=>|^function(?:\s+[\w$]+)?\s*\(/;
+var fnInvokeRE = /\([^)]*?\);*$/;
+var simplePathRE = /^[A-Za-z_$][\w$]*(?:\.[A-Za-z_$][\w$]*|\['[^']*?']|\["[^"]*?"]|\[\d+]|\[[A-Za-z_$][\w$]*])*$/;
+
+// KeyboardEvent.keyCode aliases
+var keyCodes = {
+  esc: 27,
+  tab: 9,
+  enter: 13,
+  space: 32,
+  up: 38,
+  left: 37,
+  right: 39,
+  down: 40,
+  'delete': [8, 46]
+};
+
+// KeyboardEvent.key aliases
+var keyNames = {
+  // #7880: IE11 and Edge use `Esc` for Escape key name.
+  esc: ['Esc', 'Escape'],
+  tab: 'Tab',
+  enter: 'Enter',
+  // #9112: IE11 uses `Spacebar` for Space key name.
+  space: [' ', 'Spacebar'],
+  // #7806: IE11 uses key names without `Arrow` prefix for arrow keys.
+  up: ['Up', 'ArrowUp'],
+  left: ['Left', 'ArrowLeft'],
+  right: ['Right', 'ArrowRight'],
+  down: ['Down', 'ArrowDown'],
+  // #9112: IE11 uses `Del` for Delete key name.
+  'delete': ['Backspace', 'Delete', 'Del']
+};
+
+// #4868: modifiers that prevent the execution of the listener
+// need to explicitly return null so that we can determine whether to remove
+// the listener for .once
+var genGuard = function (condition) { return ("if(" + condition + ")return null;"); };
+
+var modifierCode = {
+  stop: '$event.stopPropagation();',
+  prevent: '$event.preventDefault();',
+  self: genGuard("$event.target !== $event.currentTarget"),
+  ctrl: genGuard("!$event.ctrlKey"),
+  shift: genGuard("!$event.shiftKey"),
+  alt: genGuard("!$event.altKey"),
+  meta: genGuard("!$event.metaKey"),
+  left: genGuard("'button' in $event && $event.button !== 0"),
+  middle: genGuard("'button' in $event && $event.button !== 1"),
+  right: genGuard("'button' in $event && $event.button !== 2")
+};
+
+function genHandlers (
+  events,
+  isNative
+) {
+  var prefix = isNative ? 'nativeOn:' : 'on:';
+  var staticHandlers = "";
+  var dynamicHandlers = "";
+  for (var name in events) {
+    var handlerCode = genHandler(events[name]);
+    if (events[name] && events[name].dynamic) {
+      dynamicHandlers += name + "," + handlerCode + ",";
+    } else {
+      staticHandlers += "\"" + name + "\":" + handlerCode + ",";
+    }
+  }
+  staticHandlers = "{" + (staticHandlers.slice(0, -1)) + "}";
+  if (dynamicHandlers) {
+    return prefix + "_d(" + staticHandlers + ",[" + (dynamicHandlers.slice(0, -1)) + "])"
+  } else {
+    return prefix + staticHandlers
+  }
+}
+
+function genHandler (handler) {
+  if (!handler) {
+    return 'function(){}'
+  }
+
+  if (Array.isArray(handler)) {
+    return ("[" + (handler.map(function (handler) { return genHandler(handler); }).join(',')) + "]")
+  }
+
+  var isMethodPath = simplePathRE.test(handler.value);
+  var isFunctionExpression = fnExpRE.test(handler.value);
+  var isFunctionInvocation = simplePathRE.test(handler.value.replace(fnInvokeRE, ''));
+
+  if (!handler.modifiers) {
+    if (isMethodPath || isFunctionExpression) {
+      return handler.value
+    }
+    return ("function($event){" + (isFunctionInvocation ? ("return " + (handler.value)) : handler.value) + "}") // inline statement
+  } else {
+    var code = '';
+    var genModifierCode = '';
+    var keys = [];
+    for (var key in handler.modifiers) {
+      if (modifierCode[key]) {
+        genModifierCode += modifierCode[key];
+        // left/right
+        if (keyCodes[key]) {
+          keys.push(key);
+        }
+      } else if (key === 'exact') {
+        var modifiers = (handler.modifiers);
+        genModifierCode += genGuard(
+          ['ctrl', 'shift', 'alt', 'meta']
+            .filter(function (keyModifier) { return !modifiers[keyModifier]; })
+            .map(function (keyModifier) { return ("$event." + keyModifier + "Key"); })
+            .join('||')
+        );
+      } else {
+        keys.push(key);
+      }
+    }
+    if (keys.length) {
+      code += genKeyFilter(keys);
+    }
+    // Make sure modifiers like prevent and stop get executed after key filtering
+    if (genModifierCode) {
+      code += genModifierCode;
+    }
+    var handlerCode = isMethodPath
+      ? ("return " + (handler.value) + "($event)")
+      : isFunctionExpression
+        ? ("return (" + (handler.value) + ")($event)")
+        : isFunctionInvocation
+          ? ("return " + (handler.value))
+          : handler.value;
+    return ("function($event){" + code + handlerCode + "}")
+  }
+}
+
+function genKeyFilter (keys) {
+  return (
+    // make sure the key filters only apply to KeyboardEvents
+    // #9441: can't use 'keyCode' in $event because Chrome autofill fires fake
+    // key events that do not have keyCode property...
+    "if(!$event.type.indexOf('key')&&" +
+    (keys.map(genFilterCode).join('&&')) + ")return null;"
+  )
+}
+
+function genFilterCode (key) {
+  var keyVal = parseInt(key, 10);
+  if (keyVal) {
+    return ("$event.keyCode!==" + keyVal)
+  }
+  var keyCode = keyCodes[key];
+  var keyName = keyNames[key];
+  return (
+    "_k($event.keyCode," +
+    (JSON.stringify(key)) + "," +
+    (JSON.stringify(keyCode)) + "," +
+    "$event.key," +
+    "" + (JSON.stringify(keyName)) +
+    ")"
+  )
+}
+
+/*  */
+
+function on (el, dir) {
+  if (dir.modifiers) {
+    warn("v-on without argument does not support modifiers.");
+  }
+  el.wrapListeners = function (code) { return ("_g(" + code + "," + (dir.value) + ")"); };
+}
+
+/*  */
+
+function bind$1 (el, dir) {
+  el.wrapData = function (code) {
+    return ("_b(" + code + ",'" + (el.tag) + "'," + (dir.value) + "," + (dir.modifiers && dir.modifiers.prop ? 'true' : 'false') + (dir.modifiers && dir.modifiers.sync ? ',true' : '') + ")")
+  };
+}
+
+/*  */
+
+var baseDirectives = {
+  on: on,
+  bind: bind$1,
+  cloak: noop
+};
+
+/*  */
+
+
+
+
+
+var CodegenState = function CodegenState (options) {
+  this.options = options;
+  this.warn = options.warn || baseWarn;
+  this.transforms = pluckModuleFunction(options.modules, 'transformCode');
+  this.dataGenFns = pluckModuleFunction(options.modules, 'genData');
+  this.directives = extend(extend({}, baseDirectives), options.directives);
+  var isReservedTag = options.isReservedTag || no;
+  this.maybeComponent = function (el) { return !!el.component || !isReservedTag(el.tag); };
+  this.onceId = 0;
+  this.staticRenderFns = [];
+  this.pre = false;
+};
+
+
+
+function generate (
+  ast,
+  options
+) {
+  var state = new CodegenState(options);
+  var code = ast ? genElement(ast, state) : '_c("div")';
+  return {
+    render: ("with(this){return " + code + "}"),
+    staticRenderFns: state.staticRenderFns
+  }
+}
+
+function genElement (el, state) {
+  if (el.parent) {
+    el.pre = el.pre || el.parent.pre;
+  }
+
+  if (el.staticRoot && !el.staticProcessed) {
+    return genStatic(el, state)
+  } else if (el.once && !el.onceProcessed) {
+    return genOnce(el, state)
+  } else if (el.for && !el.forProcessed) {
+    return genFor(el, state)
+  } else if (el.if && !el.ifProcessed) {
+    return genIf(el, state)
+  } else if (el.tag === 'template' && !el.slotTarget && !state.pre) {
+    return genChildren(el, state) || 'void 0'
+  } else if (el.tag === 'slot') {
+    return genSlot(el, state)
+  } else {
+    // component or element
+    var code;
+    if (el.component) {
+      code = genComponent(el.component, el, state);
+    } else {
+      var data;
+      if (!el.plain || (el.pre && state.maybeComponent(el))) {
+        data = genData$2(el, state);
+      }
+
+      var children = el.inlineTemplate ? null : genChildren(el, state, true);
+      code = "_c('" + (el.tag) + "'" + (data ? ("," + data) : '') + (children ? ("," + children) : '') + ")";
+    }
+    // module transforms
+    for (var i = 0; i < state.transforms.length; i++) {
+      code = state.transforms[i](el, code);
+    }
+    return code
+  }
+}
+
+// hoist static sub-trees out
+function genStatic (el, state) {
+  el.staticProcessed = true;
+  // Some elements (templates) need to behave differently inside of a v-pre
+  // node.  All pre nodes are static roots, so we can use this as a location to
+  // wrap a state change and reset it upon exiting the pre node.
+  var originalPreState = state.pre;
+  if (el.pre) {
+    state.pre = el.pre;
+  }
+  state.staticRenderFns.push(("with(this){return " + (genElement(el, state)) + "}"));
+  state.pre = originalPreState;
+  return ("_m(" + (state.staticRenderFns.length - 1) + (el.staticInFor ? ',true' : '') + ")")
+}
+
+// v-once
+function genOnce (el, state) {
+  el.onceProcessed = true;
+  if (el.if && !el.ifProcessed) {
+    return genIf(el, state)
+  } else if (el.staticInFor) {
+    var key = '';
+    var parent = el.parent;
+    while (parent) {
+      if (parent.for) {
+        key = parent.key;
+        break
+      }
+      parent = parent.parent;
+    }
+    if (!key) {
+      state.warn(
+        "v-once can only be used inside v-for that is keyed. ",
+        el.rawAttrsMap['v-once']
+      );
+      return genElement(el, state)
+    }
+    return ("_o(" + (genElement(el, state)) + "," + (state.onceId++) + "," + key + ")")
+  } else {
+    return genStatic(el, state)
+  }
+}
+
+function genIf (
+  el,
+  state,
+  altGen,
+  altEmpty
+) {
+  el.ifProcessed = true; // avoid recursion
+  return genIfConditions(el.ifConditions.slice(), state, altGen, altEmpty)
+}
+
+function genIfConditions (
+  conditions,
+  state,
+  altGen,
+  altEmpty
+) {
+  if (!conditions.length) {
+    return altEmpty || '_e()'
+  }
+
+  var condition = conditions.shift();
+  if (condition.exp) {
+    return ("(" + (condition.exp) + ")?" + (genTernaryExp(condition.block)) + ":" + (genIfConditions(conditions, state, altGen, altEmpty)))
+  } else {
+    return ("" + (genTernaryExp(condition.block)))
+  }
+
+  // v-if with v-once should generate code like (a)?_m(0):_m(1)
+  function genTernaryExp (el) {
+    return altGen
+      ? altGen(el, state)
+      : el.once
+        ? genOnce(el, state)
+        : genElement(el, state)
+  }
+}
+
+function genFor (
+  el,
+  state,
+  altGen,
+  altHelper
+) {
+  var exp = el.for;
+  var alias = el.alias;
+  var iterator1 = el.iterator1 ? ("," + (el.iterator1)) : '';
+  var iterator2 = el.iterator2 ? ("," + (el.iterator2)) : '';
+
+  if (state.maybeComponent(el) &&
+    el.tag !== 'slot' &&
+    el.tag !== 'template' &&
+    !el.key
+  ) {
+    state.warn(
+      "<" + (el.tag) + " v-for=\"" + alias + " in " + exp + "\">: component lists rendered with " +
+      "v-for should have explicit keys. " +
+      "See https://vuejs.org/guide/list.html#key for more info.",
+      el.rawAttrsMap['v-for'],
+      true /* tip */
+    );
+  }
+
+  el.forProcessed = true; // avoid recursion
+  return (altHelper || '_l') + "((" + exp + ")," +
+    "function(" + alias + iterator1 + iterator2 + "){" +
+      "return " + ((altGen || genElement)(el, state)) +
+    '})'
+}
+
+function genData$2 (el, state) {
+  var data = '{';
+
+  // directives first.
+  // directives may mutate the el's other properties before they are generated.
+  var dirs = genDirectives(el, state);
+  if (dirs) { data += dirs + ','; }
+
+  // key
+  if (el.key) {
+    data += "key:" + (el.key) + ",";
+  }
+  // ref
+  if (el.ref) {
+    data += "ref:" + (el.ref) + ",";
+  }
+  if (el.refInFor) {
+    data += "refInFor:true,";
+  }
+  // pre
+  if (el.pre) {
+    data += "pre:true,";
+  }
+  // record original tag name for components using "is" attribute
+  if (el.component) {
+    data += "tag:\"" + (el.tag) + "\",";
+  }
+  // module data generation functions
+  for (var i = 0; i < state.dataGenFns.length; i++) {
+    data += state.dataGenFns[i](el);
+  }
+  // attributes
+  if (el.attrs) {
+    data += "attrs:" + (genProps(el.attrs)) + ",";
+  }
+  // DOM props
+  if (el.props) {
+    data += "domProps:" + (genProps(el.props)) + ",";
+  }
+  // event handlers
+  if (el.events) {
+    data += (genHandlers(el.events, false)) + ",";
+  }
+  if (el.nativeEvents) {
+    data += (genHandlers(el.nativeEvents, true)) + ",";
+  }
+  // slot target
+  // only for non-scoped slots
+  if (el.slotTarget && !el.slotScope) {
+    data += "slot:" + (el.slotTarget) + ",";
+  }
+  // scoped slots
+  if (el.scopedSlots) {
+    data += (genScopedSlots(el, el.scopedSlots, state)) + ",";
+  }
+  // component v-model
+  if (el.model) {
+    data += "model:{value:" + (el.model.value) + ",callback:" + (el.model.callback) + ",expression:" + (el.model.expression) + "},";
+  }
+  // inline-template
+  if (el.inlineTemplate) {
+    var inlineTemplate = genInlineTemplate(el, state);
+    if (inlineTemplate) {
+      data += inlineTemplate + ",";
+    }
+  }
+  data = data.replace(/,$/, '') + '}';
+  // v-bind dynamic argument wrap
+  // v-bind with dynamic arguments must be applied using the same v-bind object
+  // merge helper so that class/style/mustUseProp attrs are handled correctly.
+  if (el.dynamicAttrs) {
+    data = "_b(" + data + ",\"" + (el.tag) + "\"," + (genProps(el.dynamicAttrs)) + ")";
+  }
+  // v-bind data wrap
+  if (el.wrapData) {
+    data = el.wrapData(data);
+  }
+  // v-on data wrap
+  if (el.wrapListeners) {
+    data = el.wrapListeners(data);
+  }
+  return data
+}
+
+function genDirectives (el, state) {
+  var dirs = el.directives;
+  if (!dirs) { return }
+  var res = 'directives:[';
+  var hasRuntime = false;
+  var i, l, dir, needRuntime;
+  for (i = 0, l = dirs.length; i < l; i++) {
+    dir = dirs[i];
+    needRuntime = true;
+    var gen = state.directives[dir.name];
+    if (gen) {
+      // compile-time directive that manipulates AST.
+      // returns true if it also needs a runtime counterpart.
+      needRuntime = !!gen(el, dir, state.warn);
+    }
+    if (needRuntime) {
+      hasRuntime = true;
+      res += "{name:\"" + (dir.name) + "\",rawName:\"" + (dir.rawName) + "\"" + (dir.value ? (",value:(" + (dir.value) + "),expression:" + (JSON.stringify(dir.value))) : '') + (dir.arg ? (",arg:" + (dir.isDynamicArg ? dir.arg : ("\"" + (dir.arg) + "\""))) : '') + (dir.modifiers ? (",modifiers:" + (JSON.stringify(dir.modifiers))) : '') + "},";
+    }
+  }
+  if (hasRuntime) {
+    return res.slice(0, -1) + ']'
+  }
+}
+
+function genInlineTemplate (el, state) {
+  var ast = el.children[0];
+  if (el.children.length !== 1 || ast.type !== 1) {
+    state.warn(
+      'Inline-template components must have exactly one child element.',
+      { start: el.start }
+    );
+  }
+  if (ast && ast.type === 1) {
+    var inlineRenderFns = generate(ast, state.options);
+    return ("inlineTemplate:{render:function(){" + (inlineRenderFns.render) + "},staticRenderFns:[" + (inlineRenderFns.staticRenderFns.map(function (code) { return ("function(){" + code + "}"); }).join(',')) + "]}")
+  }
+}
+
+function genScopedSlots (
+  el,
+  slots,
+  state
+) {
+  // by default scoped slots are considered "stable", this allows child
+  // components with only scoped slots to skip forced updates from parent.
+  // but in some cases we have to bail-out of this optimization
+  // for example if the slot contains dynamic names, has v-if or v-for on them...
+  var needsForceUpdate = el.for || Object.keys(slots).some(function (key) {
+    var slot = slots[key];
+    return (
+      slot.slotTargetDynamic ||
+      slot.if ||
+      slot.for ||
+      containsSlotChild(slot) // is passing down slot from parent which may be dynamic
+    )
+  });
+
+  // #9534: if a component with scoped slots is inside a conditional branch,
+  // it's possible for the same component to be reused but with different
+  // compiled slot content. To avoid that, we generate a unique key based on
+  // the generated code of all the slot contents.
+  var needsKey = !!el.if;
+
+  // OR when it is inside another scoped slot or v-for (the reactivity may be
+  // disconnected due to the intermediate scope variable)
+  // #9438, #9506
+  // TODO: this can be further optimized by properly analyzing in-scope bindings
+  // and skip force updating ones that do not actually use scope variables.
+  if (!needsForceUpdate) {
+    var parent = el.parent;
+    while (parent) {
+      if (
+        (parent.slotScope && parent.slotScope !== emptySlotScopeToken) ||
+        parent.for
+      ) {
+        needsForceUpdate = true;
+        break
+      }
+      if (parent.if) {
+        needsKey = true;
+      }
+      parent = parent.parent;
+    }
+  }
+
+  var generatedSlots = Object.keys(slots)
+    .map(function (key) { return genScopedSlot(slots[key], state); })
+    .join(',');
+
+  return ("scopedSlots:_u([" + generatedSlots + "]" + (needsForceUpdate ? ",null,true" : "") + (!needsForceUpdate && needsKey ? (",null,false," + (hash(generatedSlots))) : "") + ")")
+}
+
+function hash(str) {
+  var hash = 5381;
+  var i = str.length;
+  while(i) {
+    hash = (hash * 33) ^ str.charCodeAt(--i);
+  }
+  return hash >>> 0
+}
+
+function containsSlotChild (el) {
+  if (el.type === 1) {
+    if (el.tag === 'slot') {
+      return true
+    }
+    return el.children.some(containsSlotChild)
+  }
+  return false
+}
+
+function genScopedSlot (
+  el,
+  state
+) {
+  var isLegacySyntax = el.attrsMap['slot-scope'];
+  if (el.if && !el.ifProcessed && !isLegacySyntax) {
+    return genIf(el, state, genScopedSlot, "null")
+  }
+  if (el.for && !el.forProcessed) {
+    return genFor(el, state, genScopedSlot)
+  }
+  var slotScope = el.slotScope === emptySlotScopeToken
+    ? ""
+    : String(el.slotScope);
+  var fn = "function(" + slotScope + "){" +
+    "return " + (el.tag === 'template'
+      ? el.if && isLegacySyntax
+        ? ("(" + (el.if) + ")?" + (genChildren(el, state) || 'undefined') + ":undefined")
+        : genChildren(el, state) || 'undefined'
+      : genElement(el, state)) + "}";
+  // reverse proxy v-slot without scope on this.$slots
+  var reverseProxy = slotScope ? "" : ",proxy:true";
+  return ("{key:" + (el.slotTarget || "\"default\"") + ",fn:" + fn + reverseProxy + "}")
+}
+
+function genChildren (
+  el,
+  state,
+  checkSkip,
+  altGenElement,
+  altGenNode
+) {
+  var children = el.children;
+  if (children.length) {
+    var el$1 = children[0];
+    // optimize single v-for
+    if (children.length === 1 &&
+      el$1.for &&
+      el$1.tag !== 'template' &&
+      el$1.tag !== 'slot'
+    ) {
+      var normalizationType = checkSkip
+        ? state.maybeComponent(el$1) ? ",1" : ",0"
+        : "";
+      return ("" + ((altGenElement || genElement)(el$1, state)) + normalizationType)
+    }
+    var normalizationType$1 = checkSkip
+      ? getNormalizationType(children, state.maybeComponent)
+      : 0;
+    var gen = altGenNode || genNode;
+    return ("[" + (children.map(function (c) { return gen(c, state); }).join(',')) + "]" + (normalizationType$1 ? ("," + normalizationType$1) : ''))
+  }
+}
+
+// determine the normalization needed for the children array.
+// 0: no normalization needed
+// 1: simple normalization needed (possible 1-level deep nested array)
+// 2: full normalization needed
+function getNormalizationType (
+  children,
+  maybeComponent
+) {
+  var res = 0;
+  for (var i = 0; i < children.length; i++) {
+    var el = children[i];
+    if (el.type !== 1) {
+      continue
+    }
+    if (needsNormalization(el) ||
+        (el.ifConditions && el.ifConditions.some(function (c) { return needsNormalization(c.block); }))) {
+      res = 2;
+      break
+    }
+    if (maybeComponent(el) ||
+        (el.ifConditions && el.ifConditions.some(function (c) { return maybeComponent(c.block); }))) {
+      res = 1;
+    }
+  }
+  return res
+}
+
+function needsNormalization (el) {
+  return el.for !== undefined || el.tag === 'template' || el.tag === 'slot'
+}
+
+function genNode (node, state) {
+  if (node.type === 1) {
+    return genElement(node, state)
+  } else if (node.type === 3 && node.isComment) {
+    return genComment(node)
+  } else {
+    return genText(node)
+  }
+}
+
+function genText (text) {
+  return ("_v(" + (text.type === 2
+    ? text.expression // no need for () because already wrapped in _s()
+    : transformSpecialNewlines(JSON.stringify(text.text))) + ")")
+}
+
+function genComment (comment) {
+  return ("_e(" + (JSON.stringify(comment.text)) + ")")
+}
+
+function genSlot (el, state) {
+  var slotName = el.slotName || '"default"';
+  var children = genChildren(el, state);
+  var res = "_t(" + slotName + (children ? ("," + children) : '');
+  var attrs = el.attrs || el.dynamicAttrs
+    ? genProps((el.attrs || []).concat(el.dynamicAttrs || []).map(function (attr) { return ({
+        // slot props are camelized
+        name: camelize(attr.name),
+        value: attr.value,
+        dynamic: attr.dynamic
+      }); }))
+    : null;
+  var bind$$1 = el.attrsMap['v-bind'];
+  if ((attrs || bind$$1) && !children) {
+    res += ",null";
+  }
+  if (attrs) {
+    res += "," + attrs;
+  }
+  if (bind$$1) {
+    res += (attrs ? '' : ',null') + "," + bind$$1;
+  }
+  return res + ')'
+}
+
+// componentName is el.component, take it as argument to shun flow's pessimistic refinement
+function genComponent (
+  componentName,
+  el,
+  state
+) {
+  var children = el.inlineTemplate ? null : genChildren(el, state, true);
+  return ("_c(" + componentName + "," + (genData$2(el, state)) + (children ? ("," + children) : '') + ")")
+}
+
+function genProps (props) {
+  var staticProps = "";
+  var dynamicProps = "";
+  for (var i = 0; i < props.length; i++) {
+    var prop = props[i];
+    var value = transformSpecialNewlines(prop.value);
+    if (prop.dynamic) {
+      dynamicProps += (prop.name) + "," + value + ",";
+    } else {
+      staticProps += "\"" + (prop.name) + "\":" + value + ",";
+    }
+  }
+  staticProps = "{" + (staticProps.slice(0, -1)) + "}";
+  if (dynamicProps) {
+    return ("_d(" + staticProps + ",[" + (dynamicProps.slice(0, -1)) + "])")
+  } else {
+    return staticProps
+  }
+}
+
+// #3895, #4268
+function transformSpecialNewlines (text) {
+  return text
+    .replace(/\u2028/g, '\\u2028')
+    .replace(/\u2029/g, '\\u2029')
+}
+
+/*  */
+
+
+
+// these keywords should not appear inside expressions, but operators like
+// typeof, instanceof and in are allowed
+var prohibitedKeywordRE = new RegExp('\\b' + (
+  'do,if,for,let,new,try,var,case,else,with,await,break,catch,class,const,' +
+  'super,throw,while,yield,delete,export,import,return,switch,default,' +
+  'extends,finally,continue,debugger,function,arguments'
+).split(',').join('\\b|\\b') + '\\b');
+
+// these unary operators should not be used as property/method names
+var unaryOperatorsRE = new RegExp('\\b' + (
+  'delete,typeof,void'
+).split(',').join('\\s*\\([^\\)]*\\)|\\b') + '\\s*\\([^\\)]*\\)');
+
+// strip strings in expressions
+var stripStringRE = /'(?:[^'\\]|\\.)*'|"(?:[^"\\]|\\.)*"|`(?:[^`\\]|\\.)*\$\{|\}(?:[^`\\]|\\.)*`|`(?:[^`\\]|\\.)*`/g;
+
+// detect problematic expressions in a template
+function detectErrors (ast, warn) {
+  if (ast) {
+    checkNode(ast, warn);
+  }
+}
+
+function checkNode (node, warn) {
+  if (node.type === 1) {
+    for (var name in node.attrsMap) {
+      if (dirRE.test(name)) {
+        var value = node.attrsMap[name];
+        if (value) {
+          var range = node.rawAttrsMap[name];
+          if (name === 'v-for') {
+            checkFor(node, ("v-for=\"" + value + "\""), warn, range);
+          } else if (name === 'v-slot' || name[0] === '#') {
+            checkFunctionParameterExpression(value, (name + "=\"" + value + "\""), warn, range);
+          } else if (onRE.test(name)) {
+            checkEvent(value, (name + "=\"" + value + "\""), warn, range);
+          } else {
+            checkExpression(value, (name + "=\"" + value + "\""), warn, range);
+          }
+        }
+      }
+    }
+    if (node.children) {
+      for (var i = 0; i < node.children.length; i++) {
+        checkNode(node.children[i], warn);
+      }
+    }
+  } else if (node.type === 2) {
+    checkExpression(node.expression, node.text, warn, node);
+  }
+}
+
+function checkEvent (exp, text, warn, range) {
+  var stripped = exp.replace(stripStringRE, '');
+  var keywordMatch = stripped.match(unaryOperatorsRE);
+  if (keywordMatch && stripped.charAt(keywordMatch.index - 1) !== '$') {
+    warn(
+      "avoid using JavaScript unary operator as property name: " +
+      "\"" + (keywordMatch[0]) + "\" in expression " + (text.trim()),
+      range
+    );
+  }
+  checkExpression(exp, text, warn, range);
+}
+
+function checkFor (node, text, warn, range) {
+  checkExpression(node.for || '', text, warn, range);
+  checkIdentifier(node.alias, 'v-for alias', text, warn, range);
+  checkIdentifier(node.iterator1, 'v-for iterator', text, warn, range);
+  checkIdentifier(node.iterator2, 'v-for iterator', text, warn, range);
+}
+
+function checkIdentifier (
+  ident,
+  type,
+  text,
+  warn,
+  range
+) {
+  if (typeof ident === 'string') {
+    try {
+      new Function(("var " + ident + "=_"));
+    } catch (e) {
+      warn(("invalid " + type + " \"" + ident + "\" in expression: " + (text.trim())), range);
+    }
+  }
+}
+
+function checkExpression (exp, text, warn, range) {
+  try {
+    new Function(("return " + exp));
+  } catch (e) {
+    var keywordMatch = exp.replace(stripStringRE, '').match(prohibitedKeywordRE);
+    if (keywordMatch) {
+      warn(
+        "avoid using JavaScript keyword as property name: " +
+        "\"" + (keywordMatch[0]) + "\"\n  Raw expression: " + (text.trim()),
+        range
+      );
+    } else {
+      warn(
+        "invalid expression: " + (e.message) + " in\n\n" +
+        "    " + exp + "\n\n" +
+        "  Raw expression: " + (text.trim()) + "\n",
+        range
+      );
+    }
+  }
+}
+
+function checkFunctionParameterExpression (exp, text, warn, range) {
+  try {
+    new Function(exp, '');
+  } catch (e) {
+    warn(
+      "invalid function parameter expression: " + (e.message) + " in\n\n" +
+      "    " + exp + "\n\n" +
+      "  Raw expression: " + (text.trim()) + "\n",
+      range
+    );
+  }
+}
+
+/*  */
+
+var range = 2;
+
+function generateCodeFrame (
+  source,
+  start,
+  end
+) {
+  if ( start === void 0 ) start = 0;
+  if ( end === void 0 ) end = source.length;
+
+  var lines = source.split(/\r?\n/);
+  var count = 0;
+  var res = [];
+  for (var i = 0; i < lines.length; i++) {
+    count += lines[i].length + 1;
+    if (count >= start) {
+      for (var j = i - range; j <= i + range || end > count; j++) {
+        if (j < 0 || j >= lines.length) { continue }
+        res.push(("" + (j + 1) + (repeat$1(" ", 3 - String(j + 1).length)) + "|  " + (lines[j])));
+        var lineLength = lines[j].length;
+        if (j === i) {
+          // push underline
+          var pad = start - (count - lineLength) + 1;
+          var length = end > count ? lineLength - pad : end - start;
+          res.push("   |  " + repeat$1(" ", pad) + repeat$1("^", length));
+        } else if (j > i) {
+          if (end > count) {
+            var length$1 = Math.min(end - count, lineLength);
+            res.push("   |  " + repeat$1("^", length$1));
+          }
+          count += lineLength + 1;
+        }
+      }
+      break
+    }
+  }
+  return res.join('\n')
+}
+
+function repeat$1 (str, n) {
+  var result = '';
+  if (n > 0) {
+    while (true) { // eslint-disable-line
+      if (n & 1) { result += str; }
+      n >>>= 1;
+      if (n <= 0) { break }
+      str += str;
+    }
+  }
+  return result
+}
+
+/*  */
+
+
+
+function createFunction (code, errors) {
+  try {
+    return new Function(code)
+  } catch (err) {
+    errors.push({ err: err, code: code });
+    return noop
+  }
+}
+
+function createCompileToFunctionFn (compile) {
+  var cache = Object.create(null);
+
+  return function compileToFunctions (
+    template,
+    options,
+    vm
+  ) {
+    options = extend({}, options);
+    var warn$$1 = options.warn || warn;
+    delete options.warn;
+
+    /* istanbul ignore if */
+    {
+      // detect possible CSP restriction
+      try {
+        new Function('return 1');
+      } catch (e) {
+        if (e.toString().match(/unsafe-eval|CSP/)) {
+          warn$$1(
+            'It seems you are using the standalone build of Vue.js in an ' +
+            'environment with Content Security Policy that prohibits unsafe-eval. ' +
+            'The template compiler cannot work in this environment. Consider ' +
+            'relaxing the policy to allow unsafe-eval or pre-compiling your ' +
+            'templates into render functions.'
+          );
+        }
+      }
+    }
+
+    // check cache
+    var key = options.delimiters
+      ? String(options.delimiters) + template
+      : template;
+    if (cache[key]) {
+      return cache[key]
+    }
+
+    // compile
+    var compiled = compile(template, options);
+
+    // check compilation errors/tips
+    {
+      if (compiled.errors && compiled.errors.length) {
+        if (options.outputSourceRange) {
+          compiled.errors.forEach(function (e) {
+            warn$$1(
+              "Error compiling template:\n\n" + (e.msg) + "\n\n" +
+              generateCodeFrame(template, e.start, e.end),
+              vm
+            );
+          });
+        } else {
+          warn$$1(
+            "Error compiling template:\n\n" + template + "\n\n" +
+            compiled.errors.map(function (e) { return ("- " + e); }).join('\n') + '\n',
+            vm
+          );
+        }
+      }
+      if (compiled.tips && compiled.tips.length) {
+        if (options.outputSourceRange) {
+          compiled.tips.forEach(function (e) { return tip(e.msg, vm); });
+        } else {
+          compiled.tips.forEach(function (msg) { return tip(msg, vm); });
+        }
+      }
+    }
+
+    // turn code into functions
+    var res = {};
+    var fnGenErrors = [];
+    res.render = createFunction(compiled.render, fnGenErrors);
+    res.staticRenderFns = compiled.staticRenderFns.map(function (code) {
+      return createFunction(code, fnGenErrors)
+    });
+
+    // check function generation errors.
+    // this should only happen if there is a bug in the compiler itself.
+    // mostly for codegen development use
+    /* istanbul ignore if */
+    {
+      if ((!compiled.errors || !compiled.errors.length) && fnGenErrors.length) {
+        warn$$1(
+          "Failed to generate render function:\n\n" +
+          fnGenErrors.map(function (ref) {
+            var err = ref.err;
+            var code = ref.code;
+
+            return ((err.toString()) + " in\n\n" + code + "\n");
+        }).join('\n'),
+          vm
+        );
+      }
+    }
+
+    return (cache[key] = res)
+  }
+}
+
+/*  */
+
+function createCompilerCreator (baseCompile) {
+  return function createCompiler (baseOptions) {
+    function compile (
+      template,
+      options
+    ) {
+      var finalOptions = Object.create(baseOptions);
+      var errors = [];
+      var tips = [];
+
+      var warn = function (msg, range, tip) {
+        (tip ? tips : errors).push(msg);
+      };
+
+      if (options) {
+        if (options.outputSourceRange) {
+          // $flow-disable-line
+          var leadingSpaceLength = template.match(/^\s*/)[0].length;
+
+          warn = function (msg, range, tip) {
+            var data = { msg: msg };
+            if (range) {
+              if (range.start != null) {
+                data.start = range.start + leadingSpaceLength;
+              }
+              if (range.end != null) {
+                data.end = range.end + leadingSpaceLength;
+              }
+            }
+            (tip ? tips : errors).push(data);
+          };
+        }
+        // merge custom modules
+        if (options.modules) {
+          finalOptions.modules =
+            (baseOptions.modules || []).concat(options.modules);
+        }
+        // merge custom directives
+        if (options.directives) {
+          finalOptions.directives = extend(
+            Object.create(baseOptions.directives || null),
+            options.directives
+          );
+        }
+        // copy other options
+        for (var key in options) {
+          if (key !== 'modules' && key !== 'directives') {
+            finalOptions[key] = options[key];
+          }
+        }
+      }
+
+      finalOptions.warn = warn;
+
+      var compiled = baseCompile(template.trim(), finalOptions);
+      {
+        detectErrors(compiled.ast, warn);
+      }
+      compiled.errors = errors;
+      compiled.tips = tips;
+      return compiled
+    }
+
+    return {
+      compile: compile,
+      compileToFunctions: createCompileToFunctionFn(compile)
+    }
+  }
+}
+
+/*  */
+
+// `createCompilerCreator` allows creating compilers that use alternative
+// parser/optimizer/codegen, e.g the SSR optimizing compiler.
+// Here we just export a default compiler using the default parts.
+var createCompiler = createCompilerCreator(function baseCompile (
+  template,
+  options
+) {
+  var ast = parse(template.trim(), options);
+  if (options.optimize !== false) {
+    optimize(ast, options);
+  }
+  var code = generate(ast, options);
+  return {
+    ast: ast,
+    render: code.render,
+    staticRenderFns: code.staticRenderFns
+  }
+});
+
+/*  */
+
+var ref$1 = createCompiler(baseOptions);
+var compile = ref$1.compile;
+var compileToFunctions = ref$1.compileToFunctions;
+
+/*  */
+
+// check whether current browser encodes a char inside attribute values
+var div;
+function getShouldDecode (href) {
+  div = div || document.createElement('div');
+  div.innerHTML = href ? "<a href=\"\n\"/>" : "<div a=\"\n\"/>";
+  return div.innerHTML.indexOf('&#10;') > 0
+}
+
+// #3663: IE encodes newlines inside attribute values while other browsers don't
+var shouldDecodeNewlines = inBrowser ? getShouldDecode(false) : false;
+// #6828: chrome encodes content in a[href]
+var shouldDecodeNewlinesForHref = inBrowser ? getShouldDecode(true) : false;
+
+/*  */
+
+var idToTemplate = cached(function (id) {
+  var el = query(id);
+  return el && el.innerHTML
+});
+
+var mount = Vue.prototype.$mount;
+Vue.prototype.$mount = function (
+  el,
+  hydrating
+) {
+  el = el && query(el);
+
+  /* istanbul ignore if */
+  if (el === document.body || el === document.documentElement) {
+    warn(
+      "Do not mount Vue to <html> or <body> - mount to normal elements instead."
+    );
+    return this
+  }
+
+  var options = this.$options;
+  // resolve template/el and convert to render function
+  if (!options.render) {
+    var template = options.template;
+    if (template) {
+      if (typeof template === 'string') {
+        if (template.charAt(0) === '#') {
+          template = idToTemplate(template);
+          /* istanbul ignore if */
+          if (!template) {
+            warn(
+              ("Template element not found or is empty: " + (options.template)),
+              this
+            );
+          }
+        }
+      } else if (template.nodeType) {
+        template = template.innerHTML;
+      } else {
+        {
+          warn('invalid template option:' + template, this);
+        }
+        return this
+      }
+    } else if (el) {
+      template = getOuterHTML(el);
+    }
+    if (template) {
+      /* istanbul ignore if */
+      if (config.performance && mark) {
+        mark('compile');
+      }
+
+      var ref = compileToFunctions(template, {
+        outputSourceRange: "development" !== 'production',
+        shouldDecodeNewlines: shouldDecodeNewlines,
+        shouldDecodeNewlinesForHref: shouldDecodeNewlinesForHref,
+        delimiters: options.delimiters,
+        comments: options.comments
+      }, this);
+      var render = ref.render;
+      var staticRenderFns = ref.staticRenderFns;
+      options.render = render;
+      options.staticRenderFns = staticRenderFns;
+
+      /* istanbul ignore if */
+      if (config.performance && mark) {
+        mark('compile end');
+        measure(("vue " + (this._name) + " compile"), 'compile', 'compile end');
+      }
+    }
+  }
+  return mount.call(this, el, hydrating)
+};
+
+/**
+ * Get outerHTML of elements, taking care
+ * of SVG elements in IE as well.
+ */
+function getOuterHTML (el) {
+  if (el.outerHTML) {
+    return el.outerHTML
+  } else {
+    var container = document.createElement('div');
+    container.appendChild(el.cloneNode(true));
+    return container.innerHTML
+  }
+}
+
+Vue.compile = compileToFunctions;
+
+module.exports = Vue;
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js"), __webpack_require__(/*! ./../../timers-browserify/main.js */ "./node_modules/timers-browserify/main.js").setImmediate))
+
+/***/ }),
+
+/***/ "./node_modules/vue/dist/vue.common.js":
+/*!*********************************************!*\
+  !*** ./node_modules/vue/dist/vue.common.js ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+if (false) {} else {
+  module.exports = __webpack_require__(/*! ./vue.common.dev.js */ "./node_modules/vue/dist/vue.common.dev.js")
+}
+
+
+/***/ }),
+
 /***/ "./node_modules/webpack/buildin/global.js":
 /*!***********************************!*\
   !*** (webpack)/buildin/global.js ***!
@@ -36918,7 +50351,42 @@ module.exports = function(module) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+/**
+ * First we will load all of this project's JavaScript dependencies which
+ * includes Vue and other libraries. It is a great starting point when
+ * building robust, powerful web applications using Vue and Laravel.
+ */
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
+
+__webpack_require__(/*! @fortawesome/fontawesome-free/scss/brands.scss */ "./node_modules/@fortawesome/fontawesome-free/scss/brands.scss");
+
+__webpack_require__(/*! @fortawesome/fontawesome-free/scss/fontawesome.scss */ "./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss");
+
+__webpack_require__(/*! @fortawesome/fontawesome-free/scss/regular.scss */ "./node_modules/@fortawesome/fontawesome-free/scss/regular.scss");
+
+__webpack_require__(/*! @fortawesome/fontawesome-free/scss/solid.scss */ "./node_modules/@fortawesome/fontawesome-free/scss/solid.scss");
+
+window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
+/**
+ * The following block of code may be used to automatically register your
+ * Vue components. It will recursively scan this directory for the Vue
+ * components and automatically register them with their "basename".
+ *
+ * Eg. ./components/ExampleComponent.vue -> <example-component></example-component>
+ */
+// const files = require.context('./', true, /\.vue$/i)
+// files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
+
+Vue.component('example-component', __webpack_require__(/*! ./components/ExampleComponent.vue */ "./resources/js/components/ExampleComponent.vue")["default"]);
+/**
+ * Next, we will create a fresh Vue application instance and attach it to
+ * the page. Then, you may begin adding components to this application
+ * or customize the JavaScript scaffolding to fit your unique needs.
+ */
+
+var app = new Vue({
+  el: '#app'
+});
 
 /***/ }),
 
@@ -36967,7430 +50435,72 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 /***/ }),
 
-/***/ "./resources/js/jquery-3.2.1.min.js":
-/*!******************************************!*\
-  !*** ./resources/js/jquery-3.2.1.min.js ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(module) {var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
-/*! jQuery v3.2.1 | (c) JS Foundation and other contributors | jquery.org/license */
-!function (a, b) {
-  "use strict";
-
-  "object" == ( false ? undefined : _typeof(module)) && "object" == _typeof(module.exports) ? module.exports = a.document ? b(a, !0) : function (a) {
-    if (!a.document) throw new Error("jQuery requires a window with a document");
-    return b(a);
-  } : b(a);
-}("undefined" != typeof window ? window : this, function (a, b) {
-  "use strict";
-
-  var c = [],
-      d = a.document,
-      e = Object.getPrototypeOf,
-      f = c.slice,
-      g = c.concat,
-      h = c.push,
-      i = c.indexOf,
-      j = {},
-      k = j.toString,
-      l = j.hasOwnProperty,
-      m = l.toString,
-      n = m.call(Object),
-      o = {};
-
-  function p(a, b) {
-    b = b || d;
-    var c = b.createElement("script");
-    c.text = a, b.head.appendChild(c).parentNode.removeChild(c);
-  }
-
-  var q = "3.2.1",
-      r = function r(a, b) {
-    return new r.fn.init(a, b);
-  },
-      s = /^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,
-      t = /^-ms-/,
-      u = /-([a-z])/g,
-      v = function v(a, b) {
-    return b.toUpperCase();
-  };
-
-  r.fn = r.prototype = {
-    jquery: q,
-    constructor: r,
-    length: 0,
-    toArray: function toArray() {
-      return f.call(this);
-    },
-    get: function get(a) {
-      return null == a ? f.call(this) : a < 0 ? this[a + this.length] : this[a];
-    },
-    pushStack: function pushStack(a) {
-      var b = r.merge(this.constructor(), a);
-      return b.prevObject = this, b;
-    },
-    each: function each(a) {
-      return r.each(this, a);
-    },
-    map: function map(a) {
-      return this.pushStack(r.map(this, function (b, c) {
-        return a.call(b, c, b);
-      }));
-    },
-    slice: function slice() {
-      return this.pushStack(f.apply(this, arguments));
-    },
-    first: function first() {
-      return this.eq(0);
-    },
-    last: function last() {
-      return this.eq(-1);
-    },
-    eq: function eq(a) {
-      var b = this.length,
-          c = +a + (a < 0 ? b : 0);
-      return this.pushStack(c >= 0 && c < b ? [this[c]] : []);
-    },
-    end: function end() {
-      return this.prevObject || this.constructor();
-    },
-    push: h,
-    sort: c.sort,
-    splice: c.splice
-  }, r.extend = r.fn.extend = function () {
-    var a,
-        b,
-        c,
-        d,
-        e,
-        f,
-        g = arguments[0] || {},
-        h = 1,
-        i = arguments.length,
-        j = !1;
-
-    for ("boolean" == typeof g && (j = g, g = arguments[h] || {}, h++), "object" == _typeof(g) || r.isFunction(g) || (g = {}), h === i && (g = this, h--); h < i; h++) {
-      if (null != (a = arguments[h])) for (b in a) {
-        c = g[b], d = a[b], g !== d && (j && d && (r.isPlainObject(d) || (e = Array.isArray(d))) ? (e ? (e = !1, f = c && Array.isArray(c) ? c : []) : f = c && r.isPlainObject(c) ? c : {}, g[b] = r.extend(j, f, d)) : void 0 !== d && (g[b] = d));
-      }
-    }
-
-    return g;
-  }, r.extend({
-    expando: "jQuery" + (q + Math.random()).replace(/\D/g, ""),
-    isReady: !0,
-    error: function error(a) {
-      throw new Error(a);
-    },
-    noop: function noop() {},
-    isFunction: function isFunction(a) {
-      return "function" === r.type(a);
-    },
-    isWindow: function isWindow(a) {
-      return null != a && a === a.window;
-    },
-    isNumeric: function isNumeric(a) {
-      var b = r.type(a);
-      return ("number" === b || "string" === b) && !isNaN(a - parseFloat(a));
-    },
-    isPlainObject: function isPlainObject(a) {
-      var b, c;
-      return !(!a || "[object Object]" !== k.call(a)) && (!(b = e(a)) || (c = l.call(b, "constructor") && b.constructor, "function" == typeof c && m.call(c) === n));
-    },
-    isEmptyObject: function isEmptyObject(a) {
-      var b;
-
-      for (b in a) {
-        return !1;
-      }
-
-      return !0;
-    },
-    type: function type(a) {
-      return null == a ? a + "" : "object" == _typeof(a) || "function" == typeof a ? j[k.call(a)] || "object" : _typeof(a);
-    },
-    globalEval: function globalEval(a) {
-      p(a);
-    },
-    camelCase: function camelCase(a) {
-      return a.replace(t, "ms-").replace(u, v);
-    },
-    each: function each(a, b) {
-      var c,
-          d = 0;
-
-      if (w(a)) {
-        for (c = a.length; d < c; d++) {
-          if (b.call(a[d], d, a[d]) === !1) break;
-        }
-      } else for (d in a) {
-        if (b.call(a[d], d, a[d]) === !1) break;
-      }
-
-      return a;
-    },
-    trim: function trim(a) {
-      return null == a ? "" : (a + "").replace(s, "");
-    },
-    makeArray: function makeArray(a, b) {
-      var c = b || [];
-      return null != a && (w(Object(a)) ? r.merge(c, "string" == typeof a ? [a] : a) : h.call(c, a)), c;
-    },
-    inArray: function inArray(a, b, c) {
-      return null == b ? -1 : i.call(b, a, c);
-    },
-    merge: function merge(a, b) {
-      for (var c = +b.length, d = 0, e = a.length; d < c; d++) {
-        a[e++] = b[d];
-      }
-
-      return a.length = e, a;
-    },
-    grep: function grep(a, b, c) {
-      for (var d, e = [], f = 0, g = a.length, h = !c; f < g; f++) {
-        d = !b(a[f], f), d !== h && e.push(a[f]);
-      }
-
-      return e;
-    },
-    map: function map(a, b, c) {
-      var d,
-          e,
-          f = 0,
-          h = [];
-      if (w(a)) for (d = a.length; f < d; f++) {
-        e = b(a[f], f, c), null != e && h.push(e);
-      } else for (f in a) {
-        e = b(a[f], f, c), null != e && h.push(e);
-      }
-      return g.apply([], h);
-    },
-    guid: 1,
-    proxy: function proxy(a, b) {
-      var c, d, e;
-      if ("string" == typeof b && (c = a[b], b = a, a = c), r.isFunction(a)) return d = f.call(arguments, 2), e = function e() {
-        return a.apply(b || this, d.concat(f.call(arguments)));
-      }, e.guid = a.guid = a.guid || r.guid++, e;
-    },
-    now: Date.now,
-    support: o
-  }), "function" == typeof Symbol && (r.fn[Symbol.iterator] = c[Symbol.iterator]), r.each("Boolean Number String Function Array Date RegExp Object Error Symbol".split(" "), function (a, b) {
-    j["[object " + b + "]"] = b.toLowerCase();
-  });
-
-  function w(a) {
-    var b = !!a && "length" in a && a.length,
-        c = r.type(a);
-    return "function" !== c && !r.isWindow(a) && ("array" === c || 0 === b || "number" == typeof b && b > 0 && b - 1 in a);
-  }
-
-  var x = function (a) {
-    var b,
-        c,
-        d,
-        e,
-        f,
-        g,
-        h,
-        i,
-        j,
-        k,
-        l,
-        m,
-        n,
-        o,
-        p,
-        q,
-        r,
-        s,
-        t,
-        u = "sizzle" + 1 * new Date(),
-        v = a.document,
-        w = 0,
-        x = 0,
-        y = ha(),
-        z = ha(),
-        A = ha(),
-        B = function B(a, b) {
-      return a === b && (l = !0), 0;
-    },
-        C = {}.hasOwnProperty,
-        D = [],
-        E = D.pop,
-        F = D.push,
-        G = D.push,
-        H = D.slice,
-        I = function I(a, b) {
-      for (var c = 0, d = a.length; c < d; c++) {
-        if (a[c] === b) return c;
-      }
-
-      return -1;
-    },
-        J = "checked|selected|async|autofocus|autoplay|controls|defer|disabled|hidden|ismap|loop|multiple|open|readonly|required|scoped",
-        K = "[\\x20\\t\\r\\n\\f]",
-        L = "(?:\\\\.|[\\w-]|[^\0-\\xa0])+",
-        M = "\\[" + K + "*(" + L + ")(?:" + K + "*([*^$|!~]?=)" + K + "*(?:'((?:\\\\.|[^\\\\'])*)'|\"((?:\\\\.|[^\\\\\"])*)\"|(" + L + "))|)" + K + "*\\]",
-        N = ":(" + L + ")(?:\\((('((?:\\\\.|[^\\\\'])*)'|\"((?:\\\\.|[^\\\\\"])*)\")|((?:\\\\.|[^\\\\()[\\]]|" + M + ")*)|.*)\\)|)",
-        O = new RegExp(K + "+", "g"),
-        P = new RegExp("^" + K + "+|((?:^|[^\\\\])(?:\\\\.)*)" + K + "+$", "g"),
-        Q = new RegExp("^" + K + "*," + K + "*"),
-        R = new RegExp("^" + K + "*([>+~]|" + K + ")" + K + "*"),
-        S = new RegExp("=" + K + "*([^\\]'\"]*?)" + K + "*\\]", "g"),
-        T = new RegExp(N),
-        U = new RegExp("^" + L + "$"),
-        V = {
-      ID: new RegExp("^#(" + L + ")"),
-      CLASS: new RegExp("^\\.(" + L + ")"),
-      TAG: new RegExp("^(" + L + "|[*])"),
-      ATTR: new RegExp("^" + M),
-      PSEUDO: new RegExp("^" + N),
-      CHILD: new RegExp("^:(only|first|last|nth|nth-last)-(child|of-type)(?:\\(" + K + "*(even|odd|(([+-]|)(\\d*)n|)" + K + "*(?:([+-]|)" + K + "*(\\d+)|))" + K + "*\\)|)", "i"),
-      bool: new RegExp("^(?:" + J + ")$", "i"),
-      needsContext: new RegExp("^" + K + "*[>+~]|:(even|odd|eq|gt|lt|nth|first|last)(?:\\(" + K + "*((?:-\\d)?\\d*)" + K + "*\\)|)(?=[^-]|$)", "i")
-    },
-        W = /^(?:input|select|textarea|button)$/i,
-        X = /^h\d$/i,
-        Y = /^[^{]+\{\s*\[native \w/,
-        Z = /^(?:#([\w-]+)|(\w+)|\.([\w-]+))$/,
-        $ = /[+~]/,
-        _ = new RegExp("\\\\([\\da-f]{1,6}" + K + "?|(" + K + ")|.)", "ig"),
-        aa = function aa(a, b, c) {
-      var d = "0x" + b - 65536;
-      return d !== d || c ? b : d < 0 ? String.fromCharCode(d + 65536) : String.fromCharCode(d >> 10 | 55296, 1023 & d | 56320);
-    },
-        ba = /([\0-\x1f\x7f]|^-?\d)|^-$|[^\0-\x1f\x7f-\uFFFF\w-]/g,
-        ca = function ca(a, b) {
-      return b ? "\0" === a ? "\uFFFD" : a.slice(0, -1) + "\\" + a.charCodeAt(a.length - 1).toString(16) + " " : "\\" + a;
-    },
-        da = function da() {
-      m();
-    },
-        ea = ta(function (a) {
-      return a.disabled === !0 && ("form" in a || "label" in a);
-    }, {
-      dir: "parentNode",
-      next: "legend"
-    });
-
-    try {
-      G.apply(D = H.call(v.childNodes), v.childNodes), D[v.childNodes.length].nodeType;
-    } catch (fa) {
-      G = {
-        apply: D.length ? function (a, b) {
-          F.apply(a, H.call(b));
-        } : function (a, b) {
-          var c = a.length,
-              d = 0;
-
-          while (a[c++] = b[d++]) {
-            ;
-          }
-
-          a.length = c - 1;
-        }
-      };
-    }
-
-    function ga(a, b, d, e) {
-      var f,
-          h,
-          j,
-          k,
-          l,
-          o,
-          r,
-          s = b && b.ownerDocument,
-          w = b ? b.nodeType : 9;
-      if (d = d || [], "string" != typeof a || !a || 1 !== w && 9 !== w && 11 !== w) return d;
-
-      if (!e && ((b ? b.ownerDocument || b : v) !== n && m(b), b = b || n, p)) {
-        if (11 !== w && (l = Z.exec(a))) if (f = l[1]) {
-          if (9 === w) {
-            if (!(j = b.getElementById(f))) return d;
-            if (j.id === f) return d.push(j), d;
-          } else if (s && (j = s.getElementById(f)) && t(b, j) && j.id === f) return d.push(j), d;
-        } else {
-          if (l[2]) return G.apply(d, b.getElementsByTagName(a)), d;
-          if ((f = l[3]) && c.getElementsByClassName && b.getElementsByClassName) return G.apply(d, b.getElementsByClassName(f)), d;
-        }
-
-        if (c.qsa && !A[a + " "] && (!q || !q.test(a))) {
-          if (1 !== w) s = b, r = a;else if ("object" !== b.nodeName.toLowerCase()) {
-            (k = b.getAttribute("id")) ? k = k.replace(ba, ca) : b.setAttribute("id", k = u), o = g(a), h = o.length;
-
-            while (h--) {
-              o[h] = "#" + k + " " + sa(o[h]);
-            }
-
-            r = o.join(","), s = $.test(a) && qa(b.parentNode) || b;
-          }
-          if (r) try {
-            return G.apply(d, s.querySelectorAll(r)), d;
-          } catch (x) {} finally {
-            k === u && b.removeAttribute("id");
-          }
-        }
-      }
-
-      return i(a.replace(P, "$1"), b, d, e);
-    }
-
-    function ha() {
-      var a = [];
-
-      function b(c, e) {
-        return a.push(c + " ") > d.cacheLength && delete b[a.shift()], b[c + " "] = e;
-      }
-
-      return b;
-    }
-
-    function ia(a) {
-      return a[u] = !0, a;
-    }
-
-    function ja(a) {
-      var b = n.createElement("fieldset");
-
-      try {
-        return !!a(b);
-      } catch (c) {
-        return !1;
-      } finally {
-        b.parentNode && b.parentNode.removeChild(b), b = null;
-      }
-    }
-
-    function ka(a, b) {
-      var c = a.split("|"),
-          e = c.length;
-
-      while (e--) {
-        d.attrHandle[c[e]] = b;
-      }
-    }
-
-    function la(a, b) {
-      var c = b && a,
-          d = c && 1 === a.nodeType && 1 === b.nodeType && a.sourceIndex - b.sourceIndex;
-      if (d) return d;
-      if (c) while (c = c.nextSibling) {
-        if (c === b) return -1;
-      }
-      return a ? 1 : -1;
-    }
-
-    function ma(a) {
-      return function (b) {
-        var c = b.nodeName.toLowerCase();
-        return "input" === c && b.type === a;
-      };
-    }
-
-    function na(a) {
-      return function (b) {
-        var c = b.nodeName.toLowerCase();
-        return ("input" === c || "button" === c) && b.type === a;
-      };
-    }
-
-    function oa(a) {
-      return function (b) {
-        return "form" in b ? b.parentNode && b.disabled === !1 ? "label" in b ? "label" in b.parentNode ? b.parentNode.disabled === a : b.disabled === a : b.isDisabled === a || b.isDisabled !== !a && ea(b) === a : b.disabled === a : "label" in b && b.disabled === a;
-      };
-    }
-
-    function pa(a) {
-      return ia(function (b) {
-        return b = +b, ia(function (c, d) {
-          var e,
-              f = a([], c.length, b),
-              g = f.length;
-
-          while (g--) {
-            c[e = f[g]] && (c[e] = !(d[e] = c[e]));
-          }
-        });
-      });
-    }
-
-    function qa(a) {
-      return a && "undefined" != typeof a.getElementsByTagName && a;
-    }
-
-    c = ga.support = {}, f = ga.isXML = function (a) {
-      var b = a && (a.ownerDocument || a).documentElement;
-      return !!b && "HTML" !== b.nodeName;
-    }, m = ga.setDocument = function (a) {
-      var b,
-          e,
-          g = a ? a.ownerDocument || a : v;
-      return g !== n && 9 === g.nodeType && g.documentElement ? (n = g, o = n.documentElement, p = !f(n), v !== n && (e = n.defaultView) && e.top !== e && (e.addEventListener ? e.addEventListener("unload", da, !1) : e.attachEvent && e.attachEvent("onunload", da)), c.attributes = ja(function (a) {
-        return a.className = "i", !a.getAttribute("className");
-      }), c.getElementsByTagName = ja(function (a) {
-        return a.appendChild(n.createComment("")), !a.getElementsByTagName("*").length;
-      }), c.getElementsByClassName = Y.test(n.getElementsByClassName), c.getById = ja(function (a) {
-        return o.appendChild(a).id = u, !n.getElementsByName || !n.getElementsByName(u).length;
-      }), c.getById ? (d.filter.ID = function (a) {
-        var b = a.replace(_, aa);
-        return function (a) {
-          return a.getAttribute("id") === b;
-        };
-      }, d.find.ID = function (a, b) {
-        if ("undefined" != typeof b.getElementById && p) {
-          var c = b.getElementById(a);
-          return c ? [c] : [];
-        }
-      }) : (d.filter.ID = function (a) {
-        var b = a.replace(_, aa);
-        return function (a) {
-          var c = "undefined" != typeof a.getAttributeNode && a.getAttributeNode("id");
-          return c && c.value === b;
-        };
-      }, d.find.ID = function (a, b) {
-        if ("undefined" != typeof b.getElementById && p) {
-          var c,
-              d,
-              e,
-              f = b.getElementById(a);
-
-          if (f) {
-            if (c = f.getAttributeNode("id"), c && c.value === a) return [f];
-            e = b.getElementsByName(a), d = 0;
-
-            while (f = e[d++]) {
-              if (c = f.getAttributeNode("id"), c && c.value === a) return [f];
-            }
-          }
-
-          return [];
-        }
-      }), d.find.TAG = c.getElementsByTagName ? function (a, b) {
-        return "undefined" != typeof b.getElementsByTagName ? b.getElementsByTagName(a) : c.qsa ? b.querySelectorAll(a) : void 0;
-      } : function (a, b) {
-        var c,
-            d = [],
-            e = 0,
-            f = b.getElementsByTagName(a);
-
-        if ("*" === a) {
-          while (c = f[e++]) {
-            1 === c.nodeType && d.push(c);
-          }
-
-          return d;
-        }
-
-        return f;
-      }, d.find.CLASS = c.getElementsByClassName && function (a, b) {
-        if ("undefined" != typeof b.getElementsByClassName && p) return b.getElementsByClassName(a);
-      }, r = [], q = [], (c.qsa = Y.test(n.querySelectorAll)) && (ja(function (a) {
-        o.appendChild(a).innerHTML = "<a id='" + u + "'></a><select id='" + u + "-\r\\' msallowcapture=''><option selected=''></option></select>", a.querySelectorAll("[msallowcapture^='']").length && q.push("[*^$]=" + K + "*(?:''|\"\")"), a.querySelectorAll("[selected]").length || q.push("\\[" + K + "*(?:value|" + J + ")"), a.querySelectorAll("[id~=" + u + "-]").length || q.push("~="), a.querySelectorAll(":checked").length || q.push(":checked"), a.querySelectorAll("a#" + u + "+*").length || q.push(".#.+[+~]");
-      }), ja(function (a) {
-        a.innerHTML = "<a href='' disabled='disabled'></a><select disabled='disabled'><option/></select>";
-        var b = n.createElement("input");
-        b.setAttribute("type", "hidden"), a.appendChild(b).setAttribute("name", "D"), a.querySelectorAll("[name=d]").length && q.push("name" + K + "*[*^$|!~]?="), 2 !== a.querySelectorAll(":enabled").length && q.push(":enabled", ":disabled"), o.appendChild(a).disabled = !0, 2 !== a.querySelectorAll(":disabled").length && q.push(":enabled", ":disabled"), a.querySelectorAll("*,:x"), q.push(",.*:");
-      })), (c.matchesSelector = Y.test(s = o.matches || o.webkitMatchesSelector || o.mozMatchesSelector || o.oMatchesSelector || o.msMatchesSelector)) && ja(function (a) {
-        c.disconnectedMatch = s.call(a, "*"), s.call(a, "[s!='']:x"), r.push("!=", N);
-      }), q = q.length && new RegExp(q.join("|")), r = r.length && new RegExp(r.join("|")), b = Y.test(o.compareDocumentPosition), t = b || Y.test(o.contains) ? function (a, b) {
-        var c = 9 === a.nodeType ? a.documentElement : a,
-            d = b && b.parentNode;
-        return a === d || !(!d || 1 !== d.nodeType || !(c.contains ? c.contains(d) : a.compareDocumentPosition && 16 & a.compareDocumentPosition(d)));
-      } : function (a, b) {
-        if (b) while (b = b.parentNode) {
-          if (b === a) return !0;
-        }
-        return !1;
-      }, B = b ? function (a, b) {
-        if (a === b) return l = !0, 0;
-        var d = !a.compareDocumentPosition - !b.compareDocumentPosition;
-        return d ? d : (d = (a.ownerDocument || a) === (b.ownerDocument || b) ? a.compareDocumentPosition(b) : 1, 1 & d || !c.sortDetached && b.compareDocumentPosition(a) === d ? a === n || a.ownerDocument === v && t(v, a) ? -1 : b === n || b.ownerDocument === v && t(v, b) ? 1 : k ? I(k, a) - I(k, b) : 0 : 4 & d ? -1 : 1);
-      } : function (a, b) {
-        if (a === b) return l = !0, 0;
-        var c,
-            d = 0,
-            e = a.parentNode,
-            f = b.parentNode,
-            g = [a],
-            h = [b];
-        if (!e || !f) return a === n ? -1 : b === n ? 1 : e ? -1 : f ? 1 : k ? I(k, a) - I(k, b) : 0;
-        if (e === f) return la(a, b);
-        c = a;
-
-        while (c = c.parentNode) {
-          g.unshift(c);
-        }
-
-        c = b;
-
-        while (c = c.parentNode) {
-          h.unshift(c);
-        }
-
-        while (g[d] === h[d]) {
-          d++;
-        }
-
-        return d ? la(g[d], h[d]) : g[d] === v ? -1 : h[d] === v ? 1 : 0;
-      }, n) : n;
-    }, ga.matches = function (a, b) {
-      return ga(a, null, null, b);
-    }, ga.matchesSelector = function (a, b) {
-      if ((a.ownerDocument || a) !== n && m(a), b = b.replace(S, "='$1']"), c.matchesSelector && p && !A[b + " "] && (!r || !r.test(b)) && (!q || !q.test(b))) try {
-        var d = s.call(a, b);
-        if (d || c.disconnectedMatch || a.document && 11 !== a.document.nodeType) return d;
-      } catch (e) {}
-      return ga(b, n, null, [a]).length > 0;
-    }, ga.contains = function (a, b) {
-      return (a.ownerDocument || a) !== n && m(a), t(a, b);
-    }, ga.attr = function (a, b) {
-      (a.ownerDocument || a) !== n && m(a);
-      var e = d.attrHandle[b.toLowerCase()],
-          f = e && C.call(d.attrHandle, b.toLowerCase()) ? e(a, b, !p) : void 0;
-      return void 0 !== f ? f : c.attributes || !p ? a.getAttribute(b) : (f = a.getAttributeNode(b)) && f.specified ? f.value : null;
-    }, ga.escape = function (a) {
-      return (a + "").replace(ba, ca);
-    }, ga.error = function (a) {
-      throw new Error("Syntax error, unrecognized expression: " + a);
-    }, ga.uniqueSort = function (a) {
-      var b,
-          d = [],
-          e = 0,
-          f = 0;
-
-      if (l = !c.detectDuplicates, k = !c.sortStable && a.slice(0), a.sort(B), l) {
-        while (b = a[f++]) {
-          b === a[f] && (e = d.push(f));
-        }
-
-        while (e--) {
-          a.splice(d[e], 1);
-        }
-      }
-
-      return k = null, a;
-    }, e = ga.getText = function (a) {
-      var b,
-          c = "",
-          d = 0,
-          f = a.nodeType;
-
-      if (f) {
-        if (1 === f || 9 === f || 11 === f) {
-          if ("string" == typeof a.textContent) return a.textContent;
-
-          for (a = a.firstChild; a; a = a.nextSibling) {
-            c += e(a);
-          }
-        } else if (3 === f || 4 === f) return a.nodeValue;
-      } else while (b = a[d++]) {
-        c += e(b);
-      }
-
-      return c;
-    }, d = ga.selectors = {
-      cacheLength: 50,
-      createPseudo: ia,
-      match: V,
-      attrHandle: {},
-      find: {},
-      relative: {
-        ">": {
-          dir: "parentNode",
-          first: !0
-        },
-        " ": {
-          dir: "parentNode"
-        },
-        "+": {
-          dir: "previousSibling",
-          first: !0
-        },
-        "~": {
-          dir: "previousSibling"
-        }
-      },
-      preFilter: {
-        ATTR: function ATTR(a) {
-          return a[1] = a[1].replace(_, aa), a[3] = (a[3] || a[4] || a[5] || "").replace(_, aa), "~=" === a[2] && (a[3] = " " + a[3] + " "), a.slice(0, 4);
-        },
-        CHILD: function CHILD(a) {
-          return a[1] = a[1].toLowerCase(), "nth" === a[1].slice(0, 3) ? (a[3] || ga.error(a[0]), a[4] = +(a[4] ? a[5] + (a[6] || 1) : 2 * ("even" === a[3] || "odd" === a[3])), a[5] = +(a[7] + a[8] || "odd" === a[3])) : a[3] && ga.error(a[0]), a;
-        },
-        PSEUDO: function PSEUDO(a) {
-          var b,
-              c = !a[6] && a[2];
-          return V.CHILD.test(a[0]) ? null : (a[3] ? a[2] = a[4] || a[5] || "" : c && T.test(c) && (b = g(c, !0)) && (b = c.indexOf(")", c.length - b) - c.length) && (a[0] = a[0].slice(0, b), a[2] = c.slice(0, b)), a.slice(0, 3));
-        }
-      },
-      filter: {
-        TAG: function TAG(a) {
-          var b = a.replace(_, aa).toLowerCase();
-          return "*" === a ? function () {
-            return !0;
-          } : function (a) {
-            return a.nodeName && a.nodeName.toLowerCase() === b;
-          };
-        },
-        CLASS: function CLASS(a) {
-          var b = y[a + " "];
-          return b || (b = new RegExp("(^|" + K + ")" + a + "(" + K + "|$)")) && y(a, function (a) {
-            return b.test("string" == typeof a.className && a.className || "undefined" != typeof a.getAttribute && a.getAttribute("class") || "");
-          });
-        },
-        ATTR: function ATTR(a, b, c) {
-          return function (d) {
-            var e = ga.attr(d, a);
-            return null == e ? "!=" === b : !b || (e += "", "=" === b ? e === c : "!=" === b ? e !== c : "^=" === b ? c && 0 === e.indexOf(c) : "*=" === b ? c && e.indexOf(c) > -1 : "$=" === b ? c && e.slice(-c.length) === c : "~=" === b ? (" " + e.replace(O, " ") + " ").indexOf(c) > -1 : "|=" === b && (e === c || e.slice(0, c.length + 1) === c + "-"));
-          };
-        },
-        CHILD: function CHILD(a, b, c, d, e) {
-          var f = "nth" !== a.slice(0, 3),
-              g = "last" !== a.slice(-4),
-              h = "of-type" === b;
-          return 1 === d && 0 === e ? function (a) {
-            return !!a.parentNode;
-          } : function (b, c, i) {
-            var j,
-                k,
-                l,
-                m,
-                n,
-                o,
-                p = f !== g ? "nextSibling" : "previousSibling",
-                q = b.parentNode,
-                r = h && b.nodeName.toLowerCase(),
-                s = !i && !h,
-                t = !1;
-
-            if (q) {
-              if (f) {
-                while (p) {
-                  m = b;
-
-                  while (m = m[p]) {
-                    if (h ? m.nodeName.toLowerCase() === r : 1 === m.nodeType) return !1;
-                  }
-
-                  o = p = "only" === a && !o && "nextSibling";
-                }
-
-                return !0;
-              }
-
-              if (o = [g ? q.firstChild : q.lastChild], g && s) {
-                m = q, l = m[u] || (m[u] = {}), k = l[m.uniqueID] || (l[m.uniqueID] = {}), j = k[a] || [], n = j[0] === w && j[1], t = n && j[2], m = n && q.childNodes[n];
-
-                while (m = ++n && m && m[p] || (t = n = 0) || o.pop()) {
-                  if (1 === m.nodeType && ++t && m === b) {
-                    k[a] = [w, n, t];
-                    break;
-                  }
-                }
-              } else if (s && (m = b, l = m[u] || (m[u] = {}), k = l[m.uniqueID] || (l[m.uniqueID] = {}), j = k[a] || [], n = j[0] === w && j[1], t = n), t === !1) while (m = ++n && m && m[p] || (t = n = 0) || o.pop()) {
-                if ((h ? m.nodeName.toLowerCase() === r : 1 === m.nodeType) && ++t && (s && (l = m[u] || (m[u] = {}), k = l[m.uniqueID] || (l[m.uniqueID] = {}), k[a] = [w, t]), m === b)) break;
-              }
-
-              return t -= e, t === d || t % d === 0 && t / d >= 0;
-            }
-          };
-        },
-        PSEUDO: function PSEUDO(a, b) {
-          var c,
-              e = d.pseudos[a] || d.setFilters[a.toLowerCase()] || ga.error("unsupported pseudo: " + a);
-          return e[u] ? e(b) : e.length > 1 ? (c = [a, a, "", b], d.setFilters.hasOwnProperty(a.toLowerCase()) ? ia(function (a, c) {
-            var d,
-                f = e(a, b),
-                g = f.length;
-
-            while (g--) {
-              d = I(a, f[g]), a[d] = !(c[d] = f[g]);
-            }
-          }) : function (a) {
-            return e(a, 0, c);
-          }) : e;
-        }
-      },
-      pseudos: {
-        not: ia(function (a) {
-          var b = [],
-              c = [],
-              d = h(a.replace(P, "$1"));
-          return d[u] ? ia(function (a, b, c, e) {
-            var f,
-                g = d(a, null, e, []),
-                h = a.length;
-
-            while (h--) {
-              (f = g[h]) && (a[h] = !(b[h] = f));
-            }
-          }) : function (a, e, f) {
-            return b[0] = a, d(b, null, f, c), b[0] = null, !c.pop();
-          };
-        }),
-        has: ia(function (a) {
-          return function (b) {
-            return ga(a, b).length > 0;
-          };
-        }),
-        contains: ia(function (a) {
-          return a = a.replace(_, aa), function (b) {
-            return (b.textContent || b.innerText || e(b)).indexOf(a) > -1;
-          };
-        }),
-        lang: ia(function (a) {
-          return U.test(a || "") || ga.error("unsupported lang: " + a), a = a.replace(_, aa).toLowerCase(), function (b) {
-            var c;
-
-            do {
-              if (c = p ? b.lang : b.getAttribute("xml:lang") || b.getAttribute("lang")) return c = c.toLowerCase(), c === a || 0 === c.indexOf(a + "-");
-            } while ((b = b.parentNode) && 1 === b.nodeType);
-
-            return !1;
-          };
-        }),
-        target: function target(b) {
-          var c = a.location && a.location.hash;
-          return c && c.slice(1) === b.id;
-        },
-        root: function root(a) {
-          return a === o;
-        },
-        focus: function focus(a) {
-          return a === n.activeElement && (!n.hasFocus || n.hasFocus()) && !!(a.type || a.href || ~a.tabIndex);
-        },
-        enabled: oa(!1),
-        disabled: oa(!0),
-        checked: function checked(a) {
-          var b = a.nodeName.toLowerCase();
-          return "input" === b && !!a.checked || "option" === b && !!a.selected;
-        },
-        selected: function selected(a) {
-          return a.parentNode && a.parentNode.selectedIndex, a.selected === !0;
-        },
-        empty: function empty(a) {
-          for (a = a.firstChild; a; a = a.nextSibling) {
-            if (a.nodeType < 6) return !1;
-          }
-
-          return !0;
-        },
-        parent: function parent(a) {
-          return !d.pseudos.empty(a);
-        },
-        header: function header(a) {
-          return X.test(a.nodeName);
-        },
-        input: function input(a) {
-          return W.test(a.nodeName);
-        },
-        button: function button(a) {
-          var b = a.nodeName.toLowerCase();
-          return "input" === b && "button" === a.type || "button" === b;
-        },
-        text: function text(a) {
-          var b;
-          return "input" === a.nodeName.toLowerCase() && "text" === a.type && (null == (b = a.getAttribute("type")) || "text" === b.toLowerCase());
-        },
-        first: pa(function () {
-          return [0];
-        }),
-        last: pa(function (a, b) {
-          return [b - 1];
-        }),
-        eq: pa(function (a, b, c) {
-          return [c < 0 ? c + b : c];
-        }),
-        even: pa(function (a, b) {
-          for (var c = 0; c < b; c += 2) {
-            a.push(c);
-          }
-
-          return a;
-        }),
-        odd: pa(function (a, b) {
-          for (var c = 1; c < b; c += 2) {
-            a.push(c);
-          }
-
-          return a;
-        }),
-        lt: pa(function (a, b, c) {
-          for (var d = c < 0 ? c + b : c; --d >= 0;) {
-            a.push(d);
-          }
-
-          return a;
-        }),
-        gt: pa(function (a, b, c) {
-          for (var d = c < 0 ? c + b : c; ++d < b;) {
-            a.push(d);
-          }
-
-          return a;
-        })
-      }
-    }, d.pseudos.nth = d.pseudos.eq;
-
-    for (b in {
-      radio: !0,
-      checkbox: !0,
-      file: !0,
-      password: !0,
-      image: !0
-    }) {
-      d.pseudos[b] = ma(b);
-    }
-
-    for (b in {
-      submit: !0,
-      reset: !0
-    }) {
-      d.pseudos[b] = na(b);
-    }
-
-    function ra() {}
-
-    ra.prototype = d.filters = d.pseudos, d.setFilters = new ra(), g = ga.tokenize = function (a, b) {
-      var c,
-          e,
-          f,
-          g,
-          h,
-          i,
-          j,
-          k = z[a + " "];
-      if (k) return b ? 0 : k.slice(0);
-      h = a, i = [], j = d.preFilter;
-
-      while (h) {
-        c && !(e = Q.exec(h)) || (e && (h = h.slice(e[0].length) || h), i.push(f = [])), c = !1, (e = R.exec(h)) && (c = e.shift(), f.push({
-          value: c,
-          type: e[0].replace(P, " ")
-        }), h = h.slice(c.length));
-
-        for (g in d.filter) {
-          !(e = V[g].exec(h)) || j[g] && !(e = j[g](e)) || (c = e.shift(), f.push({
-            value: c,
-            type: g,
-            matches: e
-          }), h = h.slice(c.length));
-        }
-
-        if (!c) break;
-      }
-
-      return b ? h.length : h ? ga.error(a) : z(a, i).slice(0);
-    };
-
-    function sa(a) {
-      for (var b = 0, c = a.length, d = ""; b < c; b++) {
-        d += a[b].value;
-      }
-
-      return d;
-    }
-
-    function ta(a, b, c) {
-      var d = b.dir,
-          e = b.next,
-          f = e || d,
-          g = c && "parentNode" === f,
-          h = x++;
-      return b.first ? function (b, c, e) {
-        while (b = b[d]) {
-          if (1 === b.nodeType || g) return a(b, c, e);
-        }
-
-        return !1;
-      } : function (b, c, i) {
-        var j,
-            k,
-            l,
-            m = [w, h];
-
-        if (i) {
-          while (b = b[d]) {
-            if ((1 === b.nodeType || g) && a(b, c, i)) return !0;
-          }
-        } else while (b = b[d]) {
-          if (1 === b.nodeType || g) if (l = b[u] || (b[u] = {}), k = l[b.uniqueID] || (l[b.uniqueID] = {}), e && e === b.nodeName.toLowerCase()) b = b[d] || b;else {
-            if ((j = k[f]) && j[0] === w && j[1] === h) return m[2] = j[2];
-            if (k[f] = m, m[2] = a(b, c, i)) return !0;
-          }
-        }
-
-        return !1;
-      };
-    }
-
-    function ua(a) {
-      return a.length > 1 ? function (b, c, d) {
-        var e = a.length;
-
-        while (e--) {
-          if (!a[e](b, c, d)) return !1;
-        }
-
-        return !0;
-      } : a[0];
-    }
-
-    function va(a, b, c) {
-      for (var d = 0, e = b.length; d < e; d++) {
-        ga(a, b[d], c);
-      }
-
-      return c;
-    }
-
-    function wa(a, b, c, d, e) {
-      for (var f, g = [], h = 0, i = a.length, j = null != b; h < i; h++) {
-        (f = a[h]) && (c && !c(f, d, e) || (g.push(f), j && b.push(h)));
-      }
-
-      return g;
-    }
-
-    function xa(a, b, c, d, e, f) {
-      return d && !d[u] && (d = xa(d)), e && !e[u] && (e = xa(e, f)), ia(function (f, g, h, i) {
-        var j,
-            k,
-            l,
-            m = [],
-            n = [],
-            o = g.length,
-            p = f || va(b || "*", h.nodeType ? [h] : h, []),
-            q = !a || !f && b ? p : wa(p, m, a, h, i),
-            r = c ? e || (f ? a : o || d) ? [] : g : q;
-
-        if (c && c(q, r, h, i), d) {
-          j = wa(r, n), d(j, [], h, i), k = j.length;
-
-          while (k--) {
-            (l = j[k]) && (r[n[k]] = !(q[n[k]] = l));
-          }
-        }
-
-        if (f) {
-          if (e || a) {
-            if (e) {
-              j = [], k = r.length;
-
-              while (k--) {
-                (l = r[k]) && j.push(q[k] = l);
-              }
-
-              e(null, r = [], j, i);
-            }
-
-            k = r.length;
-
-            while (k--) {
-              (l = r[k]) && (j = e ? I(f, l) : m[k]) > -1 && (f[j] = !(g[j] = l));
-            }
-          }
-        } else r = wa(r === g ? r.splice(o, r.length) : r), e ? e(null, g, r, i) : G.apply(g, r);
-      });
-    }
-
-    function ya(a) {
-      for (var b, c, e, f = a.length, g = d.relative[a[0].type], h = g || d.relative[" "], i = g ? 1 : 0, k = ta(function (a) {
-        return a === b;
-      }, h, !0), l = ta(function (a) {
-        return I(b, a) > -1;
-      }, h, !0), m = [function (a, c, d) {
-        var e = !g && (d || c !== j) || ((b = c).nodeType ? k(a, c, d) : l(a, c, d));
-        return b = null, e;
-      }]; i < f; i++) {
-        if (c = d.relative[a[i].type]) m = [ta(ua(m), c)];else {
-          if (c = d.filter[a[i].type].apply(null, a[i].matches), c[u]) {
-            for (e = ++i; e < f; e++) {
-              if (d.relative[a[e].type]) break;
-            }
-
-            return xa(i > 1 && ua(m), i > 1 && sa(a.slice(0, i - 1).concat({
-              value: " " === a[i - 2].type ? "*" : ""
-            })).replace(P, "$1"), c, i < e && ya(a.slice(i, e)), e < f && ya(a = a.slice(e)), e < f && sa(a));
-          }
-
-          m.push(c);
-        }
-      }
-
-      return ua(m);
-    }
-
-    function za(a, b) {
-      var c = b.length > 0,
-          e = a.length > 0,
-          f = function f(_f, g, h, i, k) {
-        var l,
-            o,
-            q,
-            r = 0,
-            s = "0",
-            t = _f && [],
-            u = [],
-            v = j,
-            x = _f || e && d.find.TAG("*", k),
-            y = w += null == v ? 1 : Math.random() || .1,
-            z = x.length;
-
-        for (k && (j = g === n || g || k); s !== z && null != (l = x[s]); s++) {
-          if (e && l) {
-            o = 0, g || l.ownerDocument === n || (m(l), h = !p);
-
-            while (q = a[o++]) {
-              if (q(l, g || n, h)) {
-                i.push(l);
-                break;
-              }
-            }
-
-            k && (w = y);
-          }
-
-          c && ((l = !q && l) && r--, _f && t.push(l));
-        }
-
-        if (r += s, c && s !== r) {
-          o = 0;
-
-          while (q = b[o++]) {
-            q(t, u, g, h);
-          }
-
-          if (_f) {
-            if (r > 0) while (s--) {
-              t[s] || u[s] || (u[s] = E.call(i));
-            }
-            u = wa(u);
-          }
-
-          G.apply(i, u), k && !_f && u.length > 0 && r + b.length > 1 && ga.uniqueSort(i);
-        }
-
-        return k && (w = y, j = v), t;
-      };
-
-      return c ? ia(f) : f;
-    }
-
-    return h = ga.compile = function (a, b) {
-      var c,
-          d = [],
-          e = [],
-          f = A[a + " "];
-
-      if (!f) {
-        b || (b = g(a)), c = b.length;
-
-        while (c--) {
-          f = ya(b[c]), f[u] ? d.push(f) : e.push(f);
-        }
-
-        f = A(a, za(e, d)), f.selector = a;
-      }
-
-      return f;
-    }, i = ga.select = function (a, b, c, e) {
-      var f,
-          i,
-          j,
-          k,
-          l,
-          m = "function" == typeof a && a,
-          n = !e && g(a = m.selector || a);
-
-      if (c = c || [], 1 === n.length) {
-        if (i = n[0] = n[0].slice(0), i.length > 2 && "ID" === (j = i[0]).type && 9 === b.nodeType && p && d.relative[i[1].type]) {
-          if (b = (d.find.ID(j.matches[0].replace(_, aa), b) || [])[0], !b) return c;
-          m && (b = b.parentNode), a = a.slice(i.shift().value.length);
-        }
-
-        f = V.needsContext.test(a) ? 0 : i.length;
-
-        while (f--) {
-          if (j = i[f], d.relative[k = j.type]) break;
-
-          if ((l = d.find[k]) && (e = l(j.matches[0].replace(_, aa), $.test(i[0].type) && qa(b.parentNode) || b))) {
-            if (i.splice(f, 1), a = e.length && sa(i), !a) return G.apply(c, e), c;
-            break;
-          }
-        }
-      }
-
-      return (m || h(a, n))(e, b, !p, c, !b || $.test(a) && qa(b.parentNode) || b), c;
-    }, c.sortStable = u.split("").sort(B).join("") === u, c.detectDuplicates = !!l, m(), c.sortDetached = ja(function (a) {
-      return 1 & a.compareDocumentPosition(n.createElement("fieldset"));
-    }), ja(function (a) {
-      return a.innerHTML = "<a href='#'></a>", "#" === a.firstChild.getAttribute("href");
-    }) || ka("type|href|height|width", function (a, b, c) {
-      if (!c) return a.getAttribute(b, "type" === b.toLowerCase() ? 1 : 2);
-    }), c.attributes && ja(function (a) {
-      return a.innerHTML = "<input/>", a.firstChild.setAttribute("value", ""), "" === a.firstChild.getAttribute("value");
-    }) || ka("value", function (a, b, c) {
-      if (!c && "input" === a.nodeName.toLowerCase()) return a.defaultValue;
-    }), ja(function (a) {
-      return null == a.getAttribute("disabled");
-    }) || ka(J, function (a, b, c) {
-      var d;
-      if (!c) return a[b] === !0 ? b.toLowerCase() : (d = a.getAttributeNode(b)) && d.specified ? d.value : null;
-    }), ga;
-  }(a);
-
-  r.find = x, r.expr = x.selectors, r.expr[":"] = r.expr.pseudos, r.uniqueSort = r.unique = x.uniqueSort, r.text = x.getText, r.isXMLDoc = x.isXML, r.contains = x.contains, r.escapeSelector = x.escape;
-
-  var y = function y(a, b, c) {
-    var d = [],
-        e = void 0 !== c;
-
-    while ((a = a[b]) && 9 !== a.nodeType) {
-      if (1 === a.nodeType) {
-        if (e && r(a).is(c)) break;
-        d.push(a);
-      }
-    }
-
-    return d;
-  },
-      z = function z(a, b) {
-    for (var c = []; a; a = a.nextSibling) {
-      1 === a.nodeType && a !== b && c.push(a);
-    }
-
-    return c;
-  },
-      A = r.expr.match.needsContext;
-
-  function B(a, b) {
-    return a.nodeName && a.nodeName.toLowerCase() === b.toLowerCase();
-  }
-
-  var C = /^<([a-z][^\/\0>:\x20\t\r\n\f]*)[\x20\t\r\n\f]*\/?>(?:<\/\1>|)$/i,
-      D = /^.[^:#\[\.,]*$/;
-
-  function E(a, b, c) {
-    return r.isFunction(b) ? r.grep(a, function (a, d) {
-      return !!b.call(a, d, a) !== c;
-    }) : b.nodeType ? r.grep(a, function (a) {
-      return a === b !== c;
-    }) : "string" != typeof b ? r.grep(a, function (a) {
-      return i.call(b, a) > -1 !== c;
-    }) : D.test(b) ? r.filter(b, a, c) : (b = r.filter(b, a), r.grep(a, function (a) {
-      return i.call(b, a) > -1 !== c && 1 === a.nodeType;
-    }));
-  }
-
-  r.filter = function (a, b, c) {
-    var d = b[0];
-    return c && (a = ":not(" + a + ")"), 1 === b.length && 1 === d.nodeType ? r.find.matchesSelector(d, a) ? [d] : [] : r.find.matches(a, r.grep(b, function (a) {
-      return 1 === a.nodeType;
-    }));
-  }, r.fn.extend({
-    find: function find(a) {
-      var b,
-          c,
-          d = this.length,
-          e = this;
-      if ("string" != typeof a) return this.pushStack(r(a).filter(function () {
-        for (b = 0; b < d; b++) {
-          if (r.contains(e[b], this)) return !0;
-        }
-      }));
-
-      for (c = this.pushStack([]), b = 0; b < d; b++) {
-        r.find(a, e[b], c);
-      }
-
-      return d > 1 ? r.uniqueSort(c) : c;
-    },
-    filter: function filter(a) {
-      return this.pushStack(E(this, a || [], !1));
-    },
-    not: function not(a) {
-      return this.pushStack(E(this, a || [], !0));
-    },
-    is: function is(a) {
-      return !!E(this, "string" == typeof a && A.test(a) ? r(a) : a || [], !1).length;
-    }
-  });
-
-  var F,
-      G = /^(?:\s*(<[\w\W]+>)[^>]*|#([\w-]+))$/,
-      H = r.fn.init = function (a, b, c) {
-    var e, f;
-    if (!a) return this;
-
-    if (c = c || F, "string" == typeof a) {
-      if (e = "<" === a[0] && ">" === a[a.length - 1] && a.length >= 3 ? [null, a, null] : G.exec(a), !e || !e[1] && b) return !b || b.jquery ? (b || c).find(a) : this.constructor(b).find(a);
-
-      if (e[1]) {
-        if (b = b instanceof r ? b[0] : b, r.merge(this, r.parseHTML(e[1], b && b.nodeType ? b.ownerDocument || b : d, !0)), C.test(e[1]) && r.isPlainObject(b)) for (e in b) {
-          r.isFunction(this[e]) ? this[e](b[e]) : this.attr(e, b[e]);
-        }
-        return this;
-      }
-
-      return f = d.getElementById(e[2]), f && (this[0] = f, this.length = 1), this;
-    }
-
-    return a.nodeType ? (this[0] = a, this.length = 1, this) : r.isFunction(a) ? void 0 !== c.ready ? c.ready(a) : a(r) : r.makeArray(a, this);
-  };
-
-  H.prototype = r.fn, F = r(d);
-  var I = /^(?:parents|prev(?:Until|All))/,
-      J = {
-    children: !0,
-    contents: !0,
-    next: !0,
-    prev: !0
-  };
-  r.fn.extend({
-    has: function has(a) {
-      var b = r(a, this),
-          c = b.length;
-      return this.filter(function () {
-        for (var a = 0; a < c; a++) {
-          if (r.contains(this, b[a])) return !0;
-        }
-      });
-    },
-    closest: function closest(a, b) {
-      var c,
-          d = 0,
-          e = this.length,
-          f = [],
-          g = "string" != typeof a && r(a);
-      if (!A.test(a)) for (; d < e; d++) {
-        for (c = this[d]; c && c !== b; c = c.parentNode) {
-          if (c.nodeType < 11 && (g ? g.index(c) > -1 : 1 === c.nodeType && r.find.matchesSelector(c, a))) {
-            f.push(c);
-            break;
-          }
-        }
-      }
-      return this.pushStack(f.length > 1 ? r.uniqueSort(f) : f);
-    },
-    index: function index(a) {
-      return a ? "string" == typeof a ? i.call(r(a), this[0]) : i.call(this, a.jquery ? a[0] : a) : this[0] && this[0].parentNode ? this.first().prevAll().length : -1;
-    },
-    add: function add(a, b) {
-      return this.pushStack(r.uniqueSort(r.merge(this.get(), r(a, b))));
-    },
-    addBack: function addBack(a) {
-      return this.add(null == a ? this.prevObject : this.prevObject.filter(a));
-    }
-  });
-
-  function K(a, b) {
-    while ((a = a[b]) && 1 !== a.nodeType) {
-      ;
-    }
-
-    return a;
-  }
-
-  r.each({
-    parent: function parent(a) {
-      var b = a.parentNode;
-      return b && 11 !== b.nodeType ? b : null;
-    },
-    parents: function parents(a) {
-      return y(a, "parentNode");
-    },
-    parentsUntil: function parentsUntil(a, b, c) {
-      return y(a, "parentNode", c);
-    },
-    next: function next(a) {
-      return K(a, "nextSibling");
-    },
-    prev: function prev(a) {
-      return K(a, "previousSibling");
-    },
-    nextAll: function nextAll(a) {
-      return y(a, "nextSibling");
-    },
-    prevAll: function prevAll(a) {
-      return y(a, "previousSibling");
-    },
-    nextUntil: function nextUntil(a, b, c) {
-      return y(a, "nextSibling", c);
-    },
-    prevUntil: function prevUntil(a, b, c) {
-      return y(a, "previousSibling", c);
-    },
-    siblings: function siblings(a) {
-      return z((a.parentNode || {}).firstChild, a);
-    },
-    children: function children(a) {
-      return z(a.firstChild);
-    },
-    contents: function contents(a) {
-      return B(a, "iframe") ? a.contentDocument : (B(a, "template") && (a = a.content || a), r.merge([], a.childNodes));
-    }
-  }, function (a, b) {
-    r.fn[a] = function (c, d) {
-      var e = r.map(this, b, c);
-      return "Until" !== a.slice(-5) && (d = c), d && "string" == typeof d && (e = r.filter(d, e)), this.length > 1 && (J[a] || r.uniqueSort(e), I.test(a) && e.reverse()), this.pushStack(e);
-    };
-  });
-  var L = /[^\x20\t\r\n\f]+/g;
-
-  function M(a) {
-    var b = {};
-    return r.each(a.match(L) || [], function (a, c) {
-      b[c] = !0;
-    }), b;
-  }
-
-  r.Callbacks = function (a) {
-    a = "string" == typeof a ? M(a) : r.extend({}, a);
-
-    var b,
-        c,
-        d,
-        e,
-        f = [],
-        g = [],
-        h = -1,
-        i = function i() {
-      for (e = e || a.once, d = b = !0; g.length; h = -1) {
-        c = g.shift();
-
-        while (++h < f.length) {
-          f[h].apply(c[0], c[1]) === !1 && a.stopOnFalse && (h = f.length, c = !1);
-        }
-      }
-
-      a.memory || (c = !1), b = !1, e && (f = c ? [] : "");
-    },
-        j = {
-      add: function add() {
-        return f && (c && !b && (h = f.length - 1, g.push(c)), function d(b) {
-          r.each(b, function (b, c) {
-            r.isFunction(c) ? a.unique && j.has(c) || f.push(c) : c && c.length && "string" !== r.type(c) && d(c);
-          });
-        }(arguments), c && !b && i()), this;
-      },
-      remove: function remove() {
-        return r.each(arguments, function (a, b) {
-          var c;
-
-          while ((c = r.inArray(b, f, c)) > -1) {
-            f.splice(c, 1), c <= h && h--;
-          }
-        }), this;
-      },
-      has: function has(a) {
-        return a ? r.inArray(a, f) > -1 : f.length > 0;
-      },
-      empty: function empty() {
-        return f && (f = []), this;
-      },
-      disable: function disable() {
-        return e = g = [], f = c = "", this;
-      },
-      disabled: function disabled() {
-        return !f;
-      },
-      lock: function lock() {
-        return e = g = [], c || b || (f = c = ""), this;
-      },
-      locked: function locked() {
-        return !!e;
-      },
-      fireWith: function fireWith(a, c) {
-        return e || (c = c || [], c = [a, c.slice ? c.slice() : c], g.push(c), b || i()), this;
-      },
-      fire: function fire() {
-        return j.fireWith(this, arguments), this;
-      },
-      fired: function fired() {
-        return !!d;
-      }
-    };
-
-    return j;
-  };
-
-  function N(a) {
-    return a;
-  }
-
-  function O(a) {
-    throw a;
-  }
-
-  function P(a, b, c, d) {
-    var e;
-
-    try {
-      a && r.isFunction(e = a.promise) ? e.call(a).done(b).fail(c) : a && r.isFunction(e = a.then) ? e.call(a, b, c) : b.apply(void 0, [a].slice(d));
-    } catch (a) {
-      c.apply(void 0, [a]);
-    }
-  }
-
-  r.extend({
-    Deferred: function Deferred(b) {
-      var c = [["notify", "progress", r.Callbacks("memory"), r.Callbacks("memory"), 2], ["resolve", "done", r.Callbacks("once memory"), r.Callbacks("once memory"), 0, "resolved"], ["reject", "fail", r.Callbacks("once memory"), r.Callbacks("once memory"), 1, "rejected"]],
-          d = "pending",
-          e = {
-        state: function state() {
-          return d;
-        },
-        always: function always() {
-          return f.done(arguments).fail(arguments), this;
-        },
-        "catch": function _catch(a) {
-          return e.then(null, a);
-        },
-        pipe: function pipe() {
-          var a = arguments;
-          return r.Deferred(function (b) {
-            r.each(c, function (c, d) {
-              var e = r.isFunction(a[d[4]]) && a[d[4]];
-              f[d[1]](function () {
-                var a = e && e.apply(this, arguments);
-                a && r.isFunction(a.promise) ? a.promise().progress(b.notify).done(b.resolve).fail(b.reject) : b[d[0] + "With"](this, e ? [a] : arguments);
-              });
-            }), a = null;
-          }).promise();
-        },
-        then: function then(b, d, e) {
-          var f = 0;
-
-          function g(b, c, d, e) {
-            return function () {
-              var h = this,
-                  i = arguments,
-                  j = function j() {
-                var a, j;
-
-                if (!(b < f)) {
-                  if (a = d.apply(h, i), a === c.promise()) throw new TypeError("Thenable self-resolution");
-                  j = a && ("object" == _typeof(a) || "function" == typeof a) && a.then, r.isFunction(j) ? e ? j.call(a, g(f, c, N, e), g(f, c, O, e)) : (f++, j.call(a, g(f, c, N, e), g(f, c, O, e), g(f, c, N, c.notifyWith))) : (d !== N && (h = void 0, i = [a]), (e || c.resolveWith)(h, i));
-                }
-              },
-                  k = e ? j : function () {
-                try {
-                  j();
-                } catch (a) {
-                  r.Deferred.exceptionHook && r.Deferred.exceptionHook(a, k.stackTrace), b + 1 >= f && (d !== O && (h = void 0, i = [a]), c.rejectWith(h, i));
-                }
-              };
-
-              b ? k() : (r.Deferred.getStackHook && (k.stackTrace = r.Deferred.getStackHook()), a.setTimeout(k));
-            };
-          }
-
-          return r.Deferred(function (a) {
-            c[0][3].add(g(0, a, r.isFunction(e) ? e : N, a.notifyWith)), c[1][3].add(g(0, a, r.isFunction(b) ? b : N)), c[2][3].add(g(0, a, r.isFunction(d) ? d : O));
-          }).promise();
-        },
-        promise: function promise(a) {
-          return null != a ? r.extend(a, e) : e;
-        }
-      },
-          f = {};
-      return r.each(c, function (a, b) {
-        var g = b[2],
-            h = b[5];
-        e[b[1]] = g.add, h && g.add(function () {
-          d = h;
-        }, c[3 - a][2].disable, c[0][2].lock), g.add(b[3].fire), f[b[0]] = function () {
-          return f[b[0] + "With"](this === f ? void 0 : this, arguments), this;
-        }, f[b[0] + "With"] = g.fireWith;
-      }), e.promise(f), b && b.call(f, f), f;
-    },
-    when: function when(a) {
-      var b = arguments.length,
-          c = b,
-          d = Array(c),
-          e = f.call(arguments),
-          g = r.Deferred(),
-          h = function h(a) {
-        return function (c) {
-          d[a] = this, e[a] = arguments.length > 1 ? f.call(arguments) : c, --b || g.resolveWith(d, e);
-        };
-      };
-
-      if (b <= 1 && (P(a, g.done(h(c)).resolve, g.reject, !b), "pending" === g.state() || r.isFunction(e[c] && e[c].then))) return g.then();
-
-      while (c--) {
-        P(e[c], h(c), g.reject);
-      }
-
-      return g.promise();
-    }
-  });
-  var Q = /^(Eval|Internal|Range|Reference|Syntax|Type|URI)Error$/;
-  r.Deferred.exceptionHook = function (b, c) {
-    a.console && a.console.warn && b && Q.test(b.name) && a.console.warn("jQuery.Deferred exception: " + b.message, b.stack, c);
-  }, r.readyException = function (b) {
-    a.setTimeout(function () {
-      throw b;
-    });
-  };
-  var R = r.Deferred();
-  r.fn.ready = function (a) {
-    return R.then(a)["catch"](function (a) {
-      r.readyException(a);
-    }), this;
-  }, r.extend({
-    isReady: !1,
-    readyWait: 1,
-    ready: function ready(a) {
-      (a === !0 ? --r.readyWait : r.isReady) || (r.isReady = !0, a !== !0 && --r.readyWait > 0 || R.resolveWith(d, [r]));
-    }
-  }), r.ready.then = R.then;
-
-  function S() {
-    d.removeEventListener("DOMContentLoaded", S), a.removeEventListener("load", S), r.ready();
-  }
-
-  "complete" === d.readyState || "loading" !== d.readyState && !d.documentElement.doScroll ? a.setTimeout(r.ready) : (d.addEventListener("DOMContentLoaded", S), a.addEventListener("load", S));
-
-  var T = function T(a, b, c, d, e, f, g) {
-    var h = 0,
-        i = a.length,
-        j = null == c;
-
-    if ("object" === r.type(c)) {
-      e = !0;
-
-      for (h in c) {
-        T(a, b, h, c[h], !0, f, g);
-      }
-    } else if (void 0 !== d && (e = !0, r.isFunction(d) || (g = !0), j && (g ? (b.call(a, d), b = null) : (j = b, b = function b(a, _b, c) {
-      return j.call(r(a), c);
-    })), b)) for (; h < i; h++) {
-      b(a[h], c, g ? d : d.call(a[h], h, b(a[h], c)));
-    }
-
-    return e ? a : j ? b.call(a) : i ? b(a[0], c) : f;
-  },
-      U = function U(a) {
-    return 1 === a.nodeType || 9 === a.nodeType || !+a.nodeType;
-  };
-
-  function V() {
-    this.expando = r.expando + V.uid++;
-  }
-
-  V.uid = 1, V.prototype = {
-    cache: function cache(a) {
-      var b = a[this.expando];
-      return b || (b = {}, U(a) && (a.nodeType ? a[this.expando] = b : Object.defineProperty(a, this.expando, {
-        value: b,
-        configurable: !0
-      }))), b;
-    },
-    set: function set(a, b, c) {
-      var d,
-          e = this.cache(a);
-      if ("string" == typeof b) e[r.camelCase(b)] = c;else for (d in b) {
-        e[r.camelCase(d)] = b[d];
-      }
-      return e;
-    },
-    get: function get(a, b) {
-      return void 0 === b ? this.cache(a) : a[this.expando] && a[this.expando][r.camelCase(b)];
-    },
-    access: function access(a, b, c) {
-      return void 0 === b || b && "string" == typeof b && void 0 === c ? this.get(a, b) : (this.set(a, b, c), void 0 !== c ? c : b);
-    },
-    remove: function remove(a, b) {
-      var c,
-          d = a[this.expando];
-
-      if (void 0 !== d) {
-        if (void 0 !== b) {
-          Array.isArray(b) ? b = b.map(r.camelCase) : (b = r.camelCase(b), b = b in d ? [b] : b.match(L) || []), c = b.length;
-
-          while (c--) {
-            delete d[b[c]];
-          }
-        }
-
-        (void 0 === b || r.isEmptyObject(d)) && (a.nodeType ? a[this.expando] = void 0 : delete a[this.expando]);
-      }
-    },
-    hasData: function hasData(a) {
-      var b = a[this.expando];
-      return void 0 !== b && !r.isEmptyObject(b);
-    }
-  };
-  var W = new V(),
-      X = new V(),
-      Y = /^(?:\{[\w\W]*\}|\[[\w\W]*\])$/,
-      Z = /[A-Z]/g;
-
-  function $(a) {
-    return "true" === a || "false" !== a && ("null" === a ? null : a === +a + "" ? +a : Y.test(a) ? JSON.parse(a) : a);
-  }
-
-  function _(a, b, c) {
-    var d;
-    if (void 0 === c && 1 === a.nodeType) if (d = "data-" + b.replace(Z, "-$&").toLowerCase(), c = a.getAttribute(d), "string" == typeof c) {
-      try {
-        c = $(c);
-      } catch (e) {}
-
-      X.set(a, b, c);
-    } else c = void 0;
-    return c;
-  }
-
-  r.extend({
-    hasData: function hasData(a) {
-      return X.hasData(a) || W.hasData(a);
-    },
-    data: function data(a, b, c) {
-      return X.access(a, b, c);
-    },
-    removeData: function removeData(a, b) {
-      X.remove(a, b);
-    },
-    _data: function _data(a, b, c) {
-      return W.access(a, b, c);
-    },
-    _removeData: function _removeData(a, b) {
-      W.remove(a, b);
-    }
-  }), r.fn.extend({
-    data: function data(a, b) {
-      var c,
-          d,
-          e,
-          f = this[0],
-          g = f && f.attributes;
-
-      if (void 0 === a) {
-        if (this.length && (e = X.get(f), 1 === f.nodeType && !W.get(f, "hasDataAttrs"))) {
-          c = g.length;
-
-          while (c--) {
-            g[c] && (d = g[c].name, 0 === d.indexOf("data-") && (d = r.camelCase(d.slice(5)), _(f, d, e[d])));
-          }
-
-          W.set(f, "hasDataAttrs", !0);
-        }
-
-        return e;
-      }
-
-      return "object" == _typeof(a) ? this.each(function () {
-        X.set(this, a);
-      }) : T(this, function (b) {
-        var c;
-
-        if (f && void 0 === b) {
-          if (c = X.get(f, a), void 0 !== c) return c;
-          if (c = _(f, a), void 0 !== c) return c;
-        } else this.each(function () {
-          X.set(this, a, b);
-        });
-      }, null, b, arguments.length > 1, null, !0);
-    },
-    removeData: function removeData(a) {
-      return this.each(function () {
-        X.remove(this, a);
-      });
-    }
-  }), r.extend({
-    queue: function queue(a, b, c) {
-      var d;
-      if (a) return b = (b || "fx") + "queue", d = W.get(a, b), c && (!d || Array.isArray(c) ? d = W.access(a, b, r.makeArray(c)) : d.push(c)), d || [];
-    },
-    dequeue: function dequeue(a, b) {
-      b = b || "fx";
-
-      var c = r.queue(a, b),
-          d = c.length,
-          e = c.shift(),
-          f = r._queueHooks(a, b),
-          g = function g() {
-        r.dequeue(a, b);
-      };
-
-      "inprogress" === e && (e = c.shift(), d--), e && ("fx" === b && c.unshift("inprogress"), delete f.stop, e.call(a, g, f)), !d && f && f.empty.fire();
-    },
-    _queueHooks: function _queueHooks(a, b) {
-      var c = b + "queueHooks";
-      return W.get(a, c) || W.access(a, c, {
-        empty: r.Callbacks("once memory").add(function () {
-          W.remove(a, [b + "queue", c]);
-        })
-      });
-    }
-  }), r.fn.extend({
-    queue: function queue(a, b) {
-      var c = 2;
-      return "string" != typeof a && (b = a, a = "fx", c--), arguments.length < c ? r.queue(this[0], a) : void 0 === b ? this : this.each(function () {
-        var c = r.queue(this, a, b);
-        r._queueHooks(this, a), "fx" === a && "inprogress" !== c[0] && r.dequeue(this, a);
-      });
-    },
-    dequeue: function dequeue(a) {
-      return this.each(function () {
-        r.dequeue(this, a);
-      });
-    },
-    clearQueue: function clearQueue(a) {
-      return this.queue(a || "fx", []);
-    },
-    promise: function promise(a, b) {
-      var c,
-          d = 1,
-          e = r.Deferred(),
-          f = this,
-          g = this.length,
-          h = function h() {
-        --d || e.resolveWith(f, [f]);
-      };
-
-      "string" != typeof a && (b = a, a = void 0), a = a || "fx";
-
-      while (g--) {
-        c = W.get(f[g], a + "queueHooks"), c && c.empty && (d++, c.empty.add(h));
-      }
-
-      return h(), e.promise(b);
-    }
-  });
-
-  var aa = /[+-]?(?:\d*\.|)\d+(?:[eE][+-]?\d+|)/.source,
-      ba = new RegExp("^(?:([+-])=|)(" + aa + ")([a-z%]*)$", "i"),
-      ca = ["Top", "Right", "Bottom", "Left"],
-      da = function da(a, b) {
-    return a = b || a, "none" === a.style.display || "" === a.style.display && r.contains(a.ownerDocument, a) && "none" === r.css(a, "display");
-  },
-      ea = function ea(a, b, c, d) {
-    var e,
-        f,
-        g = {};
-
-    for (f in b) {
-      g[f] = a.style[f], a.style[f] = b[f];
-    }
-
-    e = c.apply(a, d || []);
-
-    for (f in b) {
-      a.style[f] = g[f];
-    }
-
-    return e;
-  };
-
-  function fa(a, b, c, d) {
-    var e,
-        f = 1,
-        g = 20,
-        h = d ? function () {
-      return d.cur();
-    } : function () {
-      return r.css(a, b, "");
-    },
-        i = h(),
-        j = c && c[3] || (r.cssNumber[b] ? "" : "px"),
-        k = (r.cssNumber[b] || "px" !== j && +i) && ba.exec(r.css(a, b));
-
-    if (k && k[3] !== j) {
-      j = j || k[3], c = c || [], k = +i || 1;
-
-      do {
-        f = f || ".5", k /= f, r.style(a, b, k + j);
-      } while (f !== (f = h() / i) && 1 !== f && --g);
-    }
-
-    return c && (k = +k || +i || 0, e = c[1] ? k + (c[1] + 1) * c[2] : +c[2], d && (d.unit = j, d.start = k, d.end = e)), e;
-  }
-
-  var ga = {};
-
-  function ha(a) {
-    var b,
-        c = a.ownerDocument,
-        d = a.nodeName,
-        e = ga[d];
-    return e ? e : (b = c.body.appendChild(c.createElement(d)), e = r.css(b, "display"), b.parentNode.removeChild(b), "none" === e && (e = "block"), ga[d] = e, e);
-  }
-
-  function ia(a, b) {
-    for (var c, d, e = [], f = 0, g = a.length; f < g; f++) {
-      d = a[f], d.style && (c = d.style.display, b ? ("none" === c && (e[f] = W.get(d, "display") || null, e[f] || (d.style.display = "")), "" === d.style.display && da(d) && (e[f] = ha(d))) : "none" !== c && (e[f] = "none", W.set(d, "display", c)));
-    }
-
-    for (f = 0; f < g; f++) {
-      null != e[f] && (a[f].style.display = e[f]);
-    }
-
-    return a;
-  }
-
-  r.fn.extend({
-    show: function show() {
-      return ia(this, !0);
-    },
-    hide: function hide() {
-      return ia(this);
-    },
-    toggle: function toggle(a) {
-      return "boolean" == typeof a ? a ? this.show() : this.hide() : this.each(function () {
-        da(this) ? r(this).show() : r(this).hide();
-      });
-    }
-  });
-  var ja = /^(?:checkbox|radio)$/i,
-      ka = /<([a-z][^\/\0>\x20\t\r\n\f]+)/i,
-      la = /^$|\/(?:java|ecma)script/i,
-      ma = {
-    option: [1, "<select multiple='multiple'>", "</select>"],
-    thead: [1, "<table>", "</table>"],
-    col: [2, "<table><colgroup>", "</colgroup></table>"],
-    tr: [2, "<table><tbody>", "</tbody></table>"],
-    td: [3, "<table><tbody><tr>", "</tr></tbody></table>"],
-    _default: [0, "", ""]
-  };
-  ma.optgroup = ma.option, ma.tbody = ma.tfoot = ma.colgroup = ma.caption = ma.thead, ma.th = ma.td;
-
-  function na(a, b) {
-    var c;
-    return c = "undefined" != typeof a.getElementsByTagName ? a.getElementsByTagName(b || "*") : "undefined" != typeof a.querySelectorAll ? a.querySelectorAll(b || "*") : [], void 0 === b || b && B(a, b) ? r.merge([a], c) : c;
-  }
-
-  function oa(a, b) {
-    for (var c = 0, d = a.length; c < d; c++) {
-      W.set(a[c], "globalEval", !b || W.get(b[c], "globalEval"));
-    }
-  }
-
-  var pa = /<|&#?\w+;/;
-
-  function qa(a, b, c, d, e) {
-    for (var f, g, h, i, j, k, l = b.createDocumentFragment(), m = [], n = 0, o = a.length; n < o; n++) {
-      if (f = a[n], f || 0 === f) if ("object" === r.type(f)) r.merge(m, f.nodeType ? [f] : f);else if (pa.test(f)) {
-        g = g || l.appendChild(b.createElement("div")), h = (ka.exec(f) || ["", ""])[1].toLowerCase(), i = ma[h] || ma._default, g.innerHTML = i[1] + r.htmlPrefilter(f) + i[2], k = i[0];
-
-        while (k--) {
-          g = g.lastChild;
-        }
-
-        r.merge(m, g.childNodes), g = l.firstChild, g.textContent = "";
-      } else m.push(b.createTextNode(f));
-    }
-
-    l.textContent = "", n = 0;
-
-    while (f = m[n++]) {
-      if (d && r.inArray(f, d) > -1) e && e.push(f);else if (j = r.contains(f.ownerDocument, f), g = na(l.appendChild(f), "script"), j && oa(g), c) {
-        k = 0;
-
-        while (f = g[k++]) {
-          la.test(f.type || "") && c.push(f);
-        }
-      }
-    }
-
-    return l;
-  }
-
-  !function () {
-    var a = d.createDocumentFragment(),
-        b = a.appendChild(d.createElement("div")),
-        c = d.createElement("input");
-    c.setAttribute("type", "radio"), c.setAttribute("checked", "checked"), c.setAttribute("name", "t"), b.appendChild(c), o.checkClone = b.cloneNode(!0).cloneNode(!0).lastChild.checked, b.innerHTML = "<textarea>x</textarea>", o.noCloneChecked = !!b.cloneNode(!0).lastChild.defaultValue;
-  }();
-  var ra = d.documentElement,
-      sa = /^key/,
-      ta = /^(?:mouse|pointer|contextmenu|drag|drop)|click/,
-      ua = /^([^.]*)(?:\.(.+)|)/;
-
-  function va() {
-    return !0;
-  }
-
-  function wa() {
-    return !1;
-  }
-
-  function xa() {
-    try {
-      return d.activeElement;
-    } catch (a) {}
-  }
-
-  function ya(a, b, c, d, e, f) {
-    var g, h;
-
-    if ("object" == _typeof(b)) {
-      "string" != typeof c && (d = d || c, c = void 0);
-
-      for (h in b) {
-        ya(a, h, c, d, b[h], f);
-      }
-
-      return a;
-    }
-
-    if (null == d && null == e ? (e = c, d = c = void 0) : null == e && ("string" == typeof c ? (e = d, d = void 0) : (e = d, d = c, c = void 0)), e === !1) e = wa;else if (!e) return a;
-    return 1 === f && (g = e, e = function e(a) {
-      return r().off(a), g.apply(this, arguments);
-    }, e.guid = g.guid || (g.guid = r.guid++)), a.each(function () {
-      r.event.add(this, b, e, d, c);
-    });
-  }
-
-  r.event = {
-    global: {},
-    add: function add(a, b, c, d, e) {
-      var f,
-          g,
-          h,
-          i,
-          j,
-          k,
-          l,
-          m,
-          n,
-          o,
-          p,
-          q = W.get(a);
-
-      if (q) {
-        c.handler && (f = c, c = f.handler, e = f.selector), e && r.find.matchesSelector(ra, e), c.guid || (c.guid = r.guid++), (i = q.events) || (i = q.events = {}), (g = q.handle) || (g = q.handle = function (b) {
-          return "undefined" != typeof r && r.event.triggered !== b.type ? r.event.dispatch.apply(a, arguments) : void 0;
-        }), b = (b || "").match(L) || [""], j = b.length;
-
-        while (j--) {
-          h = ua.exec(b[j]) || [], n = p = h[1], o = (h[2] || "").split(".").sort(), n && (l = r.event.special[n] || {}, n = (e ? l.delegateType : l.bindType) || n, l = r.event.special[n] || {}, k = r.extend({
-            type: n,
-            origType: p,
-            data: d,
-            handler: c,
-            guid: c.guid,
-            selector: e,
-            needsContext: e && r.expr.match.needsContext.test(e),
-            namespace: o.join(".")
-          }, f), (m = i[n]) || (m = i[n] = [], m.delegateCount = 0, l.setup && l.setup.call(a, d, o, g) !== !1 || a.addEventListener && a.addEventListener(n, g)), l.add && (l.add.call(a, k), k.handler.guid || (k.handler.guid = c.guid)), e ? m.splice(m.delegateCount++, 0, k) : m.push(k), r.event.global[n] = !0);
-        }
-      }
-    },
-    remove: function remove(a, b, c, d, e) {
-      var f,
-          g,
-          h,
-          i,
-          j,
-          k,
-          l,
-          m,
-          n,
-          o,
-          p,
-          q = W.hasData(a) && W.get(a);
-
-      if (q && (i = q.events)) {
-        b = (b || "").match(L) || [""], j = b.length;
-
-        while (j--) {
-          if (h = ua.exec(b[j]) || [], n = p = h[1], o = (h[2] || "").split(".").sort(), n) {
-            l = r.event.special[n] || {}, n = (d ? l.delegateType : l.bindType) || n, m = i[n] || [], h = h[2] && new RegExp("(^|\\.)" + o.join("\\.(?:.*\\.|)") + "(\\.|$)"), g = f = m.length;
-
-            while (f--) {
-              k = m[f], !e && p !== k.origType || c && c.guid !== k.guid || h && !h.test(k.namespace) || d && d !== k.selector && ("**" !== d || !k.selector) || (m.splice(f, 1), k.selector && m.delegateCount--, l.remove && l.remove.call(a, k));
-            }
-
-            g && !m.length && (l.teardown && l.teardown.call(a, o, q.handle) !== !1 || r.removeEvent(a, n, q.handle), delete i[n]);
-          } else for (n in i) {
-            r.event.remove(a, n + b[j], c, d, !0);
-          }
-        }
-
-        r.isEmptyObject(i) && W.remove(a, "handle events");
-      }
-    },
-    dispatch: function dispatch(a) {
-      var b = r.event.fix(a),
-          c,
-          d,
-          e,
-          f,
-          g,
-          h,
-          i = new Array(arguments.length),
-          j = (W.get(this, "events") || {})[b.type] || [],
-          k = r.event.special[b.type] || {};
-
-      for (i[0] = b, c = 1; c < arguments.length; c++) {
-        i[c] = arguments[c];
-      }
-
-      if (b.delegateTarget = this, !k.preDispatch || k.preDispatch.call(this, b) !== !1) {
-        h = r.event.handlers.call(this, b, j), c = 0;
-
-        while ((f = h[c++]) && !b.isPropagationStopped()) {
-          b.currentTarget = f.elem, d = 0;
-
-          while ((g = f.handlers[d++]) && !b.isImmediatePropagationStopped()) {
-            b.rnamespace && !b.rnamespace.test(g.namespace) || (b.handleObj = g, b.data = g.data, e = ((r.event.special[g.origType] || {}).handle || g.handler).apply(f.elem, i), void 0 !== e && (b.result = e) === !1 && (b.preventDefault(), b.stopPropagation()));
-          }
-        }
-
-        return k.postDispatch && k.postDispatch.call(this, b), b.result;
-      }
-    },
-    handlers: function handlers(a, b) {
-      var c,
-          d,
-          e,
-          f,
-          g,
-          h = [],
-          i = b.delegateCount,
-          j = a.target;
-      if (i && j.nodeType && !("click" === a.type && a.button >= 1)) for (; j !== this; j = j.parentNode || this) {
-        if (1 === j.nodeType && ("click" !== a.type || j.disabled !== !0)) {
-          for (f = [], g = {}, c = 0; c < i; c++) {
-            d = b[c], e = d.selector + " ", void 0 === g[e] && (g[e] = d.needsContext ? r(e, this).index(j) > -1 : r.find(e, this, null, [j]).length), g[e] && f.push(d);
-          }
-
-          f.length && h.push({
-            elem: j,
-            handlers: f
-          });
-        }
-      }
-      return j = this, i < b.length && h.push({
-        elem: j,
-        handlers: b.slice(i)
-      }), h;
-    },
-    addProp: function addProp(a, b) {
-      Object.defineProperty(r.Event.prototype, a, {
-        enumerable: !0,
-        configurable: !0,
-        get: r.isFunction(b) ? function () {
-          if (this.originalEvent) return b(this.originalEvent);
-        } : function () {
-          if (this.originalEvent) return this.originalEvent[a];
-        },
-        set: function set(b) {
-          Object.defineProperty(this, a, {
-            enumerable: !0,
-            configurable: !0,
-            writable: !0,
-            value: b
-          });
-        }
-      });
-    },
-    fix: function fix(a) {
-      return a[r.expando] ? a : new r.Event(a);
-    },
-    special: {
-      load: {
-        noBubble: !0
-      },
-      focus: {
-        trigger: function trigger() {
-          if (this !== xa() && this.focus) return this.focus(), !1;
-        },
-        delegateType: "focusin"
-      },
-      blur: {
-        trigger: function trigger() {
-          if (this === xa() && this.blur) return this.blur(), !1;
-        },
-        delegateType: "focusout"
-      },
-      click: {
-        trigger: function trigger() {
-          if ("checkbox" === this.type && this.click && B(this, "input")) return this.click(), !1;
-        },
-        _default: function _default(a) {
-          return B(a.target, "a");
-        }
-      },
-      beforeunload: {
-        postDispatch: function postDispatch(a) {
-          void 0 !== a.result && a.originalEvent && (a.originalEvent.returnValue = a.result);
-        }
-      }
-    }
-  }, r.removeEvent = function (a, b, c) {
-    a.removeEventListener && a.removeEventListener(b, c);
-  }, r.Event = function (a, b) {
-    return this instanceof r.Event ? (a && a.type ? (this.originalEvent = a, this.type = a.type, this.isDefaultPrevented = a.defaultPrevented || void 0 === a.defaultPrevented && a.returnValue === !1 ? va : wa, this.target = a.target && 3 === a.target.nodeType ? a.target.parentNode : a.target, this.currentTarget = a.currentTarget, this.relatedTarget = a.relatedTarget) : this.type = a, b && r.extend(this, b), this.timeStamp = a && a.timeStamp || r.now(), void (this[r.expando] = !0)) : new r.Event(a, b);
-  }, r.Event.prototype = {
-    constructor: r.Event,
-    isDefaultPrevented: wa,
-    isPropagationStopped: wa,
-    isImmediatePropagationStopped: wa,
-    isSimulated: !1,
-    preventDefault: function preventDefault() {
-      var a = this.originalEvent;
-      this.isDefaultPrevented = va, a && !this.isSimulated && a.preventDefault();
-    },
-    stopPropagation: function stopPropagation() {
-      var a = this.originalEvent;
-      this.isPropagationStopped = va, a && !this.isSimulated && a.stopPropagation();
-    },
-    stopImmediatePropagation: function stopImmediatePropagation() {
-      var a = this.originalEvent;
-      this.isImmediatePropagationStopped = va, a && !this.isSimulated && a.stopImmediatePropagation(), this.stopPropagation();
-    }
-  }, r.each({
-    altKey: !0,
-    bubbles: !0,
-    cancelable: !0,
-    changedTouches: !0,
-    ctrlKey: !0,
-    detail: !0,
-    eventPhase: !0,
-    metaKey: !0,
-    pageX: !0,
-    pageY: !0,
-    shiftKey: !0,
-    view: !0,
-    "char": !0,
-    charCode: !0,
-    key: !0,
-    keyCode: !0,
-    button: !0,
-    buttons: !0,
-    clientX: !0,
-    clientY: !0,
-    offsetX: !0,
-    offsetY: !0,
-    pointerId: !0,
-    pointerType: !0,
-    screenX: !0,
-    screenY: !0,
-    targetTouches: !0,
-    toElement: !0,
-    touches: !0,
-    which: function which(a) {
-      var b = a.button;
-      return null == a.which && sa.test(a.type) ? null != a.charCode ? a.charCode : a.keyCode : !a.which && void 0 !== b && ta.test(a.type) ? 1 & b ? 1 : 2 & b ? 3 : 4 & b ? 2 : 0 : a.which;
-    }
-  }, r.event.addProp), r.each({
-    mouseenter: "mouseover",
-    mouseleave: "mouseout",
-    pointerenter: "pointerover",
-    pointerleave: "pointerout"
-  }, function (a, b) {
-    r.event.special[a] = {
-      delegateType: b,
-      bindType: b,
-      handle: function handle(a) {
-        var c,
-            d = this,
-            e = a.relatedTarget,
-            f = a.handleObj;
-        return e && (e === d || r.contains(d, e)) || (a.type = f.origType, c = f.handler.apply(this, arguments), a.type = b), c;
-      }
-    };
-  }), r.fn.extend({
-    on: function on(a, b, c, d) {
-      return ya(this, a, b, c, d);
-    },
-    one: function one(a, b, c, d) {
-      return ya(this, a, b, c, d, 1);
-    },
-    off: function off(a, b, c) {
-      var d, e;
-      if (a && a.preventDefault && a.handleObj) return d = a.handleObj, r(a.delegateTarget).off(d.namespace ? d.origType + "." + d.namespace : d.origType, d.selector, d.handler), this;
-
-      if ("object" == _typeof(a)) {
-        for (e in a) {
-          this.off(e, b, a[e]);
-        }
-
-        return this;
-      }
-
-      return b !== !1 && "function" != typeof b || (c = b, b = void 0), c === !1 && (c = wa), this.each(function () {
-        r.event.remove(this, a, c, b);
-      });
-    }
-  });
-  var za = /<(?!area|br|col|embed|hr|img|input|link|meta|param)(([a-z][^\/\0>\x20\t\r\n\f]*)[^>]*)\/>/gi,
-      Aa = /<script|<style|<link/i,
-      Ba = /checked\s*(?:[^=]|=\s*.checked.)/i,
-      Ca = /^true\/(.*)/,
-      Da = /^\s*<!(?:\[CDATA\[|--)|(?:\]\]|--)>\s*$/g;
-
-  function Ea(a, b) {
-    return B(a, "table") && B(11 !== b.nodeType ? b : b.firstChild, "tr") ? r(">tbody", a)[0] || a : a;
-  }
-
-  function Fa(a) {
-    return a.type = (null !== a.getAttribute("type")) + "/" + a.type, a;
-  }
-
-  function Ga(a) {
-    var b = Ca.exec(a.type);
-    return b ? a.type = b[1] : a.removeAttribute("type"), a;
-  }
-
-  function Ha(a, b) {
-    var c, d, e, f, g, h, i, j;
-
-    if (1 === b.nodeType) {
-      if (W.hasData(a) && (f = W.access(a), g = W.set(b, f), j = f.events)) {
-        delete g.handle, g.events = {};
-
-        for (e in j) {
-          for (c = 0, d = j[e].length; c < d; c++) {
-            r.event.add(b, e, j[e][c]);
-          }
-        }
-      }
-
-      X.hasData(a) && (h = X.access(a), i = r.extend({}, h), X.set(b, i));
-    }
-  }
-
-  function Ia(a, b) {
-    var c = b.nodeName.toLowerCase();
-    "input" === c && ja.test(a.type) ? b.checked = a.checked : "input" !== c && "textarea" !== c || (b.defaultValue = a.defaultValue);
-  }
-
-  function Ja(a, b, c, d) {
-    b = g.apply([], b);
-    var e,
-        f,
-        h,
-        i,
-        j,
-        k,
-        l = 0,
-        m = a.length,
-        n = m - 1,
-        q = b[0],
-        s = r.isFunction(q);
-    if (s || m > 1 && "string" == typeof q && !o.checkClone && Ba.test(q)) return a.each(function (e) {
-      var f = a.eq(e);
-      s && (b[0] = q.call(this, e, f.html())), Ja(f, b, c, d);
-    });
-
-    if (m && (e = qa(b, a[0].ownerDocument, !1, a, d), f = e.firstChild, 1 === e.childNodes.length && (e = f), f || d)) {
-      for (h = r.map(na(e, "script"), Fa), i = h.length; l < m; l++) {
-        j = e, l !== n && (j = r.clone(j, !0, !0), i && r.merge(h, na(j, "script"))), c.call(a[l], j, l);
-      }
-
-      if (i) for (k = h[h.length - 1].ownerDocument, r.map(h, Ga), l = 0; l < i; l++) {
-        j = h[l], la.test(j.type || "") && !W.access(j, "globalEval") && r.contains(k, j) && (j.src ? r._evalUrl && r._evalUrl(j.src) : p(j.textContent.replace(Da, ""), k));
-      }
-    }
-
-    return a;
-  }
-
-  function Ka(a, b, c) {
-    for (var d, e = b ? r.filter(b, a) : a, f = 0; null != (d = e[f]); f++) {
-      c || 1 !== d.nodeType || r.cleanData(na(d)), d.parentNode && (c && r.contains(d.ownerDocument, d) && oa(na(d, "script")), d.parentNode.removeChild(d));
-    }
-
-    return a;
-  }
-
-  r.extend({
-    htmlPrefilter: function htmlPrefilter(a) {
-      return a.replace(za, "<$1></$2>");
-    },
-    clone: function clone(a, b, c) {
-      var d,
-          e,
-          f,
-          g,
-          h = a.cloneNode(!0),
-          i = r.contains(a.ownerDocument, a);
-      if (!(o.noCloneChecked || 1 !== a.nodeType && 11 !== a.nodeType || r.isXMLDoc(a))) for (g = na(h), f = na(a), d = 0, e = f.length; d < e; d++) {
-        Ia(f[d], g[d]);
-      }
-      if (b) if (c) for (f = f || na(a), g = g || na(h), d = 0, e = f.length; d < e; d++) {
-        Ha(f[d], g[d]);
-      } else Ha(a, h);
-      return g = na(h, "script"), g.length > 0 && oa(g, !i && na(a, "script")), h;
-    },
-    cleanData: function cleanData(a) {
-      for (var b, c, d, e = r.event.special, f = 0; void 0 !== (c = a[f]); f++) {
-        if (U(c)) {
-          if (b = c[W.expando]) {
-            if (b.events) for (d in b.events) {
-              e[d] ? r.event.remove(c, d) : r.removeEvent(c, d, b.handle);
-            }
-            c[W.expando] = void 0;
-          }
-
-          c[X.expando] && (c[X.expando] = void 0);
-        }
-      }
-    }
-  }), r.fn.extend({
-    detach: function detach(a) {
-      return Ka(this, a, !0);
-    },
-    remove: function remove(a) {
-      return Ka(this, a);
-    },
-    text: function text(a) {
-      return T(this, function (a) {
-        return void 0 === a ? r.text(this) : this.empty().each(function () {
-          1 !== this.nodeType && 11 !== this.nodeType && 9 !== this.nodeType || (this.textContent = a);
-        });
-      }, null, a, arguments.length);
-    },
-    append: function append() {
-      return Ja(this, arguments, function (a) {
-        if (1 === this.nodeType || 11 === this.nodeType || 9 === this.nodeType) {
-          var b = Ea(this, a);
-          b.appendChild(a);
-        }
-      });
-    },
-    prepend: function prepend() {
-      return Ja(this, arguments, function (a) {
-        if (1 === this.nodeType || 11 === this.nodeType || 9 === this.nodeType) {
-          var b = Ea(this, a);
-          b.insertBefore(a, b.firstChild);
-        }
-      });
-    },
-    before: function before() {
-      return Ja(this, arguments, function (a) {
-        this.parentNode && this.parentNode.insertBefore(a, this);
-      });
-    },
-    after: function after() {
-      return Ja(this, arguments, function (a) {
-        this.parentNode && this.parentNode.insertBefore(a, this.nextSibling);
-      });
-    },
-    empty: function empty() {
-      for (var a, b = 0; null != (a = this[b]); b++) {
-        1 === a.nodeType && (r.cleanData(na(a, !1)), a.textContent = "");
-      }
-
-      return this;
-    },
-    clone: function clone(a, b) {
-      return a = null != a && a, b = null == b ? a : b, this.map(function () {
-        return r.clone(this, a, b);
-      });
-    },
-    html: function html(a) {
-      return T(this, function (a) {
-        var b = this[0] || {},
-            c = 0,
-            d = this.length;
-        if (void 0 === a && 1 === b.nodeType) return b.innerHTML;
-
-        if ("string" == typeof a && !Aa.test(a) && !ma[(ka.exec(a) || ["", ""])[1].toLowerCase()]) {
-          a = r.htmlPrefilter(a);
-
-          try {
-            for (; c < d; c++) {
-              b = this[c] || {}, 1 === b.nodeType && (r.cleanData(na(b, !1)), b.innerHTML = a);
-            }
-
-            b = 0;
-          } catch (e) {}
-        }
-
-        b && this.empty().append(a);
-      }, null, a, arguments.length);
-    },
-    replaceWith: function replaceWith() {
-      var a = [];
-      return Ja(this, arguments, function (b) {
-        var c = this.parentNode;
-        r.inArray(this, a) < 0 && (r.cleanData(na(this)), c && c.replaceChild(b, this));
-      }, a);
-    }
-  }), r.each({
-    appendTo: "append",
-    prependTo: "prepend",
-    insertBefore: "before",
-    insertAfter: "after",
-    replaceAll: "replaceWith"
-  }, function (a, b) {
-    r.fn[a] = function (a) {
-      for (var c, d = [], e = r(a), f = e.length - 1, g = 0; g <= f; g++) {
-        c = g === f ? this : this.clone(!0), r(e[g])[b](c), h.apply(d, c.get());
-      }
-
-      return this.pushStack(d);
-    };
-  });
-
-  var La = /^margin/,
-      Ma = new RegExp("^(" + aa + ")(?!px)[a-z%]+$", "i"),
-      Na = function Na(b) {
-    var c = b.ownerDocument.defaultView;
-    return c && c.opener || (c = a), c.getComputedStyle(b);
-  };
-
-  !function () {
-    function b() {
-      if (i) {
-        i.style.cssText = "box-sizing:border-box;position:relative;display:block;margin:auto;border:1px;padding:1px;top:1%;width:50%", i.innerHTML = "", ra.appendChild(h);
-        var b = a.getComputedStyle(i);
-        c = "1%" !== b.top, g = "2px" === b.marginLeft, e = "4px" === b.width, i.style.marginRight = "50%", f = "4px" === b.marginRight, ra.removeChild(h), i = null;
-      }
-    }
-
-    var c,
-        e,
-        f,
-        g,
-        h = d.createElement("div"),
-        i = d.createElement("div");
-    i.style && (i.style.backgroundClip = "content-box", i.cloneNode(!0).style.backgroundClip = "", o.clearCloneStyle = "content-box" === i.style.backgroundClip, h.style.cssText = "border:0;width:8px;height:0;top:0;left:-9999px;padding:0;margin-top:1px;position:absolute", h.appendChild(i), r.extend(o, {
-      pixelPosition: function pixelPosition() {
-        return b(), c;
-      },
-      boxSizingReliable: function boxSizingReliable() {
-        return b(), e;
-      },
-      pixelMarginRight: function pixelMarginRight() {
-        return b(), f;
-      },
-      reliableMarginLeft: function reliableMarginLeft() {
-        return b(), g;
-      }
-    }));
-  }();
-
-  function Oa(a, b, c) {
-    var d,
-        e,
-        f,
-        g,
-        h = a.style;
-    return c = c || Na(a), c && (g = c.getPropertyValue(b) || c[b], "" !== g || r.contains(a.ownerDocument, a) || (g = r.style(a, b)), !o.pixelMarginRight() && Ma.test(g) && La.test(b) && (d = h.width, e = h.minWidth, f = h.maxWidth, h.minWidth = h.maxWidth = h.width = g, g = c.width, h.width = d, h.minWidth = e, h.maxWidth = f)), void 0 !== g ? g + "" : g;
-  }
-
-  function Pa(a, b) {
-    return {
-      get: function get() {
-        return a() ? void delete this.get : (this.get = b).apply(this, arguments);
-      }
-    };
-  }
-
-  var Qa = /^(none|table(?!-c[ea]).+)/,
-      Ra = /^--/,
-      Sa = {
-    position: "absolute",
-    visibility: "hidden",
-    display: "block"
-  },
-      Ta = {
-    letterSpacing: "0",
-    fontWeight: "400"
-  },
-      Ua = ["Webkit", "Moz", "ms"],
-      Va = d.createElement("div").style;
-
-  function Wa(a) {
-    if (a in Va) return a;
-    var b = a[0].toUpperCase() + a.slice(1),
-        c = Ua.length;
-
-    while (c--) {
-      if (a = Ua[c] + b, a in Va) return a;
-    }
-  }
-
-  function Xa(a) {
-    var b = r.cssProps[a];
-    return b || (b = r.cssProps[a] = Wa(a) || a), b;
-  }
-
-  function Ya(a, b, c) {
-    var d = ba.exec(b);
-    return d ? Math.max(0, d[2] - (c || 0)) + (d[3] || "px") : b;
-  }
-
-  function Za(a, b, c, d, e) {
-    var f,
-        g = 0;
-
-    for (f = c === (d ? "border" : "content") ? 4 : "width" === b ? 1 : 0; f < 4; f += 2) {
-      "margin" === c && (g += r.css(a, c + ca[f], !0, e)), d ? ("content" === c && (g -= r.css(a, "padding" + ca[f], !0, e)), "margin" !== c && (g -= r.css(a, "border" + ca[f] + "Width", !0, e))) : (g += r.css(a, "padding" + ca[f], !0, e), "padding" !== c && (g += r.css(a, "border" + ca[f] + "Width", !0, e)));
-    }
-
-    return g;
-  }
-
-  function $a(a, b, c) {
-    var d,
-        e = Na(a),
-        f = Oa(a, b, e),
-        g = "border-box" === r.css(a, "boxSizing", !1, e);
-    return Ma.test(f) ? f : (d = g && (o.boxSizingReliable() || f === a.style[b]), "auto" === f && (f = a["offset" + b[0].toUpperCase() + b.slice(1)]), f = parseFloat(f) || 0, f + Za(a, b, c || (g ? "border" : "content"), d, e) + "px");
-  }
-
-  r.extend({
-    cssHooks: {
-      opacity: {
-        get: function get(a, b) {
-          if (b) {
-            var c = Oa(a, "opacity");
-            return "" === c ? "1" : c;
-          }
-        }
-      }
-    },
-    cssNumber: {
-      animationIterationCount: !0,
-      columnCount: !0,
-      fillOpacity: !0,
-      flexGrow: !0,
-      flexShrink: !0,
-      fontWeight: !0,
-      lineHeight: !0,
-      opacity: !0,
-      order: !0,
-      orphans: !0,
-      widows: !0,
-      zIndex: !0,
-      zoom: !0
-    },
-    cssProps: {
-      "float": "cssFloat"
-    },
-    style: function style(a, b, c, d) {
-      if (a && 3 !== a.nodeType && 8 !== a.nodeType && a.style) {
-        var e,
-            f,
-            g,
-            h = r.camelCase(b),
-            i = Ra.test(b),
-            j = a.style;
-        return i || (b = Xa(h)), g = r.cssHooks[b] || r.cssHooks[h], void 0 === c ? g && "get" in g && void 0 !== (e = g.get(a, !1, d)) ? e : j[b] : (f = _typeof(c), "string" === f && (e = ba.exec(c)) && e[1] && (c = fa(a, b, e), f = "number"), null != c && c === c && ("number" === f && (c += e && e[3] || (r.cssNumber[h] ? "" : "px")), o.clearCloneStyle || "" !== c || 0 !== b.indexOf("background") || (j[b] = "inherit"), g && "set" in g && void 0 === (c = g.set(a, c, d)) || (i ? j.setProperty(b, c) : j[b] = c)), void 0);
-      }
-    },
-    css: function css(a, b, c, d) {
-      var e,
-          f,
-          g,
-          h = r.camelCase(b),
-          i = Ra.test(b);
-      return i || (b = Xa(h)), g = r.cssHooks[b] || r.cssHooks[h], g && "get" in g && (e = g.get(a, !0, c)), void 0 === e && (e = Oa(a, b, d)), "normal" === e && b in Ta && (e = Ta[b]), "" === c || c ? (f = parseFloat(e), c === !0 || isFinite(f) ? f || 0 : e) : e;
-    }
-  }), r.each(["height", "width"], function (a, b) {
-    r.cssHooks[b] = {
-      get: function get(a, c, d) {
-        if (c) return !Qa.test(r.css(a, "display")) || a.getClientRects().length && a.getBoundingClientRect().width ? $a(a, b, d) : ea(a, Sa, function () {
-          return $a(a, b, d);
-        });
-      },
-      set: function set(a, c, d) {
-        var e,
-            f = d && Na(a),
-            g = d && Za(a, b, d, "border-box" === r.css(a, "boxSizing", !1, f), f);
-        return g && (e = ba.exec(c)) && "px" !== (e[3] || "px") && (a.style[b] = c, c = r.css(a, b)), Ya(a, c, g);
-      }
-    };
-  }), r.cssHooks.marginLeft = Pa(o.reliableMarginLeft, function (a, b) {
-    if (b) return (parseFloat(Oa(a, "marginLeft")) || a.getBoundingClientRect().left - ea(a, {
-      marginLeft: 0
-    }, function () {
-      return a.getBoundingClientRect().left;
-    })) + "px";
-  }), r.each({
-    margin: "",
-    padding: "",
-    border: "Width"
-  }, function (a, b) {
-    r.cssHooks[a + b] = {
-      expand: function expand(c) {
-        for (var d = 0, e = {}, f = "string" == typeof c ? c.split(" ") : [c]; d < 4; d++) {
-          e[a + ca[d] + b] = f[d] || f[d - 2] || f[0];
-        }
-
-        return e;
-      }
-    }, La.test(a) || (r.cssHooks[a + b].set = Ya);
-  }), r.fn.extend({
-    css: function css(a, b) {
-      return T(this, function (a, b, c) {
-        var d,
-            e,
-            f = {},
-            g = 0;
-
-        if (Array.isArray(b)) {
-          for (d = Na(a), e = b.length; g < e; g++) {
-            f[b[g]] = r.css(a, b[g], !1, d);
-          }
-
-          return f;
-        }
-
-        return void 0 !== c ? r.style(a, b, c) : r.css(a, b);
-      }, a, b, arguments.length > 1);
-    }
-  });
-
-  function _a(a, b, c, d, e) {
-    return new _a.prototype.init(a, b, c, d, e);
-  }
-
-  r.Tween = _a, _a.prototype = {
-    constructor: _a,
-    init: function init(a, b, c, d, e, f) {
-      this.elem = a, this.prop = c, this.easing = e || r.easing._default, this.options = b, this.start = this.now = this.cur(), this.end = d, this.unit = f || (r.cssNumber[c] ? "" : "px");
-    },
-    cur: function cur() {
-      var a = _a.propHooks[this.prop];
-      return a && a.get ? a.get(this) : _a.propHooks._default.get(this);
-    },
-    run: function run(a) {
-      var b,
-          c = _a.propHooks[this.prop];
-      return this.options.duration ? this.pos = b = r.easing[this.easing](a, this.options.duration * a, 0, 1, this.options.duration) : this.pos = b = a, this.now = (this.end - this.start) * b + this.start, this.options.step && this.options.step.call(this.elem, this.now, this), c && c.set ? c.set(this) : _a.propHooks._default.set(this), this;
-    }
-  }, _a.prototype.init.prototype = _a.prototype, _a.propHooks = {
-    _default: {
-      get: function get(a) {
-        var b;
-        return 1 !== a.elem.nodeType || null != a.elem[a.prop] && null == a.elem.style[a.prop] ? a.elem[a.prop] : (b = r.css(a.elem, a.prop, ""), b && "auto" !== b ? b : 0);
-      },
-      set: function set(a) {
-        r.fx.step[a.prop] ? r.fx.step[a.prop](a) : 1 !== a.elem.nodeType || null == a.elem.style[r.cssProps[a.prop]] && !r.cssHooks[a.prop] ? a.elem[a.prop] = a.now : r.style(a.elem, a.prop, a.now + a.unit);
-      }
-    }
-  }, _a.propHooks.scrollTop = _a.propHooks.scrollLeft = {
-    set: function set(a) {
-      a.elem.nodeType && a.elem.parentNode && (a.elem[a.prop] = a.now);
-    }
-  }, r.easing = {
-    linear: function linear(a) {
-      return a;
-    },
-    swing: function swing(a) {
-      return .5 - Math.cos(a * Math.PI) / 2;
-    },
-    _default: "swing"
-  }, r.fx = _a.prototype.init, r.fx.step = {};
-  var ab,
-      bb,
-      cb = /^(?:toggle|show|hide)$/,
-      db = /queueHooks$/;
-
-  function eb() {
-    bb && (d.hidden === !1 && a.requestAnimationFrame ? a.requestAnimationFrame(eb) : a.setTimeout(eb, r.fx.interval), r.fx.tick());
-  }
-
-  function fb() {
-    return a.setTimeout(function () {
-      ab = void 0;
-    }), ab = r.now();
-  }
-
-  function gb(a, b) {
-    var c,
-        d = 0,
-        e = {
-      height: a
-    };
-
-    for (b = b ? 1 : 0; d < 4; d += 2 - b) {
-      c = ca[d], e["margin" + c] = e["padding" + c] = a;
-    }
-
-    return b && (e.opacity = e.width = a), e;
-  }
-
-  function hb(a, b, c) {
-    for (var d, e = (kb.tweeners[b] || []).concat(kb.tweeners["*"]), f = 0, g = e.length; f < g; f++) {
-      if (d = e[f].call(c, b, a)) return d;
-    }
-  }
-
-  function ib(a, b, c) {
-    var d,
-        e,
-        f,
-        g,
-        h,
-        i,
-        j,
-        k,
-        l = "width" in b || "height" in b,
-        m = this,
-        n = {},
-        o = a.style,
-        p = a.nodeType && da(a),
-        q = W.get(a, "fxshow");
-    c.queue || (g = r._queueHooks(a, "fx"), null == g.unqueued && (g.unqueued = 0, h = g.empty.fire, g.empty.fire = function () {
-      g.unqueued || h();
-    }), g.unqueued++, m.always(function () {
-      m.always(function () {
-        g.unqueued--, r.queue(a, "fx").length || g.empty.fire();
-      });
-    }));
-
-    for (d in b) {
-      if (e = b[d], cb.test(e)) {
-        if (delete b[d], f = f || "toggle" === e, e === (p ? "hide" : "show")) {
-          if ("show" !== e || !q || void 0 === q[d]) continue;
-          p = !0;
-        }
-
-        n[d] = q && q[d] || r.style(a, d);
-      }
-    }
-
-    if (i = !r.isEmptyObject(b), i || !r.isEmptyObject(n)) {
-      l && 1 === a.nodeType && (c.overflow = [o.overflow, o.overflowX, o.overflowY], j = q && q.display, null == j && (j = W.get(a, "display")), k = r.css(a, "display"), "none" === k && (j ? k = j : (ia([a], !0), j = a.style.display || j, k = r.css(a, "display"), ia([a]))), ("inline" === k || "inline-block" === k && null != j) && "none" === r.css(a, "float") && (i || (m.done(function () {
-        o.display = j;
-      }), null == j && (k = o.display, j = "none" === k ? "" : k)), o.display = "inline-block")), c.overflow && (o.overflow = "hidden", m.always(function () {
-        o.overflow = c.overflow[0], o.overflowX = c.overflow[1], o.overflowY = c.overflow[2];
-      })), i = !1;
-
-      for (d in n) {
-        i || (q ? "hidden" in q && (p = q.hidden) : q = W.access(a, "fxshow", {
-          display: j
-        }), f && (q.hidden = !p), p && ia([a], !0), m.done(function () {
-          p || ia([a]), W.remove(a, "fxshow");
-
-          for (d in n) {
-            r.style(a, d, n[d]);
-          }
-        })), i = hb(p ? q[d] : 0, d, m), d in q || (q[d] = i.start, p && (i.end = i.start, i.start = 0));
-      }
-    }
-  }
-
-  function jb(a, b) {
-    var c, d, e, f, g;
-
-    for (c in a) {
-      if (d = r.camelCase(c), e = b[d], f = a[c], Array.isArray(f) && (e = f[1], f = a[c] = f[0]), c !== d && (a[d] = f, delete a[c]), g = r.cssHooks[d], g && "expand" in g) {
-        f = g.expand(f), delete a[d];
-
-        for (c in f) {
-          c in a || (a[c] = f[c], b[c] = e);
-        }
-      } else b[d] = e;
-    }
-  }
-
-  function kb(a, b, c) {
-    var d,
-        e,
-        f = 0,
-        g = kb.prefilters.length,
-        h = r.Deferred().always(function () {
-      delete i.elem;
-    }),
-        i = function i() {
-      if (e) return !1;
-
-      for (var b = ab || fb(), c = Math.max(0, j.startTime + j.duration - b), d = c / j.duration || 0, f = 1 - d, g = 0, i = j.tweens.length; g < i; g++) {
-        j.tweens[g].run(f);
-      }
-
-      return h.notifyWith(a, [j, f, c]), f < 1 && i ? c : (i || h.notifyWith(a, [j, 1, 0]), h.resolveWith(a, [j]), !1);
-    },
-        j = h.promise({
-      elem: a,
-      props: r.extend({}, b),
-      opts: r.extend(!0, {
-        specialEasing: {},
-        easing: r.easing._default
-      }, c),
-      originalProperties: b,
-      originalOptions: c,
-      startTime: ab || fb(),
-      duration: c.duration,
-      tweens: [],
-      createTween: function createTween(b, c) {
-        var d = r.Tween(a, j.opts, b, c, j.opts.specialEasing[b] || j.opts.easing);
-        return j.tweens.push(d), d;
-      },
-      stop: function stop(b) {
-        var c = 0,
-            d = b ? j.tweens.length : 0;
-        if (e) return this;
-
-        for (e = !0; c < d; c++) {
-          j.tweens[c].run(1);
-        }
-
-        return b ? (h.notifyWith(a, [j, 1, 0]), h.resolveWith(a, [j, b])) : h.rejectWith(a, [j, b]), this;
-      }
-    }),
-        k = j.props;
-
-    for (jb(k, j.opts.specialEasing); f < g; f++) {
-      if (d = kb.prefilters[f].call(j, a, k, j.opts)) return r.isFunction(d.stop) && (r._queueHooks(j.elem, j.opts.queue).stop = r.proxy(d.stop, d)), d;
-    }
-
-    return r.map(k, hb, j), r.isFunction(j.opts.start) && j.opts.start.call(a, j), j.progress(j.opts.progress).done(j.opts.done, j.opts.complete).fail(j.opts.fail).always(j.opts.always), r.fx.timer(r.extend(i, {
-      elem: a,
-      anim: j,
-      queue: j.opts.queue
-    })), j;
-  }
-
-  r.Animation = r.extend(kb, {
-    tweeners: {
-      "*": [function (a, b) {
-        var c = this.createTween(a, b);
-        return fa(c.elem, a, ba.exec(b), c), c;
-      }]
-    },
-    tweener: function tweener(a, b) {
-      r.isFunction(a) ? (b = a, a = ["*"]) : a = a.match(L);
-
-      for (var c, d = 0, e = a.length; d < e; d++) {
-        c = a[d], kb.tweeners[c] = kb.tweeners[c] || [], kb.tweeners[c].unshift(b);
-      }
-    },
-    prefilters: [ib],
-    prefilter: function prefilter(a, b) {
-      b ? kb.prefilters.unshift(a) : kb.prefilters.push(a);
-    }
-  }), r.speed = function (a, b, c) {
-    var d = a && "object" == _typeof(a) ? r.extend({}, a) : {
-      complete: c || !c && b || r.isFunction(a) && a,
-      duration: a,
-      easing: c && b || b && !r.isFunction(b) && b
-    };
-    return r.fx.off ? d.duration = 0 : "number" != typeof d.duration && (d.duration in r.fx.speeds ? d.duration = r.fx.speeds[d.duration] : d.duration = r.fx.speeds._default), null != d.queue && d.queue !== !0 || (d.queue = "fx"), d.old = d.complete, d.complete = function () {
-      r.isFunction(d.old) && d.old.call(this), d.queue && r.dequeue(this, d.queue);
-    }, d;
-  }, r.fn.extend({
-    fadeTo: function fadeTo(a, b, c, d) {
-      return this.filter(da).css("opacity", 0).show().end().animate({
-        opacity: b
-      }, a, c, d);
-    },
-    animate: function animate(a, b, c, d) {
-      var e = r.isEmptyObject(a),
-          f = r.speed(b, c, d),
-          g = function g() {
-        var b = kb(this, r.extend({}, a), f);
-        (e || W.get(this, "finish")) && b.stop(!0);
-      };
-
-      return g.finish = g, e || f.queue === !1 ? this.each(g) : this.queue(f.queue, g);
-    },
-    stop: function stop(a, b, c) {
-      var d = function d(a) {
-        var b = a.stop;
-        delete a.stop, b(c);
-      };
-
-      return "string" != typeof a && (c = b, b = a, a = void 0), b && a !== !1 && this.queue(a || "fx", []), this.each(function () {
-        var b = !0,
-            e = null != a && a + "queueHooks",
-            f = r.timers,
-            g = W.get(this);
-        if (e) g[e] && g[e].stop && d(g[e]);else for (e in g) {
-          g[e] && g[e].stop && db.test(e) && d(g[e]);
-        }
-
-        for (e = f.length; e--;) {
-          f[e].elem !== this || null != a && f[e].queue !== a || (f[e].anim.stop(c), b = !1, f.splice(e, 1));
-        }
-
-        !b && c || r.dequeue(this, a);
-      });
-    },
-    finish: function finish(a) {
-      return a !== !1 && (a = a || "fx"), this.each(function () {
-        var b,
-            c = W.get(this),
-            d = c[a + "queue"],
-            e = c[a + "queueHooks"],
-            f = r.timers,
-            g = d ? d.length : 0;
-
-        for (c.finish = !0, r.queue(this, a, []), e && e.stop && e.stop.call(this, !0), b = f.length; b--;) {
-          f[b].elem === this && f[b].queue === a && (f[b].anim.stop(!0), f.splice(b, 1));
-        }
-
-        for (b = 0; b < g; b++) {
-          d[b] && d[b].finish && d[b].finish.call(this);
-        }
-
-        delete c.finish;
-      });
-    }
-  }), r.each(["toggle", "show", "hide"], function (a, b) {
-    var c = r.fn[b];
-
-    r.fn[b] = function (a, d, e) {
-      return null == a || "boolean" == typeof a ? c.apply(this, arguments) : this.animate(gb(b, !0), a, d, e);
-    };
-  }), r.each({
-    slideDown: gb("show"),
-    slideUp: gb("hide"),
-    slideToggle: gb("toggle"),
-    fadeIn: {
-      opacity: "show"
-    },
-    fadeOut: {
-      opacity: "hide"
-    },
-    fadeToggle: {
-      opacity: "toggle"
-    }
-  }, function (a, b) {
-    r.fn[a] = function (a, c, d) {
-      return this.animate(b, a, c, d);
-    };
-  }), r.timers = [], r.fx.tick = function () {
-    var a,
-        b = 0,
-        c = r.timers;
-
-    for (ab = r.now(); b < c.length; b++) {
-      a = c[b], a() || c[b] !== a || c.splice(b--, 1);
-    }
-
-    c.length || r.fx.stop(), ab = void 0;
-  }, r.fx.timer = function (a) {
-    r.timers.push(a), r.fx.start();
-  }, r.fx.interval = 13, r.fx.start = function () {
-    bb || (bb = !0, eb());
-  }, r.fx.stop = function () {
-    bb = null;
-  }, r.fx.speeds = {
-    slow: 600,
-    fast: 200,
-    _default: 400
-  }, r.fn.delay = function (b, c) {
-    return b = r.fx ? r.fx.speeds[b] || b : b, c = c || "fx", this.queue(c, function (c, d) {
-      var e = a.setTimeout(c, b);
-
-      d.stop = function () {
-        a.clearTimeout(e);
-      };
-    });
-  }, function () {
-    var a = d.createElement("input"),
-        b = d.createElement("select"),
-        c = b.appendChild(d.createElement("option"));
-    a.type = "checkbox", o.checkOn = "" !== a.value, o.optSelected = c.selected, a = d.createElement("input"), a.value = "t", a.type = "radio", o.radioValue = "t" === a.value;
-  }();
-  var lb,
-      mb = r.expr.attrHandle;
-  r.fn.extend({
-    attr: function attr(a, b) {
-      return T(this, r.attr, a, b, arguments.length > 1);
-    },
-    removeAttr: function removeAttr(a) {
-      return this.each(function () {
-        r.removeAttr(this, a);
-      });
-    }
-  }), r.extend({
-    attr: function attr(a, b, c) {
-      var d,
-          e,
-          f = a.nodeType;
-      if (3 !== f && 8 !== f && 2 !== f) return "undefined" == typeof a.getAttribute ? r.prop(a, b, c) : (1 === f && r.isXMLDoc(a) || (e = r.attrHooks[b.toLowerCase()] || (r.expr.match.bool.test(b) ? lb : void 0)), void 0 !== c ? null === c ? void r.removeAttr(a, b) : e && "set" in e && void 0 !== (d = e.set(a, c, b)) ? d : (a.setAttribute(b, c + ""), c) : e && "get" in e && null !== (d = e.get(a, b)) ? d : (d = r.find.attr(a, b), null == d ? void 0 : d));
-    },
-    attrHooks: {
-      type: {
-        set: function set(a, b) {
-          if (!o.radioValue && "radio" === b && B(a, "input")) {
-            var c = a.value;
-            return a.setAttribute("type", b), c && (a.value = c), b;
-          }
-        }
-      }
-    },
-    removeAttr: function removeAttr(a, b) {
-      var c,
-          d = 0,
-          e = b && b.match(L);
-      if (e && 1 === a.nodeType) while (c = e[d++]) {
-        a.removeAttribute(c);
-      }
-    }
-  }), lb = {
-    set: function set(a, b, c) {
-      return b === !1 ? r.removeAttr(a, c) : a.setAttribute(c, c), c;
-    }
-  }, r.each(r.expr.match.bool.source.match(/\w+/g), function (a, b) {
-    var c = mb[b] || r.find.attr;
-
-    mb[b] = function (a, b, d) {
-      var e,
-          f,
-          g = b.toLowerCase();
-      return d || (f = mb[g], mb[g] = e, e = null != c(a, b, d) ? g : null, mb[g] = f), e;
-    };
-  });
-  var nb = /^(?:input|select|textarea|button)$/i,
-      ob = /^(?:a|area)$/i;
-  r.fn.extend({
-    prop: function prop(a, b) {
-      return T(this, r.prop, a, b, arguments.length > 1);
-    },
-    removeProp: function removeProp(a) {
-      return this.each(function () {
-        delete this[r.propFix[a] || a];
-      });
-    }
-  }), r.extend({
-    prop: function prop(a, b, c) {
-      var d,
-          e,
-          f = a.nodeType;
-      if (3 !== f && 8 !== f && 2 !== f) return 1 === f && r.isXMLDoc(a) || (b = r.propFix[b] || b, e = r.propHooks[b]), void 0 !== c ? e && "set" in e && void 0 !== (d = e.set(a, c, b)) ? d : a[b] = c : e && "get" in e && null !== (d = e.get(a, b)) ? d : a[b];
-    },
-    propHooks: {
-      tabIndex: {
-        get: function get(a) {
-          var b = r.find.attr(a, "tabindex");
-          return b ? parseInt(b, 10) : nb.test(a.nodeName) || ob.test(a.nodeName) && a.href ? 0 : -1;
-        }
-      }
-    },
-    propFix: {
-      "for": "htmlFor",
-      "class": "className"
-    }
-  }), o.optSelected || (r.propHooks.selected = {
-    get: function get(a) {
-      var b = a.parentNode;
-      return b && b.parentNode && b.parentNode.selectedIndex, null;
-    },
-    set: function set(a) {
-      var b = a.parentNode;
-      b && (b.selectedIndex, b.parentNode && b.parentNode.selectedIndex);
-    }
-  }), r.each(["tabIndex", "readOnly", "maxLength", "cellSpacing", "cellPadding", "rowSpan", "colSpan", "useMap", "frameBorder", "contentEditable"], function () {
-    r.propFix[this.toLowerCase()] = this;
-  });
-
-  function pb(a) {
-    var b = a.match(L) || [];
-    return b.join(" ");
-  }
-
-  function qb(a) {
-    return a.getAttribute && a.getAttribute("class") || "";
-  }
-
-  r.fn.extend({
-    addClass: function addClass(a) {
-      var b,
-          c,
-          d,
-          e,
-          f,
-          g,
-          h,
-          i = 0;
-      if (r.isFunction(a)) return this.each(function (b) {
-        r(this).addClass(a.call(this, b, qb(this)));
-      });
-
-      if ("string" == typeof a && a) {
-        b = a.match(L) || [];
-
-        while (c = this[i++]) {
-          if (e = qb(c), d = 1 === c.nodeType && " " + pb(e) + " ") {
-            g = 0;
-
-            while (f = b[g++]) {
-              d.indexOf(" " + f + " ") < 0 && (d += f + " ");
-            }
-
-            h = pb(d), e !== h && c.setAttribute("class", h);
-          }
-        }
-      }
-
-      return this;
-    },
-    removeClass: function removeClass(a) {
-      var b,
-          c,
-          d,
-          e,
-          f,
-          g,
-          h,
-          i = 0;
-      if (r.isFunction(a)) return this.each(function (b) {
-        r(this).removeClass(a.call(this, b, qb(this)));
-      });
-      if (!arguments.length) return this.attr("class", "");
-
-      if ("string" == typeof a && a) {
-        b = a.match(L) || [];
-
-        while (c = this[i++]) {
-          if (e = qb(c), d = 1 === c.nodeType && " " + pb(e) + " ") {
-            g = 0;
-
-            while (f = b[g++]) {
-              while (d.indexOf(" " + f + " ") > -1) {
-                d = d.replace(" " + f + " ", " ");
-              }
-            }
-
-            h = pb(d), e !== h && c.setAttribute("class", h);
-          }
-        }
-      }
-
-      return this;
-    },
-    toggleClass: function toggleClass(a, b) {
-      var c = _typeof(a);
-
-      return "boolean" == typeof b && "string" === c ? b ? this.addClass(a) : this.removeClass(a) : r.isFunction(a) ? this.each(function (c) {
-        r(this).toggleClass(a.call(this, c, qb(this), b), b);
-      }) : this.each(function () {
-        var b, d, e, f;
-
-        if ("string" === c) {
-          d = 0, e = r(this), f = a.match(L) || [];
-
-          while (b = f[d++]) {
-            e.hasClass(b) ? e.removeClass(b) : e.addClass(b);
-          }
-        } else void 0 !== a && "boolean" !== c || (b = qb(this), b && W.set(this, "__className__", b), this.setAttribute && this.setAttribute("class", b || a === !1 ? "" : W.get(this, "__className__") || ""));
-      });
-    },
-    hasClass: function hasClass(a) {
-      var b,
-          c,
-          d = 0;
-      b = " " + a + " ";
-
-      while (c = this[d++]) {
-        if (1 === c.nodeType && (" " + pb(qb(c)) + " ").indexOf(b) > -1) return !0;
-      }
-
-      return !1;
-    }
-  });
-  var rb = /\r/g;
-  r.fn.extend({
-    val: function val(a) {
-      var b,
-          c,
-          d,
-          e = this[0];
-      {
-        if (arguments.length) return d = r.isFunction(a), this.each(function (c) {
-          var e;
-          1 === this.nodeType && (e = d ? a.call(this, c, r(this).val()) : a, null == e ? e = "" : "number" == typeof e ? e += "" : Array.isArray(e) && (e = r.map(e, function (a) {
-            return null == a ? "" : a + "";
-          })), b = r.valHooks[this.type] || r.valHooks[this.nodeName.toLowerCase()], b && "set" in b && void 0 !== b.set(this, e, "value") || (this.value = e));
-        });
-        if (e) return b = r.valHooks[e.type] || r.valHooks[e.nodeName.toLowerCase()], b && "get" in b && void 0 !== (c = b.get(e, "value")) ? c : (c = e.value, "string" == typeof c ? c.replace(rb, "") : null == c ? "" : c);
-      }
-    }
-  }), r.extend({
-    valHooks: {
-      option: {
-        get: function get(a) {
-          var b = r.find.attr(a, "value");
-          return null != b ? b : pb(r.text(a));
-        }
-      },
-      select: {
-        get: function get(a) {
-          var b,
-              c,
-              d,
-              e = a.options,
-              f = a.selectedIndex,
-              g = "select-one" === a.type,
-              h = g ? null : [],
-              i = g ? f + 1 : e.length;
-
-          for (d = f < 0 ? i : g ? f : 0; d < i; d++) {
-            if (c = e[d], (c.selected || d === f) && !c.disabled && (!c.parentNode.disabled || !B(c.parentNode, "optgroup"))) {
-              if (b = r(c).val(), g) return b;
-              h.push(b);
-            }
-          }
-
-          return h;
-        },
-        set: function set(a, b) {
-          var c,
-              d,
-              e = a.options,
-              f = r.makeArray(b),
-              g = e.length;
-
-          while (g--) {
-            d = e[g], (d.selected = r.inArray(r.valHooks.option.get(d), f) > -1) && (c = !0);
-          }
-
-          return c || (a.selectedIndex = -1), f;
-        }
-      }
-    }
-  }), r.each(["radio", "checkbox"], function () {
-    r.valHooks[this] = {
-      set: function set(a, b) {
-        if (Array.isArray(b)) return a.checked = r.inArray(r(a).val(), b) > -1;
-      }
-    }, o.checkOn || (r.valHooks[this].get = function (a) {
-      return null === a.getAttribute("value") ? "on" : a.value;
-    });
-  });
-  var sb = /^(?:focusinfocus|focusoutblur)$/;
-  r.extend(r.event, {
-    trigger: function trigger(b, c, e, f) {
-      var g,
-          h,
-          i,
-          j,
-          k,
-          m,
-          n,
-          o = [e || d],
-          p = l.call(b, "type") ? b.type : b,
-          q = l.call(b, "namespace") ? b.namespace.split(".") : [];
-
-      if (h = i = e = e || d, 3 !== e.nodeType && 8 !== e.nodeType && !sb.test(p + r.event.triggered) && (p.indexOf(".") > -1 && (q = p.split("."), p = q.shift(), q.sort()), k = p.indexOf(":") < 0 && "on" + p, b = b[r.expando] ? b : new r.Event(p, "object" == _typeof(b) && b), b.isTrigger = f ? 2 : 3, b.namespace = q.join("."), b.rnamespace = b.namespace ? new RegExp("(^|\\.)" + q.join("\\.(?:.*\\.|)") + "(\\.|$)") : null, b.result = void 0, b.target || (b.target = e), c = null == c ? [b] : r.makeArray(c, [b]), n = r.event.special[p] || {}, f || !n.trigger || n.trigger.apply(e, c) !== !1)) {
-        if (!f && !n.noBubble && !r.isWindow(e)) {
-          for (j = n.delegateType || p, sb.test(j + p) || (h = h.parentNode); h; h = h.parentNode) {
-            o.push(h), i = h;
-          }
-
-          i === (e.ownerDocument || d) && o.push(i.defaultView || i.parentWindow || a);
-        }
-
-        g = 0;
-
-        while ((h = o[g++]) && !b.isPropagationStopped()) {
-          b.type = g > 1 ? j : n.bindType || p, m = (W.get(h, "events") || {})[b.type] && W.get(h, "handle"), m && m.apply(h, c), m = k && h[k], m && m.apply && U(h) && (b.result = m.apply(h, c), b.result === !1 && b.preventDefault());
-        }
-
-        return b.type = p, f || b.isDefaultPrevented() || n._default && n._default.apply(o.pop(), c) !== !1 || !U(e) || k && r.isFunction(e[p]) && !r.isWindow(e) && (i = e[k], i && (e[k] = null), r.event.triggered = p, e[p](), r.event.triggered = void 0, i && (e[k] = i)), b.result;
-      }
-    },
-    simulate: function simulate(a, b, c) {
-      var d = r.extend(new r.Event(), c, {
-        type: a,
-        isSimulated: !0
-      });
-      r.event.trigger(d, null, b);
-    }
-  }), r.fn.extend({
-    trigger: function trigger(a, b) {
-      return this.each(function () {
-        r.event.trigger(a, b, this);
-      });
-    },
-    triggerHandler: function triggerHandler(a, b) {
-      var c = this[0];
-      if (c) return r.event.trigger(a, b, c, !0);
-    }
-  }), r.each("blur focus focusin focusout resize scroll click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select submit keydown keypress keyup contextmenu".split(" "), function (a, b) {
-    r.fn[b] = function (a, c) {
-      return arguments.length > 0 ? this.on(b, null, a, c) : this.trigger(b);
-    };
-  }), r.fn.extend({
-    hover: function hover(a, b) {
-      return this.mouseenter(a).mouseleave(b || a);
-    }
-  }), o.focusin = "onfocusin" in a, o.focusin || r.each({
-    focus: "focusin",
-    blur: "focusout"
-  }, function (a, b) {
-    var c = function c(a) {
-      r.event.simulate(b, a.target, r.event.fix(a));
-    };
-
-    r.event.special[b] = {
-      setup: function setup() {
-        var d = this.ownerDocument || this,
-            e = W.access(d, b);
-        e || d.addEventListener(a, c, !0), W.access(d, b, (e || 0) + 1);
-      },
-      teardown: function teardown() {
-        var d = this.ownerDocument || this,
-            e = W.access(d, b) - 1;
-        e ? W.access(d, b, e) : (d.removeEventListener(a, c, !0), W.remove(d, b));
-      }
-    };
-  });
-  var tb = a.location,
-      ub = r.now(),
-      vb = /\?/;
-
-  r.parseXML = function (b) {
-    var c;
-    if (!b || "string" != typeof b) return null;
-
-    try {
-      c = new a.DOMParser().parseFromString(b, "text/xml");
-    } catch (d) {
-      c = void 0;
-    }
-
-    return c && !c.getElementsByTagName("parsererror").length || r.error("Invalid XML: " + b), c;
-  };
-
-  var wb = /\[\]$/,
-      xb = /\r?\n/g,
-      yb = /^(?:submit|button|image|reset|file)$/i,
-      zb = /^(?:input|select|textarea|keygen)/i;
-
-  function Ab(a, b, c, d) {
-    var e;
-    if (Array.isArray(b)) r.each(b, function (b, e) {
-      c || wb.test(a) ? d(a, e) : Ab(a + "[" + ("object" == _typeof(e) && null != e ? b : "") + "]", e, c, d);
-    });else if (c || "object" !== r.type(b)) d(a, b);else for (e in b) {
-      Ab(a + "[" + e + "]", b[e], c, d);
-    }
-  }
-
-  r.param = function (a, b) {
-    var c,
-        d = [],
-        e = function e(a, b) {
-      var c = r.isFunction(b) ? b() : b;
-      d[d.length] = encodeURIComponent(a) + "=" + encodeURIComponent(null == c ? "" : c);
-    };
-
-    if (Array.isArray(a) || a.jquery && !r.isPlainObject(a)) r.each(a, function () {
-      e(this.name, this.value);
-    });else for (c in a) {
-      Ab(c, a[c], b, e);
-    }
-    return d.join("&");
-  }, r.fn.extend({
-    serialize: function serialize() {
-      return r.param(this.serializeArray());
-    },
-    serializeArray: function serializeArray() {
-      return this.map(function () {
-        var a = r.prop(this, "elements");
-        return a ? r.makeArray(a) : this;
-      }).filter(function () {
-        var a = this.type;
-        return this.name && !r(this).is(":disabled") && zb.test(this.nodeName) && !yb.test(a) && (this.checked || !ja.test(a));
-      }).map(function (a, b) {
-        var c = r(this).val();
-        return null == c ? null : Array.isArray(c) ? r.map(c, function (a) {
-          return {
-            name: b.name,
-            value: a.replace(xb, "\r\n")
-          };
-        }) : {
-          name: b.name,
-          value: c.replace(xb, "\r\n")
-        };
-      }).get();
-    }
-  });
-  var Bb = /%20/g,
-      Cb = /#.*$/,
-      Db = /([?&])_=[^&]*/,
-      Eb = /^(.*?):[ \t]*([^\r\n]*)$/gm,
-      Fb = /^(?:about|app|app-storage|.+-extension|file|res|widget):$/,
-      Gb = /^(?:GET|HEAD)$/,
-      Hb = /^\/\//,
-      Ib = {},
-      Jb = {},
-      Kb = "*/".concat("*"),
-      Lb = d.createElement("a");
-  Lb.href = tb.href;
-
-  function Mb(a) {
-    return function (b, c) {
-      "string" != typeof b && (c = b, b = "*");
-      var d,
-          e = 0,
-          f = b.toLowerCase().match(L) || [];
-      if (r.isFunction(c)) while (d = f[e++]) {
-        "+" === d[0] ? (d = d.slice(1) || "*", (a[d] = a[d] || []).unshift(c)) : (a[d] = a[d] || []).push(c);
-      }
-    };
-  }
-
-  function Nb(a, b, c, d) {
-    var e = {},
-        f = a === Jb;
-
-    function g(h) {
-      var i;
-      return e[h] = !0, r.each(a[h] || [], function (a, h) {
-        var j = h(b, c, d);
-        return "string" != typeof j || f || e[j] ? f ? !(i = j) : void 0 : (b.dataTypes.unshift(j), g(j), !1);
-      }), i;
-    }
-
-    return g(b.dataTypes[0]) || !e["*"] && g("*");
-  }
-
-  function Ob(a, b) {
-    var c,
-        d,
-        e = r.ajaxSettings.flatOptions || {};
-
-    for (c in b) {
-      void 0 !== b[c] && ((e[c] ? a : d || (d = {}))[c] = b[c]);
-    }
-
-    return d && r.extend(!0, a, d), a;
-  }
-
-  function Pb(a, b, c) {
-    var d,
-        e,
-        f,
-        g,
-        h = a.contents,
-        i = a.dataTypes;
-
-    while ("*" === i[0]) {
-      i.shift(), void 0 === d && (d = a.mimeType || b.getResponseHeader("Content-Type"));
-    }
-
-    if (d) for (e in h) {
-      if (h[e] && h[e].test(d)) {
-        i.unshift(e);
-        break;
-      }
-    }
-    if (i[0] in c) f = i[0];else {
-      for (e in c) {
-        if (!i[0] || a.converters[e + " " + i[0]]) {
-          f = e;
-          break;
-        }
-
-        g || (g = e);
-      }
-
-      f = f || g;
-    }
-    if (f) return f !== i[0] && i.unshift(f), c[f];
-  }
-
-  function Qb(a, b, c, d) {
-    var e,
-        f,
-        g,
-        h,
-        i,
-        j = {},
-        k = a.dataTypes.slice();
-    if (k[1]) for (g in a.converters) {
-      j[g.toLowerCase()] = a.converters[g];
-    }
-    f = k.shift();
-
-    while (f) {
-      if (a.responseFields[f] && (c[a.responseFields[f]] = b), !i && d && a.dataFilter && (b = a.dataFilter(b, a.dataType)), i = f, f = k.shift()) if ("*" === f) f = i;else if ("*" !== i && i !== f) {
-        if (g = j[i + " " + f] || j["* " + f], !g) for (e in j) {
-          if (h = e.split(" "), h[1] === f && (g = j[i + " " + h[0]] || j["* " + h[0]])) {
-            g === !0 ? g = j[e] : j[e] !== !0 && (f = h[0], k.unshift(h[1]));
-            break;
-          }
-        }
-        if (g !== !0) if (g && a["throws"]) b = g(b);else try {
-          b = g(b);
-        } catch (l) {
-          return {
-            state: "parsererror",
-            error: g ? l : "No conversion from " + i + " to " + f
-          };
-        }
-      }
-    }
-
-    return {
-      state: "success",
-      data: b
-    };
-  }
-
-  r.extend({
-    active: 0,
-    lastModified: {},
-    etag: {},
-    ajaxSettings: {
-      url: tb.href,
-      type: "GET",
-      isLocal: Fb.test(tb.protocol),
-      global: !0,
-      processData: !0,
-      async: !0,
-      contentType: "application/x-www-form-urlencoded; charset=UTF-8",
-      accepts: {
-        "*": Kb,
-        text: "text/plain",
-        html: "text/html",
-        xml: "application/xml, text/xml",
-        json: "application/json, text/javascript"
-      },
-      contents: {
-        xml: /\bxml\b/,
-        html: /\bhtml/,
-        json: /\bjson\b/
-      },
-      responseFields: {
-        xml: "responseXML",
-        text: "responseText",
-        json: "responseJSON"
-      },
-      converters: {
-        "* text": String,
-        "text html": !0,
-        "text json": JSON.parse,
-        "text xml": r.parseXML
-      },
-      flatOptions: {
-        url: !0,
-        context: !0
-      }
-    },
-    ajaxSetup: function ajaxSetup(a, b) {
-      return b ? Ob(Ob(a, r.ajaxSettings), b) : Ob(r.ajaxSettings, a);
-    },
-    ajaxPrefilter: Mb(Ib),
-    ajaxTransport: Mb(Jb),
-    ajax: function ajax(b, c) {
-      "object" == _typeof(b) && (c = b, b = void 0), c = c || {};
-      var e,
-          f,
-          g,
-          h,
-          i,
-          j,
-          k,
-          l,
-          m,
-          n,
-          o = r.ajaxSetup({}, c),
-          p = o.context || o,
-          q = o.context && (p.nodeType || p.jquery) ? r(p) : r.event,
-          s = r.Deferred(),
-          t = r.Callbacks("once memory"),
-          u = o.statusCode || {},
-          v = {},
-          w = {},
-          x = "canceled",
-          y = {
-        readyState: 0,
-        getResponseHeader: function getResponseHeader(a) {
-          var b;
-
-          if (k) {
-            if (!h) {
-              h = {};
-
-              while (b = Eb.exec(g)) {
-                h[b[1].toLowerCase()] = b[2];
-              }
-            }
-
-            b = h[a.toLowerCase()];
-          }
-
-          return null == b ? null : b;
-        },
-        getAllResponseHeaders: function getAllResponseHeaders() {
-          return k ? g : null;
-        },
-        setRequestHeader: function setRequestHeader(a, b) {
-          return null == k && (a = w[a.toLowerCase()] = w[a.toLowerCase()] || a, v[a] = b), this;
-        },
-        overrideMimeType: function overrideMimeType(a) {
-          return null == k && (o.mimeType = a), this;
-        },
-        statusCode: function statusCode(a) {
-          var b;
-          if (a) if (k) y.always(a[y.status]);else for (b in a) {
-            u[b] = [u[b], a[b]];
-          }
-          return this;
-        },
-        abort: function abort(a) {
-          var b = a || x;
-          return e && e.abort(b), A(0, b), this;
-        }
-      };
-
-      if (s.promise(y), o.url = ((b || o.url || tb.href) + "").replace(Hb, tb.protocol + "//"), o.type = c.method || c.type || o.method || o.type, o.dataTypes = (o.dataType || "*").toLowerCase().match(L) || [""], null == o.crossDomain) {
-        j = d.createElement("a");
-
-        try {
-          j.href = o.url, j.href = j.href, o.crossDomain = Lb.protocol + "//" + Lb.host != j.protocol + "//" + j.host;
-        } catch (z) {
-          o.crossDomain = !0;
-        }
-      }
-
-      if (o.data && o.processData && "string" != typeof o.data && (o.data = r.param(o.data, o.traditional)), Nb(Ib, o, c, y), k) return y;
-      l = r.event && o.global, l && 0 === r.active++ && r.event.trigger("ajaxStart"), o.type = o.type.toUpperCase(), o.hasContent = !Gb.test(o.type), f = o.url.replace(Cb, ""), o.hasContent ? o.data && o.processData && 0 === (o.contentType || "").indexOf("application/x-www-form-urlencoded") && (o.data = o.data.replace(Bb, "+")) : (n = o.url.slice(f.length), o.data && (f += (vb.test(f) ? "&" : "?") + o.data, delete o.data), o.cache === !1 && (f = f.replace(Db, "$1"), n = (vb.test(f) ? "&" : "?") + "_=" + ub++ + n), o.url = f + n), o.ifModified && (r.lastModified[f] && y.setRequestHeader("If-Modified-Since", r.lastModified[f]), r.etag[f] && y.setRequestHeader("If-None-Match", r.etag[f])), (o.data && o.hasContent && o.contentType !== !1 || c.contentType) && y.setRequestHeader("Content-Type", o.contentType), y.setRequestHeader("Accept", o.dataTypes[0] && o.accepts[o.dataTypes[0]] ? o.accepts[o.dataTypes[0]] + ("*" !== o.dataTypes[0] ? ", " + Kb + "; q=0.01" : "") : o.accepts["*"]);
-
-      for (m in o.headers) {
-        y.setRequestHeader(m, o.headers[m]);
-      }
-
-      if (o.beforeSend && (o.beforeSend.call(p, y, o) === !1 || k)) return y.abort();
-
-      if (x = "abort", t.add(o.complete), y.done(o.success), y.fail(o.error), e = Nb(Jb, o, c, y)) {
-        if (y.readyState = 1, l && q.trigger("ajaxSend", [y, o]), k) return y;
-        o.async && o.timeout > 0 && (i = a.setTimeout(function () {
-          y.abort("timeout");
-        }, o.timeout));
-
-        try {
-          k = !1, e.send(v, A);
-        } catch (z) {
-          if (k) throw z;
-          A(-1, z);
-        }
-      } else A(-1, "No Transport");
-
-      function A(b, c, d, h) {
-        var j,
-            m,
-            n,
-            v,
-            w,
-            x = c;
-        k || (k = !0, i && a.clearTimeout(i), e = void 0, g = h || "", y.readyState = b > 0 ? 4 : 0, j = b >= 200 && b < 300 || 304 === b, d && (v = Pb(o, y, d)), v = Qb(o, v, y, j), j ? (o.ifModified && (w = y.getResponseHeader("Last-Modified"), w && (r.lastModified[f] = w), w = y.getResponseHeader("etag"), w && (r.etag[f] = w)), 204 === b || "HEAD" === o.type ? x = "nocontent" : 304 === b ? x = "notmodified" : (x = v.state, m = v.data, n = v.error, j = !n)) : (n = x, !b && x || (x = "error", b < 0 && (b = 0))), y.status = b, y.statusText = (c || x) + "", j ? s.resolveWith(p, [m, x, y]) : s.rejectWith(p, [y, x, n]), y.statusCode(u), u = void 0, l && q.trigger(j ? "ajaxSuccess" : "ajaxError", [y, o, j ? m : n]), t.fireWith(p, [y, x]), l && (q.trigger("ajaxComplete", [y, o]), --r.active || r.event.trigger("ajaxStop")));
-      }
-
-      return y;
-    },
-    getJSON: function getJSON(a, b, c) {
-      return r.get(a, b, c, "json");
-    },
-    getScript: function getScript(a, b) {
-      return r.get(a, void 0, b, "script");
-    }
-  }), r.each(["get", "post"], function (a, b) {
-    r[b] = function (a, c, d, e) {
-      return r.isFunction(c) && (e = e || d, d = c, c = void 0), r.ajax(r.extend({
-        url: a,
-        type: b,
-        dataType: e,
-        data: c,
-        success: d
-      }, r.isPlainObject(a) && a));
-    };
-  }), r._evalUrl = function (a) {
-    return r.ajax({
-      url: a,
-      type: "GET",
-      dataType: "script",
-      cache: !0,
-      async: !1,
-      global: !1,
-      "throws": !0
-    });
-  }, r.fn.extend({
-    wrapAll: function wrapAll(a) {
-      var b;
-      return this[0] && (r.isFunction(a) && (a = a.call(this[0])), b = r(a, this[0].ownerDocument).eq(0).clone(!0), this[0].parentNode && b.insertBefore(this[0]), b.map(function () {
-        var a = this;
-
-        while (a.firstElementChild) {
-          a = a.firstElementChild;
-        }
-
-        return a;
-      }).append(this)), this;
-    },
-    wrapInner: function wrapInner(a) {
-      return r.isFunction(a) ? this.each(function (b) {
-        r(this).wrapInner(a.call(this, b));
-      }) : this.each(function () {
-        var b = r(this),
-            c = b.contents();
-        c.length ? c.wrapAll(a) : b.append(a);
-      });
-    },
-    wrap: function wrap(a) {
-      var b = r.isFunction(a);
-      return this.each(function (c) {
-        r(this).wrapAll(b ? a.call(this, c) : a);
-      });
-    },
-    unwrap: function unwrap(a) {
-      return this.parent(a).not("body").each(function () {
-        r(this).replaceWith(this.childNodes);
-      }), this;
-    }
-  }), r.expr.pseudos.hidden = function (a) {
-    return !r.expr.pseudos.visible(a);
-  }, r.expr.pseudos.visible = function (a) {
-    return !!(a.offsetWidth || a.offsetHeight || a.getClientRects().length);
-  }, r.ajaxSettings.xhr = function () {
-    try {
-      return new a.XMLHttpRequest();
-    } catch (b) {}
-  };
-  var Rb = {
-    0: 200,
-    1223: 204
-  },
-      Sb = r.ajaxSettings.xhr();
-  o.cors = !!Sb && "withCredentials" in Sb, o.ajax = Sb = !!Sb, r.ajaxTransport(function (b) {
-    var _c, d;
-
-    if (o.cors || Sb && !b.crossDomain) return {
-      send: function send(e, f) {
-        var g,
-            h = b.xhr();
-        if (h.open(b.type, b.url, b.async, b.username, b.password), b.xhrFields) for (g in b.xhrFields) {
-          h[g] = b.xhrFields[g];
-        }
-        b.mimeType && h.overrideMimeType && h.overrideMimeType(b.mimeType), b.crossDomain || e["X-Requested-With"] || (e["X-Requested-With"] = "XMLHttpRequest");
-
-        for (g in e) {
-          h.setRequestHeader(g, e[g]);
-        }
-
-        _c = function c(a) {
-          return function () {
-            _c && (_c = d = h.onload = h.onerror = h.onabort = h.onreadystatechange = null, "abort" === a ? h.abort() : "error" === a ? "number" != typeof h.status ? f(0, "error") : f(h.status, h.statusText) : f(Rb[h.status] || h.status, h.statusText, "text" !== (h.responseType || "text") || "string" != typeof h.responseText ? {
-              binary: h.response
-            } : {
-              text: h.responseText
-            }, h.getAllResponseHeaders()));
-          };
-        }, h.onload = _c(), d = h.onerror = _c("error"), void 0 !== h.onabort ? h.onabort = d : h.onreadystatechange = function () {
-          4 === h.readyState && a.setTimeout(function () {
-            _c && d();
-          });
-        }, _c = _c("abort");
-
-        try {
-          h.send(b.hasContent && b.data || null);
-        } catch (i) {
-          if (_c) throw i;
-        }
-      },
-      abort: function abort() {
-        _c && _c();
-      }
-    };
-  }), r.ajaxPrefilter(function (a) {
-    a.crossDomain && (a.contents.script = !1);
-  }), r.ajaxSetup({
-    accepts: {
-      script: "text/javascript, application/javascript, application/ecmascript, application/x-ecmascript"
-    },
-    contents: {
-      script: /\b(?:java|ecma)script\b/
-    },
-    converters: {
-      "text script": function textScript(a) {
-        return r.globalEval(a), a;
-      }
-    }
-  }), r.ajaxPrefilter("script", function (a) {
-    void 0 === a.cache && (a.cache = !1), a.crossDomain && (a.type = "GET");
-  }), r.ajaxTransport("script", function (a) {
-    if (a.crossDomain) {
-      var b, _c2;
-
-      return {
-        send: function send(e, f) {
-          b = r("<script>").prop({
-            charset: a.scriptCharset,
-            src: a.url
-          }).on("load error", _c2 = function c(a) {
-            b.remove(), _c2 = null, a && f("error" === a.type ? 404 : 200, a.type);
-          }), d.head.appendChild(b[0]);
-        },
-        abort: function abort() {
-          _c2 && _c2();
-        }
-      };
-    }
-  });
-  var Tb = [],
-      Ub = /(=)\?(?=&|$)|\?\?/;
-  r.ajaxSetup({
-    jsonp: "callback",
-    jsonpCallback: function jsonpCallback() {
-      var a = Tb.pop() || r.expando + "_" + ub++;
-      return this[a] = !0, a;
-    }
-  }), r.ajaxPrefilter("json jsonp", function (b, c, d) {
-    var e,
-        f,
-        g,
-        h = b.jsonp !== !1 && (Ub.test(b.url) ? "url" : "string" == typeof b.data && 0 === (b.contentType || "").indexOf("application/x-www-form-urlencoded") && Ub.test(b.data) && "data");
-    if (h || "jsonp" === b.dataTypes[0]) return e = b.jsonpCallback = r.isFunction(b.jsonpCallback) ? b.jsonpCallback() : b.jsonpCallback, h ? b[h] = b[h].replace(Ub, "$1" + e) : b.jsonp !== !1 && (b.url += (vb.test(b.url) ? "&" : "?") + b.jsonp + "=" + e), b.converters["script json"] = function () {
-      return g || r.error(e + " was not called"), g[0];
-    }, b.dataTypes[0] = "json", f = a[e], a[e] = function () {
-      g = arguments;
-    }, d.always(function () {
-      void 0 === f ? r(a).removeProp(e) : a[e] = f, b[e] && (b.jsonpCallback = c.jsonpCallback, Tb.push(e)), g && r.isFunction(f) && f(g[0]), g = f = void 0;
-    }), "script";
-  }), o.createHTMLDocument = function () {
-    var a = d.implementation.createHTMLDocument("").body;
-    return a.innerHTML = "<form></form><form></form>", 2 === a.childNodes.length;
-  }(), r.parseHTML = function (a, b, c) {
-    if ("string" != typeof a) return [];
-    "boolean" == typeof b && (c = b, b = !1);
-    var e, f, g;
-    return b || (o.createHTMLDocument ? (b = d.implementation.createHTMLDocument(""), e = b.createElement("base"), e.href = d.location.href, b.head.appendChild(e)) : b = d), f = C.exec(a), g = !c && [], f ? [b.createElement(f[1])] : (f = qa([a], b, g), g && g.length && r(g).remove(), r.merge([], f.childNodes));
-  }, r.fn.load = function (a, b, c) {
-    var d,
-        e,
-        f,
-        g = this,
-        h = a.indexOf(" ");
-    return h > -1 && (d = pb(a.slice(h)), a = a.slice(0, h)), r.isFunction(b) ? (c = b, b = void 0) : b && "object" == _typeof(b) && (e = "POST"), g.length > 0 && r.ajax({
-      url: a,
-      type: e || "GET",
-      dataType: "html",
-      data: b
-    }).done(function (a) {
-      f = arguments, g.html(d ? r("<div>").append(r.parseHTML(a)).find(d) : a);
-    }).always(c && function (a, b) {
-      g.each(function () {
-        c.apply(this, f || [a.responseText, b, a]);
-      });
-    }), this;
-  }, r.each(["ajaxStart", "ajaxStop", "ajaxComplete", "ajaxError", "ajaxSuccess", "ajaxSend"], function (a, b) {
-    r.fn[b] = function (a) {
-      return this.on(b, a);
-    };
-  }), r.expr.pseudos.animated = function (a) {
-    return r.grep(r.timers, function (b) {
-      return a === b.elem;
-    }).length;
-  }, r.offset = {
-    setOffset: function setOffset(a, b, c) {
-      var d,
-          e,
-          f,
-          g,
-          h,
-          i,
-          j,
-          k = r.css(a, "position"),
-          l = r(a),
-          m = {};
-      "static" === k && (a.style.position = "relative"), h = l.offset(), f = r.css(a, "top"), i = r.css(a, "left"), j = ("absolute" === k || "fixed" === k) && (f + i).indexOf("auto") > -1, j ? (d = l.position(), g = d.top, e = d.left) : (g = parseFloat(f) || 0, e = parseFloat(i) || 0), r.isFunction(b) && (b = b.call(a, c, r.extend({}, h))), null != b.top && (m.top = b.top - h.top + g), null != b.left && (m.left = b.left - h.left + e), "using" in b ? b.using.call(a, m) : l.css(m);
-    }
-  }, r.fn.extend({
-    offset: function offset(a) {
-      if (arguments.length) return void 0 === a ? this : this.each(function (b) {
-        r.offset.setOffset(this, a, b);
-      });
-      var b,
-          c,
-          d,
-          e,
-          f = this[0];
-      if (f) return f.getClientRects().length ? (d = f.getBoundingClientRect(), b = f.ownerDocument, c = b.documentElement, e = b.defaultView, {
-        top: d.top + e.pageYOffset - c.clientTop,
-        left: d.left + e.pageXOffset - c.clientLeft
-      }) : {
-        top: 0,
-        left: 0
-      };
-    },
-    position: function position() {
-      if (this[0]) {
-        var a,
-            b,
-            c = this[0],
-            d = {
-          top: 0,
-          left: 0
-        };
-        return "fixed" === r.css(c, "position") ? b = c.getBoundingClientRect() : (a = this.offsetParent(), b = this.offset(), B(a[0], "html") || (d = a.offset()), d = {
-          top: d.top + r.css(a[0], "borderTopWidth", !0),
-          left: d.left + r.css(a[0], "borderLeftWidth", !0)
-        }), {
-          top: b.top - d.top - r.css(c, "marginTop", !0),
-          left: b.left - d.left - r.css(c, "marginLeft", !0)
-        };
-      }
-    },
-    offsetParent: function offsetParent() {
-      return this.map(function () {
-        var a = this.offsetParent;
-
-        while (a && "static" === r.css(a, "position")) {
-          a = a.offsetParent;
-        }
-
-        return a || ra;
-      });
-    }
-  }), r.each({
-    scrollLeft: "pageXOffset",
-    scrollTop: "pageYOffset"
-  }, function (a, b) {
-    var c = "pageYOffset" === b;
-
-    r.fn[a] = function (d) {
-      return T(this, function (a, d, e) {
-        var f;
-        return r.isWindow(a) ? f = a : 9 === a.nodeType && (f = a.defaultView), void 0 === e ? f ? f[b] : a[d] : void (f ? f.scrollTo(c ? f.pageXOffset : e, c ? e : f.pageYOffset) : a[d] = e);
-      }, a, d, arguments.length);
-    };
-  }), r.each(["top", "left"], function (a, b) {
-    r.cssHooks[b] = Pa(o.pixelPosition, function (a, c) {
-      if (c) return c = Oa(a, b), Ma.test(c) ? r(a).position()[b] + "px" : c;
-    });
-  }), r.each({
-    Height: "height",
-    Width: "width"
-  }, function (a, b) {
-    r.each({
-      padding: "inner" + a,
-      content: b,
-      "": "outer" + a
-    }, function (c, d) {
-      r.fn[d] = function (e, f) {
-        var g = arguments.length && (c || "boolean" != typeof e),
-            h = c || (e === !0 || f === !0 ? "margin" : "border");
-        return T(this, function (b, c, e) {
-          var f;
-          return r.isWindow(b) ? 0 === d.indexOf("outer") ? b["inner" + a] : b.document.documentElement["client" + a] : 9 === b.nodeType ? (f = b.documentElement, Math.max(b.body["scroll" + a], f["scroll" + a], b.body["offset" + a], f["offset" + a], f["client" + a])) : void 0 === e ? r.css(b, c, h) : r.style(b, c, e, h);
-        }, b, g ? e : void 0, g);
-      };
-    });
-  }), r.fn.extend({
-    bind: function bind(a, b, c) {
-      return this.on(a, null, b, c);
-    },
-    unbind: function unbind(a, b) {
-      return this.off(a, null, b);
-    },
-    delegate: function delegate(a, b, c, d) {
-      return this.on(b, a, c, d);
-    },
-    undelegate: function undelegate(a, b, c) {
-      return 1 === arguments.length ? this.off(a, "**") : this.off(b, a || "**", c);
-    }
-  }), r.holdReady = function (a) {
-    a ? r.readyWait++ : r.ready(!0);
-  }, r.isArray = Array.isArray, r.parseJSON = JSON.parse, r.nodeName = B,  true && !(__WEBPACK_AMD_DEFINE_ARRAY__ = [], __WEBPACK_AMD_DEFINE_RESULT__ = (function () {
-    return r;
-  }).apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__),
-				__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
-  var Vb = a.jQuery,
-      Wb = a.$;
-  return r.noConflict = function (b) {
-    return a.$ === r && (a.$ = Wb), b && a.jQuery === r && (a.jQuery = Vb), r;
-  }, b || (a.jQuery = a.$ = r), r;
-});
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/module.js */ "./node_modules/webpack/buildin/module.js")(module)))
+/***/ "./resources/js/components/ExampleComponent.vue":
+/*!******************************************************!*\
+  !*** ./resources/js/components/ExampleComponent.vue ***!
+  \******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ExampleComponent_vue_vue_type_template_id_299e239e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ExampleComponent.vue?vue&type=template&id=299e239e& */ "./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e&");
+/* harmony import */ var _ExampleComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ExampleComponent.vue?vue&type=script&lang=js& */ "./resources/js/components/ExampleComponent.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _ExampleComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _ExampleComponent_vue_vue_type_template_id_299e239e___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _ExampleComponent_vue_vue_type_template_id_299e239e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/ExampleComponent.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
 
 /***/ }),
 
-/***/ "./resources/js/jquery-migrate-3.0.0.js":
-/*!**********************************************!*\
-  !*** ./resources/js/jquery-migrate-3.0.0.js ***!
-  \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-/*!
- * jQuery Migrate - v3.0.0 - 2016-06-09
- * Copyright jQuery Foundation and other contributors
- */
-(function (jQuery, window) {
-  "use strict";
-
-  jQuery.migrateVersion = "3.0.0";
-
-  (function () {
-    // Support: IE9 only
-    // IE9 only creates console object when dev tools are first opened
-    // Also, avoid Function#bind here to simplify PhantomJS usage
-    var log = window.console && window.console.log && function () {
-      window.console.log.apply(window.console, arguments);
-    },
-        rbadVersions = /^[12]\./;
-
-    if (!log) {
-      return;
-    } // Need jQuery 3.0.0+ and no older Migrate loaded
-
-
-    if (!jQuery || rbadVersions.test(jQuery.fn.jquery)) {
-      log("JQMIGRATE: jQuery 3.0.0+ REQUIRED");
-    }
-
-    if (jQuery.migrateWarnings) {
-      log("JQMIGRATE: Migrate plugin loaded multiple times");
-    } // Show a message on the console so devs know we're active
-
-
-    log("JQMIGRATE: Migrate is installed" + (jQuery.migrateMute ? "" : " with logging active") + ", version " + jQuery.migrateVersion);
-  })();
-
-  var warnedAbout = {}; // List of warnings already given; public read only
-
-  jQuery.migrateWarnings = []; // Set to false to disable traces that appear with warnings
-
-  if (jQuery.migrateTrace === undefined) {
-    jQuery.migrateTrace = true;
-  } // Forget any warnings we've already given; public
-
-
-  jQuery.migrateReset = function () {
-    warnedAbout = {};
-    jQuery.migrateWarnings.length = 0;
-  };
-
-  function migrateWarn(msg) {
-    var console = window.console;
-
-    if (!warnedAbout[msg]) {
-      warnedAbout[msg] = true;
-      jQuery.migrateWarnings.push(msg);
-
-      if (console && console.warn && !jQuery.migrateMute) {
-        console.warn("JQMIGRATE: " + msg);
-
-        if (jQuery.migrateTrace && console.trace) {
-          console.trace();
-        }
-      }
-    }
-  }
-
-  function migrateWarnProp(obj, prop, value, msg) {
-    Object.defineProperty(obj, prop, {
-      configurable: true,
-      enumerable: true,
-      get: function get() {
-        migrateWarn(msg);
-        return value;
-      }
-    });
-  }
-
-  if (document.compatMode === "BackCompat") {
-    // JQuery has never supported or tested Quirks Mode
-    migrateWarn("jQuery is not compatible with Quirks Mode");
-  }
-
-  var oldInit = jQuery.fn.init,
-      oldIsNumeric = jQuery.isNumeric,
-      oldFind = jQuery.find,
-      rattrHashTest = /\[(\s*[-\w]+\s*)([~|^$*]?=)\s*([-\w#]*?#[-\w#]*)\s*\]/,
-      rattrHashGlob = /\[(\s*[-\w]+\s*)([~|^$*]?=)\s*([-\w#]*?#[-\w#]*)\s*\]/g;
-
-  jQuery.fn.init = function (arg1) {
-    var args = Array.prototype.slice.call(arguments);
-
-    if (typeof arg1 === "string" && arg1 === "#") {
-      // JQuery( "#" ) is a bogus ID selector, but it returned an empty set before jQuery 3.0
-      migrateWarn("jQuery( '#' ) is not a valid selector");
-      args[0] = [];
-    }
-
-    return oldInit.apply(this, args);
-  };
-
-  jQuery.fn.init.prototype = jQuery.fn;
-
-  jQuery.find = function (selector) {
-    var args = Array.prototype.slice.call(arguments); // Support: PhantomJS 1.x
-    // String#match fails to match when used with a //g RegExp, only on some strings
-
-    if (typeof selector === "string" && rattrHashTest.test(selector)) {
-      // The nonstandard and undocumented unquoted-hash was removed in jQuery 1.12.0
-      // First see if qS thinks it's a valid selector, if so avoid a false positive
-      try {
-        document.querySelector(selector);
-      } catch (err1) {
-        // Didn't *look* valid to qSA, warn and try quoting what we think is the value
-        selector = selector.replace(rattrHashGlob, function (_, attr, op, value) {
-          return "[" + attr + op + "\"" + value + "\"]";
-        }); // If the regexp *may* have created an invalid selector, don't update it
-        // Note that there may be false alarms if selector uses jQuery extensions
-
-        try {
-          document.querySelector(selector);
-          migrateWarn("Attribute selector with '#' must be quoted: " + args[0]);
-          args[0] = selector;
-        } catch (err2) {
-          migrateWarn("Attribute selector with '#' was not fixed: " + args[0]);
-        }
-      }
-    }
-
-    return oldFind.apply(this, args);
-  }; // Copy properties attached to original jQuery.find method (e.g. .attr, .isXML)
-
-
-  var findProp;
-
-  for (findProp in oldFind) {
-    if (Object.prototype.hasOwnProperty.call(oldFind, findProp)) {
-      jQuery.find[findProp] = oldFind[findProp];
-    }
-  } // The number of elements contained in the matched element set
-
-
-  jQuery.fn.size = function () {
-    migrateWarn("jQuery.fn.size() is deprecated; use the .length property");
-    return this.length;
-  };
-
-  jQuery.parseJSON = function () {
-    migrateWarn("jQuery.parseJSON is deprecated; use JSON.parse");
-    return JSON.parse.apply(null, arguments);
-  };
-
-  jQuery.isNumeric = function (val) {
-    // The jQuery 2.2.3 implementation of isNumeric
-    function isNumeric2(obj) {
-      var realStringObj = obj && obj.toString();
-      return !jQuery.isArray(obj) && realStringObj - parseFloat(realStringObj) + 1 >= 0;
-    }
-
-    var newValue = oldIsNumeric(val),
-        oldValue = isNumeric2(val);
-
-    if (newValue !== oldValue) {
-      migrateWarn("jQuery.isNumeric() should not be called on constructed objects");
-    }
-
-    return oldValue;
-  };
-
-  migrateWarnProp(jQuery, "unique", jQuery.uniqueSort, "jQuery.unique is deprecated, use jQuery.uniqueSort"); // Now jQuery.expr.pseudos is the standard incantation
-
-  migrateWarnProp(jQuery.expr, "filters", jQuery.expr.pseudos, "jQuery.expr.filters is now jQuery.expr.pseudos");
-  migrateWarnProp(jQuery.expr, ":", jQuery.expr.pseudos, "jQuery.expr[\":\"] is now jQuery.expr.pseudos");
-  var oldAjax = jQuery.ajax;
-
-  jQuery.ajax = function () {
-    var jQXHR = oldAjax.apply(this, arguments); // Be sure we got a jQXHR (e.g., not sync)
-
-    if (jQXHR.promise) {
-      migrateWarnProp(jQXHR, "success", jQXHR.done, "jQXHR.success is deprecated and removed");
-      migrateWarnProp(jQXHR, "error", jQXHR.fail, "jQXHR.error is deprecated and removed");
-      migrateWarnProp(jQXHR, "complete", jQXHR.always, "jQXHR.complete is deprecated and removed");
-    }
-
-    return jQXHR;
-  };
-
-  var oldRemoveAttr = jQuery.fn.removeAttr,
-      oldToggleClass = jQuery.fn.toggleClass,
-      rmatchNonSpace = /\S+/g;
-
-  jQuery.fn.removeAttr = function (name) {
-    var self = this;
-    jQuery.each(name.match(rmatchNonSpace), function (i, attr) {
-      if (jQuery.expr.match.bool.test(attr)) {
-        migrateWarn("jQuery.fn.removeAttr no longer sets boolean properties: " + attr);
-        self.prop(attr, false);
-      }
-    });
-    return oldRemoveAttr.apply(this, arguments);
-  };
-
-  jQuery.fn.toggleClass = function (state) {
-    // Only deprecating no-args or single boolean arg
-    if (state !== undefined && typeof state !== "boolean") {
-      return oldToggleClass.apply(this, arguments);
-    }
-
-    migrateWarn("jQuery.fn.toggleClass( boolean ) is deprecated"); // Toggle entire class name of each element
-
-    return this.each(function () {
-      var className = this.getAttribute && this.getAttribute("class") || "";
-
-      if (className) {
-        jQuery.data(this, "__className__", className);
-      } // If the element has a class name or if we're passed `false`,
-      // then remove the whole classname (if there was one, the above saved it).
-      // Otherwise bring back whatever was previously saved (if anything),
-      // falling back to the empty string if nothing was stored.
-
-
-      if (this.setAttribute) {
-        this.setAttribute("class", className || state === false ? "" : jQuery.data(this, "__className__") || "");
-      }
-    });
-  };
-
-  var internalSwapCall = false; // If this version of jQuery has .swap(), don't false-alarm on internal uses
-
-  if (jQuery.swap) {
-    jQuery.each(["height", "width", "reliableMarginRight"], function (_, name) {
-      var oldHook = jQuery.cssHooks[name] && jQuery.cssHooks[name].get;
-
-      if (oldHook) {
-        jQuery.cssHooks[name].get = function () {
-          var ret;
-          internalSwapCall = true;
-          ret = oldHook.apply(this, arguments);
-          internalSwapCall = false;
-          return ret;
-        };
-      }
-    });
-  }
-
-  jQuery.swap = function (elem, options, callback, args) {
-    var ret,
-        name,
-        old = {};
-
-    if (!internalSwapCall) {
-      migrateWarn("jQuery.swap() is undocumented and deprecated");
-    } // Remember the old values, and insert the new ones
-
-
-    for (name in options) {
-      old[name] = elem.style[name];
-      elem.style[name] = options[name];
-    }
-
-    ret = callback.apply(elem, args || []); // Revert the old values
-
-    for (name in options) {
-      elem.style[name] = old[name];
-    }
-
-    return ret;
-  };
-
-  var oldData = jQuery.data;
-
-  jQuery.data = function (elem, name, value) {
-    var curData; // If the name is transformed, look for the un-transformed name in the data object
-
-    if (name && name !== jQuery.camelCase(name)) {
-      curData = jQuery.hasData(elem) && oldData.call(this, elem);
-
-      if (curData && name in curData) {
-        migrateWarn("jQuery.data() always sets/gets camelCased names: " + name);
-
-        if (arguments.length > 2) {
-          curData[name] = value;
-        }
-
-        return curData[name];
-      }
-    }
-
-    return oldData.apply(this, arguments);
-  };
-
-  var oldTweenRun = jQuery.Tween.prototype.run;
-
-  jQuery.Tween.prototype.run = function (percent) {
-    if (jQuery.easing[this.easing].length > 1) {
-      migrateWarn("easing function " + "\"jQuery.easing." + this.easing.toString() + "\" should use only first argument");
-      jQuery.easing[this.easing] = jQuery.easing[this.easing].bind(jQuery.easing, percent, this.options.duration * percent, 0, 1, this.options.duration);
-    }
-
-    oldTweenRun.apply(this, arguments);
-  };
-
-  var oldLoad = jQuery.fn.load,
-      originalFix = jQuery.event.fix;
-  jQuery.event.props = [];
-  jQuery.event.fixHooks = {};
-
-  jQuery.event.fix = function (originalEvent) {
-    var event,
-        type = originalEvent.type,
-        fixHook = this.fixHooks[type],
-        props = jQuery.event.props;
-
-    if (props.length) {
-      migrateWarn("jQuery.event.props are deprecated and removed: " + props.join());
-
-      while (props.length) {
-        jQuery.event.addProp(props.pop());
-      }
-    }
-
-    if (fixHook && !fixHook._migrated_) {
-      fixHook._migrated_ = true;
-      migrateWarn("jQuery.event.fixHooks are deprecated and removed: " + type);
-
-      if ((props = fixHook.props) && props.length) {
-        while (props.length) {
-          jQuery.event.addProp(props.pop());
-        }
-      }
-    }
-
-    event = originalFix.call(this, originalEvent);
-    return fixHook && fixHook.filter ? fixHook.filter(event, originalEvent) : event;
-  };
-
-  jQuery.each(["load", "unload", "error"], function (_, name) {
-    jQuery.fn[name] = function () {
-      var args = Array.prototype.slice.call(arguments, 0); // If this is an ajax load() the first arg should be the string URL;
-      // technically this could also be the "Anything" arg of the event .load()
-      // which just goes to show why this dumb signature has been deprecated!
-      // jQuery custom builds that exclude the Ajax module justifiably die here.
-
-      if (name === "load" && typeof args[0] === "string") {
-        return oldLoad.apply(this, args);
-      }
-
-      migrateWarn("jQuery.fn." + name + "() is deprecated");
-      args.splice(0, 0, name);
-
-      if (arguments.length) {
-        return this.on.apply(this, args);
-      } // Use .triggerHandler here because:
-      // - load and unload events don't need to bubble, only applied to window or image
-      // - error event should not bubble to window, although it does pre-1.7
-      // See http://bugs.jquery.com/ticket/11820
-
-
-      this.triggerHandler.apply(this, args);
-      return this;
-    };
-  }); // Trigger "ready" event only once, on document ready
-
-  jQuery(function () {
-    jQuery(document).triggerHandler("ready");
-  });
-  jQuery.event.special.ready = {
-    setup: function setup() {
-      if (this === document) {
-        migrateWarn("'ready' event is deprecated");
-      }
-    }
-  };
-  jQuery.fn.extend({
-    bind: function bind(types, data, fn) {
-      migrateWarn("jQuery.fn.bind() is deprecated");
-      return this.on(types, null, data, fn);
-    },
-    unbind: function unbind(types, fn) {
-      migrateWarn("jQuery.fn.unbind() is deprecated");
-      return this.off(types, null, fn);
-    },
-    delegate: function delegate(selector, types, data, fn) {
-      migrateWarn("jQuery.fn.delegate() is deprecated");
-      return this.on(types, selector, data, fn);
-    },
-    undelegate: function undelegate(selector, types, fn) {
-      migrateWarn("jQuery.fn.undelegate() is deprecated");
-      return arguments.length === 1 ? this.off(selector, "**") : this.off(types, selector || "**", fn);
-    }
-  });
-  var oldOffset = jQuery.fn.offset;
-
-  jQuery.fn.offset = function () {
-    var docElem,
-        elem = this[0],
-        origin = {
-      top: 0,
-      left: 0
-    };
-
-    if (!elem || !elem.nodeType) {
-      migrateWarn("jQuery.fn.offset() requires a valid DOM element");
-      return origin;
-    }
-
-    docElem = (elem.ownerDocument || document).documentElement;
-
-    if (!jQuery.contains(docElem, elem)) {
-      migrateWarn("jQuery.fn.offset() requires an element connected to a document");
-      return origin;
-    }
-
-    return oldOffset.apply(this, arguments);
-  };
-
-  var oldParam = jQuery.param;
-
-  jQuery.param = function (data, traditional) {
-    var ajaxTraditional = jQuery.ajaxSettings && jQuery.ajaxSettings.traditional;
-
-    if (traditional === undefined && ajaxTraditional) {
-      migrateWarn("jQuery.param() no longer uses jQuery.ajaxSettings.traditional");
-      traditional = ajaxTraditional;
-    }
-
-    return oldParam.call(this, data, traditional);
-  };
-
-  var oldSelf = jQuery.fn.andSelf || jQuery.fn.addBack;
-
-  jQuery.fn.andSelf = function () {
-    migrateWarn("jQuery.fn.andSelf() replaced by jQuery.fn.addBack()");
-    return oldSelf.apply(this, arguments);
-  };
-
-  var oldDeferred = jQuery.Deferred,
-      tuples = [// Action, add listener, callbacks, .then handlers, final state
-  ["resolve", "done", jQuery.Callbacks("once memory"), jQuery.Callbacks("once memory"), "resolved"], ["reject", "fail", jQuery.Callbacks("once memory"), jQuery.Callbacks("once memory"), "rejected"], ["notify", "progress", jQuery.Callbacks("memory"), jQuery.Callbacks("memory")]];
-
-  jQuery.Deferred = function (func) {
-    var deferred = oldDeferred(),
-        promise = deferred.promise();
-
-    deferred.pipe = promise.pipe = function ()
-    /* fnDone, fnFail, fnProgress */
-    {
-      var fns = arguments;
-      migrateWarn("deferred.pipe() is deprecated");
-      return jQuery.Deferred(function (newDefer) {
-        jQuery.each(tuples, function (i, tuple) {
-          var fn = jQuery.isFunction(fns[i]) && fns[i]; // Deferred.done(function() { bind to newDefer or newDefer.resolve })
-          // deferred.fail(function() { bind to newDefer or newDefer.reject })
-          // deferred.progress(function() { bind to newDefer or newDefer.notify })
-
-          deferred[tuple[1]](function () {
-            var returned = fn && fn.apply(this, arguments);
-
-            if (returned && jQuery.isFunction(returned.promise)) {
-              returned.promise().done(newDefer.resolve).fail(newDefer.reject).progress(newDefer.notify);
-            } else {
-              newDefer[tuple[0] + "With"](this === promise ? newDefer.promise() : this, fn ? [returned] : arguments);
-            }
-          });
-        });
-        fns = null;
-      }).promise();
-    };
-
-    if (func) {
-      func.call(deferred, deferred);
-    }
-
-    return deferred;
-  };
-})(jQuery, window);
+/***/ "./resources/js/components/ExampleComponent.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************!*\
+  !*** ./resources/js/components/ExampleComponent.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ExampleComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./ExampleComponent.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ExampleComponent.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ExampleComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
 
 /***/ }),
 
-/***/ "./resources/js/jquery.stellar.min.js":
-/*!********************************************!*\
-  !*** ./resources/js/jquery.stellar.min.js ***!
-  \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/***/ "./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e& ***!
+  \*************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ExampleComponent_vue_vue_type_template_id_299e239e___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./ExampleComponent.vue?vue&type=template&id=299e239e& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ExampleComponent.vue?vue&type=template&id=299e239e&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ExampleComponent_vue_vue_type_template_id_299e239e___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/*! Stellar.js v0.6.2 | Copyright 2014, Mark Dalgleish | http://markdalgleish.com/projects/stellar.js | http://markdalgleish.mit-license.org */
-!function (a, b, c, d) {
-  function e(b, c) {
-    this.element = b, this.options = a.extend({}, g, c), this._defaults = g, this._name = f, this.init();
-  }
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ExampleComponent_vue_vue_type_template_id_299e239e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
-  var f = "stellar",
-      g = {
-    scrollProperty: "scroll",
-    positionProperty: "position",
-    horizontalScrolling: !0,
-    verticalScrolling: !0,
-    horizontalOffset: 0,
-    verticalOffset: 0,
-    responsive: !1,
-    parallaxBackgrounds: !0,
-    parallaxElements: !0,
-    hideDistantElements: !0,
-    hideElement: function hideElement(a) {
-      a.hide();
-    },
-    showElement: function showElement(a) {
-      a.show();
-    }
-  },
-      h = {
-    scroll: {
-      getLeft: function getLeft(a) {
-        return a.scrollLeft();
-      },
-      setLeft: function setLeft(a, b) {
-        a.scrollLeft(b);
-      },
-      getTop: function getTop(a) {
-        return a.scrollTop();
-      },
-      setTop: function setTop(a, b) {
-        a.scrollTop(b);
-      }
-    },
-    position: {
-      getLeft: function getLeft(a) {
-        return -1 * parseInt(a.css("left"), 10);
-      },
-      getTop: function getTop(a) {
-        return -1 * parseInt(a.css("top"), 10);
-      }
-    },
-    margin: {
-      getLeft: function getLeft(a) {
-        return -1 * parseInt(a.css("margin-left"), 10);
-      },
-      getTop: function getTop(a) {
-        return -1 * parseInt(a.css("margin-top"), 10);
-      }
-    },
-    transform: {
-      getLeft: function getLeft(a) {
-        var b = getComputedStyle(a[0])[k];
-        return "none" !== b ? -1 * parseInt(b.match(/(-?[0-9]+)/g)[4], 10) : 0;
-      },
-      getTop: function getTop(a) {
-        var b = getComputedStyle(a[0])[k];
-        return "none" !== b ? -1 * parseInt(b.match(/(-?[0-9]+)/g)[5], 10) : 0;
-      }
-    }
-  },
-      i = {
-    position: {
-      setLeft: function setLeft(a, b) {
-        a.css("left", b);
-      },
-      setTop: function setTop(a, b) {
-        a.css("top", b);
-      }
-    },
-    transform: {
-      setPosition: function setPosition(a, b, c, d, e) {
-        a[0].style[k] = "translate3d(" + (b - c) + "px, " + (d - e) + "px, 0)";
-      }
-    }
-  },
-      j = function () {
-    var b,
-        c = /^(Moz|Webkit|Khtml|O|ms|Icab)(?=[A-Z])/,
-        d = a("script")[0].style,
-        e = "";
 
-    for (b in d) {
-      if (c.test(b)) {
-        e = b.match(c)[0];
-        break;
-      }
-    }
-
-    return "WebkitOpacity" in d && (e = "Webkit"), "KhtmlOpacity" in d && (e = "Khtml"), function (a) {
-      return e + (e.length > 0 ? a.charAt(0).toUpperCase() + a.slice(1) : a);
-    };
-  }(),
-      k = j("transform"),
-      l = a("<div />", {
-    style: "background:#fff"
-  }).css("background-position-x") !== d,
-      m = l ? function (a, b, c) {
-    a.css({
-      "background-position-x": b,
-      "background-position-y": c
-    });
-  } : function (a, b, c) {
-    a.css("background-position", b + " " + c);
-  },
-      n = l ? function (a) {
-    return [a.css("background-position-x"), a.css("background-position-y")];
-  } : function (a) {
-    return a.css("background-position").split(" ");
-  },
-      o = b.requestAnimationFrame || b.webkitRequestAnimationFrame || b.mozRequestAnimationFrame || b.oRequestAnimationFrame || b.msRequestAnimationFrame || function (a) {
-    setTimeout(a, 1e3 / 60);
-  };
-
-  e.prototype = {
-    init: function init() {
-      this.options.name = f + "_" + Math.floor(1e9 * Math.random()), this._defineElements(), this._defineGetters(), this._defineSetters(), this._handleWindowLoadAndResize(), this._detectViewport(), this.refresh({
-        firstLoad: !0
-      }), "scroll" === this.options.scrollProperty ? this._handleScrollEvent() : this._startAnimationLoop();
-    },
-    _defineElements: function _defineElements() {
-      this.element === c.body && (this.element = b), this.$scrollElement = a(this.element), this.$element = this.element === b ? a("body") : this.$scrollElement, this.$viewportElement = this.options.viewportElement !== d ? a(this.options.viewportElement) : this.$scrollElement[0] === b || "scroll" === this.options.scrollProperty ? this.$scrollElement : this.$scrollElement.parent();
-    },
-    _defineGetters: function _defineGetters() {
-      var a = this,
-          b = h[a.options.scrollProperty];
-      this._getScrollLeft = function () {
-        return b.getLeft(a.$scrollElement);
-      }, this._getScrollTop = function () {
-        return b.getTop(a.$scrollElement);
-      };
-    },
-    _defineSetters: function _defineSetters() {
-      var b = this,
-          c = h[b.options.scrollProperty],
-          d = i[b.options.positionProperty],
-          e = c.setLeft,
-          f = c.setTop;
-      this._setScrollLeft = "function" == typeof e ? function (a) {
-        e(b.$scrollElement, a);
-      } : a.noop, this._setScrollTop = "function" == typeof f ? function (a) {
-        f(b.$scrollElement, a);
-      } : a.noop, this._setPosition = d.setPosition || function (a, c, e, f, g) {
-        b.options.horizontalScrolling && d.setLeft(a, c, e), b.options.verticalScrolling && d.setTop(a, f, g);
-      };
-    },
-    _handleWindowLoadAndResize: function _handleWindowLoadAndResize() {
-      var c = this,
-          d = a(b);
-      c.options.responsive && d.bind("load." + this.name, function () {
-        c.refresh();
-      }), d.bind("resize." + this.name, function () {
-        c._detectViewport(), c.options.responsive && c.refresh();
-      });
-    },
-    refresh: function refresh(c) {
-      var d = this,
-          e = d._getScrollLeft(),
-          f = d._getScrollTop();
-
-      c && c.firstLoad || this._reset(), this._setScrollLeft(0), this._setScrollTop(0), this._setOffsets(), this._findParticles(), this._findBackgrounds(), c && c.firstLoad && /WebKit/.test(navigator.userAgent) && a(b).load(function () {
-        var a = d._getScrollLeft(),
-            b = d._getScrollTop();
-
-        d._setScrollLeft(a + 1), d._setScrollTop(b + 1), d._setScrollLeft(a), d._setScrollTop(b);
-      }), this._setScrollLeft(e), this._setScrollTop(f);
-    },
-    _detectViewport: function _detectViewport() {
-      var a = this.$viewportElement.offset(),
-          b = null !== a && a !== d;
-      this.viewportWidth = this.$viewportElement.width(), this.viewportHeight = this.$viewportElement.height(), this.viewportOffsetTop = b ? a.top : 0, this.viewportOffsetLeft = b ? a.left : 0;
-    },
-    _findParticles: function _findParticles() {
-      {
-        var b = this;
-        this._getScrollLeft(), this._getScrollTop();
-      }
-      if (this.particles !== d) for (var c = this.particles.length - 1; c >= 0; c--) {
-        this.particles[c].$element.data("stellar-elementIsActive", d);
-      }
-      this.particles = [], this.options.parallaxElements && this.$element.find("[data-stellar-ratio]").each(function () {
-        var c,
-            e,
-            f,
-            g,
-            h,
-            i,
-            j,
-            k,
-            l,
-            m = a(this),
-            n = 0,
-            o = 0,
-            p = 0,
-            q = 0;
-
-        if (m.data("stellar-elementIsActive")) {
-          if (m.data("stellar-elementIsActive") !== this) return;
-        } else m.data("stellar-elementIsActive", this);
-
-        b.options.showElement(m), m.data("stellar-startingLeft") ? (m.css("left", m.data("stellar-startingLeft")), m.css("top", m.data("stellar-startingTop"))) : (m.data("stellar-startingLeft", m.css("left")), m.data("stellar-startingTop", m.css("top"))), f = m.position().left, g = m.position().top, h = "auto" === m.css("margin-left") ? 0 : parseInt(m.css("margin-left"), 10), i = "auto" === m.css("margin-top") ? 0 : parseInt(m.css("margin-top"), 10), k = m.offset().left - h, l = m.offset().top - i, m.parents().each(function () {
-          var b = a(this);
-          return b.data("stellar-offset-parent") === !0 ? (n = p, o = q, j = b, !1) : (p += b.position().left, void (q += b.position().top));
-        }), c = m.data("stellar-horizontal-offset") !== d ? m.data("stellar-horizontal-offset") : j !== d && j.data("stellar-horizontal-offset") !== d ? j.data("stellar-horizontal-offset") : b.horizontalOffset, e = m.data("stellar-vertical-offset") !== d ? m.data("stellar-vertical-offset") : j !== d && j.data("stellar-vertical-offset") !== d ? j.data("stellar-vertical-offset") : b.verticalOffset, b.particles.push({
-          $element: m,
-          $offsetParent: j,
-          isFixed: "fixed" === m.css("position"),
-          horizontalOffset: c,
-          verticalOffset: e,
-          startingPositionLeft: f,
-          startingPositionTop: g,
-          startingOffsetLeft: k,
-          startingOffsetTop: l,
-          parentOffsetLeft: n,
-          parentOffsetTop: o,
-          stellarRatio: m.data("stellar-ratio") !== d ? m.data("stellar-ratio") : 1,
-          width: m.outerWidth(!0),
-          height: m.outerHeight(!0),
-          isHidden: !1
-        });
-      });
-    },
-    _findBackgrounds: function _findBackgrounds() {
-      var b,
-          c = this,
-          e = this._getScrollLeft(),
-          f = this._getScrollTop();
-
-      this.backgrounds = [], this.options.parallaxBackgrounds && (b = this.$element.find("[data-stellar-background-ratio]"), this.$element.data("stellar-background-ratio") && (b = b.add(this.$element)), b.each(function () {
-        var b,
-            g,
-            h,
-            i,
-            j,
-            k,
-            l,
-            o = a(this),
-            p = n(o),
-            q = 0,
-            r = 0,
-            s = 0,
-            t = 0;
-
-        if (o.data("stellar-backgroundIsActive")) {
-          if (o.data("stellar-backgroundIsActive") !== this) return;
-        } else o.data("stellar-backgroundIsActive", this);
-
-        o.data("stellar-backgroundStartingLeft") ? m(o, o.data("stellar-backgroundStartingLeft"), o.data("stellar-backgroundStartingTop")) : (o.data("stellar-backgroundStartingLeft", p[0]), o.data("stellar-backgroundStartingTop", p[1])), h = "auto" === o.css("margin-left") ? 0 : parseInt(o.css("margin-left"), 10), i = "auto" === o.css("margin-top") ? 0 : parseInt(o.css("margin-top"), 10), j = o.offset().left - h - e, k = o.offset().top - i - f, o.parents().each(function () {
-          var b = a(this);
-          return b.data("stellar-offset-parent") === !0 ? (q = s, r = t, l = b, !1) : (s += b.position().left, void (t += b.position().top));
-        }), b = o.data("stellar-horizontal-offset") !== d ? o.data("stellar-horizontal-offset") : l !== d && l.data("stellar-horizontal-offset") !== d ? l.data("stellar-horizontal-offset") : c.horizontalOffset, g = o.data("stellar-vertical-offset") !== d ? o.data("stellar-vertical-offset") : l !== d && l.data("stellar-vertical-offset") !== d ? l.data("stellar-vertical-offset") : c.verticalOffset, c.backgrounds.push({
-          $element: o,
-          $offsetParent: l,
-          isFixed: "fixed" === o.css("background-attachment"),
-          horizontalOffset: b,
-          verticalOffset: g,
-          startingValueLeft: p[0],
-          startingValueTop: p[1],
-          startingBackgroundPositionLeft: isNaN(parseInt(p[0], 10)) ? 0 : parseInt(p[0], 10),
-          startingBackgroundPositionTop: isNaN(parseInt(p[1], 10)) ? 0 : parseInt(p[1], 10),
-          startingPositionLeft: o.position().left,
-          startingPositionTop: o.position().top,
-          startingOffsetLeft: j,
-          startingOffsetTop: k,
-          parentOffsetLeft: q,
-          parentOffsetTop: r,
-          stellarRatio: o.data("stellar-background-ratio") === d ? 1 : o.data("stellar-background-ratio")
-        });
-      }));
-    },
-    _reset: function _reset() {
-      var a, b, c, d, e;
-
-      for (e = this.particles.length - 1; e >= 0; e--) {
-        a = this.particles[e], b = a.$element.data("stellar-startingLeft"), c = a.$element.data("stellar-startingTop"), this._setPosition(a.$element, b, b, c, c), this.options.showElement(a.$element), a.$element.data("stellar-startingLeft", null).data("stellar-elementIsActive", null).data("stellar-backgroundIsActive", null);
-      }
-
-      for (e = this.backgrounds.length - 1; e >= 0; e--) {
-        d = this.backgrounds[e], d.$element.data("stellar-backgroundStartingLeft", null).data("stellar-backgroundStartingTop", null), m(d.$element, d.startingValueLeft, d.startingValueTop);
-      }
-    },
-    destroy: function destroy() {
-      this._reset(), this.$scrollElement.unbind("resize." + this.name).unbind("scroll." + this.name), this._animationLoop = a.noop, a(b).unbind("load." + this.name).unbind("resize." + this.name);
-    },
-    _setOffsets: function _setOffsets() {
-      var c = this,
-          d = a(b);
-      d.unbind("resize.horizontal-" + this.name).unbind("resize.vertical-" + this.name), "function" == typeof this.options.horizontalOffset ? (this.horizontalOffset = this.options.horizontalOffset(), d.bind("resize.horizontal-" + this.name, function () {
-        c.horizontalOffset = c.options.horizontalOffset();
-      })) : this.horizontalOffset = this.options.horizontalOffset, "function" == typeof this.options.verticalOffset ? (this.verticalOffset = this.options.verticalOffset(), d.bind("resize.vertical-" + this.name, function () {
-        c.verticalOffset = c.options.verticalOffset();
-      })) : this.verticalOffset = this.options.verticalOffset;
-    },
-    _repositionElements: function _repositionElements() {
-      var a,
-          b,
-          c,
-          d,
-          e,
-          f,
-          g,
-          h,
-          i,
-          j,
-          k = this._getScrollLeft(),
-          l = this._getScrollTop(),
-          n = !0,
-          o = !0;
-
-      if (this.currentScrollLeft !== k || this.currentScrollTop !== l || this.currentWidth !== this.viewportWidth || this.currentHeight !== this.viewportHeight) {
-        for (this.currentScrollLeft = k, this.currentScrollTop = l, this.currentWidth = this.viewportWidth, this.currentHeight = this.viewportHeight, j = this.particles.length - 1; j >= 0; j--) {
-          a = this.particles[j], b = a.isFixed ? 1 : 0, this.options.horizontalScrolling ? (f = (k + a.horizontalOffset + this.viewportOffsetLeft + a.startingPositionLeft - a.startingOffsetLeft + a.parentOffsetLeft) * -(a.stellarRatio + b - 1) + a.startingPositionLeft, h = f - a.startingPositionLeft + a.startingOffsetLeft) : (f = a.startingPositionLeft, h = a.startingOffsetLeft), this.options.verticalScrolling ? (g = (l + a.verticalOffset + this.viewportOffsetTop + a.startingPositionTop - a.startingOffsetTop + a.parentOffsetTop) * -(a.stellarRatio + b - 1) + a.startingPositionTop, i = g - a.startingPositionTop + a.startingOffsetTop) : (g = a.startingPositionTop, i = a.startingOffsetTop), this.options.hideDistantElements && (o = !this.options.horizontalScrolling || h + a.width > (a.isFixed ? 0 : k) && h < (a.isFixed ? 0 : k) + this.viewportWidth + this.viewportOffsetLeft, n = !this.options.verticalScrolling || i + a.height > (a.isFixed ? 0 : l) && i < (a.isFixed ? 0 : l) + this.viewportHeight + this.viewportOffsetTop), o && n ? (a.isHidden && (this.options.showElement(a.$element), a.isHidden = !1), this._setPosition(a.$element, f, a.startingPositionLeft, g, a.startingPositionTop)) : a.isHidden || (this.options.hideElement(a.$element), a.isHidden = !0);
-        }
-
-        for (j = this.backgrounds.length - 1; j >= 0; j--) {
-          c = this.backgrounds[j], b = c.isFixed ? 0 : 1, d = this.options.horizontalScrolling ? (k + c.horizontalOffset - this.viewportOffsetLeft - c.startingOffsetLeft + c.parentOffsetLeft - c.startingBackgroundPositionLeft) * (b - c.stellarRatio) + "px" : c.startingValueLeft, e = this.options.verticalScrolling ? (l + c.verticalOffset - this.viewportOffsetTop - c.startingOffsetTop + c.parentOffsetTop - c.startingBackgroundPositionTop) * (b - c.stellarRatio) + "px" : c.startingValueTop, m(c.$element, d, e);
-        }
-      }
-    },
-    _handleScrollEvent: function _handleScrollEvent() {
-      var a = this,
-          b = !1,
-          c = function c() {
-        a._repositionElements(), b = !1;
-      },
-          d = function d() {
-        b || (o(c), b = !0);
-      };
-
-      this.$scrollElement.bind("scroll." + this.name, d), d();
-    },
-    _startAnimationLoop: function _startAnimationLoop() {
-      var a = this;
-      this._animationLoop = function () {
-        o(a._animationLoop), a._repositionElements();
-      }, this._animationLoop();
-    }
-  }, a.fn[f] = function (b) {
-    var c = arguments;
-    return b === d || "object" == _typeof(b) ? this.each(function () {
-      a.data(this, "plugin_" + f) || a.data(this, "plugin_" + f, new e(this, b));
-    }) : "string" == typeof b && "_" !== b[0] && "init" !== b ? this.each(function () {
-      var d = a.data(this, "plugin_" + f);
-      d instanceof e && "function" == typeof d[b] && d[b].apply(d, Array.prototype.slice.call(c, 1)), "destroy" === b && a.data(this, "plugin_" + f, null);
-    }) : void 0;
-  }, a[f] = function () {
-    var c = a(b);
-    return c.stellar.apply(c, Array.prototype.slice.call(arguments, 0));
-  }, a[f].scrollProperty = h, a[f].positionProperty = i, b.Stellar = e;
-}(jQuery, this, document);
-
-/***/ }),
-
-/***/ "./resources/js/jquery.waypoints.min.js":
-/*!**********************************************!*\
-  !*** ./resources/js/jquery.waypoints.min.js ***!
-  \**********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-/*!
-Waypoints - 4.0.0
-Copyright Â© 2011-2015 Caleb Troughton
-Licensed under the MIT license.
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-*/
-!function () {
-  "use strict";
-
-  function t(o) {
-    if (!o) throw new Error("No options passed to Waypoint constructor");
-    if (!o.element) throw new Error("No element option passed to Waypoint constructor");
-    if (!o.handler) throw new Error("No handler option passed to Waypoint constructor");
-    this.key = "waypoint-" + e, this.options = t.Adapter.extend({}, t.defaults, o), this.element = this.options.element, this.adapter = new t.Adapter(this.element), this.callback = o.handler, this.axis = this.options.horizontal ? "horizontal" : "vertical", this.enabled = this.options.enabled, this.triggerPoint = null, this.group = t.Group.findOrCreate({
-      name: this.options.group,
-      axis: this.axis
-    }), this.context = t.Context.findOrCreateByElement(this.options.context), t.offsetAliases[this.options.offset] && (this.options.offset = t.offsetAliases[this.options.offset]), this.group.add(this), this.context.add(this), i[this.key] = this, e += 1;
-  }
-
-  var e = 0,
-      i = {};
-  t.prototype.queueTrigger = function (t) {
-    this.group.queueTrigger(this, t);
-  }, t.prototype.trigger = function (t) {
-    this.enabled && this.callback && this.callback.apply(this, t);
-  }, t.prototype.destroy = function () {
-    this.context.remove(this), this.group.remove(this), delete i[this.key];
-  }, t.prototype.disable = function () {
-    return this.enabled = !1, this;
-  }, t.prototype.enable = function () {
-    return this.context.refresh(), this.enabled = !0, this;
-  }, t.prototype.next = function () {
-    return this.group.next(this);
-  }, t.prototype.previous = function () {
-    return this.group.previous(this);
-  }, t.invokeAll = function (t) {
-    var e = [];
-
-    for (var o in i) {
-      e.push(i[o]);
-    }
-
-    for (var n = 0, r = e.length; r > n; n++) {
-      e[n][t]();
-    }
-  }, t.destroyAll = function () {
-    t.invokeAll("destroy");
-  }, t.disableAll = function () {
-    t.invokeAll("disable");
-  }, t.enableAll = function () {
-    t.invokeAll("enable");
-  }, t.refreshAll = function () {
-    t.Context.refreshAll();
-  }, t.viewportHeight = function () {
-    return window.innerHeight || document.documentElement.clientHeight;
-  }, t.viewportWidth = function () {
-    return document.documentElement.clientWidth;
-  }, t.adapters = [], t.defaults = {
-    context: window,
-    continuous: !0,
-    enabled: !0,
-    group: "default",
-    horizontal: !1,
-    offset: 0
-  }, t.offsetAliases = {
-    "bottom-in-view": function bottomInView() {
-      return this.context.innerHeight() - this.adapter.outerHeight();
-    },
-    "right-in-view": function rightInView() {
-      return this.context.innerWidth() - this.adapter.outerWidth();
-    }
-  }, window.Waypoint = t;
-}(), function () {
-  "use strict";
-
-  function t(t) {
-    window.setTimeout(t, 1e3 / 60);
-  }
-
-  function e(t) {
-    this.element = t, this.Adapter = n.Adapter, this.adapter = new this.Adapter(t), this.key = "waypoint-context-" + i, this.didScroll = !1, this.didResize = !1, this.oldScroll = {
-      x: this.adapter.scrollLeft(),
-      y: this.adapter.scrollTop()
-    }, this.waypoints = {
-      vertical: {},
-      horizontal: {}
-    }, t.waypointContextKey = this.key, o[t.waypointContextKey] = this, i += 1, this.createThrottledScrollHandler(), this.createThrottledResizeHandler();
-  }
-
-  var i = 0,
-      o = {},
-      n = window.Waypoint,
-      r = window.onload;
-  e.prototype.add = function (t) {
-    var e = t.options.horizontal ? "horizontal" : "vertical";
-    this.waypoints[e][t.key] = t, this.refresh();
-  }, e.prototype.checkEmpty = function () {
-    var t = this.Adapter.isEmptyObject(this.waypoints.horizontal),
-        e = this.Adapter.isEmptyObject(this.waypoints.vertical);
-    t && e && (this.adapter.off(".waypoints"), delete o[this.key]);
-  }, e.prototype.createThrottledResizeHandler = function () {
-    function t() {
-      e.handleResize(), e.didResize = !1;
-    }
-
-    var e = this;
-    this.adapter.on("resize.waypoints", function () {
-      e.didResize || (e.didResize = !0, n.requestAnimationFrame(t));
-    });
-  }, e.prototype.createThrottledScrollHandler = function () {
-    function t() {
-      e.handleScroll(), e.didScroll = !1;
-    }
-
-    var e = this;
-    this.adapter.on("scroll.waypoints", function () {
-      (!e.didScroll || n.isTouch) && (e.didScroll = !0, n.requestAnimationFrame(t));
-    });
-  }, e.prototype.handleResize = function () {
-    n.Context.refreshAll();
-  }, e.prototype.handleScroll = function () {
-    var t = {},
-        e = {
-      horizontal: {
-        newScroll: this.adapter.scrollLeft(),
-        oldScroll: this.oldScroll.x,
-        forward: "right",
-        backward: "left"
-      },
-      vertical: {
-        newScroll: this.adapter.scrollTop(),
-        oldScroll: this.oldScroll.y,
-        forward: "down",
-        backward: "up"
-      }
-    };
-
-    for (var i in e) {
-      var o = e[i],
-          n = o.newScroll > o.oldScroll,
-          r = n ? o.forward : o.backward;
-
-      for (var s in this.waypoints[i]) {
-        var a = this.waypoints[i][s],
-            l = o.oldScroll < a.triggerPoint,
-            h = o.newScroll >= a.triggerPoint,
-            p = l && h,
-            u = !l && !h;
-        (p || u) && (a.queueTrigger(r), t[a.group.id] = a.group);
-      }
-    }
-
-    for (var c in t) {
-      t[c].flushTriggers();
-    }
-
-    this.oldScroll = {
-      x: e.horizontal.newScroll,
-      y: e.vertical.newScroll
-    };
-  }, e.prototype.innerHeight = function () {
-    return this.element == this.element.window ? n.viewportHeight() : this.adapter.innerHeight();
-  }, e.prototype.remove = function (t) {
-    delete this.waypoints[t.axis][t.key], this.checkEmpty();
-  }, e.prototype.innerWidth = function () {
-    return this.element == this.element.window ? n.viewportWidth() : this.adapter.innerWidth();
-  }, e.prototype.destroy = function () {
-    var t = [];
-
-    for (var e in this.waypoints) {
-      for (var i in this.waypoints[e]) {
-        t.push(this.waypoints[e][i]);
-      }
-    }
-
-    for (var o = 0, n = t.length; n > o; o++) {
-      t[o].destroy();
-    }
-  }, e.prototype.refresh = function () {
-    var t,
-        e = this.element == this.element.window,
-        i = e ? void 0 : this.adapter.offset(),
-        o = {};
-    this.handleScroll(), t = {
-      horizontal: {
-        contextOffset: e ? 0 : i.left,
-        contextScroll: e ? 0 : this.oldScroll.x,
-        contextDimension: this.innerWidth(),
-        oldScroll: this.oldScroll.x,
-        forward: "right",
-        backward: "left",
-        offsetProp: "left"
-      },
-      vertical: {
-        contextOffset: e ? 0 : i.top,
-        contextScroll: e ? 0 : this.oldScroll.y,
-        contextDimension: this.innerHeight(),
-        oldScroll: this.oldScroll.y,
-        forward: "down",
-        backward: "up",
-        offsetProp: "top"
-      }
-    };
-
-    for (var r in t) {
-      var s = t[r];
-
-      for (var a in this.waypoints[r]) {
-        var l,
-            h,
-            p,
-            u,
-            c,
-            d = this.waypoints[r][a],
-            f = d.options.offset,
-            w = d.triggerPoint,
-            y = 0,
-            g = null == w;
-        d.element !== d.element.window && (y = d.adapter.offset()[s.offsetProp]), "function" == typeof f ? f = f.apply(d) : "string" == typeof f && (f = parseFloat(f), d.options.offset.indexOf("%") > -1 && (f = Math.ceil(s.contextDimension * f / 100))), l = s.contextScroll - s.contextOffset, d.triggerPoint = y + l - f, h = w < s.oldScroll, p = d.triggerPoint >= s.oldScroll, u = h && p, c = !h && !p, !g && u ? (d.queueTrigger(s.backward), o[d.group.id] = d.group) : !g && c ? (d.queueTrigger(s.forward), o[d.group.id] = d.group) : g && s.oldScroll >= d.triggerPoint && (d.queueTrigger(s.forward), o[d.group.id] = d.group);
-      }
-    }
-
-    return n.requestAnimationFrame(function () {
-      for (var t in o) {
-        o[t].flushTriggers();
-      }
-    }), this;
-  }, e.findOrCreateByElement = function (t) {
-    return e.findByElement(t) || new e(t);
-  }, e.refreshAll = function () {
-    for (var t in o) {
-      o[t].refresh();
-    }
-  }, e.findByElement = function (t) {
-    return o[t.waypointContextKey];
-  }, window.onload = function () {
-    r && r(), e.refreshAll();
-  }, n.requestAnimationFrame = function (e) {
-    var i = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || t;
-    i.call(window, e);
-  }, n.Context = e;
-}(), function () {
-  "use strict";
-
-  function t(t, e) {
-    return t.triggerPoint - e.triggerPoint;
-  }
-
-  function e(t, e) {
-    return e.triggerPoint - t.triggerPoint;
-  }
-
-  function i(t) {
-    this.name = t.name, this.axis = t.axis, this.id = this.name + "-" + this.axis, this.waypoints = [], this.clearTriggerQueues(), o[this.axis][this.name] = this;
-  }
-
-  var o = {
-    vertical: {},
-    horizontal: {}
-  },
-      n = window.Waypoint;
-  i.prototype.add = function (t) {
-    this.waypoints.push(t);
-  }, i.prototype.clearTriggerQueues = function () {
-    this.triggerQueues = {
-      up: [],
-      down: [],
-      left: [],
-      right: []
-    };
-  }, i.prototype.flushTriggers = function () {
-    for (var i in this.triggerQueues) {
-      var o = this.triggerQueues[i],
-          n = "up" === i || "left" === i;
-      o.sort(n ? e : t);
-
-      for (var r = 0, s = o.length; s > r; r += 1) {
-        var a = o[r];
-        (a.options.continuous || r === o.length - 1) && a.trigger([i]);
-      }
-    }
-
-    this.clearTriggerQueues();
-  }, i.prototype.next = function (e) {
-    this.waypoints.sort(t);
-    var i = n.Adapter.inArray(e, this.waypoints),
-        o = i === this.waypoints.length - 1;
-    return o ? null : this.waypoints[i + 1];
-  }, i.prototype.previous = function (e) {
-    this.waypoints.sort(t);
-    var i = n.Adapter.inArray(e, this.waypoints);
-    return i ? this.waypoints[i - 1] : null;
-  }, i.prototype.queueTrigger = function (t, e) {
-    this.triggerQueues[e].push(t);
-  }, i.prototype.remove = function (t) {
-    var e = n.Adapter.inArray(t, this.waypoints);
-    e > -1 && this.waypoints.splice(e, 1);
-  }, i.prototype.first = function () {
-    return this.waypoints[0];
-  }, i.prototype.last = function () {
-    return this.waypoints[this.waypoints.length - 1];
-  }, i.findOrCreate = function (t) {
-    return o[t.axis][t.name] || new i(t);
-  }, n.Group = i;
-}(), function () {
-  "use strict";
-
-  function t(t) {
-    this.$element = e(t);
-  }
-
-  var e = window.jQuery,
-      i = window.Waypoint;
-  e.each(["innerHeight", "innerWidth", "off", "offset", "on", "outerHeight", "outerWidth", "scrollLeft", "scrollTop"], function (e, i) {
-    t.prototype[i] = function () {
-      var t = Array.prototype.slice.call(arguments);
-      return this.$element[i].apply(this.$element, t);
-    };
-  }), e.each(["extend", "inArray", "isEmptyObject"], function (i, o) {
-    t[o] = e[o];
-  }), i.adapters.push({
-    name: "jquery",
-    Adapter: t
-  }), i.Adapter = t;
-}(), function () {
-  "use strict";
-
-  function t(t) {
-    return function () {
-      var i = [],
-          o = arguments[0];
-      return t.isFunction(arguments[0]) && (o = t.extend({}, arguments[1]), o.handler = arguments[0]), this.each(function () {
-        var n = t.extend({}, o, {
-          element: this
-        });
-        "string" == typeof n.context && (n.context = t(this).closest(n.context)[0]), i.push(new e(n));
-      }), i;
-    };
-  }
-
-  var e = window.Waypoint;
-  window.jQuery && (window.jQuery.fn.waypoint = t(window.jQuery)), window.Zepto && (window.Zepto.fn.waypoint = t(window.Zepto));
-}();
-
-/***/ }),
-
-/***/ "./resources/js/main.js":
-/*!******************************!*\
-  !*** ./resources/js/main.js ***!
-  \******************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-(function ($) {
-  'use strict'; // bootstrap dropdown hover
-  // loader
-
-  var loader = function loader() {
-    setTimeout(function () {
-      if ($('#loader').length > 0) {
-        $('#loader').removeClass('show');
-      }
-    }, 1);
-  };
-
-  loader(); // Stellar
-
-  $(window).stellar();
-  $('nav .dropdown').hover(function () {
-    var $this = $(this);
-    $this.addClass('show');
-    $this.find('> a').attr('aria-expanded', true);
-    $this.find('.dropdown-menu').addClass('show');
-  }, function () {
-    var $this = $(this);
-    $this.removeClass('show');
-    $this.find('> a').attr('aria-expanded', false);
-    $this.find('.dropdown-menu').removeClass('show');
-  });
-  $('#dropdown04').on('show.bs.dropdown', function () {
-    console.log('show');
-  }); // home slider
-
-  $('.home-slider').owlCarousel({
-    loop: true,
-    autoplay: true,
-    margin: 10,
-    animateOut: 'fadeOut',
-    animateIn: 'fadeIn',
-    nav: true,
-    autoplayHoverPause: true,
-    items: 1,
-    navText: ["<span class='ion-chevron-left'></span>", "<span class='ion-chevron-right'></span>"],
-    responsive: {
-      0: {
-        items: 1,
-        nav: false
-      },
-      600: {
-        items: 1,
-        nav: false
-      },
-      1000: {
-        items: 1,
-        nav: true
-      }
-    }
-  }); // owl carousel
-
-  var majorCarousel = $('.js-carousel-1');
-  majorCarousel.owlCarousel({
-    loop: true,
-    autoplay: false,
-    stagePadding: 0,
-    margin: 10,
-    animateOut: 'fadeOut',
-    animateIn: 'fadeIn',
-    nav: false,
-    dots: false,
-    autoplayHoverPause: false,
-    items: 3,
-    responsive: {
-      0: {
-        items: 1,
-        nav: false
-      },
-      600: {
-        items: 2,
-        nav: false
-      },
-      1000: {
-        items: 3,
-        nav: true,
-        loop: false
-      }
-    }
-  }); // cusotm owl navigation events
-
-  $('.custom-next').click(function (event) {
-    event.preventDefault(); // majorCarousel.trigger('owl.next');
-
-    majorCarousel.trigger('next.owl.carousel');
-  });
-  $('.custom-prev').click(function (event) {
-    event.preventDefault(); // majorCarousel.trigger('owl.prev');
-
-    majorCarousel.trigger('prev.owl.carousel');
-  }); // owl carousel
-
-  var major2Carousel = $('.js-carousel-2');
-  major2Carousel.owlCarousel({
-    loop: true,
-    autoplay: true,
-    stagePadding: 7,
-    margin: 20,
-    animateOut: 'fadeOut',
-    animateIn: 'fadeIn',
-    nav: false,
-    autoplayHoverPause: true,
-    items: 4,
-    navText: ["<span class='ion-chevron-left'></span>", "<span class='ion-chevron-right'></span>"],
-    responsive: {
-      0: {
-        items: 1,
-        nav: false
-      },
-      600: {
-        items: 3,
-        nav: false
-      },
-      1000: {
-        items: 4,
-        nav: true,
-        loop: false
-      }
-    }
-  });
-
-  var contentWayPoint = function contentWayPoint() {
-    var i = 0;
-    $('.element-animate').waypoint(function (direction) {
-      if (direction === 'down' && !$(this.element).hasClass('element-animated')) {
-        i++;
-        $(this.element).addClass('item-animate');
-        setTimeout(function () {
-          $('body .element-animate.item-animate').each(function (k) {
-            var el = $(this);
-            setTimeout(function () {
-              var effect = el.data('animate-effect');
-
-              if (effect === 'fadeIn') {
-                el.addClass('fadeIn element-animated');
-              } else if (effect === 'fadeInLeft') {
-                el.addClass('fadeInLeft element-animated');
-              } else if (effect === 'fadeInRight') {
-                el.addClass('fadeInRight element-animated');
-              } else {
-                el.addClass('fadeInUp element-animated');
-              }
-
-              el.removeClass('item-animate');
-            }, k * 100);
-          });
-        }, 100);
-      }
-    }, {
-      offset: '95%'
-    });
-  };
-
-  contentWayPoint();
-})(jQuery);
-
-/***/ }),
-
-/***/ "./resources/js/owl.carousel.min.js":
-/*!******************************************!*\
-  !*** ./resources/js/owl.carousel.min.js ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
-/**
- * Owl Carousel v2.3.0
- * Copyright 2013-2017 David Deutsch
- * Licensed under  ()
- */
-!function (a, b, c, d) {
-  function e(b, c) {
-    this.settings = null, this.options = a.extend({}, e.Defaults, c), this.$element = a(b), this._handlers = {}, this._plugins = {}, this._supress = {}, this._current = null, this._speed = null, this._coordinates = [], this._breakpoint = null, this._width = null, this._items = [], this._clones = [], this._mergers = [], this._widths = [], this._invalidated = {}, this._pipe = [], this._drag = {
-      time: null,
-      target: null,
-      pointer: null,
-      stage: {
-        start: null,
-        current: null
-      },
-      direction: null
-    }, this._states = {
-      current: {},
-      tags: {
-        initializing: ["busy"],
-        animating: ["busy"],
-        dragging: ["interacting"]
-      }
-    }, a.each(["onResize", "onThrottledResize"], a.proxy(function (b, c) {
-      this._handlers[c] = a.proxy(this[c], this);
-    }, this)), a.each(e.Plugins, a.proxy(function (a, b) {
-      this._plugins[a.charAt(0).toLowerCase() + a.slice(1)] = new b(this);
-    }, this)), a.each(e.Workers, a.proxy(function (b, c) {
-      this._pipe.push({
-        filter: c.filter,
-        run: a.proxy(c.run, this)
-      });
-    }, this)), this.setup(), this.initialize();
-  }
-
-  e.Defaults = {
-    items: 3,
-    loop: !1,
-    center: !1,
-    rewind: !1,
-    mouseDrag: !0,
-    touchDrag: !0,
-    pullDrag: !0,
-    freeDrag: !1,
-    margin: 0,
-    stagePadding: 0,
-    merge: !1,
-    mergeFit: !0,
-    autoWidth: !1,
-    startPosition: 0,
-    rtl: !1,
-    smartSpeed: 250,
-    fluidSpeed: !1,
-    dragEndSpeed: !1,
-    responsive: {},
-    responsiveRefreshRate: 200,
-    responsiveBaseElement: b,
-    fallbackEasing: "swing",
-    info: !1,
-    nestedItemSelector: !1,
-    itemElement: "div",
-    stageElement: "div",
-    refreshClass: "owl-refresh",
-    loadedClass: "owl-loaded",
-    loadingClass: "owl-loading",
-    rtlClass: "owl-rtl",
-    responsiveClass: "owl-responsive",
-    dragClass: "owl-drag",
-    itemClass: "owl-item",
-    stageClass: "owl-stage",
-    stageOuterClass: "owl-stage-outer",
-    grabClass: "owl-grab"
-  }, e.Width = {
-    Default: "default",
-    Inner: "inner",
-    Outer: "outer"
-  }, e.Type = {
-    Event: "event",
-    State: "state"
-  }, e.Plugins = {}, e.Workers = [{
-    filter: ["width", "settings"],
-    run: function run() {
-      this._width = this.$element.width();
-    }
-  }, {
-    filter: ["width", "items", "settings"],
-    run: function run(a) {
-      a.current = this._items && this._items[this.relative(this._current)];
-    }
-  }, {
-    filter: ["items", "settings"],
-    run: function run() {
-      this.$stage.children(".cloned").remove();
-    }
-  }, {
-    filter: ["width", "items", "settings"],
-    run: function run(a) {
-      var b = this.settings.margin || "",
-          c = !this.settings.autoWidth,
-          d = this.settings.rtl,
-          e = {
-        width: "auto",
-        "margin-left": d ? b : "",
-        "margin-right": d ? "" : b
-      };
-      !c && this.$stage.children().css(e), a.css = e;
-    }
-  }, {
-    filter: ["width", "items", "settings"],
-    run: function run(a) {
-      var b = (this.width() / this.settings.items).toFixed(3) - this.settings.margin,
-          c = null,
-          d = this._items.length,
-          e = !this.settings.autoWidth,
-          f = [];
-
-      for (a.items = {
-        merge: !1,
-        width: b
-      }; d--;) {
-        c = this._mergers[d], c = this.settings.mergeFit && Math.min(c, this.settings.items) || c, a.items.merge = c > 1 || a.items.merge, f[d] = e ? b * c : this._items[d].width();
-      }
-
-      this._widths = f;
-    }
-  }, {
-    filter: ["items", "settings"],
-    run: function run() {
-      var b = [],
-          c = this._items,
-          d = this.settings,
-          e = Math.max(2 * d.items, 4),
-          f = 2 * Math.ceil(c.length / 2),
-          g = d.loop && c.length ? d.rewind ? e : Math.max(e, f) : 0,
-          h = "",
-          i = "";
-
-      for (g /= 2; g > 0;) {
-        b.push(this.normalize(b.length / 2, !0)), h += c[b[b.length - 1]][0].outerHTML, b.push(this.normalize(c.length - 1 - (b.length - 1) / 2, !0)), i = c[b[b.length - 1]][0].outerHTML + i, g -= 1;
-      }
-
-      this._clones = b, a(h).addClass("cloned").appendTo(this.$stage), a(i).addClass("cloned").prependTo(this.$stage);
-    }
-  }, {
-    filter: ["width", "items", "settings"],
-    run: function run() {
-      for (var a = this.settings.rtl ? 1 : -1, b = this._clones.length + this._items.length, c = -1, d = 0, e = 0, f = []; ++c < b;) {
-        d = f[c - 1] || 0, e = this._widths[this.relative(c)] + this.settings.margin, f.push(d + e * a);
-      }
-
-      this._coordinates = f;
-    }
-  }, {
-    filter: ["width", "items", "settings"],
-    run: function run() {
-      var a = this.settings.stagePadding,
-          b = this._coordinates,
-          c = {
-        width: Math.ceil(Math.abs(b[b.length - 1])) + 2 * a,
-        "padding-left": a || "",
-        "padding-right": a || ""
-      };
-      this.$stage.css(c);
-    }
-  }, {
-    filter: ["width", "items", "settings"],
-    run: function run(a) {
-      var b = this._coordinates.length,
-          c = !this.settings.autoWidth,
-          d = this.$stage.children();
-      if (c && a.items.merge) for (; b--;) {
-        a.css.width = this._widths[this.relative(b)], d.eq(b).css(a.css);
-      } else c && (a.css.width = a.items.width, d.css(a.css));
-    }
-  }, {
-    filter: ["items"],
-    run: function run() {
-      this._coordinates.length < 1 && this.$stage.removeAttr("style");
-    }
-  }, {
-    filter: ["width", "items", "settings"],
-    run: function run(a) {
-      a.current = a.current ? this.$stage.children().index(a.current) : 0, a.current = Math.max(this.minimum(), Math.min(this.maximum(), a.current)), this.reset(a.current);
-    }
-  }, {
-    filter: ["position"],
-    run: function run() {
-      this.animate(this.coordinates(this._current));
-    }
-  }, {
-    filter: ["width", "position", "items", "settings"],
-    run: function run() {
-      var a,
-          b,
-          c,
-          d,
-          e = this.settings.rtl ? 1 : -1,
-          f = 2 * this.settings.stagePadding,
-          g = this.coordinates(this.current()) + f,
-          h = g + this.width() * e,
-          i = [];
-
-      for (c = 0, d = this._coordinates.length; d > c; c++) {
-        a = this._coordinates[c - 1] || 0, b = Math.abs(this._coordinates[c]) + f * e, (this.op(a, "<=", g) && this.op(a, ">", h) || this.op(b, "<", g) && this.op(b, ">", h)) && i.push(c);
-      }
-
-      this.$stage.children(".active").removeClass("active"), this.$stage.children(":eq(" + i.join("), :eq(") + ")").addClass("active"), this.$stage.children(".center").removeClass("center"), this.settings.center && this.$stage.children().eq(this.current()).addClass("center");
-    }
-  }], e.prototype.initialize = function () {
-    if (this.enter("initializing"), this.trigger("initialize"), this.$element.toggleClass(this.settings.rtlClass, this.settings.rtl), this.settings.autoWidth && !this.is("pre-loading")) {
-      var b, c, e;
-      b = this.$element.find("img"), c = this.settings.nestedItemSelector ? "." + this.settings.nestedItemSelector : d, e = this.$element.children(c).width(), b.length && 0 >= e && this.preloadAutoWidthImages(b);
-    }
-
-    this.$element.addClass(this.options.loadingClass), this.$stage = a("<" + this.settings.stageElement + ' class="' + this.settings.stageClass + '"/>').wrap('<div class="' + this.settings.stageOuterClass + '"/>'), this.$element.append(this.$stage.parent()), this.replace(this.$element.children().not(this.$stage.parent())), this.$element.is(":visible") ? this.refresh() : this.invalidate("width"), this.$element.removeClass(this.options.loadingClass).addClass(this.options.loadedClass), this.registerEventHandlers(), this.leave("initializing"), this.trigger("initialized");
-  }, e.prototype.setup = function () {
-    var b = this.viewport(),
-        c = this.options.responsive,
-        d = -1,
-        e = null;
-    c ? (a.each(c, function (a) {
-      b >= a && a > d && (d = Number(a));
-    }), e = a.extend({}, this.options, c[d]), "function" == typeof e.stagePadding && (e.stagePadding = e.stagePadding()), delete e.responsive, e.responsiveClass && this.$element.attr("class", this.$element.attr("class").replace(new RegExp("(" + this.options.responsiveClass + "-)\\S+\\s", "g"), "$1" + d))) : e = a.extend({}, this.options), this.trigger("change", {
-      property: {
-        name: "settings",
-        value: e
-      }
-    }), this._breakpoint = d, this.settings = e, this.invalidate("settings"), this.trigger("changed", {
-      property: {
-        name: "settings",
-        value: this.settings
-      }
-    });
-  }, e.prototype.optionsLogic = function () {
-    this.settings.autoWidth && (this.settings.stagePadding = !1, this.settings.merge = !1);
-  }, e.prototype.prepare = function (b) {
-    var c = this.trigger("prepare", {
-      content: b
-    });
-    return c.data || (c.data = a("<" + this.settings.itemElement + "/>").addClass(this.options.itemClass).append(b)), this.trigger("prepared", {
-      content: c.data
-    }), c.data;
-  }, e.prototype.update = function () {
-    for (var b = 0, c = this._pipe.length, d = a.proxy(function (a) {
-      return this[a];
-    }, this._invalidated), e = {}; c > b;) {
-      (this._invalidated.all || a.grep(this._pipe[b].filter, d).length > 0) && this._pipe[b].run(e), b++;
-    }
-
-    this._invalidated = {}, !this.is("valid") && this.enter("valid");
-  }, e.prototype.width = function (a) {
-    switch (a = a || e.Width.Default) {
-      case e.Width.Inner:
-      case e.Width.Outer:
-        return this._width;
-
-      default:
-        return this._width - 2 * this.settings.stagePadding + this.settings.margin;
-    }
-  }, e.prototype.refresh = function () {
-    this.enter("refreshing"), this.trigger("refresh"), this.setup(), this.optionsLogic(), this.$element.addClass(this.options.refreshClass), this.update(), this.$element.removeClass(this.options.refreshClass), this.leave("refreshing"), this.trigger("refreshed");
-  }, e.prototype.onThrottledResize = function () {
-    b.clearTimeout(this.resizeTimer), this.resizeTimer = b.setTimeout(this._handlers.onResize, this.settings.responsiveRefreshRate);
-  }, e.prototype.onResize = function () {
-    return this._items.length ? this._width === this.$element.width() ? !1 : this.$element.is(":visible") ? (this.enter("resizing"), this.trigger("resize").isDefaultPrevented() ? (this.leave("resizing"), !1) : (this.invalidate("width"), this.refresh(), this.leave("resizing"), void this.trigger("resized"))) : !1 : !1;
-  }, e.prototype.registerEventHandlers = function () {
-    a.support.transition && this.$stage.on(a.support.transition.end + ".owl.core", a.proxy(this.onTransitionEnd, this)), this.settings.responsive !== !1 && this.on(b, "resize", this._handlers.onThrottledResize), this.settings.mouseDrag && (this.$element.addClass(this.options.dragClass), this.$stage.on("mousedown.owl.core", a.proxy(this.onDragStart, this)), this.$stage.on("dragstart.owl.core selectstart.owl.core", function () {
-      return !1;
-    })), this.settings.touchDrag && (this.$stage.on("touchstart.owl.core", a.proxy(this.onDragStart, this)), this.$stage.on("touchcancel.owl.core", a.proxy(this.onDragEnd, this)));
-  }, e.prototype.onDragStart = function (b) {
-    var d = null;
-    3 !== b.which && (a.support.transform ? (d = this.$stage.css("transform").replace(/.*\(|\)| /g, "").split(","), d = {
-      x: d[16 === d.length ? 12 : 4],
-      y: d[16 === d.length ? 13 : 5]
-    }) : (d = this.$stage.position(), d = {
-      x: this.settings.rtl ? d.left + this.$stage.width() - this.width() + this.settings.margin : d.left,
-      y: d.top
-    }), this.is("animating") && (a.support.transform ? this.animate(d.x) : this.$stage.stop(), this.invalidate("position")), this.$element.toggleClass(this.options.grabClass, "mousedown" === b.type), this.speed(0), this._drag.time = new Date().getTime(), this._drag.target = a(b.target), this._drag.stage.start = d, this._drag.stage.current = d, this._drag.pointer = this.pointer(b), a(c).on("mouseup.owl.core touchend.owl.core", a.proxy(this.onDragEnd, this)), a(c).one("mousemove.owl.core touchmove.owl.core", a.proxy(function (b) {
-      var d = this.difference(this._drag.pointer, this.pointer(b));
-      a(c).on("mousemove.owl.core touchmove.owl.core", a.proxy(this.onDragMove, this)), Math.abs(d.x) < Math.abs(d.y) && this.is("valid") || (b.preventDefault(), this.enter("dragging"), this.trigger("drag"));
-    }, this)));
-  }, e.prototype.onDragMove = function (a) {
-    var b = null,
-        c = null,
-        d = null,
-        e = this.difference(this._drag.pointer, this.pointer(a)),
-        f = this.difference(this._drag.stage.start, e);
-    this.is("dragging") && (a.preventDefault(), this.settings.loop ? (b = this.coordinates(this.minimum()), c = this.coordinates(this.maximum() + 1) - b, f.x = ((f.x - b) % c + c) % c + b) : (b = this.settings.rtl ? this.coordinates(this.maximum()) : this.coordinates(this.minimum()), c = this.settings.rtl ? this.coordinates(this.minimum()) : this.coordinates(this.maximum()), d = this.settings.pullDrag ? -1 * e.x / 5 : 0, f.x = Math.max(Math.min(f.x, b + d), c + d)), this._drag.stage.current = f, this.animate(f.x));
-  }, e.prototype.onDragEnd = function (b) {
-    var d = this.difference(this._drag.pointer, this.pointer(b)),
-        e = this._drag.stage.current,
-        f = d.x > 0 ^ this.settings.rtl ? "left" : "right";
-    a(c).off(".owl.core"), this.$element.removeClass(this.options.grabClass), (0 !== d.x && this.is("dragging") || !this.is("valid")) && (this.speed(this.settings.dragEndSpeed || this.settings.smartSpeed), this.current(this.closest(e.x, 0 !== d.x ? f : this._drag.direction)), this.invalidate("position"), this.update(), this._drag.direction = f, (Math.abs(d.x) > 3 || new Date().getTime() - this._drag.time > 300) && this._drag.target.one("click.owl.core", function () {
-      return !1;
-    })), this.is("dragging") && (this.leave("dragging"), this.trigger("dragged"));
-  }, e.prototype.closest = function (b, c) {
-    var d = -1,
-        e = 30,
-        f = this.width(),
-        g = this.coordinates();
-    return this.settings.freeDrag || a.each(g, a.proxy(function (a, h) {
-      return "left" === c && b > h - e && h + e > b ? d = a : "right" === c && b > h - f - e && h - f + e > b ? d = a + 1 : this.op(b, "<", h) && this.op(b, ">", g[a + 1] || h - f) && (d = "left" === c ? a + 1 : a), -1 === d;
-    }, this)), this.settings.loop || (this.op(b, ">", g[this.minimum()]) ? d = b = this.minimum() : this.op(b, "<", g[this.maximum()]) && (d = b = this.maximum())), d;
-  }, e.prototype.animate = function (b) {
-    var c = this.speed() > 0;
-    this.is("animating") && this.onTransitionEnd(), c && (this.enter("animating"), this.trigger("translate")), a.support.transform3d && a.support.transition ? this.$stage.css({
-      transform: "translate3d(" + b + "px,0px,0px)",
-      transition: this.speed() / 1e3 + "s"
-    }) : c ? this.$stage.animate({
-      left: b + "px"
-    }, this.speed(), this.settings.fallbackEasing, a.proxy(this.onTransitionEnd, this)) : this.$stage.css({
-      left: b + "px"
-    });
-  }, e.prototype.is = function (a) {
-    return this._states.current[a] && this._states.current[a] > 0;
-  }, e.prototype.current = function (a) {
-    if (a === d) return this._current;
-    if (0 === this._items.length) return d;
-
-    if (a = this.normalize(a), this._current !== a) {
-      var b = this.trigger("change", {
-        property: {
-          name: "position",
-          value: a
-        }
-      });
-      b.data !== d && (a = this.normalize(b.data)), this._current = a, this.invalidate("position"), this.trigger("changed", {
-        property: {
-          name: "position",
-          value: this._current
-        }
-      });
-    }
-
-    return this._current;
-  }, e.prototype.invalidate = function (b) {
-    return "string" === a.type(b) && (this._invalidated[b] = !0, this.is("valid") && this.leave("valid")), a.map(this._invalidated, function (a, b) {
-      return b;
-    });
-  }, e.prototype.reset = function (a) {
-    a = this.normalize(a), a !== d && (this._speed = 0, this._current = a, this.suppress(["translate", "translated"]), this.animate(this.coordinates(a)), this.release(["translate", "translated"]));
-  }, e.prototype.normalize = function (a, b) {
-    var c = this._items.length,
-        e = b ? 0 : this._clones.length;
-    return !this.isNumeric(a) || 1 > c ? a = d : (0 > a || a >= c + e) && (a = ((a - e / 2) % c + c) % c + e / 2), a;
-  }, e.prototype.relative = function (a) {
-    return a -= this._clones.length / 2, this.normalize(a, !0);
-  }, e.prototype.maximum = function (a) {
-    var b,
-        c,
-        d,
-        e = this.settings,
-        f = this._coordinates.length;
-    if (e.loop) f = this._clones.length / 2 + this._items.length - 1;else if (e.autoWidth || e.merge) {
-      if (b = this._items.length) for (c = this._items[--b].width(), d = this.$element.width(); b-- && (c += this._items[b].width() + this.settings.margin, !(c > d));) {
-        ;
-      }
-      f = b + 1;
-    } else f = e.center ? this._items.length - 1 : this._items.length - e.items;
-    return a && (f -= this._clones.length / 2), Math.max(f, 0);
-  }, e.prototype.minimum = function (a) {
-    return a ? 0 : this._clones.length / 2;
-  }, e.prototype.items = function (a) {
-    return a === d ? this._items.slice() : (a = this.normalize(a, !0), this._items[a]);
-  }, e.prototype.mergers = function (a) {
-    return a === d ? this._mergers.slice() : (a = this.normalize(a, !0), this._mergers[a]);
-  }, e.prototype.clones = function (b) {
-    var c = this._clones.length / 2,
-        e = c + this._items.length,
-        f = function f(a) {
-      return a % 2 === 0 ? e + a / 2 : c - (a + 1) / 2;
-    };
-
-    return b === d ? a.map(this._clones, function (a, b) {
-      return f(b);
-    }) : a.map(this._clones, function (a, c) {
-      return a === b ? f(c) : null;
-    });
-  }, e.prototype.speed = function (a) {
-    return a !== d && (this._speed = a), this._speed;
-  }, e.prototype.coordinates = function (b) {
-    var c,
-        e = 1,
-        f = b - 1;
-    return b === d ? a.map(this._coordinates, a.proxy(function (a, b) {
-      return this.coordinates(b);
-    }, this)) : (this.settings.center ? (this.settings.rtl && (e = -1, f = b + 1), c = this._coordinates[b], c += (this.width() - c + (this._coordinates[f] || 0)) / 2 * e) : c = this._coordinates[f] || 0, c = Math.ceil(c));
-  }, e.prototype.duration = function (a, b, c) {
-    return 0 === c ? 0 : Math.min(Math.max(Math.abs(b - a), 1), 6) * Math.abs(c || this.settings.smartSpeed);
-  }, e.prototype.to = function (a, b) {
-    var c = this.current(),
-        d = null,
-        e = a - this.relative(c),
-        f = (e > 0) - (0 > e),
-        g = this._items.length,
-        h = this.minimum(),
-        i = this.maximum();
-    this.settings.loop ? (!this.settings.rewind && Math.abs(e) > g / 2 && (e += -1 * f * g), a = c + e, d = ((a - h) % g + g) % g + h, d !== a && i >= d - e && d - e > 0 && (c = d - e, a = d, this.reset(c))) : this.settings.rewind ? (i += 1, a = (a % i + i) % i) : a = Math.max(h, Math.min(i, a)), this.speed(this.duration(c, a, b)), this.current(a), this.$element.is(":visible") && this.update();
-  }, e.prototype.next = function (a) {
-    a = a || !1, this.to(this.relative(this.current()) + 1, a);
-  }, e.prototype.prev = function (a) {
-    a = a || !1, this.to(this.relative(this.current()) - 1, a);
-  }, e.prototype.onTransitionEnd = function (a) {
-    return a !== d && (a.stopPropagation(), (a.target || a.srcElement || a.originalTarget) !== this.$stage.get(0)) ? !1 : (this.leave("animating"), void this.trigger("translated"));
-  }, e.prototype.viewport = function () {
-    var d;
-    return this.options.responsiveBaseElement !== b ? d = a(this.options.responsiveBaseElement).width() : b.innerWidth ? d = b.innerWidth : c.documentElement && c.documentElement.clientWidth ? d = c.documentElement.clientWidth : console.warn("Can not detect viewport width."), d;
-  }, e.prototype.replace = function (b) {
-    this.$stage.empty(), this._items = [], b && (b = b instanceof jQuery ? b : a(b)), this.settings.nestedItemSelector && (b = b.find("." + this.settings.nestedItemSelector)), b.filter(function () {
-      return 1 === this.nodeType;
-    }).each(a.proxy(function (a, b) {
-      b = this.prepare(b), this.$stage.append(b), this._items.push(b), this._mergers.push(1 * b.find("[data-merge]").addBack("[data-merge]").attr("data-merge") || 1);
-    }, this)), this.reset(this.isNumeric(this.settings.startPosition) ? this.settings.startPosition : 0), this.invalidate("items");
-  }, e.prototype.add = function (b, c) {
-    var e = this.relative(this._current);
-    c = c === d ? this._items.length : this.normalize(c, !0), b = b instanceof jQuery ? b : a(b), this.trigger("add", {
-      content: b,
-      position: c
-    }), b = this.prepare(b), 0 === this._items.length || c === this._items.length ? (0 === this._items.length && this.$stage.append(b), 0 !== this._items.length && this._items[c - 1].after(b), this._items.push(b), this._mergers.push(1 * b.find("[data-merge]").addBack("[data-merge]").attr("data-merge") || 1)) : (this._items[c].before(b), this._items.splice(c, 0, b), this._mergers.splice(c, 0, 1 * b.find("[data-merge]").addBack("[data-merge]").attr("data-merge") || 1)), this._items[e] && this.reset(this._items[e].index()), this.invalidate("items"), this.trigger("added", {
-      content: b,
-      position: c
-    });
-  }, e.prototype.remove = function (a) {
-    a = this.normalize(a, !0), a !== d && (this.trigger("remove", {
-      content: this._items[a],
-      position: a
-    }), this._items[a].remove(), this._items.splice(a, 1), this._mergers.splice(a, 1), this.invalidate("items"), this.trigger("removed", {
-      content: null,
-      position: a
-    }));
-  }, e.prototype.preloadAutoWidthImages = function (b) {
-    b.each(a.proxy(function (b, c) {
-      this.enter("pre-loading"), c = a(c), a(new Image()).one("load", a.proxy(function (a) {
-        c.attr("src", a.target.src), c.css("opacity", 1), this.leave("pre-loading"), !this.is("pre-loading") && !this.is("initializing") && this.refresh();
-      }, this)).attr("src", c.attr("src") || c.attr("data-src") || c.attr("data-src-retina"));
-    }, this));
-  }, e.prototype.destroy = function () {
-    this.$element.off(".owl.core"), this.$stage.off(".owl.core"), a(c).off(".owl.core"), this.settings.responsive !== !1 && (b.clearTimeout(this.resizeTimer), this.off(b, "resize", this._handlers.onThrottledResize));
-
-    for (var d in this._plugins) {
-      this._plugins[d].destroy();
-    }
-
-    this.$stage.children(".cloned").remove(), this.$stage.unwrap(), this.$stage.children().contents().unwrap(), this.$stage.children().unwrap(), this.$stage.remove(), this.$element.removeClass(this.options.refreshClass).removeClass(this.options.loadingClass).removeClass(this.options.loadedClass).removeClass(this.options.rtlClass).removeClass(this.options.dragClass).removeClass(this.options.grabClass).attr("class", this.$element.attr("class").replace(new RegExp(this.options.responsiveClass + "-\\S+\\s", "g"), "")).removeData("owl.carousel");
-  }, e.prototype.op = function (a, b, c) {
-    var d = this.settings.rtl;
-
-    switch (b) {
-      case "<":
-        return d ? a > c : c > a;
-
-      case ">":
-        return d ? c > a : a > c;
-
-      case ">=":
-        return d ? c >= a : a >= c;
-
-      case "<=":
-        return d ? a >= c : c >= a;
-    }
-  }, e.prototype.on = function (a, b, c, d) {
-    a.addEventListener ? a.addEventListener(b, c, d) : a.attachEvent && a.attachEvent("on" + b, c);
-  }, e.prototype.off = function (a, b, c, d) {
-    a.removeEventListener ? a.removeEventListener(b, c, d) : a.detachEvent && a.detachEvent("on" + b, c);
-  }, e.prototype.trigger = function (b, c, d, f, g) {
-    var h = {
-      item: {
-        count: this._items.length,
-        index: this.current()
-      }
-    },
-        i = a.camelCase(a.grep(["on", b, d], function (a) {
-      return a;
-    }).join("-").toLowerCase()),
-        j = a.Event([b, "owl", d || "carousel"].join(".").toLowerCase(), a.extend({
-      relatedTarget: this
-    }, h, c));
-    return this._supress[b] || (a.each(this._plugins, function (a, b) {
-      b.onTrigger && b.onTrigger(j);
-    }), this.register({
-      type: e.Type.Event,
-      name: b
-    }), this.$element.trigger(j), this.settings && "function" == typeof this.settings[i] && this.settings[i].call(this, j)), j;
-  }, e.prototype.enter = function (b) {
-    a.each([b].concat(this._states.tags[b] || []), a.proxy(function (a, b) {
-      this._states.current[b] === d && (this._states.current[b] = 0), this._states.current[b]++;
-    }, this));
-  }, e.prototype.leave = function (b) {
-    a.each([b].concat(this._states.tags[b] || []), a.proxy(function (a, b) {
-      this._states.current[b]--;
-    }, this));
-  }, e.prototype.register = function (b) {
-    if (b.type === e.Type.Event) {
-      if (a.event.special[b.name] || (a.event.special[b.name] = {}), !a.event.special[b.name].owl) {
-        var c = a.event.special[b.name]._default;
-        a.event.special[b.name]._default = function (a) {
-          return !c || !c.apply || a.namespace && -1 !== a.namespace.indexOf("owl") ? a.namespace && a.namespace.indexOf("owl") > -1 : c.apply(this, arguments);
-        }, a.event.special[b.name].owl = !0;
-      }
-    } else b.type === e.Type.State && (this._states.tags[b.name] ? this._states.tags[b.name] = this._states.tags[b.name].concat(b.tags) : this._states.tags[b.name] = b.tags, this._states.tags[b.name] = a.grep(this._states.tags[b.name], a.proxy(function (c, d) {
-      return a.inArray(c, this._states.tags[b.name]) === d;
-    }, this)));
-  }, e.prototype.suppress = function (b) {
-    a.each(b, a.proxy(function (a, b) {
-      this._supress[b] = !0;
-    }, this));
-  }, e.prototype.release = function (b) {
-    a.each(b, a.proxy(function (a, b) {
-      delete this._supress[b];
-    }, this));
-  }, e.prototype.pointer = function (a) {
-    var c = {
-      x: null,
-      y: null
-    };
-    return a = a.originalEvent || a || b.event, a = a.touches && a.touches.length ? a.touches[0] : a.changedTouches && a.changedTouches.length ? a.changedTouches[0] : a, a.pageX ? (c.x = a.pageX, c.y = a.pageY) : (c.x = a.clientX, c.y = a.clientY), c;
-  }, e.prototype.isNumeric = function (a) {
-    return !isNaN(parseFloat(a));
-  }, e.prototype.difference = function (a, b) {
-    return {
-      x: a.x - b.x,
-      y: a.y - b.y
-    };
-  }, a.fn.owlCarousel = function (b) {
-    var c = Array.prototype.slice.call(arguments, 1);
-    return this.each(function () {
-      var d = a(this),
-          f = d.data("owl.carousel");
-      f || (f = new e(this, "object" == _typeof(b) && b), d.data("owl.carousel", f), a.each(["next", "prev", "to", "destroy", "refresh", "replace", "add", "remove"], function (b, c) {
-        f.register({
-          type: e.Type.Event,
-          name: c
-        }), f.$element.on(c + ".owl.carousel.core", a.proxy(function (a) {
-          a.namespace && a.relatedTarget !== this && (this.suppress([c]), f[c].apply(this, [].slice.call(arguments, 1)), this.release([c]));
-        }, f));
-      })), "string" == typeof b && "_" !== b.charAt(0) && f[b].apply(f, c);
-    });
-  }, a.fn.owlCarousel.Constructor = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  var e = function e(b) {
-    this._core = b, this._interval = null, this._visible = null, this._handlers = {
-      "initialized.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.settings.autoRefresh && this.watch();
-      }, this)
-    }, this._core.options = a.extend({}, e.Defaults, this._core.options), this._core.$element.on(this._handlers);
-  };
-
-  e.Defaults = {
-    autoRefresh: !0,
-    autoRefreshInterval: 500
-  }, e.prototype.watch = function () {
-    this._interval || (this._visible = this._core.$element.is(":visible"), this._interval = b.setInterval(a.proxy(this.refresh, this), this._core.settings.autoRefreshInterval));
-  }, e.prototype.refresh = function () {
-    this._core.$element.is(":visible") !== this._visible && (this._visible = !this._visible, this._core.$element.toggleClass("owl-hidden", !this._visible), this._visible && this._core.invalidate("width") && this._core.refresh());
-  }, e.prototype.destroy = function () {
-    var a, c;
-    b.clearInterval(this._interval);
-
-    for (a in this._handlers) {
-      this._core.$element.off(a, this._handlers[a]);
-    }
-
-    for (c in Object.getOwnPropertyNames(this)) {
-      "function" != typeof this[c] && (this[c] = null);
-    }
-  }, a.fn.owlCarousel.Constructor.Plugins.AutoRefresh = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  var e = function e(b) {
-    this._core = b, this._loaded = [], this._handlers = {
-      "initialized.owl.carousel change.owl.carousel resized.owl.carousel": a.proxy(function (b) {
-        if (b.namespace && this._core.settings && this._core.settings.lazyLoad && (b.property && "position" == b.property.name || "initialized" == b.type)) for (var c = this._core.settings, e = c.center && Math.ceil(c.items / 2) || c.items, f = c.center && -1 * e || 0, g = (b.property && b.property.value !== d ? b.property.value : this._core.current()) + f, h = this._core.clones().length, i = a.proxy(function (a, b) {
-          this.load(b);
-        }, this); f++ < e;) {
-          this.load(h / 2 + this._core.relative(g)), h && a.each(this._core.clones(this._core.relative(g)), i), g++;
-        }
-      }, this)
-    }, this._core.options = a.extend({}, e.Defaults, this._core.options), this._core.$element.on(this._handlers);
-  };
-
-  e.Defaults = {
-    lazyLoad: !1
-  }, e.prototype.load = function (c) {
-    var d = this._core.$stage.children().eq(c),
-        e = d && d.find(".owl-lazy");
-
-    !e || a.inArray(d.get(0), this._loaded) > -1 || (e.each(a.proxy(function (c, d) {
-      var e,
-          f = a(d),
-          g = b.devicePixelRatio > 1 && f.attr("data-src-retina") || f.attr("data-src");
-      this._core.trigger("load", {
-        element: f,
-        url: g
-      }, "lazy"), f.is("img") ? f.one("load.owl.lazy", a.proxy(function () {
-        f.css("opacity", 1), this._core.trigger("loaded", {
-          element: f,
-          url: g
-        }, "lazy");
-      }, this)).attr("src", g) : (e = new Image(), e.onload = a.proxy(function () {
-        f.css({
-          "background-image": 'url("' + g + '")',
-          opacity: "1"
-        }), this._core.trigger("loaded", {
-          element: f,
-          url: g
-        }, "lazy");
-      }, this), e.src = g);
-    }, this)), this._loaded.push(d.get(0)));
-  }, e.prototype.destroy = function () {
-    var a, b;
-
-    for (a in this.handlers) {
-      this._core.$element.off(a, this.handlers[a]);
-    }
-
-    for (b in Object.getOwnPropertyNames(this)) {
-      "function" != typeof this[b] && (this[b] = null);
-    }
-  }, a.fn.owlCarousel.Constructor.Plugins.Lazy = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  var e = function e(b) {
-    this._core = b, this._handlers = {
-      "initialized.owl.carousel refreshed.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.settings.autoHeight && this.update();
-      }, this),
-      "changed.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.settings.autoHeight && "position" == a.property.name && this.update();
-      }, this),
-      "loaded.owl.lazy": a.proxy(function (a) {
-        a.namespace && this._core.settings.autoHeight && a.element.closest("." + this._core.settings.itemClass).index() === this._core.current() && this.update();
-      }, this)
-    }, this._core.options = a.extend({}, e.Defaults, this._core.options), this._core.$element.on(this._handlers);
-  };
-
-  e.Defaults = {
-    autoHeight: !1,
-    autoHeightClass: "owl-height"
-  }, e.prototype.update = function () {
-    var b = this._core._current,
-        c = b + this._core.settings.items,
-        d = this._core.$stage.children().toArray().slice(b, c),
-        e = [],
-        f = 0;
-
-    a.each(d, function (b, c) {
-      e.push(a(c).height());
-    }), f = Math.max.apply(null, e), this._core.$stage.parent().height(f).addClass(this._core.settings.autoHeightClass);
-  }, e.prototype.destroy = function () {
-    var a, b;
-
-    for (a in this._handlers) {
-      this._core.$element.off(a, this._handlers[a]);
-    }
-
-    for (b in Object.getOwnPropertyNames(this)) {
-      "function" != typeof this[b] && (this[b] = null);
-    }
-  }, a.fn.owlCarousel.Constructor.Plugins.AutoHeight = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  var e = function e(b) {
-    this._core = b, this._videos = {}, this._playing = null, this._handlers = {
-      "initialized.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.register({
-          type: "state",
-          name: "playing",
-          tags: ["interacting"]
-        });
-      }, this),
-      "resize.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.settings.video && this.isInFullScreen() && a.preventDefault();
-      }, this),
-      "refreshed.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.is("resizing") && this._core.$stage.find(".cloned .owl-video-frame").remove();
-      }, this),
-      "changed.owl.carousel": a.proxy(function (a) {
-        a.namespace && "position" === a.property.name && this._playing && this.stop();
-      }, this),
-      "prepared.owl.carousel": a.proxy(function (b) {
-        if (b.namespace) {
-          var c = a(b.content).find(".owl-video");
-          c.length && (c.css("display", "none"), this.fetch(c, a(b.content)));
-        }
-      }, this)
-    }, this._core.options = a.extend({}, e.Defaults, this._core.options), this._core.$element.on(this._handlers), this._core.$element.on("click.owl.video", ".owl-video-play-icon", a.proxy(function (a) {
-      this.play(a);
-    }, this));
-  };
-
-  e.Defaults = {
-    video: !1,
-    videoHeight: !1,
-    videoWidth: !1
-  }, e.prototype.fetch = function (a, b) {
-    var c = function () {
-      return a.attr("data-vimeo-id") ? "vimeo" : a.attr("data-vzaar-id") ? "vzaar" : "youtube";
-    }(),
-        d = a.attr("data-vimeo-id") || a.attr("data-youtube-id") || a.attr("data-vzaar-id"),
-        e = a.attr("data-width") || this._core.settings.videoWidth,
-        f = a.attr("data-height") || this._core.settings.videoHeight,
-        g = a.attr("href");
-
-    if (!g) throw new Error("Missing video URL.");
-    if (d = g.match(/(http:|https:|)\/\/(player.|www.|app.)?(vimeo\.com|youtu(be\.com|\.be|be\.googleapis\.com)|vzaar\.com)\/(video\/|videos\/|embed\/|channels\/.+\/|groups\/.+\/|watch\?v=|v\/)?([A-Za-z0-9._%-]*)(\&\S+)?/), d[3].indexOf("youtu") > -1) c = "youtube";else if (d[3].indexOf("vimeo") > -1) c = "vimeo";else {
-      if (!(d[3].indexOf("vzaar") > -1)) throw new Error("Video URL not supported.");
-      c = "vzaar";
-    }
-    d = d[6], this._videos[g] = {
-      type: c,
-      id: d,
-      width: e,
-      height: f
-    }, b.attr("data-video", g), this.thumbnail(a, this._videos[g]);
-  }, e.prototype.thumbnail = function (b, c) {
-    var d,
-        e,
-        f,
-        g = c.width && c.height ? 'style="width:' + c.width + "px;height:" + c.height + 'px;"' : "",
-        h = b.find("img"),
-        i = "src",
-        j = "",
-        k = this._core.settings,
-        l = function l(a) {
-      e = '<div class="owl-video-play-icon"></div>', d = k.lazyLoad ? '<div class="owl-video-tn ' + j + '" ' + i + '="' + a + '"></div>' : '<div class="owl-video-tn" style="opacity:1;background-image:url(' + a + ')"></div>', b.after(d), b.after(e);
-    };
-
-    return b.wrap('<div class="owl-video-wrapper"' + g + "></div>"), this._core.settings.lazyLoad && (i = "data-src", j = "owl-lazy"), h.length ? (l(h.attr(i)), h.remove(), !1) : void ("youtube" === c.type ? (f = "//img.youtube.com/vi/" + c.id + "/hqdefault.jpg", l(f)) : "vimeo" === c.type ? a.ajax({
-      type: "GET",
-      url: "//vimeo.com/api/v2/video/" + c.id + ".json",
-      jsonp: "callback",
-      dataType: "jsonp",
-      success: function success(a) {
-        f = a[0].thumbnail_large, l(f);
-      }
-    }) : "vzaar" === c.type && a.ajax({
-      type: "GET",
-      url: "//vzaar.com/api/videos/" + c.id + ".json",
-      jsonp: "callback",
-      dataType: "jsonp",
-      success: function success(a) {
-        f = a.framegrab_url, l(f);
-      }
-    }));
-  }, e.prototype.stop = function () {
-    this._core.trigger("stop", null, "video"), this._playing.find(".owl-video-frame").remove(), this._playing.removeClass("owl-video-playing"), this._playing = null, this._core.leave("playing"), this._core.trigger("stopped", null, "video");
-  }, e.prototype.play = function (b) {
-    var c,
-        d = a(b.target),
-        e = d.closest("." + this._core.settings.itemClass),
-        f = this._videos[e.attr("data-video")],
-        g = f.width || "100%",
-        h = f.height || this._core.$stage.height();
-
-    this._playing || (this._core.enter("playing"), this._core.trigger("play", null, "video"), e = this._core.items(this._core.relative(e.index())), this._core.reset(e.index()), "youtube" === f.type ? c = '<iframe width="' + g + '" height="' + h + '" src="//www.youtube.com/embed/' + f.id + "?autoplay=1&rel=0&v=" + f.id + '" frameborder="0" allowfullscreen></iframe>' : "vimeo" === f.type ? c = '<iframe src="//player.vimeo.com/video/' + f.id + '?autoplay=1" width="' + g + '" height="' + h + '" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>' : "vzaar" === f.type && (c = '<iframe frameborder="0"height="' + h + '"width="' + g + '" allowfullscreen mozallowfullscreen webkitAllowFullScreen src="//view.vzaar.com/' + f.id + '/player?autoplay=true"></iframe>'), a('<div class="owl-video-frame">' + c + "</div>").insertAfter(e.find(".owl-video")), this._playing = e.addClass("owl-video-playing"));
-  }, e.prototype.isInFullScreen = function () {
-    var b = c.fullscreenElement || c.mozFullScreenElement || c.webkitFullscreenElement;
-    return b && a(b).parent().hasClass("owl-video-frame");
-  }, e.prototype.destroy = function () {
-    var a, b;
-
-    this._core.$element.off("click.owl.video");
-
-    for (a in this._handlers) {
-      this._core.$element.off(a, this._handlers[a]);
-    }
-
-    for (b in Object.getOwnPropertyNames(this)) {
-      "function" != typeof this[b] && (this[b] = null);
-    }
-  }, a.fn.owlCarousel.Constructor.Plugins.Video = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  var e = function e(b) {
-    this.core = b, this.core.options = a.extend({}, e.Defaults, this.core.options), this.swapping = !0, this.previous = d, this.next = d, this.handlers = {
-      "change.owl.carousel": a.proxy(function (a) {
-        a.namespace && "position" == a.property.name && (this.previous = this.core.current(), this.next = a.property.value);
-      }, this),
-      "drag.owl.carousel dragged.owl.carousel translated.owl.carousel": a.proxy(function (a) {
-        a.namespace && (this.swapping = "translated" == a.type);
-      }, this),
-      "translate.owl.carousel": a.proxy(function (a) {
-        a.namespace && this.swapping && (this.core.options.animateOut || this.core.options.animateIn) && this.swap();
-      }, this)
-    }, this.core.$element.on(this.handlers);
-  };
-
-  e.Defaults = {
-    animateOut: !1,
-    animateIn: !1
-  }, e.prototype.swap = function () {
-    if (1 === this.core.settings.items && a.support.animation && a.support.transition) {
-      this.core.speed(0);
-      var b,
-          c = a.proxy(this.clear, this),
-          d = this.core.$stage.children().eq(this.previous),
-          e = this.core.$stage.children().eq(this.next),
-          f = this.core.settings.animateIn,
-          g = this.core.settings.animateOut;
-      this.core.current() !== this.previous && (g && (b = this.core.coordinates(this.previous) - this.core.coordinates(this.next), d.one(a.support.animation.end, c).css({
-        left: b + "px"
-      }).addClass("animated owl-animated-out").addClass(g)), f && e.one(a.support.animation.end, c).addClass("animated owl-animated-in").addClass(f));
-    }
-  }, e.prototype.clear = function (b) {
-    a(b.target).css({
-      left: ""
-    }).removeClass("animated owl-animated-out owl-animated-in").removeClass(this.core.settings.animateIn).removeClass(this.core.settings.animateOut), this.core.onTransitionEnd();
-  }, e.prototype.destroy = function () {
-    var a, b;
-
-    for (a in this.handlers) {
-      this.core.$element.off(a, this.handlers[a]);
-    }
-
-    for (b in Object.getOwnPropertyNames(this)) {
-      "function" != typeof this[b] && (this[b] = null);
-    }
-  }, a.fn.owlCarousel.Constructor.Plugins.Animate = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  var e = function e(b) {
-    this._core = b, this._call = null, this._time = 0, this._timeout = 0, this._paused = !0, this._handlers = {
-      "changed.owl.carousel": a.proxy(function (a) {
-        a.namespace && "settings" === a.property.name ? this._core.settings.autoplay ? this.play() : this.stop() : a.namespace && "position" === a.property.name && this._paused && (this._time = 0);
-      }, this),
-      "initialized.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.settings.autoplay && this.play();
-      }, this),
-      "play.owl.autoplay": a.proxy(function (a, b, c) {
-        a.namespace && this.play(b, c);
-      }, this),
-      "stop.owl.autoplay": a.proxy(function (a) {
-        a.namespace && this.stop();
-      }, this),
-      "mouseover.owl.autoplay": a.proxy(function () {
-        this._core.settings.autoplayHoverPause && this._core.is("rotating") && this.pause();
-      }, this),
-      "mouseleave.owl.autoplay": a.proxy(function () {
-        this._core.settings.autoplayHoverPause && this._core.is("rotating") && this.play();
-      }, this),
-      "touchstart.owl.core": a.proxy(function () {
-        this._core.settings.autoplayHoverPause && this._core.is("rotating") && this.pause();
-      }, this),
-      "touchend.owl.core": a.proxy(function () {
-        this._core.settings.autoplayHoverPause && this.play();
-      }, this)
-    }, this._core.$element.on(this._handlers), this._core.options = a.extend({}, e.Defaults, this._core.options);
-  };
-
-  e.Defaults = {
-    autoplay: !1,
-    autoplayTimeout: 5e3,
-    autoplayHoverPause: !1,
-    autoplaySpeed: !1
-  }, e.prototype._next = function (d) {
-    this._call = b.setTimeout(a.proxy(this._next, this, d), this._timeout * (Math.round(this.read() / this._timeout) + 1) - this.read()), this._core.is("busy") || this._core.is("interacting") || c.hidden || this._core.next(d || this._core.settings.autoplaySpeed);
-  }, e.prototype.read = function () {
-    return new Date().getTime() - this._time;
-  }, e.prototype.play = function (c, d) {
-    var e;
-    this._core.is("rotating") || this._core.enter("rotating"), c = c || this._core.settings.autoplayTimeout, e = Math.min(this._time % (this._timeout || c), c), this._paused ? (this._time = this.read(), this._paused = !1) : b.clearTimeout(this._call), this._time += this.read() % c - e, this._timeout = c, this._call = b.setTimeout(a.proxy(this._next, this, d), c - e);
-  }, e.prototype.stop = function () {
-    this._core.is("rotating") && (this._time = 0, this._paused = !0, b.clearTimeout(this._call), this._core.leave("rotating"));
-  }, e.prototype.pause = function () {
-    this._core.is("rotating") && !this._paused && (this._time = this.read(), this._paused = !0, b.clearTimeout(this._call));
-  }, e.prototype.destroy = function () {
-    var a, b;
-    this.stop();
-
-    for (a in this._handlers) {
-      this._core.$element.off(a, this._handlers[a]);
-    }
-
-    for (b in Object.getOwnPropertyNames(this)) {
-      "function" != typeof this[b] && (this[b] = null);
-    }
-  }, a.fn.owlCarousel.Constructor.Plugins.autoplay = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  "use strict";
-
-  var e = function e(b) {
-    this._core = b, this._initialized = !1, this._pages = [], this._controls = {}, this._templates = [], this.$element = this._core.$element, this._overrides = {
-      next: this._core.next,
-      prev: this._core.prev,
-      to: this._core.to
-    }, this._handlers = {
-      "prepared.owl.carousel": a.proxy(function (b) {
-        b.namespace && this._core.settings.dotsData && this._templates.push('<div class="' + this._core.settings.dotClass + '">' + a(b.content).find("[data-dot]").addBack("[data-dot]").attr("data-dot") + "</div>");
-      }, this),
-      "added.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.settings.dotsData && this._templates.splice(a.position, 0, this._templates.pop());
-      }, this),
-      "remove.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._core.settings.dotsData && this._templates.splice(a.position, 1);
-      }, this),
-      "changed.owl.carousel": a.proxy(function (a) {
-        a.namespace && "position" == a.property.name && this.draw();
-      }, this),
-      "initialized.owl.carousel": a.proxy(function (a) {
-        a.namespace && !this._initialized && (this._core.trigger("initialize", null, "navigation"), this.initialize(), this.update(), this.draw(), this._initialized = !0, this._core.trigger("initialized", null, "navigation"));
-      }, this),
-      "refreshed.owl.carousel": a.proxy(function (a) {
-        a.namespace && this._initialized && (this._core.trigger("refresh", null, "navigation"), this.update(), this.draw(), this._core.trigger("refreshed", null, "navigation"));
-      }, this)
-    }, this._core.options = a.extend({}, e.Defaults, this._core.options), this.$element.on(this._handlers);
-  };
-
-  e.Defaults = {
-    nav: !1,
-    navText: ['<span aria-label="prev">&#x2039;</span>', '<span aria-label="next">&#x203a;</span>'],
-    navSpeed: !1,
-    navElement: 'button role="presentation"',
-    navContainer: !1,
-    navContainerClass: "owl-nav",
-    navClass: ["owl-prev", "owl-next"],
-    slideBy: 1,
-    dotClass: "owl-dot",
-    dotsClass: "owl-dots",
-    dots: !0,
-    dotsEach: !1,
-    dotsData: !1,
-    dotsSpeed: !1,
-    dotsContainer: !1
-  }, e.prototype.initialize = function () {
-    var b,
-        c = this._core.settings;
-    this._controls.$relative = (c.navContainer ? a(c.navContainer) : a("<div>").addClass(c.navContainerClass).appendTo(this.$element)).addClass("disabled"), this._controls.$previous = a("<" + c.navElement + ">").addClass(c.navClass[0]).html(c.navText[0]).prependTo(this._controls.$relative).on("click", a.proxy(function (a) {
-      this.prev(c.navSpeed);
-    }, this)), this._controls.$next = a("<" + c.navElement + ">").addClass(c.navClass[1]).html(c.navText[1]).appendTo(this._controls.$relative).on("click", a.proxy(function (a) {
-      this.next(c.navSpeed);
-    }, this)), c.dotsData || (this._templates = [a("<button>").addClass(c.dotClass).append(a("<span>")).prop("outerHTML")]), this._controls.$absolute = (c.dotsContainer ? a(c.dotsContainer) : a("<div>").addClass(c.dotsClass).appendTo(this.$element)).addClass("disabled"), this._controls.$absolute.on("click", "button", a.proxy(function (b) {
-      var d = a(b.target).parent().is(this._controls.$absolute) ? a(b.target).index() : a(b.target).parent().index();
-      b.preventDefault(), this.to(d, c.dotsSpeed);
-    }, this));
-
-    for (b in this._overrides) {
-      this._core[b] = a.proxy(this[b], this);
-    }
-  }, e.prototype.destroy = function () {
-    var a, b, c, d;
-
-    for (a in this._handlers) {
-      this.$element.off(a, this._handlers[a]);
-    }
-
-    for (b in this._controls) {
-      "$relative" === b && settings.navContainer ? this._controls[b].html("") : this._controls[b].remove();
-    }
-
-    for (d in this.overides) {
-      this._core[d] = this._overrides[d];
-    }
-
-    for (c in Object.getOwnPropertyNames(this)) {
-      "function" != typeof this[c] && (this[c] = null);
-    }
-  }, e.prototype.update = function () {
-    var a,
-        b,
-        c,
-        d = this._core.clones().length / 2,
-        e = d + this._core.items().length,
-        f = this._core.maximum(!0),
-        g = this._core.settings,
-        h = g.center || g.autoWidth || g.dotsData ? 1 : g.dotsEach || g.items;
-
-    if ("page" !== g.slideBy && (g.slideBy = Math.min(g.slideBy, g.items)), g.dots || "page" == g.slideBy) for (this._pages = [], a = d, b = 0, c = 0; e > a; a++) {
-      if (b >= h || 0 === b) {
-        if (this._pages.push({
-          start: Math.min(f, a - d),
-          end: a - d + h - 1
-        }), Math.min(f, a - d) === f) break;
-        b = 0, ++c;
-      }
-
-      b += this._core.mergers(this._core.relative(a));
-    }
-  }, e.prototype.draw = function () {
-    var b,
-        c = this._core.settings,
-        d = this._core.items().length <= c.items,
-        e = this._core.relative(this._core.current()),
-        f = c.loop || c.rewind;
-
-    this._controls.$relative.toggleClass("disabled", !c.nav || d), c.nav && (this._controls.$previous.toggleClass("disabled", !f && e <= this._core.minimum(!0)), this._controls.$next.toggleClass("disabled", !f && e >= this._core.maximum(!0))), this._controls.$absolute.toggleClass("disabled", !c.dots || d), c.dots && (b = this._pages.length - this._controls.$absolute.children().length, c.dotsData && 0 !== b ? this._controls.$absolute.html(this._templates.join("")) : b > 0 ? this._controls.$absolute.append(new Array(b + 1).join(this._templates[0])) : 0 > b && this._controls.$absolute.children().slice(b).remove(), this._controls.$absolute.find(".active").removeClass("active"), this._controls.$absolute.children().eq(a.inArray(this.current(), this._pages)).addClass("active"));
-  }, e.prototype.onTrigger = function (b) {
-    var c = this._core.settings;
-    b.page = {
-      index: a.inArray(this.current(), this._pages),
-      count: this._pages.length,
-      size: c && (c.center || c.autoWidth || c.dotsData ? 1 : c.dotsEach || c.items)
-    };
-  }, e.prototype.current = function () {
-    var b = this._core.relative(this._core.current());
-
-    return a.grep(this._pages, a.proxy(function (a, c) {
-      return a.start <= b && a.end >= b;
-    }, this)).pop();
-  }, e.prototype.getPosition = function (b) {
-    var c,
-        d,
-        e = this._core.settings;
-    return "page" == e.slideBy ? (c = a.inArray(this.current(), this._pages), d = this._pages.length, b ? ++c : --c, c = this._pages[(c % d + d) % d].start) : (c = this._core.relative(this._core.current()), d = this._core.items().length, b ? c += e.slideBy : c -= e.slideBy), c;
-  }, e.prototype.next = function (b) {
-    a.proxy(this._overrides.to, this._core)(this.getPosition(!0), b);
-  }, e.prototype.prev = function (b) {
-    a.proxy(this._overrides.to, this._core)(this.getPosition(!1), b);
-  }, e.prototype.to = function (b, c, d) {
-    var e;
-    !d && this._pages.length ? (e = this._pages.length, a.proxy(this._overrides.to, this._core)(this._pages[(b % e + e) % e].start, c)) : a.proxy(this._overrides.to, this._core)(b, c);
-  }, a.fn.owlCarousel.Constructor.Plugins.Navigation = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  "use strict";
-
-  var e = function e(c) {
-    this._core = c, this._hashes = {}, this.$element = this._core.$element, this._handlers = {
-      "initialized.owl.carousel": a.proxy(function (c) {
-        c.namespace && "URLHash" === this._core.settings.startPosition && a(b).trigger("hashchange.owl.navigation");
-      }, this),
-      "prepared.owl.carousel": a.proxy(function (b) {
-        if (b.namespace) {
-          var c = a(b.content).find("[data-hash]").addBack("[data-hash]").attr("data-hash");
-          if (!c) return;
-          this._hashes[c] = b.content;
-        }
-      }, this),
-      "changed.owl.carousel": a.proxy(function (c) {
-        if (c.namespace && "position" === c.property.name) {
-          var d = this._core.items(this._core.relative(this._core.current())),
-              e = a.map(this._hashes, function (a, b) {
-            return a === d ? b : null;
-          }).join();
-
-          if (!e || b.location.hash.slice(1) === e) return;
-          b.location.hash = e;
-        }
-      }, this)
-    }, this._core.options = a.extend({}, e.Defaults, this._core.options), this.$element.on(this._handlers), a(b).on("hashchange.owl.navigation", a.proxy(function (a) {
-      var c = b.location.hash.substring(1),
-          e = this._core.$stage.children(),
-          f = this._hashes[c] && e.index(this._hashes[c]);
-
-      f !== d && f !== this._core.current() && this._core.to(this._core.relative(f), !1, !0);
-    }, this));
-  };
-
-  e.Defaults = {
-    URLhashListener: !1
-  }, e.prototype.destroy = function () {
-    var c, d;
-    a(b).off("hashchange.owl.navigation");
-
-    for (c in this._handlers) {
-      this._core.$element.off(c, this._handlers[c]);
-    }
-
-    for (d in Object.getOwnPropertyNames(this)) {
-      "function" != typeof this[d] && (this[d] = null);
-    }
-  }, a.fn.owlCarousel.Constructor.Plugins.Hash = e;
-}(window.Zepto || window.jQuery, window, document), function (a, b, c, d) {
-  function e(b, c) {
-    var e = !1,
-        f = b.charAt(0).toUpperCase() + b.slice(1);
-    return a.each((b + " " + h.join(f + " ") + f).split(" "), function (a, b) {
-      return g[b] !== d ? (e = c ? b : !0, !1) : void 0;
-    }), e;
-  }
-
-  function f(a) {
-    return e(a, !0);
-  }
-
-  var g = a("<support>").get(0).style,
-      h = "Webkit Moz O ms".split(" "),
-      i = {
-    transition: {
-      end: {
-        WebkitTransition: "webkitTransitionEnd",
-        MozTransition: "transitionend",
-        OTransition: "oTransitionEnd",
-        transition: "transitionend"
-      }
-    },
-    animation: {
-      end: {
-        WebkitAnimation: "webkitAnimationEnd",
-        MozAnimation: "animationend",
-        OAnimation: "oAnimationEnd",
-        animation: "animationend"
-      }
-    }
-  },
-      j = {
-    csstransforms: function csstransforms() {
-      return !!e("transform");
-    },
-    csstransforms3d: function csstransforms3d() {
-      return !!e("perspective");
-    },
-    csstransitions: function csstransitions() {
-      return !!e("transition");
-    },
-    cssanimations: function cssanimations() {
-      return !!e("animation");
-    }
-  };
-  j.csstransitions() && (a.support.transition = new String(f("transition")), a.support.transition.end = i.transition.end[a.support.transition]), j.cssanimations() && (a.support.animation = new String(f("animation")), a.support.animation.end = i.animation.end[a.support.animation]), j.csstransforms() && (a.support.transform = new String(f("transform")), a.support.transform3d = j.csstransforms3d());
-}(window.Zepto || window.jQuery, window, document);
-
-/***/ }),
-
-/***/ "./resources/js/popper.min.js":
-/*!************************************!*\
-  !*** ./resources/js/popper.min.js ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(global) {var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
-/*
- Copyright (C) Federico Zivolo 2017
- Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
- */
-(function (e, t) {
-  'object' == ( false ? undefined : _typeof(exports)) && 'undefined' != typeof module ? module.exports = t() :  true ? !(__WEBPACK_AMD_DEFINE_FACTORY__ = (t),
-				__WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ?
-				(__WEBPACK_AMD_DEFINE_FACTORY__.call(exports, __webpack_require__, exports, module)) :
-				__WEBPACK_AMD_DEFINE_FACTORY__),
-				__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__)) : undefined;
-})(this, function () {
-  'use strict';
-
-  function e(e) {
-    return e && '[object Function]' === {}.toString.call(e);
-  }
-
-  function t(e, t) {
-    if (1 !== e.nodeType) return [];
-    var o = window.getComputedStyle(e, null);
-    return t ? o[t] : o;
-  }
-
-  function o(e) {
-    return 'HTML' === e.nodeName ? e : e.parentNode || e.host;
-  }
-
-  function n(e) {
-    if (!e || -1 !== ['HTML', 'BODY', '#document'].indexOf(e.nodeName)) return window.document.body;
-    var i = t(e),
-        r = i.overflow,
-        p = i.overflowX,
-        s = i.overflowY;
-    return /(auto|scroll)/.test(r + s + p) ? e : n(o(e));
-  }
-
-  function r(e) {
-    var o = e && e.offsetParent,
-        i = o && o.nodeName;
-    return i && 'BODY' !== i && 'HTML' !== i ? -1 !== ['TD', 'TABLE'].indexOf(o.nodeName) && 'static' === t(o, 'position') ? r(o) : o : window.document.documentElement;
-  }
-
-  function p(e) {
-    var t = e.nodeName;
-    return 'BODY' !== t && ('HTML' === t || r(e.firstElementChild) === e);
-  }
-
-  function s(e) {
-    return null === e.parentNode ? e : s(e.parentNode);
-  }
-
-  function d(e, t) {
-    if (!e || !e.nodeType || !t || !t.nodeType) return window.document.documentElement;
-    var o = e.compareDocumentPosition(t) & Node.DOCUMENT_POSITION_FOLLOWING,
-        i = o ? e : t,
-        n = o ? t : e,
-        a = document.createRange();
-    a.setStart(i, 0), a.setEnd(n, 0);
-    var l = a.commonAncestorContainer;
-    if (e !== l && t !== l || i.contains(n)) return p(l) ? l : r(l);
-    var f = s(e);
-    return f.host ? d(f.host, t) : d(e, s(t).host);
-  }
-
-  function a(e) {
-    var t = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : 'top',
-        o = 'top' === t ? 'scrollTop' : 'scrollLeft',
-        i = e.nodeName;
-
-    if ('BODY' === i || 'HTML' === i) {
-      var n = window.document.documentElement,
-          r = window.document.scrollingElement || n;
-      return r[o];
-    }
-
-    return e[o];
-  }
-
-  function l(e, t) {
-    var o = 2 < arguments.length && void 0 !== arguments[2] && arguments[2],
-        i = a(t, 'top'),
-        n = a(t, 'left'),
-        r = o ? -1 : 1;
-    return e.top += i * r, e.bottom += i * r, e.left += n * r, e.right += n * r, e;
-  }
-
-  function f(e, t) {
-    var o = 'x' === t ? 'Left' : 'Top',
-        i = 'Left' == o ? 'Right' : 'Bottom';
-    return +e['border' + o + 'Width'].split('px')[0] + +e['border' + i + 'Width'].split('px')[0];
-  }
-
-  function m(e, t, o, i) {
-    return X(t['offset' + e], t['scroll' + e], o['client' + e], o['offset' + e], o['scroll' + e], ne() ? o['offset' + e] + i['margin' + ('Height' === e ? 'Top' : 'Left')] + i['margin' + ('Height' === e ? 'Bottom' : 'Right')] : 0);
-  }
-
-  function c() {
-    var e = window.document.body,
-        t = window.document.documentElement,
-        o = ne() && window.getComputedStyle(t);
-    return {
-      height: m('Height', e, t, o),
-      width: m('Width', e, t, o)
-    };
-  }
-
-  function h(e) {
-    return de({}, e, {
-      right: e.left + e.width,
-      bottom: e.top + e.height
-    });
-  }
-
-  function g(e) {
-    var o = {};
-    if (ne()) try {
-      o = e.getBoundingClientRect();
-      var i = a(e, 'top'),
-          n = a(e, 'left');
-      o.top += i, o.left += n, o.bottom += i, o.right += n;
-    } catch (e) {} else o = e.getBoundingClientRect();
-    var r = {
-      left: o.left,
-      top: o.top,
-      width: o.right - o.left,
-      height: o.bottom - o.top
-    },
-        p = 'HTML' === e.nodeName ? c() : {},
-        s = p.width || e.clientWidth || r.right - r.left,
-        d = p.height || e.clientHeight || r.bottom - r.top,
-        l = e.offsetWidth - s,
-        m = e.offsetHeight - d;
-
-    if (l || m) {
-      var g = t(e);
-      l -= f(g, 'x'), m -= f(g, 'y'), r.width -= l, r.height -= m;
-    }
-
-    return h(r);
-  }
-
-  function u(e, o) {
-    var i = ne(),
-        r = 'HTML' === o.nodeName,
-        p = g(e),
-        s = g(o),
-        d = n(e),
-        a = t(o),
-        f = +a.borderTopWidth.split('px')[0],
-        m = +a.borderLeftWidth.split('px')[0],
-        c = h({
-      top: p.top - s.top - f,
-      left: p.left - s.left - m,
-      width: p.width,
-      height: p.height
-    });
-
-    if (c.marginTop = 0, c.marginLeft = 0, !i && r) {
-      var u = +a.marginTop.split('px')[0],
-          b = +a.marginLeft.split('px')[0];
-      c.top -= f - u, c.bottom -= f - u, c.left -= m - b, c.right -= m - b, c.marginTop = u, c.marginLeft = b;
-    }
-
-    return (i ? o.contains(d) : o === d && 'BODY' !== d.nodeName) && (c = l(c, o)), c;
-  }
-
-  function b(e) {
-    var t = window.document.documentElement,
-        o = u(e, t),
-        i = X(t.clientWidth, window.innerWidth || 0),
-        n = X(t.clientHeight, window.innerHeight || 0),
-        r = a(t),
-        p = a(t, 'left'),
-        s = {
-      top: r - o.top + o.marginTop,
-      left: p - o.left + o.marginLeft,
-      width: i,
-      height: n
-    };
-    return h(s);
-  }
-
-  function y(e) {
-    var i = e.nodeName;
-    return 'BODY' === i || 'HTML' === i ? !1 : 'fixed' === t(e, 'position') || y(o(e));
-  }
-
-  function w(e, t, i, r) {
-    var p = {
-      top: 0,
-      left: 0
-    },
-        s = d(e, t);
-    if ('viewport' === r) p = b(s);else {
-      var a;
-      'scrollParent' === r ? (a = n(o(e)), 'BODY' === a.nodeName && (a = window.document.documentElement)) : 'window' === r ? a = window.document.documentElement : a = r;
-      var l = u(a, s);
-
-      if ('HTML' === a.nodeName && !y(s)) {
-        var f = c(),
-            m = f.height,
-            h = f.width;
-        p.top += l.top - l.marginTop, p.bottom = m + l.top, p.left += l.left - l.marginLeft, p.right = h + l.left;
-      } else p = l;
-    }
-    return p.left += i, p.top += i, p.right -= i, p.bottom -= i, p;
-  }
-
-  function E(e) {
-    var t = e.width,
-        o = e.height;
-    return t * o;
-  }
-
-  function v(e, t, o, i, n) {
-    var r = 5 < arguments.length && void 0 !== arguments[5] ? arguments[5] : 0;
-    if (-1 === e.indexOf('auto')) return e;
-    var p = w(o, i, r, n),
-        s = {
-      top: {
-        width: p.width,
-        height: t.top - p.top
-      },
-      right: {
-        width: p.right - t.right,
-        height: p.height
-      },
-      bottom: {
-        width: p.width,
-        height: p.bottom - t.bottom
-      },
-      left: {
-        width: t.left - p.left,
-        height: p.height
-      }
-    },
-        d = Object.keys(s).map(function (e) {
-      return de({
-        key: e
-      }, s[e], {
-        area: E(s[e])
-      });
-    }).sort(function (e, t) {
-      return t.area - e.area;
-    }),
-        a = d.filter(function (e) {
-      var t = e.width,
-          i = e.height;
-      return t >= o.clientWidth && i >= o.clientHeight;
-    }),
-        l = 0 < a.length ? a[0].key : d[0].key,
-        f = e.split('-')[1];
-    return l + (f ? '-' + f : '');
-  }
-
-  function x(e, t, o) {
-    var i = d(t, o);
-    return u(o, i);
-  }
-
-  function O(e) {
-    var t = window.getComputedStyle(e),
-        o = parseFloat(t.marginTop) + parseFloat(t.marginBottom),
-        i = parseFloat(t.marginLeft) + parseFloat(t.marginRight),
-        n = {
-      width: e.offsetWidth + i,
-      height: e.offsetHeight + o
-    };
-    return n;
-  }
-
-  function L(e) {
-    var t = {
-      left: 'right',
-      right: 'left',
-      bottom: 'top',
-      top: 'bottom'
-    };
-    return e.replace(/left|right|bottom|top/g, function (e) {
-      return t[e];
-    });
-  }
-
-  function S(e, t, o) {
-    o = o.split('-')[0];
-    var i = O(e),
-        n = {
-      width: i.width,
-      height: i.height
-    },
-        r = -1 !== ['right', 'left'].indexOf(o),
-        p = r ? 'top' : 'left',
-        s = r ? 'left' : 'top',
-        d = r ? 'height' : 'width',
-        a = r ? 'width' : 'height';
-    return n[p] = t[p] + t[d] / 2 - i[d] / 2, n[s] = o === s ? t[s] - i[a] : t[L(s)], n;
-  }
-
-  function T(e, t) {
-    return Array.prototype.find ? e.find(t) : e.filter(t)[0];
-  }
-
-  function C(e, t, o) {
-    if (Array.prototype.findIndex) return e.findIndex(function (e) {
-      return e[t] === o;
-    });
-    var i = T(e, function (e) {
-      return e[t] === o;
-    });
-    return e.indexOf(i);
-  }
-
-  function N(t, o, i) {
-    var n = void 0 === i ? t : t.slice(0, C(t, 'name', i));
-    return n.forEach(function (t) {
-      t["function"] && console.warn('`modifier.function` is deprecated, use `modifier.fn`!');
-      var i = t["function"] || t.fn;
-      t.enabled && e(i) && (o.offsets.popper = h(o.offsets.popper), o.offsets.reference = h(o.offsets.reference), o = i(o, t));
-    }), o;
-  }
-
-  function k() {
-    if (!this.state.isDestroyed) {
-      var e = {
-        instance: this,
-        styles: {},
-        arrowStyles: {},
-        attributes: {},
-        flipped: !1,
-        offsets: {}
-      };
-      e.offsets.reference = x(this.state, this.popper, this.reference), e.placement = v(this.options.placement, e.offsets.reference, this.popper, this.reference, this.options.modifiers.flip.boundariesElement, this.options.modifiers.flip.padding), e.originalPlacement = e.placement, e.offsets.popper = S(this.popper, e.offsets.reference, e.placement), e.offsets.popper.position = 'absolute', e = N(this.modifiers, e), this.state.isCreated ? this.options.onUpdate(e) : (this.state.isCreated = !0, this.options.onCreate(e));
-    }
-  }
-
-  function W(e, t) {
-    return e.some(function (e) {
-      var o = e.name,
-          i = e.enabled;
-      return i && o === t;
-    });
-  }
-
-  function B(e) {
-    for (var t = [!1, 'ms', 'Webkit', 'Moz', 'O'], o = e.charAt(0).toUpperCase() + e.slice(1), n = 0; n < t.length - 1; n++) {
-      var i = t[n],
-          r = i ? '' + i + o : e;
-      if ('undefined' != typeof window.document.body.style[r]) return r;
-    }
-
-    return null;
-  }
-
-  function P() {
-    return this.state.isDestroyed = !0, W(this.modifiers, 'applyStyle') && (this.popper.removeAttribute('x-placement'), this.popper.style.left = '', this.popper.style.position = '', this.popper.style.top = '', this.popper.style[B('transform')] = ''), this.disableEventListeners(), this.options.removeOnDestroy && this.popper.parentNode.removeChild(this.popper), this;
-  }
-
-  function D(e, t, o, i) {
-    var r = 'BODY' === e.nodeName,
-        p = r ? window : e;
-    p.addEventListener(t, o, {
-      passive: !0
-    }), r || D(n(p.parentNode), t, o, i), i.push(p);
-  }
-
-  function H(e, t, o, i) {
-    o.updateBound = i, window.addEventListener('resize', o.updateBound, {
-      passive: !0
-    });
-    var r = n(e);
-    return D(r, 'scroll', o.updateBound, o.scrollParents), o.scrollElement = r, o.eventsEnabled = !0, o;
-  }
-
-  function A() {
-    this.state.eventsEnabled || (this.state = H(this.reference, this.options, this.state, this.scheduleUpdate));
-  }
-
-  function M(e, t) {
-    return window.removeEventListener('resize', t.updateBound), t.scrollParents.forEach(function (e) {
-      e.removeEventListener('scroll', t.updateBound);
-    }), t.updateBound = null, t.scrollParents = [], t.scrollElement = null, t.eventsEnabled = !1, t;
-  }
-
-  function I() {
-    this.state.eventsEnabled && (window.cancelAnimationFrame(this.scheduleUpdate), this.state = M(this.reference, this.state));
-  }
-
-  function R(e) {
-    return '' !== e && !isNaN(parseFloat(e)) && isFinite(e);
-  }
-
-  function U(e, t) {
-    Object.keys(t).forEach(function (o) {
-      var i = '';
-      -1 !== ['width', 'height', 'top', 'right', 'bottom', 'left'].indexOf(o) && R(t[o]) && (i = 'px'), e.style[o] = t[o] + i;
-    });
-  }
-
-  function Y(e, t) {
-    Object.keys(t).forEach(function (o) {
-      var i = t[o];
-      !1 === i ? e.removeAttribute(o) : e.setAttribute(o, t[o]);
-    });
-  }
-
-  function F(e, t, o) {
-    var i = T(e, function (e) {
-      var o = e.name;
-      return o === t;
-    }),
-        n = !!i && e.some(function (e) {
-      return e.name === o && e.enabled && e.order < i.order;
-    });
-
-    if (!n) {
-      var r = '`' + t + '`';
-      console.warn('`' + o + '`' + ' modifier is required by ' + r + ' modifier in order to work, be sure to include it before ' + r + '!');
-    }
-
-    return n;
-  }
-
-  function j(e) {
-    return 'end' === e ? 'start' : 'start' === e ? 'end' : e;
-  }
-
-  function K(e) {
-    var t = 1 < arguments.length && void 0 !== arguments[1] && arguments[1],
-        o = le.indexOf(e),
-        i = le.slice(o + 1).concat(le.slice(0, o));
-    return t ? i.reverse() : i;
-  }
-
-  function q(e, t, o, i) {
-    var n = e.match(/((?:\-|\+)?\d*\.?\d*)(.*)/),
-        r = +n[1],
-        p = n[2];
-    if (!r) return e;
-
-    if (0 === p.indexOf('%')) {
-      var s;
-
-      switch (p) {
-        case '%p':
-          s = o;
-          break;
-
-        case '%':
-        case '%r':
-        default:
-          s = i;
-      }
-
-      var d = h(s);
-      return d[t] / 100 * r;
-    }
-
-    if ('vh' === p || 'vw' === p) {
-      var a;
-      return a = 'vh' === p ? X(document.documentElement.clientHeight, window.innerHeight || 0) : X(document.documentElement.clientWidth, window.innerWidth || 0), a / 100 * r;
-    }
-
-    return r;
-  }
-
-  function G(e, t, o, i) {
-    var n = [0, 0],
-        r = -1 !== ['right', 'left'].indexOf(i),
-        p = e.split(/(\+|\-)/).map(function (e) {
-      return e.trim();
-    }),
-        s = p.indexOf(T(p, function (e) {
-      return -1 !== e.search(/,|\s/);
-    }));
-    p[s] && -1 === p[s].indexOf(',') && console.warn('Offsets separated by white space(s) are deprecated, use a comma (,) instead.');
-    var d = /\s*,\s*|\s+/,
-        a = -1 === s ? [p] : [p.slice(0, s).concat([p[s].split(d)[0]]), [p[s].split(d)[1]].concat(p.slice(s + 1))];
-    return a = a.map(function (e, i) {
-      var n = (1 === i ? !r : r) ? 'height' : 'width',
-          p = !1;
-      return e.reduce(function (e, t) {
-        return '' === e[e.length - 1] && -1 !== ['+', '-'].indexOf(t) ? (e[e.length - 1] = t, p = !0, e) : p ? (e[e.length - 1] += t, p = !1, e) : e.concat(t);
-      }, []).map(function (e) {
-        return q(e, n, t, o);
-      });
-    }), a.forEach(function (e, t) {
-      e.forEach(function (o, i) {
-        R(o) && (n[t] += o * ('-' === e[i - 1] ? -1 : 1));
-      });
-    }), n;
-  }
-
-  function z(e, t) {
-    var o,
-        i = t.offset,
-        n = e.placement,
-        r = e.offsets,
-        p = r.popper,
-        s = r.reference,
-        d = n.split('-')[0];
-    return o = R(+i) ? [+i, 0] : G(i, p, s, d), 'left' === d ? (p.top += o[0], p.left -= o[1]) : 'right' === d ? (p.top += o[0], p.left += o[1]) : 'top' === d ? (p.left += o[0], p.top -= o[1]) : 'bottom' === d && (p.left += o[0], p.top += o[1]), e.popper = p, e;
-  }
-
-  for (var V = Math.min, _ = Math.floor, X = Math.max, Q = ['native code', '[object MutationObserverConstructor]'], J = function J(e) {
-    return Q.some(function (t) {
-      return -1 < (e || '').toString().indexOf(t);
-    });
-  }, Z = 'undefined' != typeof window, $ = ['Edge', 'Trident', 'Firefox'], ee = 0, te = 0; te < $.length; te += 1) {
-    if (Z && 0 <= navigator.userAgent.indexOf($[te])) {
-      ee = 1;
-      break;
-    }
-  }
-
-  var i,
-      oe = Z && J(window.MutationObserver),
-      ie = oe ? function (e) {
-    var t = !1,
-        o = 0,
-        i = document.createElement('span'),
-        n = new MutationObserver(function () {
-      e(), t = !1;
-    });
-    return n.observe(i, {
-      attributes: !0
-    }), function () {
-      t || (t = !0, i.setAttribute('x-index', o), ++o);
-    };
-  } : function (e) {
-    var t = !1;
-    return function () {
-      t || (t = !0, setTimeout(function () {
-        t = !1, e();
-      }, ee));
-    };
-  },
-      ne = function ne() {
-    return void 0 == i && (i = -1 !== navigator.appVersion.indexOf('MSIE 10')), i;
-  },
-      re = function re(e, t) {
-    if (!(e instanceof t)) throw new TypeError('Cannot call a class as a function');
-  },
-      pe = function () {
-    function e(e, t) {
-      for (var o, n = 0; n < t.length; n++) {
-        o = t[n], o.enumerable = o.enumerable || !1, o.configurable = !0, 'value' in o && (o.writable = !0), Object.defineProperty(e, o.key, o);
-      }
-    }
-
-    return function (t, o, i) {
-      return o && e(t.prototype, o), i && e(t, i), t;
-    };
-  }(),
-      se = function se(e, t, o) {
-    return t in e ? Object.defineProperty(e, t, {
-      value: o,
-      enumerable: !0,
-      configurable: !0,
-      writable: !0
-    }) : e[t] = o, e;
-  },
-      de = Object.assign || function (e) {
-    for (var t, o = 1; o < arguments.length; o++) {
-      for (var i in t = arguments[o], t) {
-        Object.prototype.hasOwnProperty.call(t, i) && (e[i] = t[i]);
-      }
-    }
-
-    return e;
-  },
-      ae = ['auto-start', 'auto', 'auto-end', 'top-start', 'top', 'top-end', 'right-start', 'right', 'right-end', 'bottom-end', 'bottom', 'bottom-start', 'left-end', 'left', 'left-start'],
-      le = ae.slice(3),
-      fe = {
-    FLIP: 'flip',
-    CLOCKWISE: 'clockwise',
-    COUNTERCLOCKWISE: 'counterclockwise'
-  },
-      me = function () {
-    function t(o, i) {
-      var n = this,
-          r = 2 < arguments.length && void 0 !== arguments[2] ? arguments[2] : {};
-      re(this, t), this.scheduleUpdate = function () {
-        return requestAnimationFrame(n.update);
-      }, this.update = ie(this.update.bind(this)), this.options = de({}, t.Defaults, r), this.state = {
-        isDestroyed: !1,
-        isCreated: !1,
-        scrollParents: []
-      }, this.reference = o.jquery ? o[0] : o, this.popper = i.jquery ? i[0] : i, this.options.modifiers = {}, Object.keys(de({}, t.Defaults.modifiers, r.modifiers)).forEach(function (e) {
-        n.options.modifiers[e] = de({}, t.Defaults.modifiers[e] || {}, r.modifiers ? r.modifiers[e] : {});
-      }), this.modifiers = Object.keys(this.options.modifiers).map(function (e) {
-        return de({
-          name: e
-        }, n.options.modifiers[e]);
-      }).sort(function (e, t) {
-        return e.order - t.order;
-      }), this.modifiers.forEach(function (t) {
-        t.enabled && e(t.onLoad) && t.onLoad(n.reference, n.popper, n.options, t, n.state);
-      }), this.update();
-      var p = this.options.eventsEnabled;
-      p && this.enableEventListeners(), this.state.eventsEnabled = p;
-    }
-
-    return pe(t, [{
-      key: 'update',
-      value: function value() {
-        return k.call(this);
-      }
-    }, {
-      key: 'destroy',
-      value: function value() {
-        return P.call(this);
-      }
-    }, {
-      key: 'enableEventListeners',
-      value: function value() {
-        return A.call(this);
-      }
-    }, {
-      key: 'disableEventListeners',
-      value: function value() {
-        return I.call(this);
-      }
-    }]), t;
-  }();
-
-  return me.Utils = ('undefined' == typeof window ? global : window).PopperUtils, me.placements = ae, me.Defaults = {
-    placement: 'bottom',
-    eventsEnabled: !0,
-    removeOnDestroy: !1,
-    onCreate: function onCreate() {},
-    onUpdate: function onUpdate() {},
-    modifiers: {
-      shift: {
-        order: 100,
-        enabled: !0,
-        fn: function fn(e) {
-          var t = e.placement,
-              o = t.split('-')[0],
-              i = t.split('-')[1];
-
-          if (i) {
-            var n = e.offsets,
-                r = n.reference,
-                p = n.popper,
-                s = -1 !== ['bottom', 'top'].indexOf(o),
-                d = s ? 'left' : 'top',
-                a = s ? 'width' : 'height',
-                l = {
-              start: se({}, d, r[d]),
-              end: se({}, d, r[d] + r[a] - p[a])
-            };
-            e.offsets.popper = de({}, p, l[i]);
-          }
-
-          return e;
-        }
-      },
-      offset: {
-        order: 200,
-        enabled: !0,
-        fn: z,
-        offset: 0
-      },
-      preventOverflow: {
-        order: 300,
-        enabled: !0,
-        fn: function fn(e, t) {
-          var o = t.boundariesElement || r(e.instance.popper);
-          e.instance.reference === o && (o = r(o));
-          var i = w(e.instance.popper, e.instance.reference, t.padding, o);
-          t.boundaries = i;
-          var n = t.priority,
-              p = e.offsets.popper,
-              s = {
-            primary: function primary(e) {
-              var o = p[e];
-              return p[e] < i[e] && !t.escapeWithReference && (o = X(p[e], i[e])), se({}, e, o);
-            },
-            secondary: function secondary(e) {
-              var o = 'right' === e ? 'left' : 'top',
-                  n = p[o];
-              return p[e] > i[e] && !t.escapeWithReference && (n = V(p[o], i[e] - ('right' === e ? p.width : p.height))), se({}, o, n);
-            }
-          };
-          return n.forEach(function (e) {
-            var t = -1 === ['left', 'top'].indexOf(e) ? 'secondary' : 'primary';
-            p = de({}, p, s[t](e));
-          }), e.offsets.popper = p, e;
-        },
-        priority: ['left', 'right', 'top', 'bottom'],
-        padding: 5,
-        boundariesElement: 'scrollParent'
-      },
-      keepTogether: {
-        order: 400,
-        enabled: !0,
-        fn: function fn(e) {
-          var t = e.offsets,
-              o = t.popper,
-              i = t.reference,
-              n = e.placement.split('-')[0],
-              r = _,
-              p = -1 !== ['top', 'bottom'].indexOf(n),
-              s = p ? 'right' : 'bottom',
-              d = p ? 'left' : 'top',
-              a = p ? 'width' : 'height';
-          return o[s] < r(i[d]) && (e.offsets.popper[d] = r(i[d]) - o[a]), o[d] > r(i[s]) && (e.offsets.popper[d] = r(i[s])), e;
-        }
-      },
-      arrow: {
-        order: 500,
-        enabled: !0,
-        fn: function fn(e, o) {
-          if (!F(e.instance.modifiers, 'arrow', 'keepTogether')) return e;
-          var i = o.element;
-
-          if ('string' == typeof i) {
-            if (i = e.instance.popper.querySelector(i), !i) return e;
-          } else if (!e.instance.popper.contains(i)) return console.warn('WARNING: `arrow.element` must be child of its popper element!'), e;
-
-          var n = e.placement.split('-')[0],
-              r = e.offsets,
-              p = r.popper,
-              s = r.reference,
-              d = -1 !== ['left', 'right'].indexOf(n),
-              a = d ? 'height' : 'width',
-              l = d ? 'Top' : 'Left',
-              f = l.toLowerCase(),
-              m = d ? 'left' : 'top',
-              c = d ? 'bottom' : 'right',
-              g = O(i)[a];
-          s[c] - g < p[f] && (e.offsets.popper[f] -= p[f] - (s[c] - g)), s[f] + g > p[c] && (e.offsets.popper[f] += s[f] + g - p[c]);
-          var u = s[f] + s[a] / 2 - g / 2,
-              b = t(e.instance.popper, 'margin' + l).replace('px', ''),
-              y = u - h(e.offsets.popper)[f] - b;
-          return y = X(V(p[a] - g, y), 0), e.arrowElement = i, e.offsets.arrow = {}, e.offsets.arrow[f] = Math.round(y), e.offsets.arrow[m] = '', e;
-        },
-        element: '[x-arrow]'
-      },
-      flip: {
-        order: 600,
-        enabled: !0,
-        fn: function fn(e, t) {
-          if (W(e.instance.modifiers, 'inner')) return e;
-          if (e.flipped && e.placement === e.originalPlacement) return e;
-          var o = w(e.instance.popper, e.instance.reference, t.padding, t.boundariesElement),
-              i = e.placement.split('-')[0],
-              n = L(i),
-              r = e.placement.split('-')[1] || '',
-              p = [];
-
-          switch (t.behavior) {
-            case fe.FLIP:
-              p = [i, n];
-              break;
-
-            case fe.CLOCKWISE:
-              p = K(i);
-              break;
-
-            case fe.COUNTERCLOCKWISE:
-              p = K(i, !0);
-              break;
-
-            default:
-              p = t.behavior;
-          }
-
-          return p.forEach(function (s, d) {
-            if (i !== s || p.length === d + 1) return e;
-            i = e.placement.split('-')[0], n = L(i);
-            var a = e.offsets.popper,
-                l = e.offsets.reference,
-                f = _,
-                m = 'left' === i && f(a.right) > f(l.left) || 'right' === i && f(a.left) < f(l.right) || 'top' === i && f(a.bottom) > f(l.top) || 'bottom' === i && f(a.top) < f(l.bottom),
-                c = f(a.left) < f(o.left),
-                h = f(a.right) > f(o.right),
-                g = f(a.top) < f(o.top),
-                u = f(a.bottom) > f(o.bottom),
-                b = 'left' === i && c || 'right' === i && h || 'top' === i && g || 'bottom' === i && u,
-                y = -1 !== ['top', 'bottom'].indexOf(i),
-                w = !!t.flipVariations && (y && 'start' === r && c || y && 'end' === r && h || !y && 'start' === r && g || !y && 'end' === r && u);
-            (m || b || w) && (e.flipped = !0, (m || b) && (i = p[d + 1]), w && (r = j(r)), e.placement = i + (r ? '-' + r : ''), e.offsets.popper = de({}, e.offsets.popper, S(e.instance.popper, e.offsets.reference, e.placement)), e = N(e.instance.modifiers, e, 'flip'));
-          }), e;
-        },
-        behavior: 'flip',
-        padding: 5,
-        boundariesElement: 'viewport'
-      },
-      inner: {
-        order: 700,
-        enabled: !1,
-        fn: function fn(e) {
-          var t = e.placement,
-              o = t.split('-')[0],
-              i = e.offsets,
-              n = i.popper,
-              r = i.reference,
-              p = -1 !== ['left', 'right'].indexOf(o),
-              s = -1 === ['top', 'left'].indexOf(o);
-          return n[p ? 'left' : 'top'] = r[o] - (s ? n[p ? 'width' : 'height'] : 0), e.placement = L(t), e.offsets.popper = h(n), e;
-        }
-      },
-      hide: {
-        order: 800,
-        enabled: !0,
-        fn: function fn(e) {
-          if (!F(e.instance.modifiers, 'hide', 'preventOverflow')) return e;
-          var t = e.offsets.reference,
-              o = T(e.instance.modifiers, function (e) {
-            return 'preventOverflow' === e.name;
-          }).boundaries;
-
-          if (t.bottom < o.top || t.left > o.right || t.top > o.bottom || t.right < o.left) {
-            if (!0 === e.hide) return e;
-            e.hide = !0, e.attributes['x-out-of-boundaries'] = '';
-          } else {
-            if (!1 === e.hide) return e;
-            e.hide = !1, e.attributes['x-out-of-boundaries'] = !1;
-          }
-
-          return e;
-        }
-      },
-      computeStyle: {
-        order: 850,
-        enabled: !0,
-        fn: function fn(e, t) {
-          var o = t.x,
-              i = t.y,
-              n = e.offsets.popper,
-              p = T(e.instance.modifiers, function (e) {
-            return 'applyStyle' === e.name;
-          }).gpuAcceleration;
-          void 0 !== p && console.warn('WARNING: `gpuAcceleration` option moved to `computeStyle` modifier and will not be supported in future versions of Popper.js!');
-          var s,
-              d,
-              a = void 0 === p ? t.gpuAcceleration : p,
-              l = r(e.instance.popper),
-              f = g(l),
-              m = {
-            position: n.position
-          },
-              c = {
-            left: _(n.left),
-            top: _(n.top),
-            bottom: _(n.bottom),
-            right: _(n.right)
-          },
-              h = 'bottom' === o ? 'top' : 'bottom',
-              u = 'right' === i ? 'left' : 'right',
-              b = B('transform');
-          if (d = 'bottom' == h ? -f.height + c.bottom : c.top, s = 'right' == u ? -f.width + c.right : c.left, a && b) m[b] = 'translate3d(' + s + 'px, ' + d + 'px, 0)', m[h] = 0, m[u] = 0, m.willChange = 'transform';else {
-            var y = 'bottom' == h ? -1 : 1,
-                w = 'right' == u ? -1 : 1;
-            m[h] = d * y, m[u] = s * w, m.willChange = h + ', ' + u;
-          }
-          var E = {
-            "x-placement": e.placement
-          };
-          return e.attributes = de({}, E, e.attributes), e.styles = de({}, m, e.styles), e.arrowStyles = de({}, e.offsets.arrow, e.arrowStyles), e;
-        },
-        gpuAcceleration: !0,
-        x: 'bottom',
-        y: 'right'
-      },
-      applyStyle: {
-        order: 900,
-        enabled: !0,
-        fn: function fn(e) {
-          return U(e.instance.popper, e.styles), Y(e.instance.popper, e.attributes), e.arrowElement && Object.keys(e.arrowStyles).length && U(e.arrowElement, e.arrowStyles), e;
-        },
-        onLoad: function onLoad(e, t, o, i, n) {
-          var r = x(n, t, e),
-              p = v(o.placement, r, t, e, o.modifiers.flip.boundariesElement, o.modifiers.flip.padding);
-          return t.setAttribute('x-placement', p), U(t, {
-            position: 'absolute'
-          }), o;
-        },
-        gpuAcceleration: void 0
-      }
-    }
-  }, me;
-});
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
 
 /***/ }),
 
@@ -44406,21 +50516,13 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 /***/ }),
 
 /***/ 0:
-/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/js/bootstrap.js ./resources/js/jquery-3.2.1.min.js ./resources/js/jquery-migrate-3.0.0.js ./resources/js/jquery.stellar.min.js ./resources/js/jquery.waypoints.min.js ./resources/js/main.js ./resources/js/owl.carousel.min.js ./resources/js/popper.min.js ./resources/sass/app.scss ***!
-  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!*************************************************************!*\
+  !*** multi ./resources/js/app.js ./resources/sass/app.scss ***!
+  \*************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/app.js */"./resources/js/app.js");
-__webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/bootstrap.js */"./resources/js/bootstrap.js");
-__webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/jquery-3.2.1.min.js */"./resources/js/jquery-3.2.1.min.js");
-__webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/jquery-migrate-3.0.0.js */"./resources/js/jquery-migrate-3.0.0.js");
-__webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/jquery.stellar.min.js */"./resources/js/jquery.stellar.min.js");
-__webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/jquery.waypoints.min.js */"./resources/js/jquery.waypoints.min.js");
-__webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/main.js */"./resources/js/main.js");
-__webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/owl.carousel.min.js */"./resources/js/owl.carousel.min.js");
-__webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/js/popper.min.js */"./resources/js/popper.min.js");
 module.exports = __webpack_require__(/*! /home/aissatoubadji/InfoSchool/resources/sass/app.scss */"./resources/sass/app.scss");
 
 

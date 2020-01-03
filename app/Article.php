@@ -9,6 +9,8 @@ class article extends Model
     /**
      * Get the comments for the blog post.
      */
+
+    protected $guarded = [];
     public function category()
     {
         return $this->belongsTo('App\Categories');
