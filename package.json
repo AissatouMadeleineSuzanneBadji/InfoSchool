@@ -18,7 +18,7 @@
         "jquery.easing": "^1.4.1",
         "maildev": "^1.1.0",
         "sweetalert2": "^9.5.4",
-        "tinymce": "^5.1.4"
+        "tinymce": "^5.4.0"
     },
     "devDependencies": {
         "axios": "^0.19",
